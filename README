@@ -1,1 +1,8 @@
-Ceci est la branche contenant les fichiers .tex traduits, même partiellement.
+Le dossier eclipsephase contient tous les fichier et la structure du projet OmegaT+ nécessaire à la traduction.
+Il faut télécharger l'archive zip de cette branche avant de faire des modificatiosn afin que tout soit centralisé.
+
+Le répertoire glossary contiens des fichiers au format CSV formatté comme suit:
+origin;traduction;commentaire
+
+Il est à utiliser et maintenir pour tous les mots nouveaux/techniques d'Eclipse Phase.
+
