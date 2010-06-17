@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Le dossier eclipsephase contient tous les fichier et la structure du projet OmegaT+ nécessaire à la traduction.
 Il faut télécharger l'archive zip de cette branche avant de faire des modificatiosn afin que tout soit centralisé.
 
@@ -7,16 +6,3 @@ origin;traduction;commentaire
 
 Il est à utiliser et maintenir pour tous les mots nouveaux/techniques d'Eclipse Phase.
 
-=======
-<<<<<<< HEAD
-Original files from the latex project.
-Basically, just a clone of this githubb:
-
-http://github.com/jiyunatori/Eclipse-Phase-Latex.git
-
-Don't edit files here!
-=======
-This is a remix of Eclipse Phase's core rulebook, transcribed in LaTeX format.
-
->>>>>>> 069efc938e743c2e1f7048421dcd3e53a984f73e
->>>>>>> original
