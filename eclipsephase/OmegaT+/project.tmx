@@ -6044,5 +6044,277 @@
         <seg>Chaque groupe de joueur décide le type et le style de jeu auquel ils ont envie de jouer!</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{What is transhumanism?}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Qu'est-ce que le transhumanisme?}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transhumanism is a term used synonymously to mean ``human enhancement.'' It is an international cultural and intellectual movement that endorses the use of science and technology to enhance the human condition, both mentally and physically.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Transhumanisme est un mot utilise comme synonime de &quot;amélioration humaine.&quot; C'ets un mouvement culturel et intellectuel international qui approuve l'utilisation de la science et de la technologie pour améliorer la condition humaine, aussi bien mentalement que physiquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In support of this, transhumanism also embraces using emerging technologies to eliminate the undesirable elements of the human condition such as aging, disabilities, diseases, and involuntary death.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour supporter cette théorie, le transhumanisme englobe aussi l'utilisation de la technologie pour éliminer les éléments indésirables de la condition humaine tels que le vieillissement, les maladies et la mort non volontaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many transhumanists believe these technologies will be arriving in our near future at an exponentially accelerated pace and work to promote universal access to and democratic control of such technologies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup de transhumains croient que ces technologies arriveront dans un futur proche suivant un rythme exponentielle et travaillent à promouvoir l'accès universel et le contrôle démocratiques de ces technologies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the long scheme of things, transhumanism can also be considered the transitional period between the current human condition and an entity so far advanced in capabilities (both physical and mental faculties) as to merit the label ``posthuman.''</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sur le long terme, le transhumanisme peut aussi être considérée comme la période de transition entre l'humain actuel et une entité qui aurait tellement évoluée dans ses capacités (aussi bien mentales que physiques) qu'elle mérite d'être appellée &quot;posthumain&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a theme, transhumanism embraces heady questions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En tant que thème, la transhumanité brasse des questions lourde de significations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What defines human?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce qui défini l'humain?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What does it mean to defeat death?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est ce que signifie vaincre la mort?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If minds are software, where do you draw the line with programming them?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'esprit est un logiciel, où se situe la limite avec la programmation logicielle?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If machines and animals can also be raised to sentience, what are our responsibilities to them?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si les machines et les animaux peuvent être amenée à ressentir, quelles sont nos responsabilité vis à vis d'eux?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you can copy yourself, where does ``you'' end and someone new begin?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous pouvez vous copier, où se situe la limite entre &quot;vous&quot; et quelqu'un de nouveau?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What are the potentials of these technologies in terms of both oppressive control and liberation?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quels sont les potentiels de ces technologie en terme de contrœle oppressif et de libération?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How will these technologies change our society, our cultures, and our lives?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comment ces technologies chagenront nos société, nos cultures et nos vies?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Post-apocalyptic, conspiracy and horror themes}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Les thèmes post-apocalyptiques, de conspirations et d'horreur}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Several themes pervade Eclipse Phase, some of which the reader may not be intimately familiar with.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plusieurs thèmes imprègnent Eclipse Phase, le lecteur pourrait ne pas être familier avec certains d'entre eux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The following helps define these themes so that as play ers read further into this rulebook, they gain a solid understanding of how Eclipse Phase builds on such themes to create its unique setting.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les aides suivantes définissent ces thèmes afin de permettre aux joueurs lisant ce livre de règle de gagner une compréhension solide de la manière dont Eclipse Phase est construit autour de ces thèmes pour créer son cadre unique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Post-apocalyptic is a term used to describe fiction set after a cataclysmic event has ended human civili zation as we know it (usually accompanied by loss of human life on an almost unthinkable scale).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Post-apocalyptique est un terme utilisé pour décrire les fictions se déroulant après un évènement catacyclismique qui a mis fin à la civilisation humaine telle que nous la connaissont actuellement (hébituellement accompagnée par la perte de la vie humaine sur une échelle impensable).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The exact mechanism of the disaster is usually unimportant nuclear war, plague, asteroid strike, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'exacte mécanisme du désastre est habituellement sans importance. Il peut s'agir d'une guerre nucléaire, d'une épidémie, de la chute d'un astéroïde, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The importance of the theme is the human condition.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La partie importante du thème est la condition humaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the world we know is torn away from us and humans suffer horrors beyond imagining in this transforma tion to a post-apocalyptic setting, how does human ity cope?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le monde tel que nous le connaissont nous a été arraché et que les humains on subit des horreurs au-delà de l'imaginable lors de cette transformation à un cadre post-apocalyptique, comment l'humanité y fait face?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do we survive and thrive and overcome?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Survivons-nous afin de prospérer et de surmonter ces difficulté?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Or do we lose our own humanity in the process, o ultimately fall to extinction?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ou perdons-nous notre humanité dans le processus, ou succombons nous à l'extinction?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Those are the questions that drive this genre.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce sont les questions qui sont au cœur du thème.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To conspire means ``to join in a secret agreement to do an unlawful or wrongful act or to use such means to accomplish a lawful end.'' As such, a con spiracy theory attributes the ultimate cause of an event or a chain of events (whether political, societa or historical) to a secret group of individuals with immense power (including political, wealth and so on) who hide their activities from public view while manipulating events to achieve their goals, regard less of consequences.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Conspirer signifie &quot;joindre une organisation secrète pour effectuer des actes hors la loi ou injustifié ou utiliser ces moyens à un but légal.&quot; EN tant que telle, une théorie conspirationiste attribue la cause ultime d'un évènement ou d'une succession d'évènements (qu'ils soient politique, sociaux ou historiques) à un groupe secret d'individus possédant un pouvoir immense (incluant politique et financier entre autres) et qui dissimulent leurs activités au public tout en manipulant les évènements afin d'atteindre leurs buts, sans se soucier des conséquences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many conspiracy theories contend that a host of the greatest events of history were initiated and ultimately controlled by such secret organizations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup de théories conspirationnistes prétendent qu'une grande partie des évènements historiques ont été initiés et finallement contrôllés par de telles organisations secrètes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Of equal importance is the silent struggle between clandestine groups, waging a secret war behind the scenes to determine who influences the future.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sur le même pland 'importance, on trouve la lutte silencieuse entre des groueps clandestins, s'affrontant dans une guerre occulte afin de déterminer qui influencera le futur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Horror takes many forms, but in Eclipse Phase it is more psychological than gore.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'horreur prend beaucoup de formes, mais dans Eclipse Phase, il s'gît plus d'horreur psychologique que de gore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is the uncertainty of survival, the suspense of finding malevolent things among the stars, the fear of the unknown, the dread of facing Things That Should Not Be, the revulsion when encountering alien things, and the sickening realization of the wrong and ghastly things that transhumans are capable of doing to themselves and each other.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est la survie incertaine, le suspens de trouver des choses malveillantes parmi les étoiles, la peur de l'inconnu, l'angoisse d'affronter des Choses Qui Ne Devraient Pas Être, la révulsion lors de la rencontre de choses étrangères, et la prise de conscience maladive des choses horribles et mauvaises que les transhumaines sont capable de s'infliger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Horror also arises both from the comprehension that there are scary things beyond our understanding nhabiting our universe and that transhumanity may be its own worst enemy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'horreur apparaît aussi de la compréhension qu'il y a des choses effrayantes au delà de notre compréhension et qui habitent notre univers et du fait que la transhumanité est probablement son pire ennemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Despite all of the technological tools and advances available to future transhumans, they still face terrors like losing control of their own dentities, their perceptions, and their mental faculties—not to mention their future as a species.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En dépit de tous les outils technologiques et des avancées disponibles aux futurs transhumains, ils doivent toujours affronter des terreurs comem la perte de contrôle de leur propre identité, de leur perceptions et de leur faculté mentale - sans parler du contrœle de leur futur en tant qu'espèce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Eclipse Phase takes all of these themes and weaves them together in a transhuman setting.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Eclipse Phase mélange tout ces thèmes dans un cadre transhumain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The postapocalyptic angle covers the understanding of all that transhumanity has lost, the fight against extinction, and how much of that is a struggle against our own nature.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'angle postapocalyptique couvre la compréhension de tout ce que la transhumanité à perdu, la lutte contre l'extinction et la part de cette lutte qui est un combat contre notre propre nature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The conspiracy side delves into the nature of the secret organizations that play key roles n determining transhumanity's future and how the actions of determined individuals can change the ives of many.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'angle conspirationniste se situe dans la nature des organisations secrètes qui jouent un rôle clef dans la déterminatuion du futur de la transhumanité et comment les actions d'individus déterminés peut influer sur la vie de beaucoup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The horror perspective explores the results of humanity's self-inflicted transformations and how some of these changes effectively make us non-human.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La perspective de l'horreur permet d'explorer les résultats des transformations que ce sont infligé l'humanité, et comment certains de ces changements nous a effectivement transformés en non-humain.</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
