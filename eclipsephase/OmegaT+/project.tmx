@@ -14,10 +14,34 @@
   <body>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Dice}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Dés}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some stats and traits, however, are determined by morph, as noted, and so will change if your character leaves one body and takes on another.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres statistiques et traits sont cependant déterminés par une morph, comme noté précédment, et changeront donc si votre personnage quitte son corps et en prend un autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Morphs may also affect other skills and stats, as detailed in the morph description.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les morphs peuvent aussi affecter d'autres compétences et statistiques, comem détaillée dans la description des morphs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>``What's the number?''</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>``Quel jour?''</seg>
+        <seg>&quot;Quel jour?&quot;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6314,6 +6338,2454 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>La perspective de l'horreur permet d'explorer les résultats des transformations que ce sont infligé l'humanité, et comment certains de ces changements nous a effectivement transformés en non-humain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tying it all together is an awareness of the massive indifference and the terrible alien-ness that pervades the universe and how transhumanity is insignificant against such a backdrop.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mélanger ces thématiques est une sensibilisation de l'indifférence massive et de l'étrangeté terrible qui imprègne l'univers et souligne à quel point la transhumanité est insignifiante dans un tel contexte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Offsetting these themes, however, Eclipse Phase also asserts that there is still hope, that there is still something worth fighting for, and that transhumanity can pave its own path toward the future.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au delà de ces thèmes, cependant, Eclipse Phase affirle également qu'il y a toujours de l'espoir, qu'il y a quelque qui vaut le coup que l'on se batte, et que la transhumanité peut se frayer son propre chemin vers le futur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{But how do you actually play?}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Mais comment jouons-nous réellement?}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To play a game of Eclipse Phase, you need the following:</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour jouer à une partie d'Eclipse Phase, vous aures besoin du matériel suivant:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A group of players and a place to meet (real life or online!) &lt;u1&gt; One player to act as the gamemaster &lt;u2&gt; The contents of this book &lt;u3&gt; Something for everyone to take notes with (note pads, laptops, whatever!) &lt;u4&gt; Two 10-sided dice per player (or a digital equivalent) &lt;u5&gt; Imagination</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un groupe de joueur et un endroit où se rencontrer (dans le monde réel ou en-ligne!) &lt;u1&gt; Un joueur pour tenir le rôle de maître de jeu &lt;u2&gt; Le contenu de ce livre &lt;u3&gt; Quelque chose pour que les personnes puisse prendre des notes (bloc notes, ordinateur portable, peu importe!) &lt;u4&gt; Deux dés à dix-faces (ou un équivalent numérique) &lt;u5&gt; De l'imagination</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{A group of players and a place to meet}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Un groupe de joueur et un endroit pour se rencontrer}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While roleplaying games are flexible enough to allow any number of people, most gaming groups number around four to eight players.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que jouer au jeu de rõle soit suffisament flexible pour permettre à n'importe quel nombre de personne de participer, la plupart des groupes de jeu sont composés de quatre à huits joueurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>That number of people brings a good mix of personalities to the table and ensures great cooperative play.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce nombre de participant permet un mélange des personnalités autour de la table intéressant et assure une bonne coopération pendant la partie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once a group of players have determined to play Eclipse Phase, they'll need to designate someone as the gamemaster (see below).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une foisq u'un groupe de joueur a déterminé qu'ils allaeitn jouer à Eclipse Phase, ils auront besoin de désigner quelqu'un pour être le maître de jeu (voir plus bas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Then they'll need to determine a time and place to meet.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils auront ensuite besoin de déterminer la date, l'heure et le lieu de la partie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most roleplaying groups meet once a week at a regularly scheduled time and place: 7:00 PM, Thursday night, Rob's house, for example.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des groupes de jeu de rôles se retrouvent une fois par semaine à un intervalle de temps régulier: 19:00, Jeudi soir, chez Rob par exemple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, each group determines where, how they'll play, and how often.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque groupe détermine cepenant où, quand et comment ils veulent jouer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>One group may decide they can only get together once a month, while another group is so excited to dive into the story potential of Eclipse Phase that they want to meet twice a week (they decide to rotate between their houses, though, so as not to overload a particular player).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un groupe peut décider qu'ils ne peuvent se rassembler qu'une fois par mois, alors qu'un autre est tellement excité de se plonger dans les histoires potentielles d'Eclipse Phase, qu'ils voudront se rencontrer deux fois par semaine (ils décident d'une rotation entre leurs maisons cependant, pour ne pas surcharger un joueur en particulier).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a group is lucky enough to have a favorite local gaming store that supports instore play, the group might meet there.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un groupe à suffisament de chance pour que leur boutique de jeu préférée acceuille des parties, le groupe pourra décider de se retrouver là-bas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other gaming groups meet in libraries, common rooms at their school, bookstores that have generously-sized ``reading rooms,'' quiet restaurants, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres croupes se rencontrent dans des bibliothèques, dans des salles communes dans leurs écoles, dans des librairies qui possèdent des &quot;salles de lecture&quot; généreuses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Whatever fits for your gaming group, make it work!</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelque soit ce qui convient à votre groupe de jeu, faites le!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When getting together for a game, most RPGs use the phrase ``gaming session.'' The length of each gaming session is completely dependent upon the consensus of the playing group, as well as the limitations of the locale where they're playing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque les joueurs se retrouvent pour jouer, la plupart des JDR parlent de &quot;session de jeu.&quot;  la durée de chaque session de jeu dépend autant du consensus établi par le groupe de joueur que des limitations du local dans lequel ils jouent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The particular story that unfolds in a given session can also impact a session's length.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'histoire qui se déroule dans une session donnée peut aussi impacter sur la durée de celle-ci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If playing in a game store, the group may only have a four-hour slot and the gamemaster and group may have determined—through several sessions of play—that this is a perfect time frame to enjoy the story they're participating in each week.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En jouant dans une boutique de jeu, le groupe de joueur peut n'avoir qu'un créneau de quatre heures et le maître de jeu et le groupe peuvent avoir déterminée - après plusieurs sessoin de jeu - que c'est un laps de temps parfait pour profiter de l'histoire à laquelle ils participent chaque semaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Another group, however, may want an even shorter length of time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un autre groupe, cependant, pourrait vouloir un temps de jeu encore plus court.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yet another group may decide that while they'll usually do four-hour sessions, once a month they'll set aside an entire Saturday for a great all-day gaming session.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un groupe encore différent pourrait décider que, même si d'habitude ils jouent par session de quatre heures, une fois par mois ils se regrouperont pour jouer tout le Samedi pour une super session de jeu sur toute la journée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Players will need to dive in and start playing and be flexible to decide what will provide the ultimate enjoyment for their gaming group.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les joueurs devraont s'immerger et commencer à jouer et faire preuve de souplesse pour décider ce qui leur procurera l'amusement ultime pour leur groupe de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While the camaraderie of a shared experience of playing face-to-face with a group of friends remains the strength of roleplaying games, groups need not confine themselves to a single mode of play.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que la camaraderie de l'expérience partagée en jouant face à face avec un groupe d'amis reste la force du jeu de rôle, les groupes ont besoin de ne pas se confiner à un seul mode de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are myriad options that can be used.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des myriades d'options peuvent être utilisées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Email, instant messages, message boards, video chats, phone/voip calls, text messages, wikis, (micro-)blogs: any and all of these can be utilized to play the game without having warm bodies in seats directly across the table from one another.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>E-mail, messageires instantanées, forums, chat vidéo, appel téléphonique/en VoIP, SMS, wikis, (micro-)blogs: chacun d'entre eux peut être utilisé pour jouer sans se tenir chaud directement assis autour d'une table les uns en face des autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finally, when playing groups meet for the first time, they should generate their characters (as opposed to generating characters by themselves).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Finallement, lorsqu'un groupe de jeu se rencontre pour la première fois, il devraient créer leurs personnage (par opposition à la création de personnage chacun de son côté).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While a gaming group can decide to generate characters individually, often it is far easier once the players are together.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors qu'un grouep de joueur peut décider de générer leur personnages individuellement, il est souvent bien plus facile de le faire uen fois que les joueurs sont rassemblés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This allows those more experienced in roleplaying games to help those new to RPGs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela permet à ceux qui ont plus d'expérience dans le jeu de rrôle d'aider ceux qui débutent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even more important, it enables the entire group to tailor the characters so there is not too much overlap in capabilities and style.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Encore plsu important, cela permet au groupe entier de d'adapter les personnages pour qu'il n'y ait pas trop de doublons au niveau des compétences et des styles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>After all, with the wealth of character opportunities available, you don't want to show up at the table with an almost identical character to the player next to you.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Après tout, avec la richesse des types de personnages disponible, vous ne voulez pas arriver à la table de jeu avec un eprsonnage presque identique à celui de votre voisin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{The gamemaster}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{La maœtre de jeu}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once a group has been organized, someone needs to step up and take the reins of the gamemaster.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois qu'un groupe s'est organisé, quelqu'un doit s'avancer et prendre les rênes du maître de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some groups have a single gamemaster that runs all their gaming sessions month after month.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains groupes ont un seul maître de jeu qui anime toute leurs sessions de jeu mois après mois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other groups rotate a gamemaster, with a single gamemaster running a given portion of the unfolding story for several sessions before handing the work off to another player.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autre groupes changent régulièrement de maître de jeu, avec un seul maître de jeu animant une portion donnée du déroulement de l'histoire pour plusieurs session avant de passer le rôle à un autre joueur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once again, the participants should be flexible.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Encore une fois, les participants doivent faire preuve de souplesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some groups may have the perfect person who loves the work involved and is more than willing to run session after session, while other groups may decide that they all want to take turns both as the gamemaster and as players.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains groupe peuvent avoir la personne idéale qui aime le travail impliqué et qui est plus que volontaire pour animer une session après l'autre, alors que d'autres peuvent décider qu'ils veulent tous alterner entre être le maître de jeu et être un joueur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster controls the story.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu contrôle l'histoire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They keep track of what is supposed to happen when, describes events as they occur so that the players (as characters) can react to them, keep track of other characters in the game (referred to as non-player characters, or NPCs), and resolve attempts to take action using the game system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils gardent une trace de tout ce qui est supposé arrivé et de quand cela arrive, ils décrivent les évènements au fur et à mesure qu'ils se produisent afin que les jouers (en tant que personnages) puissent réagir, ils gardent une trace des autres personnages de la partie (appelés personnages non joueur, ou PNJs), et résolvent les actions en utilisant le système de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The game system comes into play when characters seek to use their skills or otherwise do something that requires a test to see whether or not they succeed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le sytème de jeu intervient lrosque les personnages cherchent à utiliser leur compétences ou à faire quelque chose qui nécessite un test pour détermienr si ils ont réussit ou pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specific rules are presented for situations that involve rolling dice to determine the outcome (see Game Mechanics, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des règles spécifiques sont présentés pour les situations qui impliquent de lancer des dés pour déterminer la réussite (voir Mécanique de Jeu, p. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster describes the world as the characters see it, functioning as their eyes, ears, and other senses.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jetu décrit le monde tel que le voit les personnages, en utilisant leurs yeux, leurs oreilles, et leurs autres sens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gamemastering is not easy, but the thrill of creating an adventure that engages the other players' imaginations, testing their gaming skills and their characters' skills in the game world, makes it worthwhile.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Maîtriser un jeu de rôle n'est pas facile, mais les frissons de la création d'une aventure qui engage l'imagination des autres joueurs, et confrontant leur compétence de jeu et les compétences de leurs personnages dans l'univers de jeu, vaut largement l'investissement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Posthuman Studios and Catalyst Game Labs will follow the publication of Eclipse Phase with supporting supplements and adventures to help this process along, but experienced gamemasters can always adapt the game universe to suit their own styles.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Posthuman Studios et Catalyst Game Labs suivront la publication d'Eclipse Phase en publiant des suppléments et des aventures pour faciliter le processus, mais les maîtres de jeu expérimentés peuvent toujours adapter l'univers de jeu à leur propre style.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In fact, since Eclipse Phase is published under a Creative Commons License (see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fait, puisque Eclipse Phase est publiée sous licence Creative Commons (voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>5), players are encouraged to tailor the universe to their style of play and also to share that with other players.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>5), les joueurs sont encouragé à adapter l'univers à leur style de jeu et à partager leurs modifcications avec les autres joueurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You never know when a specific choice you've made in the running of a campaign is exactly what another gamemaster and his group is looking for.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous ne savez jamais quand un choix spécifique que vous faites en maîtrisant une campagne est exactement ce qu'un autre maître de jeu et son groupe recherchent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{The contents of this book}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Contenu de ce livre}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Whether you have purchased the print or electronic version, this book is specifically organized to present the information you need to know to start telling your stories in the Eclipse Phase universe.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Que vous vous soyez procuré la version imprimée ou électronique, ce livre est organisé spécifiquement pour présenter les informations que vous avez besoin de connaître pour commencer à raconter votre histoire dans l'univers d'Eclipse Phase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Below you'll find a summary of each chapter of the book.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vosu trouverez ci-dessous un résumé de chaque chapitre de ce livre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{A Time of Eclipse:} A comprehensive history and setting fully describes the Eclipse Phase universe and how humanity transitioned from here to there.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Une époque d'Éclipse:} Une histoire globale et un cadre entièrement détaillé décrivant l'univers d'Eclipse Phase et comment l'humanité a effectué une transition d'ici à là-bas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Game Mechanics:} The player's desired actions become reality within the universe through quick and easy-to-use game mechanics.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{mécaniques de jeu:} Les cations désirées par les joueurs deviennent réalité dans l'univers grâce à des émcaniques de jeu simple et facile à utiliser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Character Creation and Advancement:} Creating a unique character can be one of the most enjoyable experiences of roleplaying.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Création de Personnage et Avancement:} Créer un personnage unique peut-être l'une des expéreinces les plus interessantes du jeu de rôle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even more rewarding is watching that character evolve and grow across numerous gaming sessions, far beyond anything your imagination first envisioned.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Encore plus gratifiant est de voir ce personnage évoluer et grandir au travers de nombreuses sessions de jeu, bien eu-delà de tout ce que votre imagination avait envisagé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Skills:} Beyond a character's innate abilities, their skills are what set them apart.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Compétences:} Au delà des capacités innées d'un personnage, les compétences sont ce qui les distinguent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is what your character knows and what they know how to do.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est ce que votre personnage sait et ce qu'ils savent faire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Action and Combat:} What is a dramatic story without action and violence?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Action et Combat:} Qu'est-ce qu'une histoire dramatique sans action ni violence?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When words fail, weapons will blaze.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque les mots échouent, les armes s'enflamment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Mind Hacks:} The unusual possibilities offered by psi abilities and mental reprogramming.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Piratage Cognitifs:} Les possibilité inahbituelles offertes par les capacités psi et la reprogrammation mentale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{The Mesh:} The all-pervasive nature of the mesh ensures that it is a key element to any story telling.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Le Mesh:} La nature omniprésente du mesh assure que c'ets un élément clef de toutes les histoires racontées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Accelerated Future:} The wonders of advanced technologies and how they work.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Futur Accéléré:} Les merveilles de la technologies avancées et comment elles fonctionnent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Gear:} Personal enhancements, weapons, robots, and everything else in between.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Équipement:} Des améliorations personnelles, aux armes en passant par les robots.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Game Information:} The quintessential set of insider secrets for gamemasters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Information de jeu:} La quintessence de 'lensemble des secrets destinés aux maître de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Taking notes}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Prendre des notes}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Whether a gamemaster or player, you'll need a way to track information.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Que vous soyez maître de jeu ou joueur, vous avez besoin d'un moyen pour suivre l'information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Players will be generating characters and making changes to those characters from session to session.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lesjoueurs créerons des personnages et leur apporterons des changements d'une session à l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Meanwhile, the gamemaster will have a host of information to track: notes on how the story is unfolding due to player character interaction that you'll need to fold into next week's session; changes to NPCs; changes to player characters that the players are not yet aware off (such as a character has been mind hacked but doesn't yet know it); and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Entre-temps, le maître de jeu devra suivre un paquet d'information: des notes sur la façon dont se déroule l'histoire suite aux interactions des personngaes joueurs que vous devrez prendr een compte lors de la session de la semaien suivante; des changements apportés aux PNJs: des changements apportés aux personnages joueurs que les joueurs ignorent encore (comme le fait qu'un personnage se soit fait hacker l'esprit mais qu'il ne le sait aps encore); et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additionally, some groups enjoy a synopsis of each session that can be compiled and read at a later time in order to enjoy and share their exploits, just as you might fileshare clips from your favorite video game to show off your skill in taking the bad guy down (traditionally this has been called ``bluebooking'').</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Additionellement, certains groupes apprécient un résumé de chaque session qui puisse être compilé et lus un peu plus tard pour appréicer et partager leurs exploits, de la même façon dont vour partageriez des fichiers vidéos de votre jeu vidé préféré pour montrer vos capacité à battre le méchant (traditionnellement cela s'appelle &quot;tenir un journal&quot;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This can be particularly useful if a player was unable to attend a given session, providing a quick re-cap that they can read before attending the next gaming session and thus avoiding a bog-down up-front as that player tries to catch up on current events in the game.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela se révèle particulièrement utile si un joueur n'as pas pu partciiper à une session donnée, fournissant un résumé rapide qu'ils peuvent lire avant de venir à la prochaine session de jeu et s'éviter ainsi de tomber dans un piège pendant que ce joueur essayes de se raccrocher aux évènements de la session de jeu actuelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The session scribe can be a shared responsibility or assigned, all based upon what a given playing group finds works best for them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La prise de note est une responsabilité qui peut être partagée entre tous les joueurs ou assignée à un seul, tout dépend de ce quei fonctionne le mieux avec un groupe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, some gaming groups audiorecord their entire game session, both for later reference and for ``actual play'' podcasts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De la même manière, certains groupe de jeu effectuenet un enregistrement audio de toute la session de jeu, à la fois pour pouvoir 'y reporter plus tard et pour effectuer des podcasts de &quot;jeu live&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The old standard of a pencil and paper still works wonders.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les vieux standard du crayon et du papier font encore des miracles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A host of additional technologies, however, provide many new options for players.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un tas de techonolgies additionelles fournissent cependant plein de nouvelles options aux joueurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>From a text file on a laptop to a shared wiki, the ability to track large amounts of information in a quick and useful fashion—while simultaneously making appropriate information available to each player from session to session—significantly decreases how much time everyone needs to spend tracking information.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'un fichier texte sur un portable à un wiki partagé, la possibilité de suivre une somme d'information suffisament importante d'une manière simple et rapide - tout en fournissant des informations appropriées à chaque joueur d'une session de jeu à l'autre - réduit de manière significative le temps que chacun passe à suivre ces informations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>That time can now be redirected into the enjoyment of participating in a great story.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce temps peut maintenant être réallouer au plaisir de participer à une historie grandiose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As described in the Game Mechanics section (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme décrit dans la section Mécanique de Jeu (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>112), two ten-sided dice are required to play Eclipse Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>112), deux dés à dix faces sont nécessaires pour jouer à Eclipse Phase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While most players enjoy the feel of tossing dice onto a table, there are many other mechanisms for rolling two ten-sided dice to achieve a 00 to 99 result.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>bien que la plupart des joueurs prennent plaisir à lancer les dés sur la table, il existe un nombre important de mécanisme pour faire rouler deux dés à dix faces pour parvenir à un résultat compris entre 00 et 99.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Players who make heavy use of any online technologies for game play—such as using online chatting or video blogging—should find it easy to track down and implement a quick dice-rolling program.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les joueurs qui font un usage intensifs de techonolgies online pour jouer - tels que les discussions en ligne ou les blogs vidéos - peuvent trouver plus simple de trouver et implémenter rapidement un petit programme de lancer de dés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All too often, it's easy for someone looking at an RPG to be intimidated.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien trop souvent, il est facile pour quelqu'un qui regarde un JDR d'être intimidé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>So many concepts to grasp, so many ideas that seem overwhelming.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a tellement de concepts à saisir, tellement d'idée qui semblent écrasantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Just as described under What is a Roleplaying Game?, however, how often have you read a book or watched that movie and decided that you would have done it better?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, comme décrit sous Qu'est-ce qu'un Jeu de Rôle?, combien de fois avez-vous lus un livre ou vu un film et décidés que vous auriez fait mieux?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>That's your imagination at work.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est votre imagination qui est à l'œuvre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Just dive in and you'll be amazed at how quickly you can immerse yourself in the Eclipse Phase universe.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>laissez-vous simplement aller et vous serez étonnés de la vitesse à laquelle vous pouvez vous immerger dans l'univers d'Eclipse Phase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Soon you'll be spinning stories with the best of them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bientôt vous serez au cœur d'histoires avec le meilleur de l'univers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Also, don't forget to tap your resources.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>N'oubliez pas non plus d'exploiter vos ressources.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your gaming group is your best resource.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Votre grouep de jeu est la meilleure d'entre elles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What's going on, ideas for how to handle a situation, or how to take on a bad guy: these are just some of the things that can and should be discussed by the gaming group in between sessions, and each is an opportunity to strengthen your imagination.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce qu'il s'y passe, des idées pour gérer une situation, ou sur comment vaincre le méchant: ce sont juste quelques unes des choses qui peuvent et doivent être disuctée par le groupe de joueur entre les sessions, et chacune de ces discussions est une opportunité de développer votre imagination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Another resource is simply watching TV or reading a good book.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une autre ressources est de simplement regader la télé ou de lire un bon livre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pay attention to how the story is put together, how the characters are built, and how the plot unfolds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Faites attention à la manière dont l'histoire est assemblée, comment les personnages sont construits, et comment l'intrigue est dévoilée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Push your imagination and soon you'll be figuring out subplots and who the bad guy is long before it's revealed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Travaillez votre imagination et bientôt vous devinerez les sous-intrigues et qui est réellement le méchant bien avant qu'ils ne soient révélés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Knowing how a story is put together enables you to put together your own stories during each gaming session.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Savoir comment une histoire est construite vous permets d'assembler les votres lors de chaque session de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finally, eclipsephase.com is the offi cial site for Eclipse Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Enfin, eclipsephase.com est le site officiel pour Eclipse Phase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you have questions about the game or want to see how another group of players handles a given situation, post on the forums.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous avez des questiosn à propos du jeu, ouq ue vous voulez savoir comment un autre groupe de joueur gèrerai une situation, postez sur les forums.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The online community can be just as helpful and enjoyable as a local gaming group.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La communauté en ligne peut-être tout autant utile et plaisante qu'un groupe de jeu local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{What do players do?}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Que font les joueurs?}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The players can take on a variety of roles in Eclipse Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le sjoueurs peuvent remplir toute une variété de rôles dans Eclipse Phase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Due to advances in digital mind emulation technology, uploading, and downloading into new morphs (physical bodies, biological or synthetic), it is possible to literally be a new person from session to session.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Suite à l'avancée dans les technologies de l'émulation digitale de l'esprit, l'upload et le download dans de nouvelles morphs (corps physiques, biologiques ou synthétique), il est possible d'être, littéralement, une nouvelle personne d'une session à l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>With bodies taking on the role of gear, players can customize their forms for the task at hand.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Avec les corps qui se retrouvent au rôle d'équipement, les joueurs peuvent personnaliser leur apparence pour la tâche à venir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{The default campaign}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{La campagne par défaut}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the default story (also known as ``campaign setting''), every player character is a ``sentinel,'' an agent-on-call (or potential recruit) for a shadowy network known as ``Firewall.'' Firewall is dedicated to counteracting ``existential risks''—threats to the existence of transhumanity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans l'histoire par défaut (aussi appellée &quot;cadre de campagne&quot;), chaque personnage joueur est une &quot;sentinelle&quot;, un agent disponible (ou une recrue potentielle) pour un réseau paralégal appelé &quot;Firewall&quot;. Firewall est dédiée à contrer les &quot;risques existentiels&quot; - des menaces à l'existence de la transhumanité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These risks can and do include biowar plagues, nanotech swarm outbreaks, nuclear proliferation, terrorists with WMDs, netbreaking computer attacks, rogue AIs, alien encounters, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces risques peuvent inclure des fléaux de la guerre biologique, des invasions d'essaim de nanites, de la prolifération nucléaire, des terroristes avec des ADMs, des attaques informatiques destructrices, des IAs maligne, des rencontres aliens, et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firewall isn't content to simply counteract these threats as they arise, of course, so characters may also be sent on information- gathering missions or to put in place pre-emptive or failsafe measures.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Firewall ne se contente évidement pas de simplement contrer ces menaces au moment où elles apparaissent,les personnages peuvent donc être également envoyés sur des missions de renseignement ou pour mettre en place des mesures de prévention ou de sécurité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters may be tasked to investigate seemingly innocuous people and places (who turn out not to be), make deals with shady criminal networks (who turn out not to be trustworthy), or travel through a Pandora's Gate wormhole to analyze the relics of some alien ruin (and see if the threat that killed them is still real).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages peuventêtre chargés d'enquêter sur des personnes ou des lieux apparement innofensifs (et qui se rèveleront ne pas l'être), de négocier des arrangements avec d'obscures réseaux criminels (qui se réveleront ne pas être digne de confiance), ou de voyager à travers le trou de ver d'une Porte de Pandorre pour annalyser des reliques d'une ruine alien quelconque (et de vérifier si la menace qui les as tués est toujours là).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sentinels are recruited from every faction of transhumanity; those who aren't ideologically loyal to the cause are hired as mercenaries.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les snetinelles sont recrutés dans toutes les factins de la transhumanité; ceux qui ne sont pas idéologicallement loyaux à la cause sont recrutés en tant que mercenaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These campaigns tend to mix a bit of mystery and investigation with fierce bouts of action and combat, also stirring in a nice dose of awe and horror.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces campagnes ont tendance à se méler à un peu de mystères et d'investigation avec des scènes d'actions et de combats achanés, se baignant dans une bonne dose de crainte et d'horreur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Alternate campaigns}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Campagnes alternatives}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When they're not saving the solar system, sentinels are free to pursue their own endeavors.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand ils ne sont aps en train de sauver le système solaire, les sentinelles sont libres de poursuivre leurs propres buts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster and players can use this rulebook to generate any type of story they wish to tell.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu et les joueurs peuvent utiliser ce livre de règle pour générer tout type d'histoire qu'ils ont envie de raconter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, the following examples provide a brief look at the most obvious opportunities for adventure in Eclipse Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, les examples suivants fournissent un rapide aperçu des opportunités les plus évidentes pour des aventures dans Elcipse Phase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>After each campaign variant below, a list of ``archetypes'' for Eclipse Phase are provided in parenthesis.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Après chaque variantes de campagnes ci-dessous, une liste &quot;d'archétypes&quot; pour Eclipse Phase est fournie entre parenthèses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Archetypes are the names applied to the most common character types featured in those scenarios.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les archétypes sont les noms donnés au type de personnage le plus commun rencontrés dans ces scénarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, in a traditional detective story, the archetypes would be the Detective, the Damsel In Distress, the Hard-bitten Cop, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par example, dans une histoire de détective classique, les archétypes seraient le Détective, la Demoiselle en Détresse, le Flic Dur à cuir, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In a cowboy movie, the archetypes would be the Gunfighter, the Bartender, the Marshal, the Indian Brave, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans un film de cowboy, les archétypes seraint le Pistolero, le Barman, le Shériff, le Brave Indien, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Players will note that some archetypes fit into multiple story settings.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les joueurs noterons que plsuieurs archétypes correspondant à de multiple cadre de scénario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character creation system (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le système de création de personnage (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>128) allows players to create any of the suggested archetypes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>128) permet aux joueurs de créer tous les types d'archétype suggérés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Just as roleplaying games are designed for players to build their own stories, however, these archetypes are just suggestions and players can mix and match how they will.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De la même manière que les jeus de rôle sont conçus pour que les joueurs construisent leurs propres histoires, ces archétypes sont juste des suggestions et les joueurs peuvent les mélanger et choisir ceux qu'ils veulent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Salvage and Rescue/Retrieval Ops:} The Fall left two worlds and numerous habitats in ruins—but these devastated cities and stations contain untold riches for those who are brave and foolhardy enough.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Mission de Récupération et de Sauvetage:} la Chute a laissé deux mondes et de nombreux habitats à l'état de ruines - mais ces cités et stations dévastées contiennent des trésors cachés pour ceux qui sont suffisament courageux et téméraires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Potential hauls include: weapon systems; physical resources; lost databanks; left-behind uploads of friends, family, or important people; new technologies developed and lost in the brief singularity takeoff; valued heirlooms of immortal oligarchs; and much more.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les trouvailles peuvent inclure: des systèmes d'armement; des ressources physiques; des banques de données perdues; des uploads abandonnés d'amis, de membres de la famille, ou de personnes importantces; de nouvelles technologies développées et perdues lors du rapide décollage de la singularité; des héritages de valeur pour des oligarques immortels; et bien plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Outside of these once-inhabited realms, space itself is a big place and lots of people and things get lost out there.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À l'extérieur de ces royaumes autrefois habités, l'espace est en soi un endroit trés grand et beaucoup de personnes et de choses sont perdus là-bas dehors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some need to be saved and some are beyond saving.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelqu'uns doivent être sauvés et d'autres sont au delà du sauvetage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This option lets players explore the unknown or seek out specific targets on contract.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette option laisse les joueurs explorer l'inconnu ou chercher des cibles spécifiques pour un contrat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(Archeologist/Scavenger/Pirate/Free Trader/ Smuggler/Black Marketeer)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>(Archéologiste/Charognard/Pirate/Libre-Échangiste/Contrebandier/Marchand Noir)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Exploration:} There are plenty of opportunities to be had as an explorer, colonist, or long-range scout—perhaps even as one of the few lucky or suicidal individuals who explore through an untested Pandora's Gate.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Exploration:} Il y a pas mal d'opportunités à être un explorateur, un colonisateur, ou un éclaireur avancé - peut-être même l'un des rare individus chanceux ou suicidaires qui explorent via une Porte de Pandorre non testée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even the Kuiper Belt, on the fringe of our solar system, is still sparsely explored; there may be riches and mysteries still to be found.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même la Ceinture de Kuiper, à la limite de notre système solaire, est toujours partiellement explorée; il peut y avoir des trésors et des mystères à découvrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many dangers also lurk in odd corners of the system, from isolationist posthuman factions to secretive criminal cartels, as well as pirates, aliens, and others wishing to remain out of sight.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a aussi de nombreux danegrs qui rôdent dans les recoins étranges du système, depuis des factions posthumaines isolationnsits au cartels criminels cachés, en passant par les pirates, les aliens et d'autres choses qui veulent demeurer hors de vue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(Explorer/Archeologist/ Scavenger/Singularity Seeker/Techie/Medic)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>(Explorateur/Archéologue/Charognard/Adepte de la Singularité/Techie/Médecin)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Trade:} While the majority of inner system trade is controlled by sleek hypercorporations, many of the smaller or more independent stations rely on small traders.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Commerce:} Alors que la majorité du commerce dans le système intérieur est contrôlé par de brillantes hypercorporations, la plupart des stations les plus petites ou indépendantes dépendent des petits négociants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the post-scarcity outer system, trade takes on a different form, with information, favors, and creativity serving as currency among those who no longer want for anything due to the availability of cornucopia machines.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les systèmes post-abondance à l'extérieur, le commerce prend une forme différente, avec l'information, les faveurs et la créativité qui servent de monnaie parmi ceux qui n'ont plus besoind e quoi que ce soit grâce à la disponibilité des machines d'abondances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(Free Trader/Smuggler/Black Marketeer/Pirate)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>(Libre-Échangistes/Contrebandier/Marchang Noir/Pirate)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Crime:} The patchwork of city-state habitats and widely varying laws throughout the system create ample opportunity for those who would make a living from this situation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Crime:} L'assemblage hétéroclites d'habitats de la taille d'une ville et les lois variant grandmenet à travers le système ont créés d'amples opportunités pour ceux qui voudraient faire de cette situation leur gagne-pain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Black market commodities and activities include infomorph-slave trading, pleasure pod sex industries, data brokerage and theft, extracting/smuggling advanced technologies and scientists, political/economic espionage, assassination, drug and XP dealing, soul-trading, and much more.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les marchandises et activités du marché noir incluent l'échange d'esclave infomorph, les industries du plaisir et des sex pods, l'échange et le vol de données, l'exfiltration et le convoyage de technologies avancées et de scientifiques, espionnage politique et économique, l'assassinat, la vente de drogues et d'XP, l'échange d'âme, et bien d'autres choses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Whether as an independent or part of an organized criminal element, there are always opportunities for those with a thirst for adventure or profit and questionable morals.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Que ce soit en tant qu'indépendant ou en tant que membre d'une organisation criminelle, il y a toujorus des opportunitées pour ceux qui ont soif d'aventure ou de profit et à la moralité douteuse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(Criminal/Smuggler/ Pirate/Fixer/Black Marketeer/Genehacker/Hacker/ Covert Ops)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>(Criminel/Contrebandier/Pirate/Arrangeur/Marchand Noir/GénéHacker/Hacker/Infiltrateur)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Mercenaries:} The constant maneuvering of ideologically-driven factions, the squabbling over contested resources, and the rush to colonize new exoplanets beyond the Pandora Gates all spark new conflicts on a regular basis.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Mercenaires:} Les manœuvres permanente des factions à caractères idéologique, les disputes autours de ressources contestées, et la ruée vers la colonisation de nouvelles exoplanètes au delà des Portes de Pandorre sont à l'origine de conflits sur des bases régulières.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some of these simmer and seeth as low-intensity conflicts for years, occasionally flaring into raids and clashes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains d'entre eux couvent pendant des années en tant que conflits de faiblent intensité, dégénérant occasionnellemnt dans des raids et des affrontements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Others break out into all-out warfare.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres choisissent de s'affronter dans une guerre sans pitié.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Women and men willing to bear arms for credits are always in demand for good wages.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des femmes et des hommes voulant prendre els armes pour des crédits sont toujours à la recherche de bonnes paies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Players can engage in commando and military campaigns in habitats, between the stars, or in hostile planetary environments.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les joueurs peuvent s'engager dans des campagne commandos et militaire dans des habitats, au milieu des étoiles, ou dans l'environnement hostile d'une planète.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(Merc/Security Specialist/Fixer/Bounty Hunter/Ex-Cop/Medic)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>(Mercenaire/Consultant en Sécurité/Arrangeur/Chasseur de prime/Ex-Flic/Médecin)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Socio-Political Intrigue:} The corporations and political factions that span the solar system do not always play nice with each other, but neither is it wise for them to openly confront each other except under extreme circumstances.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{intrigue Socio-Politique:} Les corporations et les factions politiques qui couvrent tout le système solaire ne respectent aps toujours les règles du jeu en jouant avec les autres, mais il n'est pas simple pour autant poue eux de se confronter ouevrtement els uns aux autres sauf en de rares circonstances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many battles are fought with diplomacy and political maneuvering, using words and ideas more potent than weapons.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup de batailles ont été menées par des manœuvres diplomatiques et politiques, en utilisant des mots et des idées plus puissantes que des armes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even within factions, social cliques can compete ruthlessly, or heated class confl icts can come to a boil, tearing a society apart from within.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A l'intérieur même des factions, différentes groupes sociaux peuvent se mener une concurrence sans pitié, ou les luttes de classes surchauffées peuvent peuvent arriver à ébullition, déchirant une société de l'intérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this campaign, the players can start as pawns of some entity who rise through the ranks as they become more enmeshed in the intrigues of their sponsor, play a group of ambassadors and spies stationed in the opposition's capital, or can play a group of activists and radicals fighting for social change.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans cette campagne, les joueurs peuvent commencer en tant que pions d'une entité quelconque et qui gravirons les échellons alors qu'ils seront de plus en plus impliqués dans les intrigues de leur soutien, ils peuvent joueur un groupe d'ambassadeur et d'espions stationnés dans la capitale de l'opposition, ou encore jouer un groupe d'activistes et de radicaux combattant pour des changements sociaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(Politico/ Socialite/Covert Ops/Hacker/Security Specialist/ Journalist/Memeticist)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>(Politicien/Socialite/Infiltrateur/Hacker/Consultant en Sécurité/Journaliste/Memeticien)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Where does it take place?}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Où cela se passe-t-il?}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While Eclipse Phase is set in the not-too-distant future, the changes that have taken place due to the advancements of technology have transformed the Earth and its inhabitants almost beyond recognition.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alros qu'Eclipse Phase se déroule dans un futur proche, les changements qui ont été effectués suite à l'avancée technologique ont transformés la Terre et ses habitants de manière méconnaissable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As players dive into the universe, they'll generally encounter one of the following settings.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alros que les joueurs plongent dans l'univers, ils rencontrerosn généralement l'un des cadres suivants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Humanity's habitats}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Habitats de l'humanité}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Earth has been left an ecologically-devastated ruin, but humanity has taken to the stars.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Terre est devenue une ruine écologiquement dévastée, masi l'humanité s'est envolé vers les étoiles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When Earth was abandoned, so too were the last of the great nation-states; transhumanity now lacks a single unifying governing body and is instead subject to the laws and regulations of whomever controls a given habitat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque la Terre a été abandonnée,  il en fut autant des derniers états-nation; la transhumanité manque maintenant d'un corps gouvernemental unis et est maintenant assujettie aux lois et aux régulations de quiconqie contrôle un habitat donné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The majority of transhumanity is confined to orbital habitats or satellite stations scattered throughout the Sol system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La majorité de la transhumanité est confinée dans des habitats orbitaux ou des statiosn sattelites éparpillées à traver tout le système Sol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some of these were constructed from scratch in the orbit or Lagrange points of planetary bodies, others have been hewn out of solid satellites and large asteroids.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains d'entre eux ont été construits à partir de rien en orbit ou aux points de Lagrange des corps planétraires, d'autres ont été creusés dans des sattelites et de gros astéroïdes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These stations have myriad purposes from trade to warfare, espionage to research.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces stations possèdent des myriades de but du commerce à la guerre, en passant apr l'espionnage et la recherche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mars continues to be one of transhumanity's largest settlements, though it too, suffered heavily during the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mars continue d'êþre l'une des plus grandes colonnies de la transhumanité, même si elle a également été durement impactée par la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Numerous cities and settlements remain, however, though the planet is only partially terraformed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De nombreuses cités et colonnies persistent, m€me si la terraformation de la planète n'est que partielle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Venus, Luna, and Titan are also home to significant populations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vénus, la Lune et Titan abritent aussi une pouplation significative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additionally, there are a small number of colonies that have been established on exoplanets (on the other side of the Pandora Gates) with environments that are not too hostile towards humanity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il faut également compter un petit nombre de colonnies établies sur des exoplanètes (de l'autre cœté des Porte de Pandorre) qui possèdent des environnement peu hostile envers l'humanité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some transhumans prefer to live on large colony ships or linked swarms of smaller spacecraft, moving nomadically.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains des transhumains préfèrent vivre sur de grands vaisseau coloniaux ou sur des essaims de plus petit vaisseaux liée entre eux, en bougeant nomadiquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some of these rovers intentionally exile themselves to the far limits of the solar system, far from everyone else, while others actively trade from habitat to habitat, station to station, serving as mobile black markets.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains de ces vagabond s'exilent intenstionnelement aux confins du système solaires, loin de tout le reste du monde, alors que d'autres commercent activement d'habitat en stations,d e stations en habitats, servant de marché noirs mobiles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{The great unknown}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Le grand inconnu}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The areas of the galaxy that have felt the touch of humanity are few and far between.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les zones de la galaxie dans lesquelles l'homme a posé le pied sont peu nombreuses et trés éloignées les unes des autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lying betwixt these occasional outposts of questionable civilization are mysteries both dangerous and wonderful.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Reposant entre ces avant-postes occasionnels de civilisations douteuse se trouve des mystères à la fois danegreux et merveilleux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ever since the discovery of the Pandora Gates, there has been no shortage of adventurers brave or foolhardy enough to strike out on their own into the unknown regions of space in hopes of finding more alien artifacts, or even establishing contact with one of the other sentient races in the universe.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Depuis la découverte des Portes de pandorre, il n'y a pas eu pénurie d'avnturiers suffisament courageux ou intrépides pour s'aventurer seuls dans les régions inconues de l'espace dans l'espoir de trouver un artefacts étranger, voire d'établir le contact avec l'une des autres espèces conscientes de l'univers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{The mesh}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Le mesh}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While not a ``setting'' in the traditional sense, as the sections describe above, the computer networks known as the ``mesh'' are all-pervasive.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que n'étant pas un &quot;cadre&quot; dans le sens traditionnel, contrairement aux sectiosn décrites ci-dessus, le réseau informatique connu sous le nom de &quot;mesh&quot; est omniprésent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This ubiquitous computing environment is made possible thanks to advanced computer technologies and nanofabrication that allow unlimited data storage and near-instantaneous transmission capacities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La nature omniprésente de l'environnement informatique a été rendu possible grâce aux techonogies informatique avancées et à la nanofabrication qui permettent un stockage de données illimité et des capacités de transmissions quasi-instantane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>With micro-scale, cheap-to-produce wireless transceivers so abundant, literally everything is wirelessly connected and online.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Avec des émetteurs-récepeteurs sans fil microscopique, et peu cher à fabriquer,  tellement abodnant, absolument tout possède une connexion sans-fil et est connecté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Via implants or small personal computers, characters have access to archives of information that dwarf the entire 21st-century internet and sensor systems that pervade every public place.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Via des implants ou de petits ordinateurs personnels, les personnages ont accès aux archives d'information qui éclipsent l'ensemble de l'internet du 21° siècle et à des systèmes de capteurs qui imprègent chaque lieu public.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>People's entire lives are recorded and lifelogged, shared with others on one of numerous social networks that link everyone together in a web of contacts, favors, and reputation systems.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La vie entière de personnes est enregistrée et enregistrée à vie, partagée avec d'autres sur l'un des nombreux réseaux sociaux qui relient les gens entre eux dasn une toile de contact, de faveur et de système réputationnels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Ego vs. Morph}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Ego contre Morph}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The distinction between ego (your mind and personality, including memories, knowledge, and skills) and morph (your physical body and its capabilities) is one of the defi ning characteristics of Eclipse Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La distinction entre ego (votre esprit et votre personnalité, incluant les souvenirs, les connaissances et les compétences) et morph (votre corps physique et ses capacités) et l'une des caractéristique d'Eclipse Phase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A good understanding of the concept right up front will allow players a glimpse at all the story possibilities out of the gate.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une bonne compréhension de ce concept dés le départ offrira un aperçu de toutes les possibilités narratives aux joueurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your body is disposable.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Votre corps est jetable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If it gets old, sick, or too heavily damaged, you can digitize your consciousness and download it into a new one.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si il devient vieux, malade ou trop gravement abimé, vous pouvez numériser votre conscience et la télécharger dans un nouveau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The process isn't cheap or easy, but it does guarantee you effective immortality—as long as you remember to back yourself up and don't go insane.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le processuss n'est ni bon marché, ni simple, mais il garantis votre immortalité effective - tant que vous vous rappelez de vous sauvegardez et que vous en devenez pas fou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The term morph is used to describe any type of form your mind inhabits, whether a vat-grown clone sleeve, a synthetic robotic shell, a part-bio/part-synthetic ``pod,'' or even the purely electronic software state of an infomorph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le terme de morph est utilisé pour décrire tout type de forme que votre esprit habite, qu'il s'agisse d'une enveloppe clonée cultivé en cuve, d'une coquille robotique et synthétique, d'un &quot;pod&quot; en partie bio et en partie synthétique, ou même de l'état purement logiciel d'une informoph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character's morph may die, but the character's ego may live on, assuming appropriate backup measures have been taken.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La morph d'un personnage peu mourrir, mais l'ego du personnage continuera à vivre, du moment que les mesures de sauvegardes nécessaires ont été prises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Morphs are expendable, but your character's ego represents the ongoing, continuous life path of your character's mind and personality.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les morphs sont immuables, mais l'ego de votre personnage représente lea continuité des chemins pris par son esprit et sa personnalité tout au long de sa vie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This continuity may be interrupted by an unexpected death (depending on how recently the backup was made), but it represents the totality of the character's mental state and experiences.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette continuité peut-être interrompue par une mort inattendue (dépendant de la date de la dernière sauvegarde), mais elle représente la somme de l'état mental du personnage et de ses expériences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some aspects of your character—particularly skills, along with some stats and traits—belong to your character's ego and so stay with them throughout the character's development.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des apects de votre personnage - en particulier les compétences, ainsi que quelques traits et statistiques - appartiennent à l'ego de votre personnage et ainsi l'acompagnent tout au long du développement du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Where to go from here?}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Où aller maintenant?}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now that you know what this game is about, we suggest that you next read the Time of Eclipse chapter (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>maintenant que vous savez de quoi parle ce jeu, nosu vous suggérons de lire le chapitre le temps de l'Eclipse (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>30), to get a feel for the game's default setting (which you are, of course, free to change to suit your whims).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>30), pour avoir une idée du cadre de jeu par dféaut (que vous êtes, bien entendu, libre de changer pour  l'adpater à vos envies).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Then read the Game Mechanics chapter (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lisez ensuite le chapitre Mécanismes de Jeu (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>112) to get a grasp of the rules.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>112) pour avoir une idée des règles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>After that, you can move on to Character Creation and Advancement (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Après ça, vous pouvez passer à la Création et Évolution de Personnage (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>128) and create your first character!</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>128) et créer votre premier personnage!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Terminology}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Terminologie}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Eclipse Phase uses a host of jargon to simply convey the numerous concepts covered within the pages of this book.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Eclipse Phase utilise tout un jargon pour transmettre simplement les nombreux concepts couverts par ce livre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While not all-inclusive, this list of terminology will allow players to quickly acclimate themselves for their journey into Eclipse Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que non exhaustifs, cette liste de terme permettra aux joueurs de s'acclimater rapidement à leur voyage dans Eclipse Phase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you read something and are confused, don't worry.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous lisez quelque chose et que vous êtes perdus, ne vous inquiétez pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These concepts are fully explained in later sections of this book.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces concepts sont entièrement détaillés dans d'autres sections du livre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that several of the words on this list are standard scientific terms, often used in astronomy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que plusieurs des mots sur la liste sont des termes scientifiques standar, souvent utilisé en astronomie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As Eclipse Phase attempts to remain as close to ``hard science'' as possible—while allowing players to interact with the great stories waiting to unfold—such terms are used liberally.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comem Eclipse Phase essaye de reseter aussi proche que possible du &quot;hard science&quot; - tout en permettant aux joueurs d'interagir avec les passionantes histories qui attendent d'être révélées - de tels termes sont utilisés librement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aerostat: A habitat designed to float like a balloon in a planet's upper atmosphere.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aérostat: Un habitat conçu pour flotter comme un ballon dans la haute atmosphère d'une planète.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u1&gt; AF: After the Fall (used for reference dating).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u1&gt; AF: (After the Fall) Après la Chute (utilisé comme date de référence).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u2&gt; AGI: Artificial General Intelligence.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u2&gt; IAG: Intelligence Artificielle Généraliste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An AI that has cogni tive faculties comparable to that of a human or higher.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une IA qui possède des facultés cognitives comparables ou supérieures à celle d'un humain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Also known as ``strong AI'' (differentiating from more specialized ``weak AI'').</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aussi connues sous le nom de &quot;IA forte&quot; (par opposition au &quot;IA limitées&quot; plus spécialisée).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See also ``seed AI.'' &lt;u3&gt; AI: Artificial Intelligence.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voir aussi &quot;IA germe.&quot; &lt;u3&gt; IA: Intelligence Artificielle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Generally used to refer to weak AIs; i.e., AIs that do not encompass (or in some cases, are completely outside of) the full range of human cognitive abilities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Générallement utilisé pour se référer à une IA faible; c'ets à dire des IAs qui n'englobent pas (ou dans certains cas, qui sont complètement hors de) toute la portée des capacités cognitives humaines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AIs differ from AGIs in that they are usually specialized and/or intentionally crippled/limited.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les IAs diffèrent des IAG dans le fait qu'elles sont généralement spécialisée et/ou intentionnellement bridée/limitée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u4&gt; Anarchist: Someone who believes government is unnecessary, that power corrupts, and that people should control their own lives through self-organized individual and collective action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u4&gt; Anarchiste: Suql'un qui croit que le gouvernement n'est pas nécessaire, que le pouvoir corromps, et que les gens doivent contrôller leur propre vie à travers l'auto-organisation individuelles et l'action collective.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u5&gt; Arachnoid: A spider-like robotic synthmorph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u5&gt; Arachnoïde: Une synthmorph robotique ressemblant à une araignée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u6&gt; Argonauts: A faction of techno-progressive scientists that promote responsible and ethical use of technology.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u6&gt; Argonautes: Une faction de scientifique tecno-progressistes qui font la promotion d'une utilisation responsable et éthique de la technologie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u7&gt; AR: Augmented Reality.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u7&gt; RA: Réalité Augmentée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Information from the mesh (universal data network) that is overlaid on your real-world senses.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Information du mesh (réseau de donnée universel) qui est superposé à vos sens du monde réel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AR data is usually entoptic (visual), but can also be audio, tactile, olfactory, kinesthetic (body awareness), emotional, or other types of input.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les données RA sont habituellement entoptique (visuelles), masi peuvent aussi être audio, tactiles, olfactives, kinesthésique (conscience corporelle), émotionnelles ou tout autre type d'entrée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u8&gt; Async: A person with psi abilities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u8&gt; Async: Une personne avec des pouvoirs psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u9&gt; AU: Astronomical unit.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u9&gt; UA: Unité Astronomique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The distance between the Earth and the Sun, equal to 8.3 light minutes, or about 150 million kilometers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La distance entre al Terre et le Soleil, équivalent ) 8,3 minutes lumières, ou à peu près 150 millions de kilomètres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u10&gt; Autonomists: The alliance of anarchists, Barsoomians, Extropians, scum, and Titanians.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u10&gt; Autonomistes: L'alliance des anarchistes, des Barsoomiens, des Extropiens, de la racaille et des Titaniens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u11&gt; Barsoomian: A rural Martian, typically resentful of hypercorp control.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u11&gt; Barsoomien: Un Martien rural, typiquement irrité par le contrôle des hypercorp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u12&gt; Basilisk Hack: An image or other sensory input that affects the brain's visual cortex and pattern recognition abilities in such a way as to cause a glitch and possibly exploit it and rewrite neural code.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u12&gt; Piratage Basilique: Une image ou toute autre entrée sensorielle qui affecte le cortex visuel du cerveau aisniq eu ses capacités de recognition de motifs d'une manière à provoquer une erreur et de peut-être l'exploiter pour réécrire du code neuronal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u13&gt; Beehive: A microgravity habitat made from a tunneledout asteroid or moon.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u13&gt; Ruche: Un habitat à microgravité créé dans un astéroKde ou une lune évidée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u14&gt; BF: Before the Fall (used for reference dating).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u14&gt; BF: (Before the Fall) Avant la Chute (utilisé comme date de référence).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u15&gt; Bioconservative: An anti-technology movement that argues for strict regulation of nanofabrication, AI, uploading, forking, cognitive enhancements, and other disruptive technologies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u15&gt; Bioconservateurs: Un mouvement anti-technologie qui milite pour une régulation stricte des nanofabers, des IA, de l'upload, du fork, des améliorations cognitives et de toute autre techonologie perturbatrice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u16&gt; Biomorph: A biological body, whether a flat, splicer, genetically engineered transhuman, or pod.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u16&gt; Biomorph: Un corps bilogique, qu'ils 'agisse d'un plat, d'un splicer, d'un transhumain génétiquement amélioré ou d'un pod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u17&gt; Body Bank: A service for leasing, selling, acquiring, or storing a morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u17&gt; Banque de Corps: Un service pour louer, vendre, acheter  ou stocker une morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aka dollhouse, morgue.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>voir aussi: maison de poupée, morgue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI-piloted synthetic shells.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Desz coquilles synthétiques pilotée par des IA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u19&gt; Bracewell Probe: A type of autonomous monitoring deep- space probe meant to make contact with alien civilizations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u19&gt; Sonde Bracewell: Un type de sonde de surveillance de l'espace profond autonome conçue pour établir le contact avec des civilisations étrangères.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u20&gt; Brinkers: Exiles who live on the fringes of the system, as well as other isolated and well-hidden nooks and crannies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u20&gt; Brinkers: Des éxilés qui vivent aux limites du système, ansi que dans tous les autres coins et recoins bien cachés du système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Also called isolates, fringers, drifters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aussi appellée isolés, limités, dériveurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u21&gt; Case: A cheap, common, mass-produced synthetic shell.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u21&gt; Caisse: Une coquille synthétique bon marché, commune et produite en masse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u22&gt; Chimeric: Transgenic, containing genetic traits from other species.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u22&gt; Chimère: Un transgénique, contenant des traits génétiques d'autre espèces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u23&gt; Circumjovian: Orbiting Jupiter.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u23&gt; Circumjovien: Orbitant autour de Jupiter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u24&gt; Circumlunar: Orbiting the Moon.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u24&gt; Circumlunaire: Orbitant autour de la Lune</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u25&gt; Circumsolar: Orbiting the Sun.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u25&gt; Circumsolaire: Orbitant autour du Soleil/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u26&gt; Cislunar: Between the Earth and the Moon.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u26&gt; Cislunaire: Entre la Terre et la Lune</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u27&gt; Clade: A species or group of organisms with common features.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u27&gt; Clade: Une espèce ou un groupe d'organisme partageant des caractéristique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Used to refer to transhuman subspecies and morph types.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Utilisé pour se référer aux sous-espèces transhumaines et au types de morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u28&gt; Cole Bubble: A habitat made from a hollowed-out asteroid or moon, spun for gravity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u28&gt; Bulle Cole: Un habitat formé d'un éstaroKde ou d'une lune évidé et en rotation pour obtenir une gravité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u29&gt; Cornucopia Machine: A general-purpose nanofabricator.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u29&gt; Machine d'Abondance: Un nanofabers a but généraliste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u30&gt; Cortical Stack: An implanted memory cell used for ego backup.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u30&gt; Pile Corticalle: Une cellulle de mémmoire implanté utilisée pour sauvegarder un ego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Located where the spine meets the skull; can be cut out.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Localisée là où l'épine dorsale rencontre le crâne; elle peut-être extraite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u31&gt; Cyberbrain: An artificial brain, housing an ego.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u31&gt; Cybercerveau: Un cerveau artificiel, hébergeant un ego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Used in both synthmorphs and pods.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Utilisé à la fois dans les synthmorphs et dans les pods.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u32&gt; Darkcast: Illegal and black market farcasting and egocasting services.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u32&gt; Darkcast: Services ilégaux et trouvés au marché noir d'émission longue portée et d'egocast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u33&gt; Domain Rules: The rules that govern the reality of a virtual reality simulspace.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u33&gt; Règles de Domaine: Les règles qui régissent la réalité dans un simulspace de réalité virtuelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u34&gt; Drone: A robot controlled through teleoperation (rather than directly via onboard AI).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u34&gt; Drône: Un robot conrtrollé par téléopréation (plutôt que par des IA embarquées).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u35&gt; Ecto: Personal mesh devices that are flexible, stretchable, self-cleaning, translucent, and solar-powered.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u35&gt; Ecto: Périphériques de mesh personnel, souple, étirable, auto-nettoyant, translucide et alimenté par énergie solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>From ecto-link (external link).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De ecto-liens (liens externe).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u36&gt; Ego: The part of you that switches from body to body.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u36&gt; Ego: La part de vous qui bascule d'un corps à l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Also known as ghost, soul, essence, spirit, persona.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ausiis connu comme ghost, âme, essence, esprit, persona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u37&gt; Egocasting: Term for sending egos via farcasting.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u37&gt; Egocaster: Terme pour envoyer un ego par émission longue-portée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u38&gt; Entoptics: Augmented-reality images that you ``see'' in your head.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u38&gt; Entoptiques: Image de Réalité Augmentée que vous &quot;voyez&quot; dans votre tête.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(``Entoptic'' means ``within the eye.'') &lt;u39&gt; ETI: Extraterrestial intelligence.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>(&quot;Entoptique&quot; signifie &quot;à l'intérieur des yeux&quot;) &lt;u39&gt; ETI: Intelligence extra-terrestre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The term Firewall uses to refer to the god-like post-singularity alien intelligence theorized to be responsible for the Exsurgent virus.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>le terme utilisé par Firewall pour faire référence aux intelligence étrangères post-singularités ressemblant à des dieux théoriquement responsable du virus Exsurgent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u40&gt; Exalts: Genetically-enhanced humans (between genefixed and transhumans).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u40&gt; Exaltés: Humains génétiquement améliorés (entre génétiquement réparés et transhumains).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aka genefreaks, the ascended, the elevated.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aussi connus comme génomonstre, les ascendants, les élevés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u41&gt; Exoplanet: A planet in another solar system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u41&gt; Exoplanète: Une planète dans un autre système solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u42&gt; Exsurgent: Someone infected by the Exsurgent virus.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u42&gt; Exsurgent: Quelqu'un infecté par le virus Exsurgent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u43&gt; Exsurgent Virus: The multi-vector virus created by an unknown ETI and seeded throughout the galaxy in Bracewell probes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u43&gt; Virus Exsurgent: Le virus multi-vecteur créé par un ETI inconnu et répandu dans la galaxie dans des sondes Bracewell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Exsurgent virus is self-morphing and can infect both computer systems and biological creatures.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le virus Exsurgent est mutant et peu infecter à la fois les systèmes informatique et les créature sbilogiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u44&gt; Extrasolar: Outside the solar system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u44&gt; Extrasolaire: Hors du système solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u45&gt; Factors: The alien ambassadorial race that deals with transhumanity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u45&gt; Facteurs: La race étrangère ambassadrice qui fait affaire avec la transhumanité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Also called Brokers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aussi appelés les Courtiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u46&gt; The Fall: The apocalypse; the singularity and wars that nearly brought about the downfall of transhumanity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u46&gt; La Chute: L'apocalypse; la singularité et les guerres qui ont presque amené l'extinction de l'humanité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u47&gt; Farcasting: Intrasolar communication utilizing classical communication technologies (radio, laser, etc.) and quantum teleportation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u47&gt; Farcasting: Communication intrasolaire utilisant des technologie de communication classiques (radio, laser, etc) et la téléportation quantique. Parfois appelée Hyeprdiff.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u48&gt; Farhauler: Long distance space shipper.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u48&gt; Long Porteur: Transport spatiaux de longue distance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u49&gt; Firewall: The secret cross-faction conspiracy that works to protect transhumanity from ``existential threats'' (risks to transhumanity's continued existence).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u49&gt; Firewall: La conspiration secrète, multifaction qui travaille à protéger la transhumanité des &quot;risques existentiels&quot; (risques qui menacent l'existence de la transhumanité).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u50&gt; Flatlander: Someone born or used to living on a planet or moon with gravity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u50&gt; Bas de plancher: QUelqu'un qui est né ou habitué à vivre sur une planète ou une lune avec une gravité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u51&gt; Flats: Baseline humans (not genetically modified).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u51&gt; Plats: Humains de base (sans modificatiosn génétique).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Also called norms.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aussi appelés norms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u52&gt; Flexbot: A shape-changing synthmorph also capable of joining together with other flexbots in a modular fashion to create larger shapes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u52&gt; Transformer: Une synthmorph capable de changer de forme ou de rejoindre d'autre trasnformers afin de créer des forms plus grande et modulaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u53&gt; Forking: Copying an ego.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u53&gt; Forker: Copier un ego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Not all forks are full copies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tous les forks ne sont pas des copies complètes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AKA backups.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aussi appelés sauvegardes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u54&gt; FTL: Faster-Than-Light.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u54&gt; FTL: Faster-Than-Light. Plus rapide que la lumière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u55&gt; Fury: A transhuman combat morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u55&gt; Fury: Une morph de combat transhumaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u56&gt; Gatecrashers: Explorers who take their chances using a Pandora gate to go somewhere previously unexplored.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u56&gt; Resquilleurs: Explorateurs qui tentent leur chances en utilisant une Porte de Pandorre pour aller vers un endroit pour l'instant inexploré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u57&gt; Genehacker: Someone who manipulates genetic code to create genetic modifications or even new life.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u57&gt; Généhacker: Quelqu'un qui manipule le code génétique pour créer des modificatiosn génétiques voire même de nouvelles formes de vie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u58&gt; Ghost: A transhuman combat morph optimized for stealth and infiltration.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u58&gt; Ghost: Une morph de combat transhumaine optimisé pour la furtivisté et  l'infiltration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u59&gt; Ghost-riding: The act of carrying an infomorph in a special implant module inside your head.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u59&gt; Ghost-riding: L'acte de transporter une infomorph dans un implant sépcial à l'intérieur de votre tête.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u60&gt; Greeks: Trojan asteroids or moons that share the same orbit as a larger planet or moon, but are 60 degrees ahead in the orbit at the L4 Lagrange point.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u60&gt; Grecs: Astéroîdes ou lunes troyens qui partagent la même orbite qu'une planète ou lune plus grosse, mais qui ont 60 degrés d'avance sur l'orbite, au point de Lgarange L4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The term Greeks normally refers to the asteroids orbiting around Jupiter's L4 point.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le terme Grecs fait normalement référence aux astéroKdes autour du point L4 de Jupiter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See also ``Trojans.'' &lt;u61&gt; Habtech: A habitat technician.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voir aussi à &quot;Troyens.&quot; &lt;u61&gt; Habtech: Un technicien d'habitation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u62&gt; Heliopause: The point where pressure from the solar wind balances with the interstellar medium (about 100 AU out).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u62&gt; Héliopause: Le point auquel la pression des vents solaires s'équilibre avec les moyennes interstellaires (aux allentours de 100 AU).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u63&gt; Hibernoid: A transhuman modified for hibernation, for extensive travel in space.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u63&gt; Hibernoïdes: Un transhumain modifié pour l'hibernation, pour des travaux prolongés dans l'espace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u64&gt; Iceteroid: An asteroid made from mostly ice rather than rock or metals.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u64&gt; Glacetéroïde: Un astéroïde constitué essentiellemnt de glace au lieu de roche et de métal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u65&gt; Iktomi: The name given to the mysterious alien race whose relics have been found beyond the Pandora Gates.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u65&gt; Iktomi: Le nom donné à la mystérieuse race étrangère dont les reliques ont été retrouvées au delà es Portes de Pandorre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u66&gt; Indentures: Indentured servants who have contracted their labor to a hypercorp or other authority, usually in exchange for a morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u66&gt; Contractés: Des esclaves sous contrats synallagmatique qui ont signé pour travailer avec une hypercorp ou une autre autorité, habituellement en échange d'une morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u67&gt; Infolife: Artificial general intelligences and seed AIs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u67&gt; Infovie: Intelligence artificielle généraliste et IAs germe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u68&gt; Infomorph: A digitized ego; a virtual body.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u68&gt; Infomorph: Un égo digitalisé; un corps virtuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Also known as datamorphs, uploads, backups.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aussi connus sous les noms de datamorphs, uploads, sauvegardes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u69&gt; Infugee: ``Infomorph refugee,'' or someone who left everything behind on Earth during the Fall—even their own body.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u69&gt; Infugié: ``Infomorph refugié,'' ou quelqu'un qui a tout abandonné sur Terre - y compris son corp - pendant la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u70&gt; Isolates: Those who live in isolated communities far outside the system (in the Kuiper Belt and Oort Cloud); aka outsters, fringers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u70&gt; Isolés: Ceux qui vivent dans des communautés isolées loin au-delaà des limites du système (dans la Ceinture de Kuiper et el Nuage d'Oort); aussi appelés outsers, limités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u71&gt; Jamming: The act of ``becoming'' a teleoperated drone thanks to XP technology.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u71&gt; Saturer: l'acte de &quot;devenir&quot; un drône opéré à distance grâce à la technologie XP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Also sometimes applied to accesing the real-time XP feed from lifeloggers and others.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>2galement utilisé pour l'accession à un flux XP en temps-réel de lifeblogeur et autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u72&gt; Kuiper Belt: A region of space extending from Neptune's orbit out to about 55 AU, lightly populated with asteroids, comets, and dwarf planets.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u72&gt; Ceinture de Kuiper: Une région de l'espace allant de l'orbite de Neptune et sur envrion 55 UA, légèrement peuplé d'astéroïdes, de comètes et de planètes naines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u73&gt; Lagrange Point: One of five areas in respect to a small planetary body orbiting a larger one in which the gravitational forces of those two bodies are neutralized.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u73&gt; Point de Lagrange: L'une des cinqs zones faisaint référence à un petit corps planétaire orbitant autour d'un plsu gros dans laquelle les forces gravitationnelles de ces deux corps sont neutralisées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lagrange points are considered stable and ideal locations for habitats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les point de Lagrange sont considérés comme stable et sont des positions idéales pour des habitats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u74&gt; Lifelog: A recording of one's entire life experience, made possible due to near unlimited computer memory.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u74&gt; Lifeblog: l'enregsitrement de toute l'expérience de la vie de quelqu'un, rendue possible grâce aux acapacités mémoires des ordinateurs quasi-illimitées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u75&gt; Lost Generation: In an effort to repopulate post-Fall, a generation of children were reared using forced-growth methods.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u75&gt; Generation Égarée: Dans une tentative de repeupler après la Chute, une génération d'enfant furent élevées en utilisant des techniques de croissance forcées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The results were disastrous: many died or went insane, and the rest were stigmatized.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les résultats furent désastreux: beaucoup sont morts ou devenus fous, et le reste a été stigmatisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u76&gt; Main Belt: The main asteroid belt, a torus ring orbiting between Mars and Jupiter.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u76&gt; Ceinture Principale: La principale ceinture d'astéroïides, un anneau torique orbitant entre Mars et Jupiter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u77&gt; Meme: A viral idea.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u77&gt; Meme: Une idée virale..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u78&gt; Mentons: Transhumans optimized for mental and cognitive ability.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u78&gt; Mentalistes: Transhumains optimisés pour les compétences mentales et cognitive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u79&gt; Mercurials: The non-human sentient elements of the transhuman ``family,'' including AGIs and uplifted animals.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u79&gt; Mercuriels: Les éléments conscient non-humaisn de la &quot;famille&quot; transhumaine; incluant les IAG et les animaux éveillés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u80&gt; Mesh: The omnipresent wireless mesh data network.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u80&gt; Mesh: L'omniprésent maillage sans-fil de réseau de données.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Also used as a verb (to mesh) and adjective (meshed or unmeshed).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Egalement utilisé comme verbe (mesher) et comme adjective (meshé ou démeshé).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u81&gt; Mesh ID: The unique signature attached to one's mesh activity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u81&gt; Mesh ID: La signature unique attaché à l'activité meshée de quelqu'un.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u82&gt; Microgravity: Zero-g or near weightless environments.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u82&gt; Microgravité: Zéro-g ou environnement quadiment sans poids.</seg>
       </tuv>
     </tu>
   </body>

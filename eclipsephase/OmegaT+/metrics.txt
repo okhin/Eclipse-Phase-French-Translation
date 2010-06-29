@@ -7,10 +7,10 @@ Total
   Caractères: 1367427 : + espaces
 
 Restants
-    Segments:   14088
-        Mots:  211341
-  Caractères: 1114207 : - espaces
-  Caractères: 1311872 : + espaces
+    Segments:   13767
+        Mots:  206089
+  Caractères: 1086071 : - espaces
+  Caractères: 1278755 : + espaces
 
 Uniques
     Segments:   13398
@@ -19,10 +19,10 @@ Uniques
   Caractères: 1355364 : + espaces
 
 Restants uniques
-    Segments:   12610
-        Mots:  209067
-  Caractères: 1117016 : - espaces
-  Caractères: 1300239 : + espaces
+    Segments:   12301
+        Mots:  203873
+  Caractères: 1088703 : - espaces
+  Caractères: 1267407 : + espaces
 
 Mesures des documents
 
@@ -34,9 +34,9 @@ Mesures des documents
    29962   29962  158228  158228  186322  186322 - 12-game-information.tex
        1       1       6       6       6       6 - 13-tables.tex
        1       1      10      10      10      10 - 14-references.tex
-    9090    7504   48592   40266   57179   47343 - 2-synopsis.tex
+    9090    2292   48592   12324   57179   14457 - 2-synopsis.tex
    61776   61776  334423  334423  393103  393103 - 3-eclipse.tex
-    9902    9902   49182   49182   58478   58478 - 4-mechanics.tex
+    9902    9862   49182   48988   58478   58247 - 4-mechanics.tex
    16622   16622   85947   85947  101263  101263 - 5-character-creation.tex
     8618    8618   46366   46366   54224   54224 - 6-skills.tex
    21749   21748  109676  109671  129483  129478 - 7-action-combat.tex
