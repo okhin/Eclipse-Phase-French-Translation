@@ -1,36 +1,36 @@
 Mesures du projet
 
 Total
-    Segments:   14896
-        Mots:  221027
-  Caractères: 1179184 : - espaces
-  Caractères: 1367427 : + espaces
+    Segments:   18754
+        Mots:  262374
+  Caractères: 1402648 : - espaces
+  Caractères: 1622001 : + espaces
 
 Restants
-    Segments:   13562
-        Mots:  203811
-  Caractères: 1073816 : - espaces
-  Caractères: 1264369 : + espaces
+    Segments:   17418
+        Mots:  245156
+  Caractères: 1290990 : - espaces
+  Caractères: 1518934 : + espaces
 
 Uniques
-    Segments:   13398
-        Mots:  218677
-  Caractères: 1163309 : - espaces
-  Caractères: 1355364 : + espaces
+    Segments:   16199
+        Mots:  258746
+  Caractères: 1378640 : - espaces
+  Caractères: 1603437 : + espaces
 
 Restants uniques
-    Segments:   12102
-        Mots:  201613
-  Caractères: 1076214 : - espaces
-  Caractères: 1253172 : + espaces
+    Segments:   14901
+        Mots:  241680
+  Caractères: 1291536 : - espaces
+  Caractères: 1501236 : + espaces
 
 Mesures des documents
 
     TM      MR      TCSE    CRSE    TC      CR     Document
      581     581    3451    3451    3979    3979 - 0-credits.tex
-    8100       3   38376      49   45753      49 - 1-lack.tex
+    8100       1   38376      40   45753      40 - 1-lack.tex
    20340   20340  104177  104177  123063  123063 - 10-accelerated-future.tex
-       1       1       4       4       4       4 - 11-gear.tex
+   41348   41348  217187  217187  254578  254578 - 11-gear.tex
    29962   29962  158228  158228  186322  186322 - 12-game-information.tex
        1       1       6       6       6       6 - 13-tables.tex
        1       1      10      10      10      10 - 14-references.tex
