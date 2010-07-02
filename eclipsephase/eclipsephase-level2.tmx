@@ -25,7 +25,7 @@
         <seg>Some stats and traits, however, are determined by morph, as noted, and so will change if your character leaves one body and takes on another.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>D'autres statistiques et traits sont cependant déterminés par une morph, comme noté précédment, et changeront donc si votre personnage quitte son corps et en prend un autre.</seg>
+        <seg>D'autres statistiques et traits sont cependant déterminés par une morph, comme noté précédemment, et changeront donc si votre personnage quitte son corps et en prend un autre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33,7 +33,7 @@
         <seg>Morphs may also affect other skills and stats, as detailed in the morph description.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Les morphs peuvent aussi affecter d'autres compétences et statistiques, comem détaillée dans la description des morphs.</seg>
+        <seg>Les morphs peuvent aussi affecter d'autres compétences et statistiques, comme détaillée dans la description des morphs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6681,7 +6681,7 @@
         <seg>The gamemaster describes the world as the characters see it, functioning as their eyes, ears, and other senses.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Le maître de jeu décrit le monde tel que le voi les personnages, en utilisant leurs yeux, leurs oreilles, et leurs autres sens.</seg>
+        <seg>Le maître de jeu décrit le monde tel que le voient les personnages, en utilisant leurs yeux, leurs oreilles, et leurs autres sens.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6721,7 +6721,7 @@
         <seg>You never know when a specific choice you've made in the running of a campaign is exactly what another gamemaster and his group is looking for.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Vous ne savez jamais quand un choix spécifique que vous faites en maîtrisant une campagne est exactement ce qu'un autre maître de jeu et son groupe recherchent.</seg>
+        <seg>Vous ne saurez jamais quand un choix spécifique que vous faites en maîtrisant une campagne est exactement ce qu'un autre maître de jeu et son groupe recherchent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6753,7 +6753,7 @@
         <seg>{A Time of Eclipse:} A comprehensive history and setting fully describes the Eclipse Phase universe and how humanity transitioned from here to there.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Une époque d'Éclipse:} Une histoire globale et un cadre entièrement détaillé décrivant l'univers d'Eclipse Phase et comment l'humanité a effectué une transition d'ici à là-bas.</seg>
+        <seg>{Une Époque d'Éclipse:} Une histoire globale et un cadre entièrement détaillé décrivant l'univers d'Eclipse Phase et racontant comment l'humanité a effectué une transition d'ici à là-bas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6769,7 +6769,7 @@
         <seg>{Game Mechanics:} The player's desired actions become reality within the universe through quick and easy-to-use game mechanics.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{mécaniques de jeu:} Les cations désirées par les joueurs deviennent réalité dans l'univers grâce à des émcaniques de jeu simple et facile à utiliser.</seg>
+        <seg>{Mécaniques de Jeu:} Les actions voulues par les joueurs deviennent réalité dans l'univers grâce à des mécaniques de jeu simple et facile à utiliser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6777,7 +6777,7 @@
         <seg>{Character Creation and Advancement:} Creating a unique character can be one of the most enjoyable experiences of roleplaying.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Création de Personnage et Avancement:} Créer un personnage unique peut-être l'une des expéreinces les plus interessantes du jeu de rôle.</seg>
+        <seg>{Création de Personnage et Avancement:} Créer un personnage unique peut-être l'une des expéreinces les plus intéressantes du jeu de rôle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6785,7 +6785,7 @@
         <seg>Even more rewarding is watching that character evolve and grow across numerous gaming sessions, far beyond anything your imagination first envisioned.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Encore plus gratifiant est de voir ce personnage évoluer et grandir au travers de nombreuses sessions de jeu, bien eu-delà de tout ce que votre imagination avait envisagé.</seg>
+        <seg>Encore plus gratifiant est de voir ce personnage évoluer et grandir au travers de nombreuses sessions de jeu, bien au-delà de tout ce que votre imagination avait envisagé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6825,7 +6825,7 @@
         <seg>{Mind Hacks:} The unusual possibilities offered by psi abilities and mental reprogramming.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Piratage Cognitifs:} Les possibilité inahbituelles offertes par les capacités psi et la reprogrammation mentale.</seg>
+        <seg>{Piratages Cognitifs:} Les possibilité inahbituelles offertes par les capacités psi et la reprogrammation mentale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6833,7 +6833,7 @@
         <seg>{The Mesh:} The all-pervasive nature of the mesh ensures that it is a key element to any story telling.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Le Mesh:} La nature omniprésente du mesh assure que c'ets un élément clef de toutes les histoires racontées.</seg>
+        <seg>{Le Mesh:} La nature omniprésente du mesh assure que c'est un élément clef de toutes les histoires racontées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6841,7 +6841,7 @@
         <seg>{Accelerated Future:} The wonders of advanced technologies and how they work.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Futur Accéléré:} Les merveilles de la technologies avancées et comment elles fonctionnent.</seg>
+        <seg>{Futur Accéléré:} Les merveilles de la technologies avancées et comment elle fonctionne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6857,7 +6857,7 @@
         <seg>{Game Information:} The quintessential set of insider secrets for gamemasters.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Information de jeu:} La quintessence de 'lensemble des secrets destinés aux maître de jeu.</seg>
+        <seg>{Informations de jeu:} La quintessence de l'ensemble des secrets destinés aux maîtres de jeu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6873,7 +6873,7 @@
         <seg>Whether a gamemaster or player, you'll need a way to track information.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Que vous soyez maître de jeu ou joueur, vous avez besoin d'un moyen pour suivre l'information.</seg>
+        <seg>Que vous soyez maître de jeu ou joueur, vous avez besoin d'un moyen quelconque de suivre l'information.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6881,7 +6881,7 @@
         <seg>Players will be generating characters and making changes to those characters from session to session.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Lesjoueurs créerons des personnages et leur apporterons des changements d'une session à l'autre.</seg>
+        <seg>Lesjoueurs créeront des personnages et leur apporteront des changements d'une session à l'autre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6889,7 +6889,7 @@
         <seg>Meanwhile, the gamemaster will have a host of information to track: notes on how the story is unfolding due to player character interaction that you'll need to fold into next week's session; changes to NPCs; changes to player characters that the players are not yet aware off (such as a character has been mind hacked but doesn't yet know it); and so on.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Entre-temps, le maître de jeu devra suivre un paquet d'information: des notes sur la façon dont se déroule l'histoire suite aux interactions des personngaes joueurs que vous devrez prendr een compte lors de la session de la semaien suivante; des changements apportés aux PNJs: des changements apportés aux personnages joueurs que les joueurs ignorent encore (comme le fait qu'un personnage se soit fait hacker l'esprit mais qu'il ne le sait aps encore); et ainsi de suite.</seg>
+        <seg>Entre-temps, le maître de jeu devra suivre un paquet d'information: des notes sur la façon dont se déroule l'histoire suite aux interactions des personnages joueurs et dont vous devrez tenir compte lors de la session de la semaine suivante; des changements apportés aux PNJs; des changements apportés aux personnages joueurs que les joueurs ignorent encore (comme le fait qu'un personnage se soit fait pirater le cerveau mais qu'il ne le sait pas encore); et ainsi de suite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6897,7 +6897,7 @@
         <seg>Additionally, some groups enjoy a synopsis of each session that can be compiled and read at a later time in order to enjoy and share their exploits, just as you might fileshare clips from your favorite video game to show off your skill in taking the bad guy down (traditionally this has been called ``bluebooking'').</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Additionellement, certains groupes apprécient un résumé de chaque session qui puisse être compilé et lus un peu plus tard pour appréicer et partager leurs exploits, de la même façon dont vour partageriez des fichiers vidéos de votre jeu vidé préféré pour montrer vos capacité à battre le méchant (traditionnellement cela s'appelle &quot;tenir un journal&quot;).</seg>
+        <seg>Additionellement, certains groupes apprécient un résumé de chaque session qui puisse être compilé et lu un peu plus tard pour appréicer et partager leurs exploits, de la même façon dont vour partageriez des extraits vidéos de votre jeu vidéo préféré pour montrer vos capacité à battre le méchant (traditionnellement cela s'appelle &quot;tenir un journal&quot;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6905,7 +6905,7 @@
         <seg>This can be particularly useful if a player was unable to attend a given session, providing a quick re-cap that they can read before attending the next gaming session and thus avoiding a bog-down up-front as that player tries to catch up on current events in the game.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Cela se révèle particulièrement utile si un joueur n'as pas pu partciiper à une session donnée, fournissant un résumé rapide qu'ils peuvent lire avant de venir à la prochaine session de jeu et s'éviter ainsi de tomber dans un piège pendant que ce joueur essayes de se raccrocher aux évènements de la session de jeu actuelle.</seg>
+        <seg>Cela se révèle particulièrement utile si un joueur n'as pas pu partciiper à une session donnée, fournissant un résumé rapide qu'il peut lire avant de venir à la prochaine session de jeu et s'éviter ainsi de tomber dans un piège pendant qu'il essaye de se raccrocher aux évènements de la session de jeu actuelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6913,7 +6913,7 @@
         <seg>The session scribe can be a shared responsibility or assigned, all based upon what a given playing group finds works best for them.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>La prise de note est une responsabilité qui peut être partagée entre tous les joueurs ou assignée à un seul, tout dépend de ce quei fonctionne le mieux avec un groupe.</seg>
+        <seg>La prise de note est une responsabilité qui peut être partagée entre tous les joueurs ou assignée à un seul, tout dépend de ce qui fonctionne le mieux au sein du groupe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6921,7 +6921,7 @@
         <seg>Likewise, some gaming groups audiorecord their entire game session, both for later reference and for ``actual play'' podcasts.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>De la même manière, certains groupe de jeu effectuenet un enregistrement audio de toute la session de jeu, à la fois pour pouvoir 'y reporter plus tard et pour effectuer des podcasts de &quot;jeu live&quot;.</seg>
+        <seg>De la même manière, certains groupe de jeu réalisent un enregistrement audio de toute la session de jeu, à la fois pour pouvoir s'y reporter plus tard et pour effectuer des podcasts de &quot;jeu live&quot;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6977,7 +6977,7 @@
         <seg>While most players enjoy the feel of tossing dice onto a table, there are many other mechanisms for rolling two ten-sided dice to achieve a 00 to 99 result.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>bien que la plupart des joueurs prennent plaisir à lancer les dés sur la table, il existe un nombre important de mécanisme pour faire rouler deux dés à dix faces pour parvenir à un résultat compris entre 00 et 99.</seg>
+        <seg>Bien que la plupart des joueurs prennent plaisir à lancer les dés, il existe un nombre important de mécanisme pour parvenir à un résultat compris entre 00 et 99.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6985,7 +6985,7 @@
         <seg>Players who make heavy use of any online technologies for game play—such as using online chatting or video blogging—should find it easy to track down and implement a quick dice-rolling program.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Les joueurs qui font un usage intensifs de techonolgies online pour jouer - tels que les discussions en ligne ou les blogs vidéos - peuvent trouver plus simple de trouver et implémenter rapidement un petit programme de lancer de dés.</seg>
+        <seg>Les joueurs qui font un usage intensif de techonolgies online pour jouer - tels que les discussions en ligne ou les blogs vidéos - peuvent trouver plus simple de créer et implémenter rapidement un petit programme de lancer de dés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7001,7 +7001,7 @@
         <seg>So many concepts to grasp, so many ideas that seem overwhelming.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Il y a tellement de concepts à saisir, tellement d'idée qui semblent écrasantes.</seg>
+        <seg>Il y a tellement de concepts à saisir, tellement d'idées qui semblent écrasantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7009,7 +7009,7 @@
         <seg>Just as described under What is a Roleplaying Game?, however, how often have you read a book or watched that movie and decided that you would have done it better?</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Cependant, comme décrit sous Qu'est-ce qu'un Jeu de Rôle?, combien de fois avez-vous lus un livre ou vu un film et décidés que vous auriez fait mieux?</seg>
+        <seg>Cependant, comme décrit à la section Qu'est-ce qu'un Jeu de Rôle?, combien de fois avez-vous lus un livre ou vu un film et décidés que vous auriez fait mieux?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7025,7 +7025,7 @@
         <seg>Just dive in and you'll be amazed at how quickly you can immerse yourself in the Eclipse Phase universe.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>laissez-vous simplement aller et vous serez étonnés de la vitesse à laquelle vous pouvez vous immerger dans l'univers d'Eclipse Phase.</seg>
+        <seg>Laissez-vous simplement aller et vous serez étonnés de la vitesse à laquelle vous pouvez vous immerger dans l'univers d'Eclipse Phase.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7049,7 +7049,7 @@
         <seg>Your gaming group is your best resource.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Votre grouep de jeu est la meilleure d'entre elles.</seg>
+        <seg>Votre groupe de jeu est la meilleure d'entre elles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7057,7 +7057,7 @@
         <seg>What's going on, ideas for how to handle a situation, or how to take on a bad guy: these are just some of the things that can and should be discussed by the gaming group in between sessions, and each is an opportunity to strengthen your imagination.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Ce qu'il s'y passe, des idées pour gérer une situation, ou sur comment vaincre le méchant: ce sont juste quelques unes des choses qui peuvent et doivent être disuctée par le groupe de joueur entre les sessions, et chacune de ces discussions est une opportunité de développer votre imagination.</seg>
+        <seg>Ce qu'il s'y passe, les idées pour gérer une situation ou pour vaincre le méchant: ce sont juste quelques unes des choses qui peuvent et doivent être disuctées par le groupe de joueur entre les sessions, et chacune de ces discussions est une opportunité de développer votre imagination.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7065,7 +7065,7 @@
         <seg>Another resource is simply watching TV or reading a good book.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Une autre ressources est de simplement regader la télé ou de lire un bon livre.</seg>
+        <seg>Une autre ressource est de simplement regader la télé ou de lire un bon livre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7105,7 +7105,7 @@
         <seg>If you have questions about the game or want to see how another group of players handles a given situation, post on the forums.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Si vous avez des questiosn à propos du jeu, ouq ue vous voulez savoir comment un autre groupe de joueur gèrerai une situation, postez sur les forums.</seg>
+        <seg>Si vous avez des questions à propos du jeu, ou que vous voulez savoir comment un autre groupe de joueur gèrerai une situation, postez sur les forums.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7129,7 +7129,7 @@
         <seg>The players can take on a variety of roles in Eclipse Phase.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Le sjoueurs peuvent remplir toute une variété de rôles dans Eclipse Phase.</seg>
+        <seg>Les joueurs peuvent remplir toute une variété de rôles dans Eclipse Phase.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7145,7 +7145,7 @@
         <seg>With bodies taking on the role of gear, players can customize their forms for the task at hand.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Avec les corps qui se retrouvent au rôle d'équipement, les joueurs peuvent personnaliser leur apparence pour la tâche à venir.</seg>
+        <seg>Avec les corps qui se retrouvent réduit au rôle d'équipement, les joueurs peuvent personnaliser leur apparence pour la tâche à venir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7161,7 +7161,7 @@
         <seg>In the default story (also known as ``campaign setting''), every player character is a ``sentinel,'' an agent-on-call (or potential recruit) for a shadowy network known as ``Firewall.'' Firewall is dedicated to counteracting ``existential risks''—threats to the existence of transhumanity.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Dans l'histoire par défaut (aussi appellée &quot;cadre de campagne&quot;), chaque personnage joueur est une &quot;sentinelle&quot;, un agent disponible (ou une recrue potentielle) pour un réseau paralégal appelé &quot;Firewall&quot;. Firewall est dédiée à contrer les &quot;risques existentiels&quot; - des menaces à l'existence de la transhumanité.</seg>
+        <seg>Dans l'histoire par défaut (aussi appellée &quot;cadre de campagne&quot;), chaque personnage joueur est une &quot;sentinelle&quot;, un agent disponible (ou une recrue potentielle) pour un réseau paralégal appelé &quot;Firewall&quot;. Firewall est dédié à contrer les &quot;risques existentiels&quot; - des menaces à l'existence de la transhumanité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7177,7 +7177,7 @@
         <seg>Firewall isn't content to simply counteract these threats as they arise, of course, so characters may also be sent on information- gathering missions or to put in place pre-emptive or failsafe measures.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Firewall ne se contente évidement pas de simplement contrer ces menaces au moment où elles apparaissent,les personnages peuvent donc être également envoyés sur des missions de renseignement ou pour mettre en place des mesures de prévention ou de sécurité.</seg>
+        <seg>Firewall ne se contente évidement pas de simplement contrer ces menaces au moment où elles apparaissent, les personnages peuvent donc être également envoyés sur des missions de renseignement ou pour mettre en place des mesures de prévention ou de sécurité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7185,7 +7185,7 @@
         <seg>Characters may be tasked to investigate seemingly innocuous people and places (who turn out not to be), make deals with shady criminal networks (who turn out not to be trustworthy), or travel through a Pandora's Gate wormhole to analyze the relics of some alien ruin (and see if the threat that killed them is still real).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Les personnages peuventêtre chargés d'enquêter sur des personnes ou des lieux apparement innofensifs (et qui se rèveleront ne pas l'être), de négocier des arrangements avec d'obscures réseaux criminels (qui se réveleront ne pas être digne de confiance), ou de voyager à travers le trou de ver d'une Porte de Pandorre pour annalyser des reliques d'une ruine alien quelconque (et de vérifier si la menace qui les as tués est toujours là).</seg>
+        <seg>Les personnages peuvent être chargés d'enquêter sur des personnes ou des lieux apparement innofensifs (et qui se rèveleront ne pas l'être), de négocier des arrangements avec d'obscurs réseaux criminels (qui se réveleront ne pas être digne de confiance), ou de voyager à travers le trou de ver d'une Porte de Pandore pour annalyser des reliques d'une ruine alien quelconque (et de vérifier si la menace qui les as tués est toujours là).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7193,7 +7193,7 @@
         <seg>Sentinels are recruited from every faction of transhumanity; those who aren't ideologically loyal to the cause are hired as mercenaries.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Les snetinelles sont recrutés dans toutes les factins de la transhumanité; ceux qui ne sont pas idéologicallement loyaux à la cause sont recrutés en tant que mercenaires.</seg>
+        <seg>Les sentinelles sont recrutés dans toutes les factions de la transhumanité; ceux qui ne sont pas idéologicallement loyaux à la cause sont recrutés en tant que mercenaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7201,7 +7201,7 @@
         <seg>These campaigns tend to mix a bit of mystery and investigation with fierce bouts of action and combat, also stirring in a nice dose of awe and horror.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Ces campagnes ont tendance à se méler à un peu de mystères et d'investigation avec des scènes d'actions et de combats achanés, se baignant dans une bonne dose de crainte et d'horreur.</seg>
+        <seg>Ces campagnes ont tendance à se méler à un peu de mystère et d'investigation avec des scènes d'actions et de combats achanés, se baignant dans une bonne dose de crainte et d'horreur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7217,7 +7217,7 @@
         <seg>When they're not saving the solar system, sentinels are free to pursue their own endeavors.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Quand ils ne sont aps en train de sauver le système solaire, les sentinelles sont libres de poursuivre leurs propres buts.</seg>
+        <seg>Quand ils ne sont pas en train de sauver le système solaire, les sentinelles sont libres de poursuivre leurs propres buts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7233,7 +7233,7 @@
         <seg>However, the following examples provide a brief look at the most obvious opportunities for adventure in Eclipse Phase.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Cependant, les examples suivants fournissent un rapide aperçu des opportunités les plus évidentes pour des aventures dans Elcipse Phase.</seg>
+        <seg>Cependant, les exemples suivants fournissent un rapide aperçu des opportunités les plus évidentes pour des aventures dans Elcipse Phase.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7257,7 +7257,7 @@
         <seg>For example, in a traditional detective story, the archetypes would be the Detective, the Damsel In Distress, the Hard-bitten Cop, and so on.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Par example, dans une histoire de détective classique, les archétypes seraient le Détective, la Demoiselle en Détresse, le Flic Dur à cuir, etc.</seg>
+        <seg>Par exemple, dans une histoire de détective classique, les archétypes seraient le Détective, la Demoiselle en Détresse, le Flic Dur à cuir, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7265,7 +7265,7 @@
         <seg>In a cowboy movie, the archetypes would be the Gunfighter, the Bartender, the Marshal, the Indian Brave, and so on.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Dans un film de cowboy, les archétypes seraint le Pistolero, le Barman, le Shériff, le Brave Indien, etc.</seg>
+        <seg>Dans un film de cowboy, les archétypes seraient le Pistolero, le Barman, le Shériff, le Brave Indien, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7273,7 +7273,7 @@
         <seg>Players will note that some archetypes fit into multiple story settings.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Les joueurs noterons que plsuieurs archétypes correspondant à de multiple cadre de scénario.</seg>
+        <seg>Les joueurs noterons que plusieurs archétypes correspondant à de multiple cadre de scénario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7313,7 +7313,7 @@
         <seg>Potential hauls include: weapon systems; physical resources; lost databanks; left-behind uploads of friends, family, or important people; new technologies developed and lost in the brief singularity takeoff; valued heirlooms of immortal oligarchs; and much more.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Les trouvailles peuvent inclure: des systèmes d'armement; des ressources physiques; des banques de données perdues; des uploads abandonnés d'amis, de membres de la famille, ou de personnes importantces; de nouvelles technologies développées et perdues lors du rapide décollage de la singularité; des héritages de valeur pour des oligarques immortels; et bien plus.</seg>
+        <seg>Les trouvailles peuvent inclure: des systèmes d'armement; des ressources physiques; des banques de données perdues; des uploads abandonnés d'amis, de membres de la famille ou de personnes importantes; de nouvelles technologies développées et perdues lors du décollage brutal de la singularité; des héritages de valeur pour des oligarques immortels; et bien plus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7353,7 +7353,7 @@
         <seg>{Exploration:} There are plenty of opportunities to be had as an explorer, colonist, or long-range scout—perhaps even as one of the few lucky or suicidal individuals who explore through an untested Pandora's Gate.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Exploration:} Il y a pas mal d'opportunités à être un explorateur, un colonisateur, ou un éclaireur avancé - peut-être même l'un des rare individus chanceux ou suicidaires qui explorent via une Porte de Pandorre non testée.</seg>
+        <seg>{Exploration:} Il y a pas mal d'opportunités à être un explorateur, un colon, ou un éclaireur avancé - peut-être même l'un des rare individus suffisament chanceux ou suicidaires et qui explorent via une Porte de Pandorre non testée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7369,7 +7369,7 @@
         <seg>Many dangers also lurk in odd corners of the system, from isolationist posthuman factions to secretive criminal cartels, as well as pirates, aliens, and others wishing to remain out of sight.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Il y a aussi de nombreux danegrs qui rôdent dans les recoins étranges du système, depuis des factions posthumaines isolationnsits au cartels criminels cachés, en passant par les pirates, les aliens et d'autres choses qui veulent demeurer hors de vue.</seg>
+        <seg>Il y a aussi de nombreux dangers qui rôdent dans les recoins étranges du système, des factions posthumaines isolationnistes aux cartels criminels cachés, en passant par les pirates, les aliens et d'autres choses qui veulent demeurer hors de vue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7393,7 +7393,7 @@
         <seg>In the post-scarcity outer system, trade takes on a different form, with information, favors, and creativity serving as currency among those who no longer want for anything due to the availability of cornucopia machines.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Dans les systèmes post-abondance à l'extérieur, le commerce prend une forme différente, avec l'information, les faveurs et la créativité qui servent de monnaie parmi ceux qui n'ont plus besoind e quoi que ce soit grâce à la disponibilité des machines d'abondances.</seg>
+        <seg>Dans les systèmes post-abondance à l'extérieur, le commerce prend une forme différente, avec l'information, les faveurs et la créativité qui servent de monnaie parmi ceux qui n'ont plus besoin de quoi que ce soit grâce à la disponibilité des machines d'abondances.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7401,7 +7401,7 @@
         <seg>(Free Trader/Smuggler/Black Marketeer/Pirate)</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>(Libre-Échangistes/Contrebandier/Marchang Noir/Pirate)</seg>
+        <seg>(Libre-Échangistes/Contrebandier/Marchand Noir/Pirate)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7409,7 +7409,7 @@
         <seg>{Crime:} The patchwork of city-state habitats and widely varying laws throughout the system create ample opportunity for those who would make a living from this situation.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Crime:} L'assemblage hétéroclites d'habitats de la taille d'une ville et les lois variant grandmenet à travers le système ont créés d'amples opportunités pour ceux qui voudraient faire de cette situation leur gagne-pain.</seg>
+        <seg>{Crime:} L'assemblage hétéroclite d'habitats de la taille d'une ville et les lois variant grandmenet à travers le système ont créés d'amples opportunités pour ceux qui voudraient faire de cette situation leur gagne-pain.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7417,7 +7417,7 @@
         <seg>Black market commodities and activities include infomorph-slave trading, pleasure pod sex industries, data brokerage and theft, extracting/smuggling advanced technologies and scientists, political/economic espionage, assassination, drug and XP dealing, soul-trading, and much more.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Les marchandises et activités du marché noir incluent l'échange d'esclave infomorph, les industries du plaisir et des sex pods, l'échange et le vol de données, l'exfiltration et le convoyage de technologies avancées et de scientifiques, espionnage politique et économique, l'assassinat, la vente de drogues et d'XP, l'échange d'âme, et bien d'autres choses.</seg>
+        <seg>Les marchandises et activités du marché noir incluent l'échange d'esclave infomorph, les industries du plaisir et des sex pods, l'échange et le vol de données, l'exfiltration et le convoyage de technologies avancées et de scientifiques, el'spionnage politique et économique, l'assassinat, la vente de drogues et d'XP, l'échange d'âme, et bien d'autres choses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7433,7 +7433,7 @@
         <seg>(Criminal/Smuggler/ Pirate/Fixer/Black Marketeer/Genehacker/Hacker/ Covert Ops)</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>(Criminel/Contrebandier/Pirate/Arrangeur/Marchand Noir/GénéHacker/Hacker/Infiltrateur)</seg>
+        <seg>(Criminel/Contrebandier/Pirate/Arrangeur/Marchand Noir/GénoHacker/Hacker/Infiltrateur)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7441,7 +7441,7 @@
         <seg>{Mercenaries:} The constant maneuvering of ideologically-driven factions, the squabbling over contested resources, and the rush to colonize new exoplanets beyond the Pandora Gates all spark new conflicts on a regular basis.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Mercenaires:} Les manœuvres permanente des factions à caractères idéologique, les disputes autours de ressources contestées, et la ruée vers la colonisation de nouvelles exoplanètes au delà des Portes de Pandorre sont à l'origine de conflits sur des bases régulières.</seg>
+        <seg>{Mercenaires:} Les manœuvres permanente des factions à caractère idéologique, les disputes autour de ressources contestées, et la ruée vers la colonisation de nouvelles exoplanètes au delà des Portes de Pandorre sont à l'origine de conflits sur des bases régulières.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7449,7 +7449,7 @@
         <seg>Some of these simmer and seeth as low-intensity conflicts for years, occasionally flaring into raids and clashes.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Certains d'entre eux couvent pendant des années en tant que conflits de faiblent intensité, dégénérant occasionnellemnt dans des raids et des affrontements.</seg>
+        <seg>Certains d'entre eux couvent pendant des années en tant que conflits de faible intensité, dégénérant occasionnellement en raids et affrontements.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7465,7 +7465,7 @@
         <seg>Women and men willing to bear arms for credits are always in demand for good wages.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Des femmes et des hommes voulant prendre els armes pour des crédits sont toujours à la recherche de bonnes paies.</seg>
+        <seg>Des femmes et des hommes voulant prendre les armes pour des crédits sont toujours à la recherche de bonnes paies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7473,7 +7473,7 @@
         <seg>Players can engage in commando and military campaigns in habitats, between the stars, or in hostile planetary environments.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Les joueurs peuvent s'engager dans des campagne commandos et militaire dans des habitats, au milieu des étoiles, ou dans l'environnement hostile d'une planète.</seg>
+        <seg>Les joueurs peuvent s'engager dans des campagne commando et militaire dans des habitats, au milieu des étoiles, ou dans l'environnement hostile d'une planète.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7489,7 +7489,7 @@
         <seg>{Socio-Political Intrigue:} The corporations and political factions that span the solar system do not always play nice with each other, but neither is it wise for them to openly confront each other except under extreme circumstances.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{intrigue Socio-Politique:} Les corporations et les factions politiques qui couvrent tout le système solaire ne respectent aps toujours les règles du jeu en jouant avec les autres, mais il n'est pas simple pour autant poue eux de se confronter ouevrtement els uns aux autres sauf en de rares circonstances.</seg>
+        <seg>{intrigue Socio-Politique:} Les corporations et les factions politiques qui couvrent tout le système solaire ne respectent pas toujours les règles du jeu en jouant avec les autres, mais il n'est pas simple pour autant pour eux de se confronter ouvertement les uns aux autres sauf en de rares circonstances.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7497,7 +7497,7 @@
         <seg>Many battles are fought with diplomacy and political maneuvering, using words and ideas more potent than weapons.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Beaucoup de batailles ont été menées par des manœuvres diplomatiques et politiques, en utilisant des mots et des idées plus puissantes que des armes.</seg>
+        <seg>Beaucoup de batailles ont été remportées par des manœuvres diplomatiques et politiques, en utilisant des mots et des idées plus puissantes que des armes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7505,7 +7505,7 @@
         <seg>Even within factions, social cliques can compete ruthlessly, or heated class confl icts can come to a boil, tearing a society apart from within.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>A l'intérieur même des factions, différentes groupes sociaux peuvent se mener une concurrence sans pitié, ou les luttes de classes surchauffées peuvent peuvent arriver à ébullition, déchirant une société de l'intérieur.</seg>
+        <seg>A l'intérieur même des factions, différents groupes sociaux peuvent se mener une concurrence sans pitié, ou les luttes de classes surchauffées  peuvent arriver à ébullition, déchirant une société de l'intérieur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7537,7 +7537,7 @@
         <seg>While Eclipse Phase is set in the not-too-distant future, the changes that have taken place due to the advancements of technology have transformed the Earth and its inhabitants almost beyond recognition.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Alros qu'Eclipse Phase se déroule dans un futur proche, les changements qui ont été effectués suite à l'avancée technologique ont transformés la Terre et ses habitants de manière méconnaissable.</seg>
+        <seg>Alors qu'Eclipse Phase se déroule dans un futur proche, les changements qui ont été effectués suite à l'avancée technologique ont transformés la Terre et ses habitants de manière méconnaissable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7545,7 +7545,7 @@
         <seg>As players dive into the universe, they'll generally encounter one of the following settings.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Alros que les joueurs plongent dans l'univers, ils rencontrerosn généralement l'un des cadres suivants.</seg>
+        <seg>Alros que les joueurs plongent dans l'univers, ils rencontrerons généralement l'un des cadres suivants.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7561,7 +7561,7 @@
         <seg>The Earth has been left an ecologically-devastated ruin, but humanity has taken to the stars.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>La Terre est devenue une ruine écologiquement dévastée, masi l'humanité s'est envolé vers les étoiles.</seg>
+        <seg>La Terre est devenue une ruine écologiquement dévastée, mais l'humanité s'est envolée vers les étoiles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7569,7 +7569,7 @@
         <seg>When Earth was abandoned, so too were the last of the great nation-states; transhumanity now lacks a single unifying governing body and is instead subject to the laws and regulations of whomever controls a given habitat.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Lorsque la Terre a été abandonnée,  il en fut autant des derniers états-nation; la transhumanité manque maintenant d'un corps gouvernemental unis et est maintenant assujettie aux lois et aux régulations de quiconqie contrôle un habitat donné.</seg>
+        <seg>Lorsque la Terre a été abandonnée,  il en fut autant des derniers états-nation; la transhumanité manque maintenant d'un corps gouvernemental uni et est maintenant assujettie aux lois et aux régulations de quiconque contrôle un habitat donné.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7577,7 +7577,7 @@
         <seg>The majority of transhumanity is confined to orbital habitats or satellite stations scattered throughout the Sol system.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>La majorité de la transhumanité est confinée dans des habitats orbitaux ou des statiosn sattelites éparpillées à traver tout le système Sol.</seg>
+        <seg>La majorité de la transhumanité est confinée dans des habitats orbitaux ou des stations sattelites éparpillées à traver tout le système Sol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7585,7 +7585,7 @@
         <seg>Some of these were constructed from scratch in the orbit or Lagrange points of planetary bodies, others have been hewn out of solid satellites and large asteroids.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Certains d'entre eux ont été construits à partir de rien en orbit ou aux points de Lagrange des corps planétraires, d'autres ont été creusés dans des sattelites et de gros astéroïdes.</seg>
+        <seg>Certains d'entre eux ont été construits à partir de rien en orbite ou aux points de Lagrange des corps planétraires, d'autres ont été creusés dans des sattelites et de gros astéroïdes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7593,7 +7593,7 @@
         <seg>These stations have myriad purposes from trade to warfare, espionage to research.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Ces stations possèdent des myriades de but du commerce à la guerre, en passant apr l'espionnage et la recherche.</seg>
+        <seg>Ces stations possèdent des myriades de but, du commerce à la guerre, en passant par l'espionnage et la recherche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7601,7 +7601,7 @@
         <seg>Mars continues to be one of transhumanity's largest settlements, though it too, suffered heavily during the Fall.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Mars continue d'êþre l'une des plus grandes colonnies de la transhumanité, même si elle a également été durement impactée par la Chute.</seg>
+        <seg>Mars continue d'être l'une des plus grandes colonnies de la transhumanité, même si elle a également été durement impactée par la Chute.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7609,7 +7609,7 @@
         <seg>Numerous cities and settlements remain, however, though the planet is only partially terraformed.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>De nombreuses cités et colonnies persistent, m€me si la terraformation de la planète n'est que partielle.</seg>
+        <seg>De nombreuses cités et colonnies persistent, même si la terraformation de la planète n'est que partielle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7625,7 +7625,7 @@
         <seg>Additionally, there are a small number of colonies that have been established on exoplanets (on the other side of the Pandora Gates) with environments that are not too hostile towards humanity.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Il faut également compter un petit nombre de colonnies établies sur des exoplanètes (de l'autre cœté des Porte de Pandorre) qui possèdent des environnement peu hostile envers l'humanité.</seg>
+        <seg>Il faut également compter un petit nombre de colonnies établies sur des exoplanètes (de l'autre côté des Porte de Pandorre) qui possèdent des environnement peu hostile envers l'humanité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7641,7 +7641,7 @@
         <seg>Some of these rovers intentionally exile themselves to the far limits of the solar system, far from everyone else, while others actively trade from habitat to habitat, station to station, serving as mobile black markets.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Certains de ces vagabond s'exilent intenstionnelement aux confins du système solaires, loin de tout le reste du monde, alors que d'autres commercent activement d'habitat en stations,d e stations en habitats, servant de marché noirs mobiles.</seg>
+        <seg>Certains de ces vagabond s'exilent intenstionnelement aux confins du système solaires, loin de tout le reste du monde, alors que d'autres commercent activement d'habitat en stations, de stations en habitats, servant de marché noirs mobiles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7665,7 +7665,7 @@
         <seg>Lying betwixt these occasional outposts of questionable civilization are mysteries both dangerous and wonderful.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Reposant entre ces avant-postes occasionnels de civilisations douteuse se trouve des mystères à la fois danegreux et merveilleux.</seg>
+        <seg>Reposant entre ces avant-postes occasionnels de civilisations parfois douteuse se trouvent des mystères à la fois dangereux et merveilleux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7673,7 +7673,7 @@
         <seg>Ever since the discovery of the Pandora Gates, there has been no shortage of adventurers brave or foolhardy enough to strike out on their own into the unknown regions of space in hopes of finding more alien artifacts, or even establishing contact with one of the other sentient races in the universe.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Depuis la découverte des Portes de pandorre, il n'y a pas eu pénurie d'avnturiers suffisament courageux ou intrépides pour s'aventurer seuls dans les régions inconues de l'espace dans l'espoir de trouver un artefacts étranger, voire d'établir le contact avec l'une des autres espèces conscientes de l'univers.</seg>
+        <seg>Depuis la découverte des Portes de Pandore, il n'y a pas eu pénurie d'avnturiers suffisament courageux ou intrépides pour s'aventurer seuls dans les régions inconnues de l'espace dans l'espoir de trouver un artefact étranger, voire d'établir le contact avec l'une des autres espèces consciente de l'univers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7689,7 +7689,7 @@
         <seg>While not a ``setting'' in the traditional sense, as the sections describe above, the computer networks known as the ``mesh'' are all-pervasive.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Bien que n'étant pas un &quot;cadre&quot; dans le sens traditionnel, contrairement aux sectiosn décrites ci-dessus, le réseau informatique connu sous le nom de &quot;mesh&quot; est omniprésent.</seg>
+        <seg>Bien que n'étant pas un &quot;cadre&quot; dans le sens traditionnel, contrairement aux sections décrites ci-dessus, le réseau informatique connu sous le nom de &quot;mesh&quot; est omniprésent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7697,7 +7697,7 @@
         <seg>This ubiquitous computing environment is made possible thanks to advanced computer technologies and nanofabrication that allow unlimited data storage and near-instantaneous transmission capacities.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>La nature omniprésente de l'environnement informatique a été rendu possible grâce aux techonogies informatique avancées et à la nanofabrication qui permettent un stockage de données illimité et des capacités de transmissions quasi-instantane.</seg>
+        <seg>La nature omniprésente de l'environnement informatique a été rendu possible grâce aux techonogies informatique avancées et à la nanofabrication qui permettent un stockage de données illimité et des capacités de transmissions quasi-instantanée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7705,7 +7705,7 @@
         <seg>With micro-scale, cheap-to-produce wireless transceivers so abundant, literally everything is wirelessly connected and online.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Avec des émetteurs-récepeteurs sans fil microscopique, et peu cher à fabriquer,  tellement abodnant, absolument tout possède une connexion sans-fil et est connecté.</seg>
+        <seg>Avec des émetteurs-récepeteurs sans fil microscopique, et peu cher à fabriquer et en surabondance, absolument tout possède une connexion sans-fil et est connecté.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7721,7 +7721,7 @@
         <seg>People's entire lives are recorded and lifelogged, shared with others on one of numerous social networks that link everyone together in a web of contacts, favors, and reputation systems.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>La vie entière de personnes est enregistrée et enregistrée à vie, partagée avec d'autres sur l'un des nombreux réseaux sociaux qui relient les gens entre eux dasn une toile de contact, de faveur et de système réputationnels.</seg>
+        <seg>La vie entière de personnes est enregistrée et commentée, partagée avec d'autres sur l'un des nombreux réseaux sociaux qui relient les gens entre eux dans une toile de contact, de faveur et de systèmes réputationnels.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7769,7 +7769,7 @@
         <seg>The process isn't cheap or easy, but it does guarantee you effective immortality—as long as you remember to back yourself up and don't go insane.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Le processuss n'est ni bon marché, ni simple, mais il garantis votre immortalité effective - tant que vous vous rappelez de vous sauvegardez et que vous en devenez pas fou.</seg>
+        <seg>Le processuss n'est ni bon marché, ni simple, mais il vous garanti une immortalité effective - tant que vous vous rappelez de vous sauvegarder et que vous ne devenez pas fou.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7785,7 +7785,7 @@
         <seg>A character's morph may die, but the character's ego may live on, assuming appropriate backup measures have been taken.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>La morph d'un personnage peu mourrir, mais l'ego du personnage continuera à vivre, du moment que les mesures de sauvegardes nécessaires ont été prises.</seg>
+        <seg>La morph d'un personnage peu mourir, mais l'ego du personnage continuera à vivre, du moment que les mesures de sauvegardes nécessaires ont été prises.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7793,7 +7793,7 @@
         <seg>Morphs are expendable, but your character's ego represents the ongoing, continuous life path of your character's mind and personality.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Les morphs sont immuables, mais l'ego de votre personnage représente lea continuité des chemins pris par son esprit et sa personnalité tout au long de sa vie.</seg>
+        <seg>Les morphs sont immuables, mais l'ego de votre personnage représente la continuité des chemins pris par son esprit et sa personnalité tout au long de sa vie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7825,7 +7825,7 @@
         <seg>Now that you know what this game is about, we suggest that you next read the Time of Eclipse chapter (p.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>maintenant que vous savez de quoi parle ce jeu, nosu vous suggérons de lire le chapitre le temps de l'Eclipse (p.</seg>
+        <seg>Maintenant que vous savez de quoi parle ce jeu, nous vous suggérons de lire le chapitre Une Époque d'Eclipse (p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7833,7 +7833,7 @@
         <seg>30), to get a feel for the game's default setting (which you are, of course, free to change to suit your whims).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>30), pour avoir une idée du cadre de jeu par dféaut (que vous êtes, bien entendu, libre de changer pour  l'adpater à vos envies).</seg>
+        <seg>30), pour avoir une idée du cadre de jeu par défaut (que vous êtes, bien entendu, libre de changer pour  l'adapter à vos envies).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7841,7 +7841,7 @@
         <seg>Then read the Game Mechanics chapter (p.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Lisez ensuite le chapitre Mécanismes de Jeu (p.</seg>
+        <seg>Lisez ensuite le chapitre Mécaniques de Jeu (p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7889,7 +7889,7 @@
         <seg>While not all-inclusive, this list of terminology will allow players to quickly acclimate themselves for their journey into Eclipse Phase.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Bien que non exhaustifs, cette liste de terme permettra aux joueurs de s'acclimater rapidement à leur voyage dans Eclipse Phase.</seg>
+        <seg>Bien que non exhaustive, cette liste de terme permettra aux joueurs de s'acclimater rapidement à leur voyage dans Eclipse Phase.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7913,7 +7913,7 @@
         <seg>Note that several of the words on this list are standard scientific terms, often used in astronomy.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Notez que plusieurs des mots sur la liste sont des termes scientifiques standar, souvent utilisé en astronomie.</seg>
+        <seg>Notez que plusieurs des mots sur la liste sont des termes scientifiques standard, souvent utilisé en astronomie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7921,7 +7921,7 @@
         <seg>As Eclipse Phase attempts to remain as close to ``hard science'' as possible—while allowing players to interact with the great stories waiting to unfold—such terms are used liberally.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Comem Eclipse Phase essaye de reseter aussi proche que possible du &quot;hard science&quot; - tout en permettant aux joueurs d'interagir avec les passionantes histories qui attendent d'être révélées - de tels termes sont utilisés librement.</seg>
+        <seg>Comme Eclipse Phase essaye de rester aussi proche que possible du &quot;hard science&quot; - tout en permettant aux joueurs d'interagir avec les passionantes histoires qui attendent d'être révélées - de tels termes sont utilisés librement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7961,7 +7961,7 @@
         <seg>Also known as ``strong AI'' (differentiating from more specialized ``weak AI'').</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Aussi connues sous le nom de &quot;IA forte&quot; (par opposition au &quot;IA limitées&quot; plus spécialisée).</seg>
+        <seg>Aussi connues sous le nom de &quot;IA forte&quot; (par opposition aux &quot;IA limitées&quot; plus spécialisée).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7977,7 +7977,7 @@
         <seg>Generally used to refer to weak AIs; i.e., AIs that do not encompass (or in some cases, are completely outside of) the full range of human cognitive abilities.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Générallement utilisé pour se référer à une IA faible; c'ets à dire des IAs qui n'englobent pas (ou dans certains cas, qui sont complètement hors de) toute la portée des capacités cognitives humaines.</seg>
+        <seg>Généralement utilisé pour se référer à une IA faible; c'est à dire des IAs qui n'englobent pas (ou dans certains cas, qui sont complètement hors de) toute la portée des capacités cognitives humaines.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7993,7 +7993,7 @@
         <seg>&lt;u4&gt; Anarchist: Someone who believes government is unnecessary, that power corrupts, and that people should control their own lives through self-organized individual and collective action.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u4&gt; Anarchiste: Suql'un qui croit que le gouvernement n'est pas nécessaire, que le pouvoir corromps, et que les gens doivent contrôller leur propre vie à travers l'auto-organisation individuelles et l'action collective.</seg>
+        <seg>&lt;u4&gt; Anarchiste: Quelq'un qui croit que le gouvernement n'est pas nécessaire, que le pouvoir corromp, et que les gens doivent contrôller leur propre vie à travers l'auto-organisation individuelle et l'action collective.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8025,7 +8025,7 @@
         <seg>Information from the mesh (universal data network) that is overlaid on your real-world senses.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Information du mesh (réseau de donnée universel) qui est superposé à vos sens du monde réel.</seg>
+        <seg>Informations du mesh (réseau de donnée universel) qui sont superposées à vos sens du monde réel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8033,7 +8033,7 @@
         <seg>AR data is usually entoptic (visual), but can also be audio, tactile, olfactory, kinesthetic (body awareness), emotional, or other types of input.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Les données RA sont habituellement entoptique (visuelles), masi peuvent aussi être audio, tactiles, olfactives, kinesthésique (conscience corporelle), émotionnelles ou tout autre type d'entrée.</seg>
+        <seg>Les données RA sont habituellement entoptique (visuelles), mais peuvent aussi être auditives, tactiles, olfactives, kinesthésique (conscience corporelle), émotionnelles ou tout autre type d'entrée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8057,7 +8057,7 @@
         <seg>The distance between the Earth and the Sun, equal to 8.3 light minutes, or about 150 million kilometers.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>La distance entre al Terre et le Soleil, équivalent ) 8,3 minutes lumières, ou à peu près 150 millions de kilomètres.</seg>
+        <seg>La distance entre la Terre et le Soleil, équivalent à 8,3 minutes lumières, ou à peu près 150 millions de kilomètres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8081,7 +8081,7 @@
         <seg>&lt;u12&gt; Basilisk Hack: An image or other sensory input that affects the brain's visual cortex and pattern recognition abilities in such a way as to cause a glitch and possibly exploit it and rewrite neural code.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u12&gt; Piratage Basilique: Une image ou toute autre entrée sensorielle qui affecte le cortex visuel du cerveau aisniq eu ses capacités de recognition de motifs d'une manière à provoquer une erreur et de peut-être l'exploiter pour réécrire du code neuronal.</seg>
+        <seg>&lt;u12&gt; Piratage Basilique: Une image ou toute autre entrée sensorielle qui affecte le cortex visuel du cerveau aisni que ses capacités de recognition de motifs d'une manière à provoquer une erreur et de peut-être l'exploiter pour réécrire du code neuronal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8089,7 +8089,7 @@
         <seg>&lt;u13&gt; Beehive: A microgravity habitat made from a tunneledout asteroid or moon.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u13&gt; Ruche: Un habitat à microgravité créé dans un astéroKde ou une lune évidée.</seg>
+        <seg>&lt;u13&gt; Ruche: Un habitat à microgravité créé dans un astéroïde ou une lune évidée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8105,7 +8105,7 @@
         <seg>&lt;u15&gt; Bioconservative: An anti-technology movement that argues for strict regulation of nanofabrication, AI, uploading, forking, cognitive enhancements, and other disruptive technologies.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u15&gt; Bioconservateurs: Un mouvement anti-technologie qui milite pour une régulation stricte des nanofabers, des IA, de l'upload, du fork, des améliorations cognitives et de toute autre techonologie perturbatrice.</seg>
+        <seg>&lt;u15&gt; Bioconservateurs: Un mouvement anti-technologie qui milite pour une régulation stricte de la nanofabrication, des IA, de l'upload, du fork, des améliorations cognitives et de toute autre techonologie perturbatrice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8113,7 +8113,7 @@
         <seg>&lt;u16&gt; Biomorph: A biological body, whether a flat, splicer, genetically engineered transhuman, or pod.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u16&gt; Biomorph: Un corps bilogique, qu'ils 'agisse d'un plat, d'un splicer, d'un transhumain génétiquement amélioré ou d'un pod.</seg>
+        <seg>&lt;u16&gt; Biomorph: Un corps bilogique, qu'i ls'agisse d'un plat, d'un splicer, d'un transhumain génétiquement amélioré ou d'un pod.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8129,7 +8129,7 @@
         <seg>Aka dollhouse, morgue.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>voir aussi: maison de poupée, morgue</seg>
+        <seg>Aussi appelé maison de poupée, morgue</seg>
       </tuv>
     </tu>
     <tu>
@@ -8145,7 +8145,7 @@
         <seg>&lt;u19&gt; Bracewell Probe: A type of autonomous monitoring deep- space probe meant to make contact with alien civilizations.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u19&gt; Sonde Bracewell: Un type de sonde de surveillance de l'espace profond autonome conçue pour établir le contact avec des civilisations étrangères.</seg>
+        <seg>&lt;u19&gt; Sonde Bracewell: Un type de sonde autonome de surveillance de l'espace profond conçue pour établir le contact avec des civilisations étrangères.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8153,7 +8153,7 @@
         <seg>&lt;u20&gt; Brinkers: Exiles who live on the fringes of the system, as well as other isolated and well-hidden nooks and crannies.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u20&gt; Brinkers: Des éxilés qui vivent aux limites du système, ansi que dans tous les autres coins et recoins bien cachés du système.</seg>
+        <seg>&lt;u20&gt; Brinkeurs: Des éxilés qui vivent aux limites du système, ansi que dans tous les autres coins et recoins bien cachés du système.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8185,7 +8185,7 @@
         <seg>&lt;u23&gt; Circumjovian: Orbiting Jupiter.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u23&gt; Circumjovien: Orbitant autour de Jupiter</seg>
+        <seg>&lt;u23&gt; Circumjovien: Orbitant autour de Jupiter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8193,7 +8193,7 @@
         <seg>&lt;u24&gt; Circumlunar: Orbiting the Moon.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u24&gt; Circumlunaire: Orbitant autour de la Lune</seg>
+        <seg>&lt;u24&gt; Circumlunaire: Orbitant autour de la Lune.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8201,7 +8201,7 @@
         <seg>&lt;u25&gt; Circumsolar: Orbiting the Sun.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u25&gt; Circumsolaire: Orbitant autour du Soleil/</seg>
+        <seg>&lt;u25&gt; Circumsolaire: Orbitant autour du Soleil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8209,7 +8209,7 @@
         <seg>&lt;u26&gt; Cislunar: Between the Earth and the Moon.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u26&gt; Cislunaire: Entre la Terre et la Lune</seg>
+        <seg>&lt;u26&gt; Cislunaire: Entre la Terre et la Lune.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8217,7 +8217,7 @@
         <seg>&lt;u27&gt; Clade: A species or group of organisms with common features.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u27&gt; Clade: Une espèce ou un groupe d'organisme partageant des caractéristique</seg>
+        <seg>&lt;u27&gt; Clade: Une espèce ou un groupe d'organisme partageant des caractéristique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8233,7 +8233,7 @@
         <seg>&lt;u28&gt; Cole Bubble: A habitat made from a hollowed-out asteroid or moon, spun for gravity.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u28&gt; Bulle Cole: Un habitat formé d'un éstaroKde ou d'une lune évidé et en rotation pour obtenir une gravité.</seg>
+        <seg>&lt;u28&gt; Bulle Cole: Un habitat formé d'un astéroïde ou d'une lune évidée et en rotation pour obtenir une gravité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8241,7 +8241,7 @@
         <seg>&lt;u29&gt; Cornucopia Machine: A general-purpose nanofabricator.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u29&gt; Machine d'Abondance: Un nanofabers a but généraliste.</seg>
+        <seg>&lt;u29&gt; Machine d'Abondance: Un nanofabeur a but généraliste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8249,7 +8249,7 @@
         <seg>&lt;u30&gt; Cortical Stack: An implanted memory cell used for ego backup.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u30&gt; Pile Corticalle: Une cellulle de mémmoire implanté utilisée pour sauvegarder un ego.</seg>
+        <seg>&lt;u30&gt; Pile Corticalle: Une cellulle de mémoire implantée et utilisée pour sauvegarder un ego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8281,7 +8281,7 @@
         <seg>&lt;u32&gt; Darkcast: Illegal and black market farcasting and egocasting services.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u32&gt; Darkcast: Services ilégaux et trouvés au marché noir d'émission longue portée et d'egocast.</seg>
+        <seg>&lt;u32&gt; Darkcast: Services de farcast et d'egocast ilégaux et trouvés au marché noir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8297,7 +8297,7 @@
         <seg>&lt;u34&gt; Drone: A robot controlled through teleoperation (rather than directly via onboard AI).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u34&gt; Drône: Un robot conrtrollé par téléopréation (plutôt que par des IA embarquées).</seg>
+        <seg>&lt;u34&gt; Drône: Un robot conrtrollé par téléopération (plutôt que par des IA embarquées).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8305,7 +8305,7 @@
         <seg>&lt;u35&gt; Ecto: Personal mesh devices that are flexible, stretchable, self-cleaning, translucent, and solar-powered.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u35&gt; Ecto: Périphériques de mesh personnel, souple, étirable, auto-nettoyant, translucide et alimenté par énergie solaire.</seg>
+        <seg>&lt;u35&gt; Ecto: Périphérique de mesh personnel, souple, étirable, auto-nettoyant, translucide et alimenté par énergie solaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8313,7 +8313,7 @@
         <seg>From ecto-link (external link).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>De ecto-liens (liens externe).</seg>
+        <seg>De ecto-lien (lien externe).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8329,7 +8329,7 @@
         <seg>Also known as ghost, soul, essence, spirit, persona.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Ausiis connu comme ghost, âme, essence, esprit, persona.</seg>
+        <seg>Aussi appelé ghost, âme, essence, esprit, persona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8337,7 +8337,7 @@
         <seg>&lt;u37&gt; Egocasting: Term for sending egos via farcasting.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u37&gt; Egocaster: Terme pour envoyer un ego par émission longue-portée.</seg>
+        <seg>&lt;u37&gt; Egocaster: Terme pour envoyer un ego par farcasting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8345,7 +8345,7 @@
         <seg>&lt;u38&gt; Entoptics: Augmented-reality images that you ``see'' in your head.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u38&gt; Entoptiques: Image de Réalité Augmentée que vous &quot;voyez&quot; dans votre tête.</seg>
+        <seg>&lt;u38&gt; Entoptiques: Images de Réalité Augmentée que vous &quot;voyez&quot; dans votre tête.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8361,7 +8361,7 @@
         <seg>The term Firewall uses to refer to the god-like post-singularity alien intelligence theorized to be responsible for the Exsurgent virus.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>le terme utilisé par Firewall pour faire référence aux intelligence étrangères post-singularités ressemblant à des dieux théoriquement responsable du virus Exsurgent.</seg>
+        <seg>Le terme utilisé par Firewall pour faire référence aux intelligence étrangères post-singularité de niveau divin théoriquement responsable du virus Exsurgent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8409,7 +8409,7 @@
         <seg>The Exsurgent virus is self-morphing and can infect both computer systems and biological creatures.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Le virus Exsurgent est mutant et peu infecter à la fois les systèmes informatique et les créature sbilogiques.</seg>
+        <seg>Le virus Exsurgent est mutant et peu infecter à la fois les systèmes informatique et les créatures biologiques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8441,7 +8441,7 @@
         <seg>&lt;u46&gt; The Fall: The apocalypse; the singularity and wars that nearly brought about the downfall of transhumanity.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u46&gt; La Chute: L'apocalypse; la singularité et les guerres qui ont presque amené l'extinction de l'humanité.</seg>
+        <seg>&lt;u46&gt; La Chute: L'apocalypse; la singularité et les guerres qui ont presque amenées l'extinction de l'humanité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8449,7 +8449,7 @@
         <seg>&lt;u47&gt; Farcasting: Intrasolar communication utilizing classical communication technologies (radio, laser, etc.) and quantum teleportation.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u47&gt; Farcasting: Communication intrasolaire utilisant des technologie de communication classiques (radio, laser, etc) et la téléportation quantique. Parfois appelée Hyeprdiff.</seg>
+        <seg>&lt;u47&gt; Farcasting: Communication intrasolaire utilisant des technologies de communication classiques (radio, laser, etc) et la téléportation quantique. Parfois appelée Hyeprdiff.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8473,7 +8473,7 @@
         <seg>&lt;u50&gt; Flatlander: Someone born or used to living on a planet or moon with gravity.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u50&gt; Bas de plancher: QUelqu'un qui est né ou habitué à vivre sur une planète ou une lune avec une gravité.</seg>
+        <seg>&lt;u50&gt; Bas de plancher: Quelqu'un qui est né ou habitué à vivre sur une planète ou une lune avec une gravité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8497,7 +8497,7 @@
         <seg>&lt;u52&gt; Flexbot: A shape-changing synthmorph also capable of joining together with other flexbots in a modular fashion to create larger shapes.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u52&gt; Transformer: Une synthmorph capable de changer de forme ou de rejoindre d'autre trasnformers afin de créer des forms plus grande et modulaires.</seg>
+        <seg>&lt;u52&gt; Flexbot: Une synthmorph capable de changer de forme ou de rejoindre d'autre trasnformers afin de créer des forms plus grande et modulaires. Aussi appelé Transformers</seg>
       </tuv>
     </tu>
     <tu>
@@ -8553,7 +8553,7 @@
         <seg>&lt;u57&gt; Genehacker: Someone who manipulates genetic code to create genetic modifications or even new life.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u57&gt; Généhacker: Quelqu'un qui manipule le code génétique pour créer des modificatiosn génétiques voire même de nouvelles formes de vie.</seg>
+        <seg>&lt;u57&gt; Génohacker: Quelqu'un qui manipule le code génétique pour créer des modifications génétiques voire même de nouvelles formes de vie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8577,7 +8577,7 @@
         <seg>&lt;u60&gt; Greeks: Trojan asteroids or moons that share the same orbit as a larger planet or moon, but are 60 degrees ahead in the orbit at the L4 Lagrange point.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u60&gt; Grecs: Astéroîdes ou lunes troyens qui partagent la même orbite qu'une planète ou lune plus grosse, mais qui ont 60 degrés d'avance sur l'orbite, au point de Lgarange L4.</seg>
+        <seg>&lt;u60&gt; Grecs: Astéroîdes ou lunes troyens qui partagent la même orbite qu'une planète ou lune plus grosse, mais qui ont 60 degrés d'avance sur l'orbite, au point de Lagrange L4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8585,7 +8585,7 @@
         <seg>The term Greeks normally refers to the asteroids orbiting around Jupiter's L4 point.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Le terme Grecs fait normalement référence aux astéroKdes autour du point L4 de Jupiter.</seg>
+        <seg>Le terme Grecs fait normalement référence aux astéroïdes orbitant autour du point L4 de Jupiter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8625,7 +8625,7 @@
         <seg>&lt;u65&gt; Iktomi: The name given to the mysterious alien race whose relics have been found beyond the Pandora Gates.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u65&gt; Iktomi: Le nom donné à la mystérieuse race étrangère dont les reliques ont été retrouvées au delà es Portes de Pandorre.</seg>
+        <seg>&lt;u65&gt; Iktomi: Le nom donné à la mystérieuse race étrangère dont les reliques ont été retrouvées au delà des Portes de Pandorre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8657,7 +8657,7 @@
         <seg>Also known as datamorphs, uploads, backups.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Aussi connus sous les noms de datamorphs, uploads, sauvegardes.</seg>
+        <seg>Aussi connus sous les noms de datamorph, uploads, sauvegardes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8673,7 +8673,7 @@
         <seg>&lt;u70&gt; Isolates: Those who live in isolated communities far outside the system (in the Kuiper Belt and Oort Cloud); aka outsters, fringers.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u70&gt; Isolés: Ceux qui vivent dans des communautés isolées loin au-delaà des limites du système (dans la Ceinture de Kuiper et el Nuage d'Oort); aussi appelés outsers, limités.</seg>
+        <seg>&lt;u70&gt; Isolés: Ceux qui vivent dans des communautés isolées loin au-delà des limites du système (dans la Ceinture de Kuiper et le Nuage d'Oort); aussi appelés outsters, limités.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8689,7 +8689,7 @@
         <seg>Also sometimes applied to accesing the real-time XP feed from lifeloggers and others.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>2galement utilisé pour l'accession à un flux XP en temps-réel de lifeblogeur et autres.</seg>
+        <seg>Également utilisé pour l'accession à un flux XP en temps-réel de lifeblogeur et autre émetteurs en temps-réel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8697,7 +8697,7 @@
         <seg>&lt;u72&gt; Kuiper Belt: A region of space extending from Neptune's orbit out to about 55 AU, lightly populated with asteroids, comets, and dwarf planets.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u72&gt; Ceinture de Kuiper: Une région de l'espace allant de l'orbite de Neptune et sur envrion 55 UA, légèrement peuplé d'astéroïdes, de comètes et de planètes naines.</seg>
+        <seg>&lt;u72&gt; Ceinture de Kuiper: Une région de l'espace partant de l'orbite de Neptune et s'étalant sur envrion 55 UA, légèrement peuplée d'astéroïdes, de comètes et de planètes naines.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8705,7 +8705,7 @@
         <seg>&lt;u73&gt; Lagrange Point: One of five areas in respect to a small planetary body orbiting a larger one in which the gravitational forces of those two bodies are neutralized.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u73&gt; Point de Lagrange: L'une des cinqs zones faisaint référence à un petit corps planétaire orbitant autour d'un plsu gros dans laquelle les forces gravitationnelles de ces deux corps sont neutralisées.</seg>
+        <seg>&lt;u73&gt; Point de Lagrange: L'une des cinqs zones relative à un petit corps planétaire orbitant autour d'un plus gros dans lesquelles les forces gravitationnelles de ces deux corps sont neutralisées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8713,7 +8713,7 @@
         <seg>Lagrange points are considered stable and ideal locations for habitats.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Les point de Lagrange sont considérés comme stable et sont des positions idéales pour des habitats.</seg>
+        <seg>Les point de Lagrange sont considérés comme stables et sont des positions idéales pour des habitats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8721,7 +8721,7 @@
         <seg>&lt;u74&gt; Lifelog: A recording of one's entire life experience, made possible due to near unlimited computer memory.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u74&gt; Lifeblog: l'enregsitrement de toute l'expérience de la vie de quelqu'un, rendue possible grâce aux acapacités mémoires des ordinateurs quasi-illimitées.</seg>
+        <seg>&lt;u74&gt; Lifeblog: L'enregistrement de toute l'expérience de la vie de quelqu'un, rendue possible grâce aux capacités mémoires des ordinateurs quasi-illimitées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8729,7 +8729,7 @@
         <seg>&lt;u75&gt; Lost Generation: In an effort to repopulate post-Fall, a generation of children were reared using forced-growth methods.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u75&gt; Generation Égarée: Dans une tentative de repeupler après la Chute, une génération d'enfant furent élevées en utilisant des techniques de croissance forcées.</seg>
+        <seg>&lt;u75&gt; Generation Égarée: Dans une tentative de repeupler après la Chute, une génération d'enfant fut élevée en utilisant des techniques de croissance forcée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8745,7 +8745,7 @@
         <seg>&lt;u76&gt; Main Belt: The main asteroid belt, a torus ring orbiting between Mars and Jupiter.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u76&gt; Ceinture Principale: La principale ceinture d'astéroïides, un anneau torique orbitant entre Mars et Jupiter.</seg>
+        <seg>&lt;u76&gt; Ceinture Principale: La principale ceinture d'astéroïdes, un anneau torique orbitant entre Mars et Jupiter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8753,7 +8753,7 @@
         <seg>&lt;u77&gt; Meme: A viral idea.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u77&gt; Meme: Une idée virale..</seg>
+        <seg>&lt;u77&gt; Meme: Une idée virale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8769,7 +8769,7 @@
         <seg>&lt;u79&gt; Mercurials: The non-human sentient elements of the transhuman ``family,'' including AGIs and uplifted animals.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u79&gt; Mercuriels: Les éléments conscient non-humaisn de la &quot;famille&quot; transhumaine; incluant les IAG et les animaux éveillés.</seg>
+        <seg>&lt;u79&gt; Mercuriels: Les éléments conscient non-humains de la &quot;famille&quot; transhumaine; incluant les IAG et les animaux éveillés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8785,7 +8785,7 @@
         <seg>Also used as a verb (to mesh) and adjective (meshed or unmeshed).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Egalement utilisé comme verbe (mesher) et comme adjective (meshé ou démeshé).</seg>
+        <seg>Egalement utilisé comme verbe (mesher) et comme adjectif (meshé ou nonmeshé).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8793,7 +8793,7 @@
         <seg>&lt;u81&gt; Mesh ID: The unique signature attached to one's mesh activity.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u81&gt; Mesh ID: La signature unique attaché à l'activité meshée de quelqu'un.</seg>
+        <seg>&lt;u81&gt; Mesh ID: La signature unique attachée à l'activité meshée de quelqu'un.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8801,7 +8801,7 @@
         <seg>&lt;u82&gt; Microgravity: Zero-g or near weightless environments.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u82&gt; Microgravité: Zéro-g ou environnement quadiment sans poids.</seg>
+        <seg>&lt;u82&gt; Microgravité: Zéro-g ou environnement quasiment sans poids.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8849,7 +8849,7 @@
         <seg>&lt;u87&gt; Nano-ecology: Pro-tech ecological movement.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u87&gt; Nano-écologie: Mouvement écologique pro-technologique.</seg>
+        <seg>&lt;u87&gt; Nano-écologie: Mouvement écologique pro-technologie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8857,7 +8857,7 @@
         <seg>&lt;u88&gt; Nanoswarm: A mass of tiny nanobots unleashed into an environment.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u88&gt; Nanoessaim: Une masse de petits nanobots libérée dans un environnement.</seg>
+        <seg>&lt;u88&gt; Essaim de nanite: Une masse de petits nanobots libérée dans un environnement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8873,7 +8873,7 @@
         <seg>&lt;u90&gt; Neogenesis: The creation of new life forms via genetic manipulation and biotechnology.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u90&gt; Néogénésis: La création d'une nouvelle forme de vie grâce aux mainpulations génétiques et à la biotechnologiques.</seg>
+        <seg>&lt;u90&gt; Néogenèse: La création d'une nouvelle forme de vie grâce aux manipulations génétiques et à la biotechnologies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8881,7 +8881,7 @@
         <seg>&lt;u91&gt; Neo-Hominids: Uplifted chimpanzees, gorillas, and orangutans.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u91&gt; Neo-Hominides: Chimpanzés, gorilles et orang-outans élevés</seg>
+        <seg>&lt;u91&gt; Neo-Hominidés: Chimpanzés, gorilles et orang-outans élevés</seg>
       </tuv>
     </tu>
     <tu>
@@ -8921,7 +8921,7 @@
         <seg>&lt;u96&gt; Oort Cloud: The spherical ``cloud'' of comets that surrounds the solar system out to about one light-year from the sun.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u96&gt; Nuage d'Oort: Le &quot;nuage&quot; sphérique de comètes qui entoure le système solaire et s'étendant jusqu'à une année lumière du soleil.</seg>
+        <seg>&lt;u96&gt; Nuage d'Oort: Le &quot;nuage&quot; sphérique constitué de comètes qui entoure le système solaire et qui s'étend jusqu'à une année lumière du soleil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8929,7 +8929,7 @@
         <seg>&lt;u97&gt; PAN: Personal area network.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u97&gt; PAN: Personal area network/ Réseau personnel.</seg>
+        <seg>&lt;u97&gt; PAN: Personal area network/Réseau personnel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8937,7 +8937,7 @@
         <seg>The network created when you slave all of your minor personal electronics to your ecto or mesh inserts.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Le réseau créé lorsque vous asservissez toutes vos périphériques électroniques mineur à votre ecto ou votre insert de mesh.</seg>
+        <seg>Le réseau créé lorsque vous asservissez tous vos périphériques électroniques mineur à votre ecto ou votre insert de mesh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8945,7 +8945,7 @@
         <seg>&lt;u98&gt; Pandora Gates: The wormhole gateways left behind by the TITANs.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u98&gt; Porte de Pandore: Les portails de trou-de-ver abandonné par les TITANs.</seg>
+        <seg>&lt;u98&gt; Porte de Pandorre: Les portails de trou-de-ver abandonné par les TITANs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8961,7 +8961,7 @@
         <seg>Pod clones are force-grown and feature computer brains.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Les clones pour les pods subissent une croissance forcée et possèdent un cerveau informatique.</seg>
+        <seg>Les clones utilisé pour créer les pods subissent une croissance forcée et possèdent un cerveau informatique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8969,7 +8969,7 @@
         <seg>Also known as bio-bots, skinjobs, replicants.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Aussi appelé bio-bots, écorché, répliquants.</seg>
+        <seg>Aussi appelé bio-bots, pelure, répliquants.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8977,7 +8977,7 @@
         <seg>From ``pod people.'' &lt;u100&gt; Posthuman: A human or transhuman individual or species that has been genetically or cognitively modified so extensively as to no longer be human (a step beyond transhuman).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u100&gt; Posthumain: Un individu, humain ou un transhumain, ou une espèce qui a étét génétiquement ou cognitivement modifié à un point qu'il n'est plus réellement humain (un cran au-dessus de transhumain).</seg>
+        <seg>&lt;u100&gt; Posthumain: Un individu, humain ou un transhumain, ou une espèce qui a été génétiquement ou cognitivement modifié à un point qu'il n'est plus réellement humain (un cran au-dessus de transhumain).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8993,7 +8993,7 @@
         <seg>&lt;u101&gt; Prometheans: A group of transhuman-friendly seed AIs that were created by the Lifeboat Project (precursors to the argonauts) years before the TITANs became self- aware and that (mostly) avoided Exsurgent infection.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u101&gt; Prométhéens: Un groupe d'IAs germes pro-transhumaine créées par le Projet Canot de Sauvetage (précurseurs des argonautes) des années avant que les TITANS développent une conscience d'eux et qui ont (presque) évitées l'Infection Exsurgente.</seg>
+        <seg>&lt;u101&gt; Prométhéens: Un groupe d'IAs germes pro-transhumaine créées par le Projet Canot de Sauvetage (précurseurs des argonautes) des années avant que les TITANS ne développent une conscience d'eux et qui ont (presque) évitées l'Infection Exsurgente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9001,7 +9001,7 @@
         <seg>The Prometheans secretly back Firewall and work to defeat existential threats.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Les Prométéhens travillent secrètement en soutien de Firewall et luttent contre les menaces existentielles.</seg>
+        <seg>Les Prométhéens travaillent secrètement en soutien de Firewall et luttent contre les menaces existentielles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9017,7 +9017,7 @@
         <seg>&lt;u103&gt; Psi: Parapsychological powers acquired due to infection by the Watts-MacLeod strain of Exsurgent virus.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u103&gt; Psi: Pouvooirs parapsychologique développés suite à l'infection par la souche Watts-MacLeod du virus Exsurgent.</seg>
+        <seg>&lt;u103&gt; Psi: Pouvoirs parapsychologique développés suite à l'infection par la souche Watts-MacLeod du virus Exsurgent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9025,7 +9025,7 @@
         <seg>&lt;u104&gt; Reaper: A warbot synthmorph.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u104&gt; Reaper: Une synthmorph de combat.</seg>
+        <seg>&lt;u104&gt; Reapeur: Une synthmorph de combat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9057,7 +9057,7 @@
         <seg>Aka Reds.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Aussi appelés Reds. Vient de l'argot Terrien utilisé pour désigner les paysans texans qui avaient la nuque chauffée par le soleil à force de travailler dans les champs.</seg>
+        <seg>Aussi appelés Reds.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9065,7 +9065,7 @@
         <seg>&lt;u107&gt; Reinstantiated: Refugees from Earth who escaped only as bodiless infomorphs, but who have since been resleeved.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u107&gt; Reinstantiés: Réfugiés de la Terre qui se sont échappées sous la forme d'infomorph sans corps, mais qui ont depuis été regainer.</seg>
+        <seg>&lt;u107&gt; Reinstantiés: Réfugiés de la Terre qui se sont échappées sous la forme d'infomorph sans corps, mais qui ont depuis été réincarné.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9073,7 +9073,7 @@
         <seg>&lt;u108&gt; Resleeving: Changing bodies, or being downloaded into a new one.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u108&gt; Regainer: Changer de corps, ou être télécharger dans un nouveau corps.</seg>
+        <seg>&lt;u108&gt; Se Réincarner: Changer de corps, ou être téléchargé dans un nouveau corps.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9081,7 +9081,7 @@
         <seg>Also called remorphing, reincarnation, shifting, rebirthing.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Aussi appelé remorphing, réincrantion, basculer, renaissance.</seg>
+        <seg>Aussi appelé remorphing, regainage, basculer, renaissance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9089,7 +9089,7 @@
         <seg>&lt;u109&gt; Rusters: Biomorphs optimized for life on Mars.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u109&gt; Rusters: Biomorphs optimisée pour la vie sur Mars.</seg>
+        <seg>&lt;u109&gt; Rusteur: Biomorph optimisée pour la vie sur Mars.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9161,7 +9161,7 @@
         <seg>&lt;u116&gt; Simulspace: Full-immersion virtual reality environments.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u116&gt; Simulspace: Environnement de rélité virtuelles permettant une immersion sensorielle complète.</seg>
+        <seg>&lt;u116&gt; Simulspace: Environnement de réalité virtuelle permettant une immersion sensorielle complète.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9169,7 +9169,7 @@
         <seg>&lt;u117&gt; Singularity: A point of rapid, exponential, and recursive technological progress, beyond which the future becomes impossible to predict.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u117&gt; Singularité: Un point de progrés techonoligique rapide, exponentiel et récurse, au-delà duquel le futur devient impossible à prévoir.</seg>
+        <seg>&lt;u117&gt; Singularité: Un point de progrés technologique rapide, exponentiel et récursif, au-delà duquel le futur devient impossible à prévoir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9177,7 +9177,7 @@
         <seg>Often used to refer to the ascension of seed AI to god-like levels of intelligence.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Souvent utilisé pour faire référence à l'ascenssion des IAs germe aux niveaus d'intelligence des dieux.</seg>
+        <seg>Souvent utilisé pour faire référence à l'ascenssion des IAs germe à des niveaux d'intelligence divins.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9209,7 +9209,7 @@
         <seg>&lt;u120&gt; Skinning: Changing your perceived environment via augmented reality programming.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u120&gt; Habillage: Modifier son environnement perçu par la réalité augmenté grâce à des programmes.</seg>
+        <seg>&lt;u120&gt; Habiller: Modifier son environnement perçu par la réalité augmenté grâce à des programmes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9233,7 +9233,7 @@
         <seg>&lt;u123&gt; Smart Animals: Partially-uplifted animal species (including dogs, cats, rats, and pigs).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u123&gt; Animaux Intelligents: Espèces animalles partiellement élevées (incluant chiens, chats, rats et cochons).</seg>
+        <seg>&lt;u123&gt; Animaux Intelligents: Espèces animales partiellement élevées (incluant chiens, chats, rats et cochons).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9249,7 +9249,7 @@
         <seg>&lt;u124&gt; Spime: Meshed, self-aware, location-aware devices.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u124&gt; Spime: Périphériques meshé, conscient et localisés.</seg>
+        <seg>&lt;u124&gt; Spimes: Périphériques meshé, conscient et localisés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9313,7 +9313,7 @@
         <seg>Synths are standard androids/gynoids; robots that are designed to look humanoid, though they are usually noticeably not human.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Les synths sont des androïdes/gynoïdes classiques; des robots conçus pour être humanoïde, bien qu'ils est facile de remarquer qu'ils ne sont pas humains.</seg>
+        <seg>Les synths sont des androïdes/gynoïdes classiques; des robots conçus pour être humanoïde, bien qu'ils soit facile de remarquer qu'ils ne sont pas humains.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9329,7 +9329,7 @@
         <seg>&lt;u131&gt; Titanian: Someone from Titan, a moon of Saturn.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u131&gt; Titanien: Quelqu'un qui vient de Tiatn, l'une des lunes de Saturne.</seg>
+        <seg>&lt;u131&gt; Titanien: Quelqu'un qui vient de Titan, l'une des lunes de Saturne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9353,7 +9353,7 @@
         <seg>&lt;u133&gt; Torus: A donut-shaped habitat, spun for gravity.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u133&gt; Tore: Un habitat en forme de donut, qui toure sur lui-me pour fournir de la gravité.</seg>
+        <seg>&lt;u133&gt; Tore: Un habitat en forme de donut, soumit à une rotation pour générer de la gravité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9361,7 +9361,7 @@
         <seg>&lt;u134&gt; Transgenic: Containing genetic traits from other species.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u134&gt; Transgénique: Qui contient des traits génétoiques d'autres espèces.</seg>
+        <seg>&lt;u134&gt; Transgénique: Qui contient des traits génétiques d'autres espèces.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9393,7 +9393,7 @@
         <seg>See also ``Greeks.'' &lt;u137&gt; Uplifting: Genetically transforming an animal species to sapience.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Voir aussi &quot;Grecs&quot; &lt;u137&gt; Élever: Élever à la conscience un animal en le transformant génétiquement.</seg>
+        <seg>Voir aussi &quot;Grecs.&quot; &lt;u137&gt; Élever: Élever à la conscience un animal en le transformant génétiquement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9425,7 +9425,7 @@
         <seg>Networks that operate within the mesh, usually encrypted for privacy/security.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Des réseaux transitant à travers le mesh, habituellement chiffré pour la protection de la vie privé et pour la sécurité.</seg>
+        <seg>Des réseaux transitant à travers le mesh, habituellement chiffrés pour la protection de la vie privé et pour la sécurité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9473,7 +9473,7 @@
         <seg>Sometime used to refer to people making XP as well.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Fait parfois également référence aux personne qui font de l'XP.</seg>
+        <seg>Fait parfois également référence aux personnes qui font de l'XP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9497,7 +9497,7 @@
         <seg>Also called experia, sim, simsense, playback.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Aussi appelé experience, sim, simsense, playback.</seg>
+        <seg>Aussi appelé experia, sim, simsense, playback.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9561,7 +9561,7 @@
         <seg>[Quantum Analysis: No Interception Detected]</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>[Analyse Quantique: pas d'interception Détectée]</seg>
+        <seg>[Analyse Quantique: Pas d'interception Détectée]</seg>
       </tuv>
     </tu>
     <tu>
@@ -9601,7 +9601,7 @@
         <seg>For those new to our private network, Firewall is an organization dedicated to protecting transhumanity from threats—both internal and external—to our continued existence as a species.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Pour ceux qui arrivent juste dans notre réseau privé, Firewall est une organisation dévouée à la protection de la transhumanité des menaces - à la fois internes et externes - à la persistence de notre espèce.</seg>
+        <seg>Pour ceux qui arrivent juste dans notre réseau privé, Firewall est une organisation dévouée à la protection de la transhumanité des menaces - à la fois internes et externes - et à la persistence de notre espèce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9633,7 +9633,7 @@
         <seg>Some stem from our short-sightedness, failing to see the dangers in which we place ourselves and our environments through careless actions.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Certains souches de notre manque de vision à long terme, incapables de voir les dangers dans lesquels nous nous somems plongés entraînant notre nevironnement à cause d'actions imprudentes.</seg>
+        <seg>Certains viennent de notre manque de vision à long terme, incapables de voir les dangers dans lesquels nous nous sommes plongés entraînant notre nevironnement à cause d'actions imprudentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9641,7 +9641,7 @@
         <seg>Some arise from our own creations turned against us, as the TITANs proved.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>D'autres proviennent de nos prorpres créations qui se sont retournées contre nous, comme les TITANs l'ont prouvés.</seg>
+        <seg>D'autres proviennent de nos prorpres créations qui se sont retournées contre nous, comme les TITANs l'ont prouvé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9657,7 +9657,7 @@
         <seg>Still others may threaten us by sheer chance and the mindless but deadly cause-and-effect of a universe in which we are but an insignificant speck.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>D'autres enfin pourraient nous menacer par pur hasard et la plus stupide, mais néanmoins meurtrière, causalité d'un univers dans l'univers dans lequel nous ne sommes rien d'autre que d'insignifiantes poussières.</seg>
+        <seg>D'autres enfin pourraient nous menacer par pur hasard et la plus stupide, mais néanmoins meurtrière, causalité d'un univers dans lequel nous ne sommes rien d'autre que d'insignifiantes poussières.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9673,7 +9673,7 @@
         <seg>We are all volunteers.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Nous somme stous volontaires.</seg>
+        <seg>Nous sommes tous volontaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9737,7 +9737,7 @@
         <seg>Similarly, certain authorities might be hostile to an organization such as ours operating in their claimed territory.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>De manière similaire, certains autorités pourraient être hostiles à une organisation telle que la notre opérant dans les territoires qu'elles proclament comme les leurs.</seg>
+        <seg>De manière similaire, certaines autorités pourraient être hostiles à une organisation telle que la notre opérant dans les territoires qu'elles proclament comme les leurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9745,7 +9745,7 @@
         <seg>Though some may be aware of our existence, we bypass numerous legal and jurisdictional hurdles that might otherwise hamper our actions and goals.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Bien que certains d'entre eux doivent être au courant de notre existence, nous passons outre de nombreux obstacles juridiques et légaux qui pourraient sinon entraver nos actiosn et nos objectifs.</seg>
+        <seg>Bien que certains d'entre eux doivent être au courant de notre existence, nous passons outre de nombreux obstacles juridiques et légaux qui pourraient sinon entraver nos actions et nos objectifs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9753,7 +9753,7 @@
         <seg>Second, our mission sometimes brings to light information that is not only dangerous in the wrong hands, but might even trigger widespread panic if made public.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Deuxièmement, il arrive que notre mission révèle des informations qui ne sont pas seulement danegreuses dans les mauvaises mains, mais qui pourraient en plsu déclencher une panique généralisée si elles étaient rendues publique.</seg>
+        <seg>Deuxièmement, il arrive que notre mission révèle des informations qui ne sont pas seulement dangereuses dans les mauvaises mains, mais qui pourraient en plus déclencher une panique généralisée si elles étaient rendues publique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9761,7 +9761,7 @@
         <seg>In some cases, the very existence of such knowledge could be problematic.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Dans certains cas, l'existence même d'une telle connaissance peut-être problémaique.</seg>
+        <seg>Dans certains cas, l'existence même d'une telle connaissance peut-être problématique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9769,7 +9769,7 @@
         <seg>By retaining secrecy and operating on a need-to-know basis, we automatically counter certain risks.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>En conservant ces secrets et en opérant sur la base du besoin de savoir, nous controns automatiquement certains risques.</seg>
+        <seg>En conservant ces secrets et en opérant sur lprincipe que vous savez ce que vous avez besoin de savoir, nous controns automatiquement certains risques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9793,7 +9793,7 @@
         <seg>Our node structure enables us to share resources and talents without sacrificing the privacy and security of our operatives.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Notre structure nodale nous permets de partager des ressources et des talents sans sacrifier la sécurité et l'intimité de nos agents de terrain.</seg>
+        <seg>Notre structure nodale nous permets de partager des ressources et des talents sans sacrifier la sécurité et la vie privée de nos agents de terrain.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9801,7 +9801,7 @@
         <seg>You have been recruited because of your knowledge, assets or skills, and/or because you have come into contact with certain restricted data.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Vous avez été recrutés à cause de vos connaissances, possession ou compétences, et/ou parceque vous êtes entrés en contact avec certains données d'accès restreint.</seg>
+        <seg>Vous avez été recrutés à cause de vos connaissances, possession ou compétences, et/ou parceque vous êtes entrés en contact avec certaines données d'accès restreint.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9817,7 +9817,7 @@
         <seg>Our lives and existence—and the future of transhumanity—may rest in your hands.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Nos vies et nos existences - et le futur de la transhumanité - peut reposer entre vos mains.</seg>
+        <seg>Nos vies et nos existences - et le futur de la transhumanité - peuvent reposer entre vos mains.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9857,7 +9857,7 @@
         <seg>Sit down, and grab yourself a fucking drink.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Assied toi, et prends toi un putain de verre.</seg>
+        <seg>Assieds toi, et prends toi un putain de verre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9881,7 +9881,7 @@
         <seg>You're probably dying to know what you've been dragged into.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Tu tuerai probablement père et mère pour savoir ce dans quoi tu t'es fourré.</seg>
+        <seg>Tu meurs sans doute d'impatience pour savoir ce dans quoi tu t'es fourré.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9889,7 +9889,7 @@
         <seg>Maybe you've been told the party line already: that we're all that stands between transhumanity and extinction.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>On t'as peut-être déjà donné la ligne du parti; que nous sommes tout ce ui sépare la transhumanité de l'extinction.</seg>
+        <seg>On t'as peut-être déjà donné la ligne du parti; que nous sommes tout ce qui sépare la transhumanité de l'extinction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9897,7 +9897,7 @@
         <seg>Or maybe someone whispered to you that we're a rogue operation that meddles in heavy shit that we have no authority to get involved in, and that we sometimes get people killed as a result.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Ou peut-être que quelqu'un t'as murmuré que nous somme sune opération clandestine qui se mèle de sacré merdiersdans lesquels nous ne sommes pas censés intervenir, et que parfois nous faisont tuer des gens.</seg>
+        <seg>Ou peut-être que quelqu'un t'as murmuré que nous somme sune opération clandestine qui se mèle de sacré merdiers dans lesquels nous ne sommes pas censés intervenir, et que parfois nous faisons tuer des gens.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9905,7 +9905,7 @@
         <seg>You must be curious.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Tu doit être curieux.</seg>
+        <seg>Tu dois être curieux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9913,7 +9913,7 @@
         <seg>Maybe you've got a vigilante streak, and you're looking to spill blood for a good cause.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Peut-être que tu as une envie de faire justice toi-même, et tu cherche à faire couler du sang pour une bonne cause.</seg>
+        <seg>Peut-être que tu as une envie de faire justice toi-même, et que tu cherches à faire couler du sang pour une bonne cause.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9921,7 +9921,7 @@
         <seg>Would it matter to you if the cause was a deluded one?</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Est-ce que ça aurais une importance pour toi que cette casue ne soit qu'une illusion?</seg>
+        <seg>Est-ce que ça aurai une importance pour toi que cette cause ne soit qu'une illusion?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9929,7 +9929,7 @@
         <seg>Maybe you're a conspiracy wingnut and you're dying to know what secrets Firewall is clutching to its collective chest.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Tu es peu-être un adepte des complots et tu meurt d'envie de savoir quels secrets Firewall serre sur sa poitrine collective.</seg>
+        <seg>Tu es peu-être un adepte des complots et tu meurs d'envie de savoir quels secrets Firewall serre sur sa poitrine collective.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9937,7 +9937,7 @@
         <seg>What if those secrets shattered the carefully constructed lies that we all tell to ourselves to keep our sanity intact?</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Et si ces secrets éparpillés était consciencisuement assemblé en mensonges que nous nous racontons à nous-même pour garder notre santé mentale?</seg>
+        <seg>Et si ces secrets éparpillés était consciencisuement assemblés en mensonges que nous nous racontons à nous-même pour préserver notre santé mentale?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9961,7 +9961,7 @@
         <seg>We lost the sheen on our ideals when the TITANs forcibly uploaded their first human mind.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Nous avosn perdu la clarté de nos idées lorsque les TITANs ont forcé l'upload de leur premier esprit humain.</seg>
+        <seg>Nous avons perdu la clarté de nos idées lorsque les TITANs ont forcé l'upload de leur premier esprit humain.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10001,7 +10001,7 @@
         <seg>If you have any romantic visions about being a hero, though, drop them now.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Si tu avais des visions romantiques à propos de devnir un héros, oublies-les. Maintenant.</seg>
+        <seg>Si tu avais des visions romantiques à propos de devenir un héros, oublies-les. Maintenant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10009,7 +10009,7 @@
         <seg>You won't feel like a hero when you airlock some kid because he's carrying an infectious nanovirus.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Tu ne te sentira pas héroïque lorsque tu balancera dans le vide un gamin parcequ'il est infecté par un nanovirus.</seg>
+        <seg>Tu ne te sentiras pas héroïque lorsque tu balanceras dans le vide un gamin parcequ'il est infecté par un nanovirus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10017,7 +10017,7 @@
         <seg>You won't feel brave when you run across some alien thing and crap your pants.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Tu ne te sentira pas courageux lorsque tu courras à travers un truc étrange et que tu te chieras dessus.</seg>
+        <seg>Tu ne te sentiras pas courageux lorsque tu courras à travers un truc étrange et que tu te chieras dessus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10025,7 +10025,7 @@
         <seg>And you won't even feel human anymore when you make a call that will cost dozens, hundreds, or even thousands of people their lives, even if you are saving millions more.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Et tu ne te sentiras même plus humain lorsque tu passera un coup de fil qui coutera la vie à des douzaines, des centaines, ou même des milliers de gens, même si tu en sauve des millions d'autres.</seg>
+        <seg>Et tu ne te sentiras même plus humain lorsque tu passeras un coup de fil qui coutera la vie à des douzaines, des centaines, ou même des milliers de gens, même si tu en sauves des millions d'autres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10033,7 +10033,7 @@
         <seg>So why would anyone be crazy enough to be part of this thing?</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Donc. POurquoi quelqu'un serait suffisament cinglé pour faire partie de ça?</seg>
+        <seg>Donc. Pourquoi quelqu'un serait suffisament cinglé pour faire partie de ça?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10081,7 +10081,7 @@
         <seg>But if the anarchists have anything right, it's that people in power can't be trusted.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Mais si les anarchistes ont bien compris quelque chose, c'est que l'on nepeut pas faire confiance aux personnes qui ont le pouvoir.</seg>
+        <seg>Mais si les anarchistes ont bien compris quelque chose, c'est que l'on ne peut pas faire confiance aux personnes qui ont le pouvoir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10121,7 +10121,7 @@
         <seg>We organize in networked ad-hoc cells, smart-mob style.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Nous sommes organisé en un réseau de cellulle ad-hoc, comme une foule intelligente.</seg>
+        <seg>Nous sommes organisés en un réseau de cellulle ad-hoc, comme une foule intelligente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10129,7 +10129,7 @@
         <seg>We don't let anyone accrue too much power or control.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>nous ne laissons personne acquérir trop de pouvoir ou de contrôle.</seg>
+        <seg>Nous ne laissons personne acquérir trop de pouvoir ou de contrôle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10137,7 +10137,7 @@
         <seg>Everyone involved in an op has an equal say.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Toute les personnes impliquée dans une opération ont leur mot à dire.</seg>
+        <seg>Toutes les personnes impliquées dans une opération ont leur mot à dire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10153,7 +10153,7 @@
         <seg>We come from all sorts of backgrounds and factions, but we face a common enemy—and we fight to win.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Nous venons de tout type d'origine et de factions, mais nous faisont face à un ennemi commun - et nous nous battons pour gagner.</seg>
+        <seg>Nous venons de tout type d'origine et de factions, mais nous faisons face à un ennemi commun - et nous nous battons pour gagner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10177,7 +10177,7 @@
         <seg>That question asked why, with a galaxy so huge, there were so few signs of other life?</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>La question était: pourquoi, avec un galaxie si grande, il y avait tellement peu de signe d'une autre vie?</seg>
+        <seg>La question était: pourquoi, avec une galaxie si grande, il y avait tellement peu de signe d'une autre vie?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10209,7 +10209,7 @@
         <seg>If transhumanity were wiped out, the galaxy wouldn't even notice.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Si la transhumanité avait été rayée de la carte, la galaxie ne l'aurais même pas remarquée.</seg>
+        <seg>Si la transhumanité avait été rayée de la carte, la galaxie ne l'aurai même pas remarqué.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10233,7 +10233,7 @@
         <seg>Reality is an uncaring asshole.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>La réalité est une connasse indifférente.</seg>
+        <seg>La réalité est une putain indifférente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10257,7 +10257,7 @@
         <seg>We've developed technologies that put weapons of mass destruction in the hands of everyone, but we're still an adolescent species that has trouble overcoming petty tribal bullshit.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Nous avosn développés des technologies qui mettent les armes de destructions massives entre els mains de n'importe qui, mais nous sommes toujours une espèce adolescente incapable de passer outre les petites conneries tribales.</seg>
+        <seg>Nous avons développés des technologies qui mettent les armes de destructions massives entre les mains de n'importe qui, mais nous sommes toujours une espèce adolescente incapable de passer outre les petites conneries tribales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10289,7 +10289,7 @@
         <seg>Anytime some shit goes down in your neck of the woods or that you might be particularly helpful in dealing with, you'll get a call.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>A chaque fois qu'une merde sort des bois pour te tomber dessus ou que tu pourrait être particulièrement utile pour gérer le bordel, tu reçois un appel.</seg>
+        <seg>A chaque fois qu'une merde sort des bois pour te tomber dessus ou que tu pourrais être particulièrement utile pour gérer le bordel, tu reçois un appel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10297,7 +10297,7 @@
         <seg>You'll be expected to drop whatever you're doing and put everything else on hold as if your life depended on it—it probably does.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>On s'attends à ce que tu abandonnes tout ce que tu es en train de faire et de mettre tout le reste en attente comem si ta vie en dépendait - et c'ets probablement le cas.</seg>
+        <seg>On s'attend à ce que tu abandonnes tout ce que tu es en train de faire et de mettre tout le reste en attente comme si ta vie en dépendait - et c'est probablement le cas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10305,7 +10305,7 @@
         <seg>When you're in the field, on an op— ''going to the doctor,'' as we call it—your cell is empowered to act as it sees fit ... just keep in mind that you'll be answering to the rest of us later.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Quand tu seras sur le terrain, pour une opé - on appelles ça &quot;aller au docteur&quot; - ta cellulle aura tout pouvoir pour agir comem elle le juge bon ... garde juste en tête que tu devras répondre à nos question plus tard.</seg>
+        <seg>Quand tu seras sur le terrain, pour une opé - on appelles ça &quot;aller au docteur&quot; - ta cellulle aura tout pouvoir pour agir comme elle le juge bon ... garde juste en tête que tu devras répondre à nos question plus tard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10313,7 +10313,7 @@
         <seg>You'll also have the Firewall network to back you up—though resources are often limited, so don't expect us to always save your ass.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Tu as aussi le réseau de Firewall qui te couvre - même si les ressources sont souvent limité, ne t'attends donc pas à ce qu'on sauve ton cul à chaque fois.</seg>
+        <seg>Tu as aussi le réseau de Firewall qui te couvre - même si les ressources sont souvent limitées, ne t'attends donc pas à ce qu'on sauve ton cul à chaque fois.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10321,7 +10321,7 @@
         <seg>Other sentinels can be called on to pull strings, but every time we do so, it threatens to unveil an agent, create a trail that we need to clean up, and otherwise complicates matters.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>D'autres sentinelles peuvent être appellée pour donenr tirer quelques ficelles, mais à chaque fois qu'on le fait, cela menace de révéler un agent, créant un bourbier que nous devons nettoyer, et compliquant les choses de toutes manière.</seg>
+        <seg>D'autres sentinelles peuvent être appellées pour tirer quelques ficelles, mais à chaque fois qu'on le fait, cela menace de révéler un agent, créant un bourbier que nous devons nettoyer, et compliquant les choses de toutes manière.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10345,7 +10345,7 @@
         <seg>I'm not just talking about the nutjob who wants to nuke a habitat to make a political statement or the neo-luddites who think biowar plagues will teach us all a lesson, I'm talking about the agencies that know Firewall exists and consider it a threat.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>je ne parles pas simplement de la tête de nœud qui veut utiliser une tête nuke sur un habitat pour faire une revendication politique ou de ces néo-luddites qui pensent que les fléaux de la guerre bilogique nous apprendrons une leçon, je parle des agences qui connaissent l'existence de Firewall et qui le considèrent comme une menace.</seg>
+        <seg>je ne parles pas simplement de la tête de nœud qui veut utiliser une tête nuke sur un habitat pour faire une revendication politique ou de ces néo-luddites qui pensent que les fléaux de la guerre biologique nous apprendront une leçon, je parle des agences qui connaissent l'existence de Firewall et qui le considèrent comme une menace.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10353,7 +10353,7 @@
         <seg>If they tag you as a sentinel, your days are numbered.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Si il t'étiquettes comme sentinelle, tes jours sont comptés.</seg>
+        <seg>Si ils t'étiquettent comme sentinelle, tes jours sont comptés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10377,7 +10377,7 @@
         <seg>So that's the real deal, as honest as I can give it.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Voilà le vrai bazar, aussi honnètement que je peux le donner.</seg>
+        <seg>Voilà le vrai bazar, aussi honnètement que je peux te le donner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10385,7 +10385,7 @@
         <seg>Welcome to our secret clubhouse, comrade.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Bienevnue dans notre club-house secrète, camarade.</seg>
+        <seg>Bienvenue dans notre club-house secrète, camarade.</seg>
       </tuv>
     </tu>
     <tu>
