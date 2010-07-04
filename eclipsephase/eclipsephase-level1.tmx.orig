@@ -54,6 +54,7 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+<<<<<<< HEAD
         <seg>Definitely a biomorph and my latest sex is female.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -71,6 +72,9 @@
     <tu>
       <tuv xml:lang="en-US">
         <seg>The model eludes me right now, but I'll know for certain soon enough, once motion is mine again.</seg>
+=======
+        <seg>From this point it was but a matter of time before so-called seed AI would come into existence, machine minds capable of recursive self-improvement, leading to an exponential growth in intelligence.</seg>
+>>>>>>> ruskov
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Le modèle m'échappe encore, mais je le saurai de manière certaine bien assez tôt, dés que j'aurai récupéré le contrôle du mouvement.</seg>
@@ -110,6 +114,7 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+<<<<<<< HEAD
         <seg>The chill seeps through my skin and wraps around my bones.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -119,6 +124,9 @@
     <tu>
       <tuv xml:lang="en-US">
         <seg>A cortical cruncher looms over me, waving his welcome-back beam side to side, occasionally catching my pupils.</seg>
+=======
+        <seg>Disconnected from the internet due to distance and light-speed communication lags, these users were nevertheless connected with all of the people and objects in their nearby environment or habitat, creating local wireless mesh networks.</seg>
+>>>>>>> ruskov
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Un casseur de corticalle se penche vers moi, agitant son rayon de bienvenue d'un côté à l'autre, attirant mes pupilles occasionnellement.</seg>
@@ -398,6 +406,7 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+<<<<<<< HEAD
         <seg>Some t-humies get off on having multiple selves traipsing all over, but my ego is in check.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -407,6 +416,9 @@
     <tu>
       <tuv xml:lang="en-US">
         <seg>One Sava is enough misery to unleash on the ‘verse.</seg>
+=======
+        <seg>The ecto itself is typically the size of 20th-century credit card and can be molded and shaped into different forms due to smart material construction.</seg>
+>>>>>>> ruskov
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>L'Univers ne supporterait pas un autre Sava.</seg>
@@ -430,6 +442,7 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+<<<<<<< HEAD
         <seg>I need a physical context.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -439,6 +452,9 @@
     <tu>
       <tuv xml:lang="en-US">
         <seg>Something tangible to focus my attention on.</seg>
+=======
+        <seg>Standard entoptic control interfaces are also available via wireless radio, skinlink, and direct fiberoptic line.</seg>
+>>>>>>> ruskov
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Quelque chose de tangible sur lequel me concentrer.</seg>
@@ -454,6 +470,7 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+<<<<<<< HEAD
         <seg>The fingers are thin and long; the knuckles callused, scarred and misshapen.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -463,6 +480,9 @@
     <tu>
       <tuv xml:lang="en-US">
         <seg>Obviously the work of many thrown punches, fists connecting with jaws, metal, flesh.</seg>
+=======
+        <seg>These implants are grown in the brain via non-intrusive nanosurgery.</seg>
+>>>>>>> ruskov
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>A l'évidence, le travail d'un paquet de coups, de poings rencontrant des machoires, du métal, de la chair.</seg>
@@ -574,6 +594,7 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+<<<<<<< HEAD
         <seg>``What's your hurry?'' he says.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -583,6 +604,9 @@
     <tu>
       <tuv xml:lang="en-US">
         <seg>``Just relax, willya?</seg>
+=======
+        <seg>These systems are typically physically wired, heavily monitored, and locked down in electronic data processing centers with strong access restrictions and ruthless real-world security measures.</seg>
+>>>>>>> ruskov
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>&quot;Reposez-vous, ok?</seg>
@@ -662,6 +686,7 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+<<<<<<< HEAD
         <seg>Those memories, that life, that version of me, is gone.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -671,6 +696,9 @@
     <tu>
       <tuv xml:lang="en-US">
         <seg>The new me, lying on this slab, was never shaped by those experiences.</seg>
+=======
+        <seg>A thriving open source movement offers free and open source alternatives to much proprietary data, however, and numerous digital piracy groups deal out cracked versions of proprietary material, despite pressure from some authorities.</seg>
+>>>>>>> ruskov
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Le nouveau moi, allongé sur cette paillasse, n'a jamais été façonné par ces expériences.</seg>
@@ -710,6 +738,7 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+<<<<<<< HEAD
         <seg>It was a shit two weeks.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -719,6 +748,9 @@
     <tu>
       <tuv xml:lang="en-US">
         <seg>I'm certain of it.</seg>
+=======
+        <seg>{Surveillance, Privacy, And Sousveillance}</seg>
+>>>>>>> ruskov
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Je suis certain de ça.</seg>
@@ -6366,10 +6398,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>A group of players and a place to meet (real life or online!) &lt;u1&gt; One player to act as the gamemaster &lt;u2&gt; The contents of this book &lt;u3&gt; Something for everyone to take notes with (note pads, laptops, whatever!) &lt;u4&gt; Two 10-sided dice per player (or a digital equivalent) &lt;u5&gt; Imagination</seg>
+        <seg>A group of players and a place to meet (real life or online!)  One player to act as the gamemaster  The contents of this book  Something for everyone to take notes with (note pads, laptops, whatever!)  Two 10-sided dice per player (or a digital equivalent)  Imagination</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Un groupe de joueur et un endroit où se rencontrer (dans le monde réel ou en-ligne!) &lt;u1&gt; Un joueur pour tenir le rôle de maître de jeu &lt;u2&gt; Le contenu de ce livre &lt;u3&gt; Quelque chose pour que les personnes puisse prendre des notes (bloc notes, ordinateur portable, peu importe!) &lt;u4&gt; Deux dés à dix-faces (ou un équivalent numérique) &lt;u5&gt; De l'imagination</seg>
+        <seg>Un groupe de joueur et un endroit où se rencontrer (dans le monde réel ou en-ligne!)  Un joueur pour tenir le rôle de maître de jeu  Le contenu de ce livre  Quelque chose pour que les personnes puisse prendre des notes (bloc notes, ordinateur portable, peu importe!)  Deux dés à dix-faces (ou un équivalent numérique)  De l'imagination</seg>
       </tuv>
     </tu>
     <tu>
@@ -7934,18 +7966,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u1&gt; AF: After the Fall (used for reference dating).</seg>
+        <seg> AF: After the Fall (used for reference dating).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u1&gt; AF: (After the Fall) Après la Chute (utilisé comme date de référence).</seg>
+        <seg> AF: (After the Fall) Après la Chute (utilisé comme date de référence).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u2&gt; AGI: Artificial General Intelligence.</seg>
+        <seg> AGI: Artificial General Intelligence.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u2&gt; IAG: Intelligence Artificielle Généraliste</seg>
+        <seg> IAG: Intelligence Artificielle Généraliste</seg>
       </tuv>
     </tu>
     <tu>
@@ -7966,10 +7998,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>See also ``seed AI.'' &lt;u3&gt; AI: Artificial Intelligence.</seg>
+        <seg>See also ``seed AI.''  AI: Artificial Intelligence.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Voir aussi &quot;IA germe.&quot; &lt;u3&gt; IA: Intelligence Artificielle.</seg>
+        <seg>Voir aussi &quot;IA germe.&quot;  IA: Intelligence Artificielle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7990,34 +8022,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u4&gt; Anarchist: Someone who believes government is unnecessary, that power corrupts, and that people should control their own lives through self-organized individual and collective action.</seg>
+        <seg> Anarchist: Someone who believes government is unnecessary, that power corrupts, and that people should control their own lives through self-organized individual and collective action.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u4&gt; Anarchiste: Quelq'un qui croit que le gouvernement n'est pas nécessaire, que le pouvoir corromp, et que les gens doivent contrôller leur propre vie à travers l'auto-organisation individuelle et l'action collective.</seg>
+        <seg> Anarchiste: Quelq'un qui croit que le gouvernement n'est pas nécessaire, que le pouvoir corromp, et que les gens doivent contrôller leur propre vie à travers l'auto-organisation individuelle et l'action collective.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u5&gt; Arachnoid: A spider-like robotic synthmorph.</seg>
+        <seg> Arachnoid: A spider-like robotic synthmorph.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u5&gt; Arachnoïde: Une synthmorph robotique ressemblant à une araignée.</seg>
+        <seg> Arachnoïde: Une synthmorph robotique ressemblant à une araignée.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u6&gt; Argonauts: A faction of techno-progressive scientists that promote responsible and ethical use of technology.</seg>
+        <seg> Argonauts: A faction of techno-progressive scientists that promote responsible and ethical use of technology.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u6&gt; Argonautes: Une faction de scientifique tecno-progressistes qui font la promotion d'une utilisation responsable et éthique de la technologie.</seg>
+        <seg> Argonautes: Une faction de scientifique tecno-progressistes qui font la promotion d'une utilisation responsable et éthique de la technologie.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u7&gt; AR: Augmented Reality.</seg>
+        <seg> AR: Augmented Reality.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u7&gt; RA: Réalité Augmentée.</seg>
+        <seg> RA: Réalité Augmentée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8038,18 +8070,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u8&gt; Async: A person with psi abilities.</seg>
+        <seg> Async: A person with psi abilities.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u8&gt; Async: Une personne avec des pouvoirs psi.</seg>
+        <seg> Async: Une personne avec des pouvoirs psi.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u9&gt; AU: Astronomical unit.</seg>
+        <seg> AU: Astronomical unit.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u9&gt; UA: Unité Astronomique</seg>
+        <seg> UA: Unité Astronomique</seg>
       </tuv>
     </tu>
     <tu>
@@ -8062,66 +8094,66 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u10&gt; Autonomists: The alliance of anarchists, Barsoomians, Extropians, scum, and Titanians.</seg>
+        <seg> Autonomists: The alliance of anarchists, Barsoomians, Extropians, scum, and Titanians.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u10&gt; Autonomistes: L'alliance des anarchistes, des Barsoomiens, des Extropiens, de la racaille et des Titaniens.</seg>
+        <seg> Autonomistes: L'alliance des anarchistes, des Barsoomiens, des Extropiens, de la racaille et des Titaniens.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u11&gt; Barsoomian: A rural Martian, typically resentful of hypercorp control.</seg>
+        <seg> Barsoomian: A rural Martian, typically resentful of hypercorp control.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u11&gt; Barsoomien: Un Martien rural, typiquement irrité par le contrôle des hypercorp.</seg>
+        <seg> Barsoomien: Un Martien rural, typiquement irrité par le contrôle des hypercorp.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u12&gt; Basilisk Hack: An image or other sensory input that affects the brain's visual cortex and pattern recognition abilities in such a way as to cause a glitch and possibly exploit it and rewrite neural code.</seg>
+        <seg> Basilisk Hack: An image or other sensory input that affects the brain's visual cortex and pattern recognition abilities in such a way as to cause a glitch and possibly exploit it and rewrite neural code.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u12&gt; Piratage Basilique: Une image ou toute autre entrée sensorielle qui affecte le cortex visuel du cerveau aisni que ses capacités de recognition de motifs d'une manière à provoquer une erreur et de peut-être l'exploiter pour réécrire du code neuronal.</seg>
+        <seg> Piratage Basilique: Une image ou toute autre entrée sensorielle qui affecte le cortex visuel du cerveau aisni que ses capacités de recognition de motifs d'une manière à provoquer une erreur et de peut-être l'exploiter pour réécrire du code neuronal.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u13&gt; Beehive: A microgravity habitat made from a tunneledout asteroid or moon.</seg>
+        <seg> Beehive: A microgravity habitat made from a tunneledout asteroid or moon.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u13&gt; Ruche: Un habitat à microgravité créé dans un astéroïde ou une lune évidée.</seg>
+        <seg> Ruche: Un habitat à microgravité créé dans un astéroïde ou une lune évidée.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u14&gt; BF: Before the Fall (used for reference dating).</seg>
+        <seg> BF: Before the Fall (used for reference dating).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u14&gt; BF: (Before the Fall) Avant la Chute (utilisé comme date de référence).</seg>
+        <seg> BF: (Before the Fall) Avant la Chute (utilisé comme date de référence).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u15&gt; Bioconservative: An anti-technology movement that argues for strict regulation of nanofabrication, AI, uploading, forking, cognitive enhancements, and other disruptive technologies.</seg>
+        <seg> Bioconservative: An anti-technology movement that argues for strict regulation of nanofabrication, AI, uploading, forking, cognitive enhancements, and other disruptive technologies.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u15&gt; Bioconservateurs: Un mouvement anti-technologie qui milite pour une régulation stricte de la nanofabrication, des IA, de l'upload, du fork, des améliorations cognitives et de toute autre techonologie perturbatrice.</seg>
+        <seg> Bioconservateurs: Un mouvement anti-technologie qui milite pour une régulation stricte de la nanofabrication, des IA, de l'upload, du fork, des améliorations cognitives et de toute autre techonologie perturbatrice.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u16&gt; Biomorph: A biological body, whether a flat, splicer, genetically engineered transhuman, or pod.</seg>
+        <seg> Biomorph: A biological body, whether a flat, splicer, genetically engineered transhuman, or pod.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u16&gt; Biomorph: Un corps bilogique, qu'i ls'agisse d'un plat, d'un splicer, d'un transhumain génétiquement amélioré ou d'un pod.</seg>
+        <seg> Biomorph: Un corps bilogique, qu'i ls'agisse d'un plat, d'un splicer, d'un transhumain génétiquement amélioré ou d'un pod.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u17&gt; Body Bank: A service for leasing, selling, acquiring, or storing a morph.</seg>
+        <seg> Body Bank: A service for leasing, selling, acquiring, or storing a morph.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u17&gt; Banque de Corps: Un service pour louer, vendre, acheter  ou stocker une morph.</seg>
+        <seg> Banque de Corps: Un service pour louer, vendre, acheter  ou stocker une morph.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8142,18 +8174,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u19&gt; Bracewell Probe: A type of autonomous monitoring deep- space probe meant to make contact with alien civilizations.</seg>
+        <seg> Bracewell Probe: A type of autonomous monitoring deep- space probe meant to make contact with alien civilizations.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u19&gt; Sonde Bracewell: Un type de sonde autonome de surveillance de l'espace profond conçue pour établir le contact avec des civilisations étrangères.</seg>
+        <seg> Sonde Bracewell: Un type de sonde autonome de surveillance de l'espace profond conçue pour établir le contact avec des civilisations étrangères.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u20&gt; Brinkers: Exiles who live on the fringes of the system, as well as other isolated and well-hidden nooks and crannies.</seg>
+        <seg> Brinkers: Exiles who live on the fringes of the system, as well as other isolated and well-hidden nooks and crannies.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u20&gt; Brinkeurs: Des éxilés qui vivent aux limites du système, ansi que dans tous les autres coins et recoins bien cachés du système.</seg>
+        <seg> Brinkeurs: Des éxilés qui vivent aux limites du système, ansi que dans tous les autres coins et recoins bien cachés du système.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8166,58 +8198,58 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u21&gt; Case: A cheap, common, mass-produced synthetic shell.</seg>
+        <seg> Case: A cheap, common, mass-produced synthetic shell.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u21&gt; Caisse: Une coquille synthétique bon marché, commune et produite en masse.</seg>
+        <seg> Caisse: Une coquille synthétique bon marché, commune et produite en masse.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u22&gt; Chimeric: Transgenic, containing genetic traits from other species.</seg>
+        <seg> Chimeric: Transgenic, containing genetic traits from other species.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u22&gt; Chimère: Un transgénique, contenant des traits génétiques d'autre espèces.</seg>
+        <seg> Chimère: Un transgénique, contenant des traits génétiques d'autre espèces.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u23&gt; Circumjovian: Orbiting Jupiter.</seg>
+        <seg> Circumjovian: Orbiting Jupiter.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u23&gt; Circumjovien: Orbitant autour de Jupiter.</seg>
+        <seg> Circumjovien: Orbitant autour de Jupiter.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u24&gt; Circumlunar: Orbiting the Moon.</seg>
+        <seg> Circumlunar: Orbiting the Moon.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u24&gt; Circumlunaire: Orbitant autour de la Lune.</seg>
+        <seg> Circumlunaire: Orbitant autour de la Lune.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u25&gt; Circumsolar: Orbiting the Sun.</seg>
+        <seg> Circumsolar: Orbiting the Sun.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u25&gt; Circumsolaire: Orbitant autour du Soleil.</seg>
+        <seg> Circumsolaire: Orbitant autour du Soleil.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u26&gt; Cislunar: Between the Earth and the Moon.</seg>
+        <seg> Cislunar: Between the Earth and the Moon.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u26&gt; Cislunaire: Entre la Terre et la Lune.</seg>
+        <seg> Cislunaire: Entre la Terre et la Lune.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u27&gt; Clade: A species or group of organisms with common features.</seg>
+        <seg> Clade: A species or group of organisms with common features.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u27&gt; Clade: Une espèce ou un groupe d'organisme partageant des caractéristique.</seg>
+        <seg> Clade: Une espèce ou un groupe d'organisme partageant des caractéristique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8230,26 +8262,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u28&gt; Cole Bubble: A habitat made from a hollowed-out asteroid or moon, spun for gravity.</seg>
+        <seg> Cole Bubble: A habitat made from a hollowed-out asteroid or moon, spun for gravity.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u28&gt; Bulle Cole: Un habitat formé d'un astéroïde ou d'une lune évidée et en rotation pour obtenir une gravité.</seg>
+        <seg> Bulle Cole: Un habitat formé d'un astéroïde ou d'une lune évidée et en rotation pour obtenir une gravité.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u29&gt; Cornucopia Machine: A general-purpose nanofabricator.</seg>
+        <seg> Cornucopia Machine: A general-purpose nanofabricator.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u29&gt; Machine d'Abondance: Un nanofabeur a but généraliste.</seg>
+        <seg> Machine d'Abondance: Un nanofabeur a but généraliste.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u30&gt; Cortical Stack: An implanted memory cell used for ego backup.</seg>
+        <seg> Cortical Stack: An implanted memory cell used for ego backup.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u30&gt; Pile Corticalle: Une cellulle de mémoire implantée et utilisée pour sauvegarder un ego.</seg>
+        <seg> Pile Corticalle: Une cellulle de mémoire implantée et utilisée pour sauvegarder un ego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8262,10 +8294,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u31&gt; Cyberbrain: An artificial brain, housing an ego.</seg>
+        <seg> Cyberbrain: An artificial brain, housing an ego.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u31&gt; Cybercerveau: Un cerveau artificiel, hébergeant un ego.</seg>
+        <seg> Cybercerveau: Un cerveau artificiel, hébergeant un ego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8278,34 +8310,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u32&gt; Darkcast: Illegal and black market farcasting and egocasting services.</seg>
+        <seg> Darkcast: Illegal and black market farcasting and egocasting services.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u32&gt; Darkcast: Services de farcast et d'egocast ilégaux et trouvés au marché noir.</seg>
+        <seg> Darkcast: Services de farcast et d'egocast ilégaux et trouvés au marché noir.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u33&gt; Domain Rules: The rules that govern the reality of a virtual reality simulspace.</seg>
+        <seg> Domain Rules: The rules that govern the reality of a virtual reality simulspace.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u33&gt; Règles de Domaine: Les règles qui régissent la réalité dans un simulspace de réalité virtuelle.</seg>
+        <seg> Règles de Domaine: Les règles qui régissent la réalité dans un simulspace de réalité virtuelle.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u34&gt; Drone: A robot controlled through teleoperation (rather than directly via onboard AI).</seg>
+        <seg> Drone: A robot controlled through teleoperation (rather than directly via onboard AI).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u34&gt; Drône: Un robot conrtrollé par téléopération (plutôt que par des IA embarquées).</seg>
+        <seg> Drône: Un robot conrtrollé par téléopération (plutôt que par des IA embarquées).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u35&gt; Ecto: Personal mesh devices that are flexible, stretchable, self-cleaning, translucent, and solar-powered.</seg>
+        <seg> Ecto: Personal mesh devices that are flexible, stretchable, self-cleaning, translucent, and solar-powered.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u35&gt; Ecto: Périphérique de mesh personnel, souple, étirable, auto-nettoyant, translucide et alimenté par énergie solaire.</seg>
+        <seg> Ecto: Périphérique de mesh personnel, souple, étirable, auto-nettoyant, translucide et alimenté par énergie solaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8318,10 +8350,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u36&gt; Ego: The part of you that switches from body to body.</seg>
+        <seg> Ego: The part of you that switches from body to body.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u36&gt; Ego: La part de vous qui bascule d'un corps à l'autre.</seg>
+        <seg> Ego: La part de vous qui bascule d'un corps à l'autre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8334,26 +8366,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u37&gt; Egocasting: Term for sending egos via farcasting.</seg>
+        <seg> Egocasting: Term for sending egos via farcasting.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u37&gt; Egocaster: Terme pour envoyer un ego par farcasting.</seg>
+        <seg> Egocaster: Terme pour envoyer un ego par farcasting.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u38&gt; Entoptics: Augmented-reality images that you ``see'' in your head.</seg>
+        <seg> Entoptics: Augmented-reality images that you ``see'' in your head.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u38&gt; Entoptiques: Images de Réalité Augmentée que vous &quot;voyez&quot; dans votre tête.</seg>
+        <seg> Entoptiques: Images de Réalité Augmentée que vous &quot;voyez&quot; dans votre tête.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>(``Entoptic'' means ``within the eye.'') &lt;u39&gt; ETI: Extraterrestial intelligence.</seg>
+        <seg>(``Entoptic'' means ``within the eye.'')  ETI: Extraterrestial intelligence.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>(&quot;Entoptique&quot; signifie &quot;à l'intérieur des yeux&quot;) &lt;u39&gt; ETI: Intelligence extra-terrestre.</seg>
+        <seg>(&quot;Entoptique&quot; signifie &quot;à l'intérieur des yeux&quot;)  ETI: Intelligence extra-terrestre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8366,10 +8398,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u40&gt; Exalts: Genetically-enhanced humans (between genefixed and transhumans).</seg>
+        <seg> Exalts: Genetically-enhanced humans (between genefixed and transhumans).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u40&gt; Exaltés: Humains génétiquement améliorés (entre génétiquement réparés et transhumains).</seg>
+        <seg> Exaltés: Humains génétiquement améliorés (entre génétiquement réparés et transhumains).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8382,26 +8414,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u41&gt; Exoplanet: A planet in another solar system.</seg>
+        <seg> Exoplanet: A planet in another solar system.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u41&gt; Exoplanète: Une planète dans un autre système solaire.</seg>
+        <seg> Exoplanète: Une planète dans un autre système solaire.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u42&gt; Exsurgent: Someone infected by the Exsurgent virus.</seg>
+        <seg> Exsurgent: Someone infected by the Exsurgent virus.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u42&gt; Exsurgent: Quelqu'un infecté par le virus Exsurgent</seg>
+        <seg> Exsurgent: Quelqu'un infecté par le virus Exsurgent</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u43&gt; Exsurgent Virus: The multi-vector virus created by an unknown ETI and seeded throughout the galaxy in Bracewell probes.</seg>
+        <seg> Exsurgent Virus: The multi-vector virus created by an unknown ETI and seeded throughout the galaxy in Bracewell probes.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u43&gt; Virus Exsurgent: Le virus multi-vecteur créé par un ETI inconnu et répandu dans la galaxie dans des sondes Bracewell.</seg>
+        <seg> Virus Exsurgent: Le virus multi-vecteur créé par un ETI inconnu et répandu dans la galaxie dans des sondes Bracewell.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8414,18 +8446,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u44&gt; Extrasolar: Outside the solar system.</seg>
+        <seg> Extrasolar: Outside the solar system.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u44&gt; Extrasolaire: Hors du système solaire.</seg>
+        <seg> Extrasolaire: Hors du système solaire.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u45&gt; Factors: The alien ambassadorial race that deals with transhumanity.</seg>
+        <seg> Factors: The alien ambassadorial race that deals with transhumanity.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u45&gt; Facteurs: La race étrangère ambassadrice qui fait affaire avec la transhumanité.</seg>
+        <seg> Facteurs: La race étrangère ambassadrice qui fait affaire avec la transhumanité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8438,50 +8470,50 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u46&gt; The Fall: The apocalypse; the singularity and wars that nearly brought about the downfall of transhumanity.</seg>
+        <seg> The Fall: The apocalypse; the singularity and wars that nearly brought about the downfall of transhumanity.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u46&gt; La Chute: L'apocalypse; la singularité et les guerres qui ont presque amenées l'extinction de l'humanité.</seg>
+        <seg> La Chute: L'apocalypse; la singularité et les guerres qui ont presque amenées l'extinction de l'humanité.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u47&gt; Farcasting: Intrasolar communication utilizing classical communication technologies (radio, laser, etc.) and quantum teleportation.</seg>
+        <seg> Farcasting: Intrasolar communication utilizing classical communication technologies (radio, laser, etc.) and quantum teleportation.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u47&gt; Farcasting: Communication intrasolaire utilisant des technologies de communication classiques (radio, laser, etc) et la téléportation quantique. Parfois appelée Hyeprdiff.</seg>
+        <seg> Farcasting: Communication intrasolaire utilisant des technologies de communication classiques (radio, laser, etc) et la téléportation quantique. Parfois appelée Hyeprdiff.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u48&gt; Farhauler: Long distance space shipper.</seg>
+        <seg> Farhauler: Long distance space shipper.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u48&gt; Long Porteur: Transport spatiaux de longue distance.</seg>
+        <seg> Long Porteur: Transport spatiaux de longue distance.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u49&gt; Firewall: The secret cross-faction conspiracy that works to protect transhumanity from ``existential threats'' (risks to transhumanity's continued existence).</seg>
+        <seg> Firewall: The secret cross-faction conspiracy that works to protect transhumanity from ``existential threats'' (risks to transhumanity's continued existence).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u49&gt; Firewall: La conspiration secrète, multifaction qui travaille à protéger la transhumanité des &quot;risques existentiels&quot; (risques qui menacent l'existence de la transhumanité).</seg>
+        <seg> Firewall: La conspiration secrète, multifaction qui travaille à protéger la transhumanité des &quot;risques existentiels&quot; (risques qui menacent l'existence de la transhumanité).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u50&gt; Flatlander: Someone born or used to living on a planet or moon with gravity.</seg>
+        <seg> Flatlander: Someone born or used to living on a planet or moon with gravity.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u50&gt; Bas de plancher: Quelqu'un qui est né ou habitué à vivre sur une planète ou une lune avec une gravité.</seg>
+        <seg> Bas de plancher: Quelqu'un qui est né ou habitué à vivre sur une planète ou une lune avec une gravité.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u51&gt; Flats: Baseline humans (not genetically modified).</seg>
+        <seg> Flats: Baseline humans (not genetically modified).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u51&gt; Plats: Humains de base (sans modificatiosn génétique).</seg>
+        <seg> Plats: Humains de base (sans modificatiosn génétique).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8494,18 +8526,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u52&gt; Flexbot: A shape-changing synthmorph also capable of joining together with other flexbots in a modular fashion to create larger shapes.</seg>
+        <seg> Flexbot: A shape-changing synthmorph also capable of joining together with other flexbots in a modular fashion to create larger shapes.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u52&gt; Flexbot: Une synthmorph capable de changer de forme ou de rejoindre d'autre trasnformers afin de créer des forms plus grande et modulaires. Aussi appelé Transformers</seg>
+        <seg> Flexbot: Une synthmorph capable de changer de forme ou de rejoindre d'autre trasnformers afin de créer des forms plus grande et modulaires. Aussi appelé Transformers</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u53&gt; Forking: Copying an ego.</seg>
+        <seg> Forking: Copying an ego.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u53&gt; Forker: Copier un ego.</seg>
+        <seg> Forker: Copier un ego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8526,58 +8558,58 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u54&gt; FTL: Faster-Than-Light.</seg>
+        <seg> FTL: Faster-Than-Light.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u54&gt; FTL: Faster-Than-Light. Plus rapide que la lumière.</seg>
+        <seg> FTL: Faster-Than-Light. Plus rapide que la lumière.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u55&gt; Fury: A transhuman combat morph.</seg>
+        <seg> Fury: A transhuman combat morph.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u55&gt; Fury: Une morph de combat transhumaine.</seg>
+        <seg> Fury: Une morph de combat transhumaine.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u56&gt; Gatecrashers: Explorers who take their chances using a Pandora gate to go somewhere previously unexplored.</seg>
+        <seg> Gatecrashers: Explorers who take their chances using a Pandora gate to go somewhere previously unexplored.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u56&gt; Resquilleurs: Explorateurs qui tentent leur chances en utilisant une Porte de Pandorre pour aller vers un endroit pour l'instant inexploré.</seg>
+        <seg> Resquilleurs: Explorateurs qui tentent leur chances en utilisant une Porte de Pandorre pour aller vers un endroit pour l'instant inexploré.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u57&gt; Genehacker: Someone who manipulates genetic code to create genetic modifications or even new life.</seg>
+        <seg> Genehacker: Someone who manipulates genetic code to create genetic modifications or even new life.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u57&gt; Génohacker: Quelqu'un qui manipule le code génétique pour créer des modifications génétiques voire même de nouvelles formes de vie.</seg>
+        <seg> Génohacker: Quelqu'un qui manipule le code génétique pour créer des modifications génétiques voire même de nouvelles formes de vie.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u58&gt; Ghost: A transhuman combat morph optimized for stealth and infiltration.</seg>
+        <seg> Ghost: A transhuman combat morph optimized for stealth and infiltration.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u58&gt; Ghost: Une morph de combat transhumaine optimisé pour la furtivisté et  l'infiltration.</seg>
+        <seg> Ghost: Une morph de combat transhumaine optimisé pour la furtivisté et  l'infiltration.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u59&gt; Ghost-riding: The act of carrying an infomorph in a special implant module inside your head.</seg>
+        <seg> Ghost-riding: The act of carrying an infomorph in a special implant module inside your head.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u59&gt; Ghost-riding: L'acte de transporter une infomorph dans un implant sépcial à l'intérieur de votre tête.</seg>
+        <seg> Ghost-riding: L'acte de transporter une infomorph dans un implant sépcial à l'intérieur de votre tête.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u60&gt; Greeks: Trojan asteroids or moons that share the same orbit as a larger planet or moon, but are 60 degrees ahead in the orbit at the L4 Lagrange point.</seg>
+        <seg> Greeks: Trojan asteroids or moons that share the same orbit as a larger planet or moon, but are 60 degrees ahead in the orbit at the L4 Lagrange point.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u60&gt; Grecs: Astéroîdes ou lunes troyens qui partagent la même orbite qu'une planète ou lune plus grosse, mais qui ont 60 degrés d'avance sur l'orbite, au point de Lagrange L4.</seg>
+        <seg> Grecs: Astéroîdes ou lunes troyens qui partagent la même orbite qu'une planète ou lune plus grosse, mais qui ont 60 degrés d'avance sur l'orbite, au point de Lagrange L4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8590,66 +8622,66 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>See also ``Trojans.'' &lt;u61&gt; Habtech: A habitat technician.</seg>
+        <seg>See also ``Trojans.''  Habtech: A habitat technician.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Voir aussi à &quot;Troyens.&quot; &lt;u61&gt; Habtech: Un technicien d'habitation.</seg>
+        <seg>Voir aussi à &quot;Troyens.&quot;  Habtech: Un technicien d'habitation.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u62&gt; Heliopause: The point where pressure from the solar wind balances with the interstellar medium (about 100 AU out).</seg>
+        <seg> Heliopause: The point where pressure from the solar wind balances with the interstellar medium (about 100 AU out).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u62&gt; Héliopause: Le point auquel la pression des vents solaires s'équilibre avec les moyennes interstellaires (aux allentours de 100 AU).</seg>
+        <seg> Héliopause: Le point auquel la pression des vents solaires s'équilibre avec les moyennes interstellaires (aux allentours de 100 AU).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u63&gt; Hibernoid: A transhuman modified for hibernation, for extensive travel in space.</seg>
+        <seg> Hibernoid: A transhuman modified for hibernation, for extensive travel in space.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u63&gt; Hibernoïdes: Un transhumain modifié pour l'hibernation, pour des travaux prolongés dans l'espace.</seg>
+        <seg> Hibernoïdes: Un transhumain modifié pour l'hibernation, pour des travaux prolongés dans l'espace.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u64&gt; Iceteroid: An asteroid made from mostly ice rather than rock or metals.</seg>
+        <seg> Iceteroid: An asteroid made from mostly ice rather than rock or metals.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u64&gt; Glacetéroïde: Un astéroïde constitué essentiellemnt de glace au lieu de roche et de métal.</seg>
+        <seg> Glacetéroïde: Un astéroïde constitué essentiellemnt de glace au lieu de roche et de métal.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u65&gt; Iktomi: The name given to the mysterious alien race whose relics have been found beyond the Pandora Gates.</seg>
+        <seg> Iktomi: The name given to the mysterious alien race whose relics have been found beyond the Pandora Gates.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u65&gt; Iktomi: Le nom donné à la mystérieuse race étrangère dont les reliques ont été retrouvées au delà des Portes de Pandorre.</seg>
+        <seg> Iktomi: Le nom donné à la mystérieuse race étrangère dont les reliques ont été retrouvées au delà des Portes de Pandorre.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u66&gt; Indentures: Indentured servants who have contracted their labor to a hypercorp or other authority, usually in exchange for a morph.</seg>
+        <seg> Indentures: Indentured servants who have contracted their labor to a hypercorp or other authority, usually in exchange for a morph.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u66&gt; Contractés: Des esclaves sous contrats synallagmatique qui ont signé pour travailer avec une hypercorp ou une autre autorité, habituellement en échange d'une morph.</seg>
+        <seg> Contractés: Des esclaves sous contrats synallagmatique qui ont signé pour travailer avec une hypercorp ou une autre autorité, habituellement en échange d'une morph.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u67&gt; Infolife: Artificial general intelligences and seed AIs.</seg>
+        <seg> Infolife: Artificial general intelligences and seed AIs.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u67&gt; Infovie: Intelligence artificielle généraliste et IAs germe.</seg>
+        <seg> Infovie: Intelligence artificielle généraliste et IAs germe.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u68&gt; Infomorph: A digitized ego; a virtual body.</seg>
+        <seg> Infomorph: A digitized ego; a virtual body.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u68&gt; Infomorph: Un égo digitalisé; un corps virtuel.</seg>
+        <seg> Infomorph: Un égo digitalisé; un corps virtuel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8662,26 +8694,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u69&gt; Infugee: ``Infomorph refugee,'' or someone who left everything behind on Earth during the Fall—even their own body.</seg>
+        <seg> Infugee: ``Infomorph refugee,'' or someone who left everything behind on Earth during the Fall—even their own body.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u69&gt; Infugié: ``Infomorph refugié,'' ou quelqu'un qui a tout abandonné sur Terre - y compris son corp - pendant la Chute.</seg>
+        <seg> Infugié: ``Infomorph refugié,'' ou quelqu'un qui a tout abandonné sur Terre - y compris son corp - pendant la Chute.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u70&gt; Isolates: Those who live in isolated communities far outside the system (in the Kuiper Belt and Oort Cloud); aka outsters, fringers.</seg>
+        <seg> Isolates: Those who live in isolated communities far outside the system (in the Kuiper Belt and Oort Cloud); aka outsters, fringers.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u70&gt; Isolés: Ceux qui vivent dans des communautés isolées loin au-delà des limites du système (dans la Ceinture de Kuiper et le Nuage d'Oort); aussi appelés outsters, limités.</seg>
+        <seg> Isolés: Ceux qui vivent dans des communautés isolées loin au-delà des limites du système (dans la Ceinture de Kuiper et le Nuage d'Oort); aussi appelés outsters, limités.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u71&gt; Jamming: The act of ``becoming'' a teleoperated drone thanks to XP technology.</seg>
+        <seg> Jamming: The act of ``becoming'' a teleoperated drone thanks to XP technology.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u71&gt; Saturer: l'acte de &quot;devenir&quot; un drône opéré à distance grâce à la technologie XP.</seg>
+        <seg> Saturer: l'acte de &quot;devenir&quot; un drône opéré à distance grâce à la technologie XP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8694,18 +8726,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u72&gt; Kuiper Belt: A region of space extending from Neptune's orbit out to about 55 AU, lightly populated with asteroids, comets, and dwarf planets.</seg>
+        <seg> Kuiper Belt: A region of space extending from Neptune's orbit out to about 55 AU, lightly populated with asteroids, comets, and dwarf planets.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u72&gt; Ceinture de Kuiper: Une région de l'espace partant de l'orbite de Neptune et s'étalant sur envrion 55 UA, légèrement peuplée d'astéroïdes, de comètes et de planètes naines.</seg>
+        <seg> Ceinture de Kuiper: Une région de l'espace partant de l'orbite de Neptune et s'étalant sur envrion 55 UA, légèrement peuplée d'astéroïdes, de comètes et de planètes naines.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u73&gt; Lagrange Point: One of five areas in respect to a small planetary body orbiting a larger one in which the gravitational forces of those two bodies are neutralized.</seg>
+        <seg> Lagrange Point: One of five areas in respect to a small planetary body orbiting a larger one in which the gravitational forces of those two bodies are neutralized.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u73&gt; Point de Lagrange: L'une des cinqs zones relative à un petit corps planétaire orbitant autour d'un plus gros dans lesquelles les forces gravitationnelles de ces deux corps sont neutralisées.</seg>
+        <seg> Point de Lagrange: L'une des cinqs zones relative à un petit corps planétaire orbitant autour d'un plus gros dans lesquelles les forces gravitationnelles de ces deux corps sont neutralisées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8718,18 +8750,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u74&gt; Lifelog: A recording of one's entire life experience, made possible due to near unlimited computer memory.</seg>
+        <seg> Lifelog: A recording of one's entire life experience, made possible due to near unlimited computer memory.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u74&gt; Lifeblog: L'enregistrement de toute l'expérience de la vie de quelqu'un, rendue possible grâce aux capacités mémoires des ordinateurs quasi-illimitées.</seg>
+        <seg> Lifeblog: L'enregistrement de toute l'expérience de la vie de quelqu'un, rendue possible grâce aux capacités mémoires des ordinateurs quasi-illimitées.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u75&gt; Lost Generation: In an effort to repopulate post-Fall, a generation of children were reared using forced-growth methods.</seg>
+        <seg> Lost Generation: In an effort to repopulate post-Fall, a generation of children were reared using forced-growth methods.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u75&gt; Generation Égarée: Dans une tentative de repeupler après la Chute, une génération d'enfant fut élevée en utilisant des techniques de croissance forcée.</seg>
+        <seg> Generation Égarée: Dans une tentative de repeupler après la Chute, une génération d'enfant fut élevée en utilisant des techniques de croissance forcée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8742,42 +8774,42 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u76&gt; Main Belt: The main asteroid belt, a torus ring orbiting between Mars and Jupiter.</seg>
+        <seg> Main Belt: The main asteroid belt, a torus ring orbiting between Mars and Jupiter.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u76&gt; Ceinture Principale: La principale ceinture d'astéroïdes, un anneau torique orbitant entre Mars et Jupiter.</seg>
+        <seg> Ceinture Principale: La principale ceinture d'astéroïdes, un anneau torique orbitant entre Mars et Jupiter.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u77&gt; Meme: A viral idea.</seg>
+        <seg> Meme: A viral idea.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u77&gt; Meme: Une idée virale.</seg>
+        <seg> Meme: Une idée virale.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u78&gt; Mentons: Transhumans optimized for mental and cognitive ability.</seg>
+        <seg> Mentons: Transhumans optimized for mental and cognitive ability.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u78&gt; Mentalistes: Transhumains optimisés pour les compétences mentales et cognitive.</seg>
+        <seg> Mentalistes: Transhumains optimisés pour les compétences mentales et cognitive.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u79&gt; Mercurials: The non-human sentient elements of the transhuman ``family,'' including AGIs and uplifted animals.</seg>
+        <seg> Mercurials: The non-human sentient elements of the transhuman ``family,'' including AGIs and uplifted animals.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u79&gt; Mercuriels: Les éléments conscient non-humains de la &quot;famille&quot; transhumaine; incluant les IAG et les animaux éveillés.</seg>
+        <seg> Mercuriels: Les éléments conscient non-humains de la &quot;famille&quot; transhumaine; incluant les IAG et les animaux éveillés.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u80&gt; Mesh: The omnipresent wireless mesh data network.</seg>
+        <seg> Mesh: The omnipresent wireless mesh data network.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u80&gt; Mesh: L'omniprésent maillage sans-fil de réseau de données.</seg>
+        <seg> Mesh: L'omniprésent maillage sans-fil de réseau de données.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8790,34 +8822,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u81&gt; Mesh ID: The unique signature attached to one's mesh activity.</seg>
+        <seg> Mesh ID: The unique signature attached to one's mesh activity.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u81&gt; Mesh ID: La signature unique attachée à l'activité meshée de quelqu'un.</seg>
+        <seg> Mesh ID: La signature unique attachée à l'activité meshée de quelqu'un.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u82&gt; Microgravity: Zero-g or near weightless environments.</seg>
+        <seg> Microgravity: Zero-g or near weightless environments.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u82&gt; Microgravité: Zéro-g ou environnement quasiment sans poids.</seg>
+        <seg> Microgravité: Zéro-g ou environnement quasiment sans poids.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u83&gt; Mist: The clouds of AR data that sometimes fog up your perception/displays.</seg>
+        <seg> Mist: The clouds of AR data that sometimes fog up your perception/displays.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u83&gt; Mist: Les nuages de données RA qui brouillent parfois votre perception et vos affichages.</seg>
+        <seg> Mist: Les nuages de données RA qui brouillent parfois votre perception et vos affichages.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u84&gt; Morph: A physical body.</seg>
+        <seg> Morph: A physical body.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u84&gt; Morph: Un corps physique.</seg>
+        <seg> Morph: Un corps physique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8830,106 +8862,106 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u85&gt; Muse: Personal AI helper programs.</seg>
+        <seg> Muse: Personal AI helper programs.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u85&gt; Muse: IA d'assitant personnel.</seg>
+        <seg> Muse: IA d'assitant personnel.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u86&gt; Nanobot: A nano-scale machine.</seg>
+        <seg> Nanobot: A nano-scale machine.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u86&gt; Nanobot: Une machine nanoscopique.</seg>
+        <seg> Nanobot: Une machine nanoscopique.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u87&gt; Nano-ecology: Pro-tech ecological movement.</seg>
+        <seg> Nano-ecology: Pro-tech ecological movement.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u87&gt; Nano-écologie: Mouvement écologique pro-technologie.</seg>
+        <seg> Nano-écologie: Mouvement écologique pro-technologie.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u88&gt; Nanoswarm: A mass of tiny nanobots unleashed into an environment.</seg>
+        <seg> Nanoswarm: A mass of tiny nanobots unleashed into an environment.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u88&gt; Essaim de nanite: Une masse de petits nanobots libérée dans un environnement.</seg>
+        <seg> Essaim de nanite: Une masse de petits nanobots libérée dans un environnement.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u89&gt; Neo-Avians: Uplifted ravens and gray parrots.</seg>
+        <seg> Neo-Avians: Uplifted ravens and gray parrots.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u89&gt; Neo-Aviens: Perroquets gris et corbeaux élevés.</seg>
+        <seg> Neo-Aviens: Perroquets gris et corbeaux élevés.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u90&gt; Neogenesis: The creation of new life forms via genetic manipulation and biotechnology.</seg>
+        <seg> Neogenesis: The creation of new life forms via genetic manipulation and biotechnology.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u90&gt; Néogenèse: La création d'une nouvelle forme de vie grâce aux manipulations génétiques et à la biotechnologies.</seg>
+        <seg> Néogenèse: La création d'une nouvelle forme de vie grâce aux manipulations génétiques et à la biotechnologies.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u91&gt; Neo-Hominids: Uplifted chimpanzees, gorillas, and orangutans.</seg>
+        <seg> Neo-Hominids: Uplifted chimpanzees, gorillas, and orangutans.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u91&gt; Neo-Hominidés: Chimpanzés, gorilles et orang-outans élevés</seg>
+        <seg> Neo-Hominidés: Chimpanzés, gorilles et orang-outans élevés</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u92&gt; Neotenics: Transhumans modified to retain a child-like form.</seg>
+        <seg> Neotenics: Transhumans modified to retain a child-like form.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u92&gt; Néoteniques: Transhumains modifiés pour conserver une forme enfantine.</seg>
+        <seg> Néoteniques: Transhumains modifiés pour conserver une forme enfantine.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u93&gt; Novacrab: A pod created from genetically-engineered spider crab stock.</seg>
+        <seg> Novacrab: A pod created from genetically-engineered spider crab stock.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u93&gt; Novacrabe: Un pod créé à partir de crabe araignés génétiquement conçus.</seg>
+        <seg> Novacrabe: Un pod créé à partir de crabe araignés génétiquement conçus.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u94&gt; Olympian: A transhuman biomorph modified for athleticism and endurance.</seg>
+        <seg> Olympian: A transhuman biomorph modified for athleticism and endurance.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u94&gt; Olympien: Une biomorph transhumaine modifiée pour l'athéltisme et l'endurance.</seg>
+        <seg> Olympien: Une biomorph transhumaine modifiée pour l'athéltisme et l'endurance.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u95&gt; O'Neill Cylinder: A soda-can shaped habitat, spun for gravity.</seg>
+        <seg> O'Neill Cylinder: A soda-can shaped habitat, spun for gravity.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u95&gt; Cylindre O'Neill: Un habitat en forme de canette, soumis à une rotation pour créer une gravité.</seg>
+        <seg> Cylindre O'Neill: Un habitat en forme de canette, soumis à une rotation pour créer une gravité.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u96&gt; Oort Cloud: The spherical ``cloud'' of comets that surrounds the solar system out to about one light-year from the sun.</seg>
+        <seg> Oort Cloud: The spherical ``cloud'' of comets that surrounds the solar system out to about one light-year from the sun.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u96&gt; Nuage d'Oort: Le &quot;nuage&quot; sphérique constitué de comètes qui entoure le système solaire et qui s'étend jusqu'à une année lumière du soleil.</seg>
+        <seg> Nuage d'Oort: Le &quot;nuage&quot; sphérique constitué de comètes qui entoure le système solaire et qui s'étend jusqu'à une année lumière du soleil.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u97&gt; PAN: Personal area network.</seg>
+        <seg> PAN: Personal area network.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u97&gt; PAN: Personal area network/Réseau personnel.</seg>
+        <seg> PAN: Personal area network/Réseau personnel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8942,18 +8974,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u98&gt; Pandora Gates: The wormhole gateways left behind by the TITANs.</seg>
+        <seg> Pandora Gates: The wormhole gateways left behind by the TITANs.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u98&gt; Porte de Pandorre: Les portails de trou-de-ver abandonné par les TITANs.</seg>
+        <seg> Porte de Pandorre: Les portails de trou-de-ver abandonné par les TITANs.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u99&gt; Pods: Mixed biological-synthetic morphs.</seg>
+        <seg> Pods: Mixed biological-synthetic morphs.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u99&gt; Pods: Des morphs à la fois biologique et synthétiques.</seg>
+        <seg> Pods: Des morphs à la fois biologique et synthétiques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8974,10 +9006,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>From ``pod people.'' &lt;u100&gt; Posthuman: A human or transhuman individual or species that has been genetically or cognitively modified so extensively as to no longer be human (a step beyond transhuman).</seg>
+        <seg>From ``pod people.''  Posthuman: A human or transhuman individual or species that has been genetically or cognitively modified so extensively as to no longer be human (a step beyond transhuman).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u100&gt; Posthumain: Un individu, humain ou un transhumain, ou une espèce qui a été génétiquement ou cognitivement modifié à un point qu'il n'est plus réellement humain (un cran au-dessus de transhumain).</seg>
+        <seg> Posthumain: Un individu, humain ou un transhumain, ou une espèce qui a été génétiquement ou cognitivement modifié à un point qu'il n'est plus réellement humain (un cran au-dessus de transhumain).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8990,10 +9022,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u101&gt; Prometheans: A group of transhuman-friendly seed AIs that were created by the Lifeboat Project (precursors to the argonauts) years before the TITANs became self- aware and that (mostly) avoided Exsurgent infection.</seg>
+        <seg> Prometheans: A group of transhuman-friendly seed AIs that were created by the Lifeboat Project (precursors to the argonauts) years before the TITANs became self- aware and that (mostly) avoided Exsurgent infection.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u101&gt; Prométhéens: Un groupe d'IAs germes pro-transhumaine créées par le Projet Canot de Sauvetage (précurseurs des argonautes) des années avant que les TITANS ne développent une conscience d'eux et qui ont (presque) évitées l'Infection Exsurgente.</seg>
+        <seg> Prométhéens: Un groupe d'IAs germes pro-transhumaine créées par le Projet Canot de Sauvetage (précurseurs des argonautes) des années avant que les TITANS ne développent une conscience d'eux et qui ont (presque) évitées l'Infection Exsurgente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9006,42 +9038,42 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u102&gt; Proxies: Members of the Firewall internal structure.</seg>
+        <seg> Proxies: Members of the Firewall internal structure.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u102&gt; Proxys: Membres de la structure interne de Firewall.</seg>
+        <seg> Proxys: Membres de la structure interne de Firewall.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u103&gt; Psi: Parapsychological powers acquired due to infection by the Watts-MacLeod strain of Exsurgent virus.</seg>
+        <seg> Psi: Parapsychological powers acquired due to infection by the Watts-MacLeod strain of Exsurgent virus.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u103&gt; Psi: Pouvoirs parapsychologique développés suite à l'infection par la souche Watts-MacLeod du virus Exsurgent.</seg>
+        <seg> Psi: Pouvoirs parapsychologique développés suite à l'infection par la souche Watts-MacLeod du virus Exsurgent.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u104&gt; Reaper: A warbot synthmorph.</seg>
+        <seg> Reaper: A warbot synthmorph.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u104&gt; Reapeur: Une synthmorph de combat.</seg>
+        <seg> Reapeur: Une synthmorph de combat.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u105&gt; Reclaimers: A transhuman faction that seeks to lift the interdiction and reclaim Earth.</seg>
+        <seg> Reclaimers: A transhuman faction that seeks to lift the interdiction and reclaim Earth.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u105&gt; Réclamationnistes: Une faction transhumanistes qui cherche à lever l'interdiction et à récupérer la Terre.</seg>
+        <seg> Réclamationnistes: Une faction transhumanistes qui cherche à lever l'interdiction et à récupérer la Terre.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u106&gt; Redneck: A rural Martian.</seg>
+        <seg> Redneck: A rural Martian.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u106&gt; Redneck: Un Martien rural.</seg>
+        <seg> Redneck: Un Martien rural.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9062,18 +9094,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u107&gt; Reinstantiated: Refugees from Earth who escaped only as bodiless infomorphs, but who have since been resleeved.</seg>
+        <seg> Reinstantiated: Refugees from Earth who escaped only as bodiless infomorphs, but who have since been resleeved.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u107&gt; Reinstantiés: Réfugiés de la Terre qui se sont échappées sous la forme d'infomorph sans corps, mais qui ont depuis été réincarné.</seg>
+        <seg> Reinstantiés: Réfugiés de la Terre qui se sont échappées sous la forme d'infomorph sans corps, mais qui ont depuis été réincarné.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u108&gt; Resleeving: Changing bodies, or being downloaded into a new one.</seg>
+        <seg> Resleeving: Changing bodies, or being downloaded into a new one.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u108&gt; Se Réincarner: Changer de corps, ou être téléchargé dans un nouveau corps.</seg>
+        <seg> Se Réincarner: Changer de corps, ou être téléchargé dans un nouveau corps.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9086,26 +9118,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u109&gt; Rusters: Biomorphs optimized for life on Mars.</seg>
+        <seg> Rusters: Biomorphs optimized for life on Mars.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u109&gt; Rusteur: Biomorph optimisée pour la vie sur Mars.</seg>
+        <seg> Rusteur: Biomorph optimisée pour la vie sur Mars.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u110&gt; Scorching: Hostile programs that can damage or affect cyberbrains.</seg>
+        <seg> Scorching: Hostile programs that can damage or affect cyberbrains.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u110&gt; Scorcheur: Programme hostile qui peut endommager ou affecter un cybercerveau.</seg>
+        <seg> Scorcheur: Programme hostile qui peut endommager ou affecter un cybercerveau.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u111&gt; Scum: The nomadic faction of space punks/gypsies that travel from station to station in heavily-modified barges or swarms of ships.</seg>
+        <seg> Scum: The nomadic faction of space punks/gypsies that travel from station to station in heavily-modified barges or swarms of ships.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u111&gt; Racaille: La faction nomade de punks/gitans de l'espace qui voyagent de stations en stations dans des barges lourdement modifiées ou dans des nuées de vaisseaux.</seg>
+        <seg> Racaille: La faction nomade de punks/gitans de l'espace qui voyagent de stations en stations dans des barges lourdement modifiées ou dans des nuées de vaisseaux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9118,26 +9150,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u112&gt; Seed AI: An AGI that is capable of recursive self-improvement, allowing it to reach god-like levels of intelligence.</seg>
+        <seg> Seed AI: An AGI that is capable of recursive self-improvement, allowing it to reach god-like levels of intelligence.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u112&gt; IA germe: Une IAG capable d'auto-apprentissage récursif, lui permettant d'atteindre des niveaux d'intelligences similaire à ceux des dieux.</seg>
+        <seg> IA germe: Une IAG capable d'auto-apprentissage récursif, lui permettant d'atteindre des niveaux d'intelligences similaire à ceux des dieux.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u113&gt; Sentinels: Agents of Firewall.</seg>
+        <seg> Sentinels: Agents of Firewall.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u113&gt; Sentinelles: Agents de Firewall</seg>
+        <seg> Sentinelles: Agents de Firewall</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u114&gt; Shell: A synthetic physical morph.</seg>
+        <seg> Shell: A synthetic physical morph.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u114&gt; Coquille: Une morph physique synthétique.</seg>
+        <seg> Coquille: Une morph physique synthétique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9150,26 +9182,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u115&gt; Simulmorph: The avatar you use in VR simulspace programs.</seg>
+        <seg> Simulmorph: The avatar you use in VR simulspace programs.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u115&gt; Simulmorph: L'avatar que vous utilisez dans les simulspace RV.</seg>
+        <seg> Simulmorph: L'avatar que vous utilisez dans les simulspace RV.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u116&gt; Simulspace: Full-immersion virtual reality environments.</seg>
+        <seg> Simulspace: Full-immersion virtual reality environments.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u116&gt; Simulspace: Environnement de réalité virtuelle permettant une immersion sensorielle complète.</seg>
+        <seg> Simulspace: Environnement de réalité virtuelle permettant une immersion sensorielle complète.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u117&gt; Singularity: A point of rapid, exponential, and recursive technological progress, beyond which the future becomes impossible to predict.</seg>
+        <seg> Singularity: A point of rapid, exponential, and recursive technological progress, beyond which the future becomes impossible to predict.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u117&gt; Singularité: Un point de progrés technologique rapide, exponentiel et récursif, au-delà duquel le futur devient impossible à prévoir.</seg>
+        <seg> Singularité: Un point de progrés technologique rapide, exponentiel et récursif, au-delà duquel le futur devient impossible à prévoir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9182,18 +9214,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u118&gt; Singularity Seeker: People who pursue relics and evidence of the TITANs or other possible avenues to super-intelligence, either to learn more about it or to become part of a super-intelligence themselves.</seg>
+        <seg> Singularity Seeker: People who pursue relics and evidence of the TITANs or other possible avenues to super-intelligence, either to learn more about it or to become part of a super-intelligence themselves.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u118&gt; Adepte de la Singularité: Des personnes qui cherchent des reliques et des preuves que les TITANs ou d'autres super-intelligences, soit pour en apprendre plus sur eux ou pour devenir une super-intelligence.</seg>
+        <seg> Adepte de la Singularité: Des personnes qui cherchent des reliques et des preuves que les TITANs ou d'autres super-intelligences, soit pour en apprendre plus sur eux ou pour devenir une super-intelligence.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u119&gt; Skin: A biological physical morph.</seg>
+        <seg> Skin: A biological physical morph.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u119&gt; Peau: Une morph physique biologique.</seg>
+        <seg> Peau: Une morph physique biologique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9206,34 +9238,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u120&gt; Skinning: Changing your perceived environment via augmented reality programming.</seg>
+        <seg> Skinning: Changing your perceived environment via augmented reality programming.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u120&gt; Habiller: Modifier son environnement perçu par la réalité augmenté grâce à des programmes.</seg>
+        <seg> Habiller: Modifier son environnement perçu par la réalité augmenté grâce à des programmes.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u121&gt; Sleight: A psi power.</seg>
+        <seg> Sleight: A psi power.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u121&gt; Exploit Psi: Un pouvoir psi.</seg>
+        <seg> Exploit Psi: Un pouvoir psi.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u122&gt; Slitheroid: A snake-like robotic synthmorph.</seg>
+        <seg> Slitheroid: A snake-like robotic synthmorph.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u122&gt; Slitheroïde: Une synthmorph robotique en forme de serpent.</seg>
+        <seg> Slitheroïde: Une synthmorph robotique en forme de serpent.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u123&gt; Smart Animals: Partially-uplifted animal species (including dogs, cats, rats, and pigs).</seg>
+        <seg> Smart Animals: Partially-uplifted animal species (including dogs, cats, rats, and pigs).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u123&gt; Animaux Intelligents: Espèces animales partiellement élevées (incluant chiens, chats, rats et cochons).</seg>
+        <seg> Animaux Intelligents: Espèces animales partiellement élevées (incluant chiens, chats, rats et cochons).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9246,18 +9278,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u124&gt; Spime: Meshed, self-aware, location-aware devices.</seg>
+        <seg> Spime: Meshed, self-aware, location-aware devices.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u124&gt; Spimes: Périphériques meshé, conscient et localisés.</seg>
+        <seg> Spimes: Périphériques meshé, conscient et localisés.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u125&gt; Splicers: Humans that are genetically modified to eliminate genetic diseases and some other traits.</seg>
+        <seg> Splicers: Humans that are genetically modified to eliminate genetic diseases and some other traits.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u125&gt; Spliceurs: Humains qui sont génétiquement modifiés pour éliminer les maladies génétiques et quelques autres aspects.</seg>
+        <seg> Spliceurs: Humains qui sont génétiquement modifiés pour éliminer les maladies génétiques et quelques autres aspects.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9270,26 +9302,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u126&gt; Swarmanoid: A synthetic morph composed from a swarm of tiny insect-sized robots.</seg>
+        <seg> Swarmanoid: A synthetic morph composed from a swarm of tiny insect-sized robots.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u126&gt; Swarmanoïde: Une morph synthétique composé d'un essaim de robots de la taille d'un insecte.</seg>
+        <seg> Swarmanoïde: Une morph synthétique composé d'un essaim de robots de la taille d'un insecte.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u127&gt; Sylphs: Transhuman biomorphs with exotic good looks.</seg>
+        <seg> Sylphs: Transhuman biomorphs with exotic good looks.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u127&gt; Sylphes: Biomorph transhumaine d'une exotique beauté </seg>
+        <seg> Sylphes: Biomorph transhumaine d'une exotique beauté </seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u128&gt; Synthmorph: Synthetic morphs.</seg>
+        <seg> Synthmorph: Synthetic morphs.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u128&gt; Synthmorph: Morphs syntéhtiques.</seg>
+        <seg> Synthmorph: Morphs syntéhtiques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9302,10 +9334,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u129&gt; Synths: A specific type of synthmorph.</seg>
+        <seg> Synths: A specific type of synthmorph.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u129&gt; Synths: Un type spécifique de synthmorph.</seg>
+        <seg> Synths: Un type spécifique de synthmorph.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9318,26 +9350,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u130&gt; Teleoperation: Remote control.</seg>
+        <seg> Teleoperation: Remote control.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u130&gt; Téléopération: Contrôle à distance.</seg>
+        <seg> Téléopération: Contrôle à distance.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u131&gt; Titanian: Someone from Titan, a moon of Saturn.</seg>
+        <seg> Titanian: Someone from Titan, a moon of Saturn.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u131&gt; Titanien: Quelqu'un qui vient de Titan, l'une des lunes de Saturne.</seg>
+        <seg> Titanien: Quelqu'un qui vient de Titan, l'une des lunes de Saturne.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u132&gt; TITANs: The human-created, recursively-improving, military seed AIs that underwent a hard-takeoff singularity and prompted the Fall.</seg>
+        <seg> TITANs: The human-created, recursively-improving, military seed AIs that underwent a hard-takeoff singularity and prompted the Fall.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u132&gt; TITANs: Les IAs germes créées par l'homme, capable d'apprentissage récursifs qui ont subit un décollage abrupte de la singularité et qui ont déclenchés la Chute.</seg>
+        <seg> TITANs: Les IAs germes créées par l'homme, capable d'apprentissage récursifs qui ont subit un décollage abrupte de la singularité et qui ont déclenchés la Chute.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9350,34 +9382,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u133&gt; Torus: A donut-shaped habitat, spun for gravity.</seg>
+        <seg> Torus: A donut-shaped habitat, spun for gravity.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u133&gt; Tore: Un habitat en forme de donut, soumit à une rotation pour générer de la gravité.</seg>
+        <seg> Tore: Un habitat en forme de donut, soumit à une rotation pour générer de la gravité.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u134&gt; Transgenic: Containing genetic traits from other species.</seg>
+        <seg> Transgenic: Containing genetic traits from other species.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u134&gt; Transgénique: Qui contient des traits génétiques d'autres espèces.</seg>
+        <seg> Transgénique: Qui contient des traits génétiques d'autres espèces.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u135&gt; Transhuman: An extensively modified human.</seg>
+        <seg> Transhuman: An extensively modified human.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u135&gt; Transhumain: Un humain largement modifié.</seg>
+        <seg> Transhumain: Un humain largement modifié.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u136&gt; Trojans: Asteroids or moons that share the same orbit as a larger planet or moon, but follow about 60 degrees ahead or behind at the L4 and L5 Lagrange points.</seg>
+        <seg> Trojans: Asteroids or moons that share the same orbit as a larger planet or moon, but follow about 60 degrees ahead or behind at the L4 and L5 Lagrange points.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u136&gt; Troyens: Astéroïdes ou lunes qui partagent la même orbite qu'une autre planète ou lune, mais qui la suit avec 60° de décalage, à l'avant ou à l'arrière au poinst de Lagrange L4 ou L5.</seg>
+        <seg> Troyens: Astéroïdes ou lunes qui partagent la même orbite qu'une autre planète ou lune, mais qui la suit avec 60° de décalage, à l'avant ou à l'arrière au poinst de Lagrange L4 ou L5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9390,34 +9422,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>See also ``Greeks.'' &lt;u137&gt; Uplifting: Genetically transforming an animal species to sapience.</seg>
+        <seg>See also ``Greeks.''  Uplifting: Genetically transforming an animal species to sapience.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Voir aussi &quot;Grecs.&quot; &lt;u137&gt; Élever: Élever à la conscience un animal en le transformant génétiquement.</seg>
+        <seg>Voir aussi &quot;Grecs.&quot;  Élever: Élever à la conscience un animal en le transformant génétiquement.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u138&gt; Vacworker: Space laborer.</seg>
+        <seg> Vacworker: Space laborer.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u138&gt; Travailleur du Vide: Ouvrier de l'espace.</seg>
+        <seg> Travailleur du Vide: Ouvrier de l'espace.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u139&gt; Vapor: A failed mind emulation or crippled fork/infomorph (from vaporware).</seg>
+        <seg> Vapor: A failed mind emulation or crippled fork/infomorph (from vaporware).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u139&gt; Vapor: Une émulation cognitive ratée ou un fork/une infomorph criblé de défaut (dérivé de vaporware).</seg>
+        <seg> Vapor: Une émulation cognitive ratée ou un fork/une infomorph criblé de défaut (dérivé de vaporware).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u140&gt; VPNs: Virtual private networks.</seg>
+        <seg> VPNs: Virtual private networks.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u140&gt; VPNs: Virtual private networks/Réseaux Privés Virtuels</seg>
+        <seg> VPNs: Virtual private networks/Réseaux Privés Virtuels</seg>
       </tuv>
     </tu>
     <tu>
@@ -9430,10 +9462,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u141&gt; VR: Virtual Reality.</seg>
+        <seg> VR: Virtual Reality.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u141&gt; RV: Réalité Virtuelle.</seg>
+        <seg> RV: Réalité Virtuelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9446,26 +9478,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u142&gt; X-Caster: Someone who transmits/sells XP recordings of their experiences.</seg>
+        <seg> X-Caster: Someone who transmits/sells XP recordings of their experiences.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u142&gt; X-Diffeur: Quelqu'un qui transmet et vends des enregistrement XP de leurs propres expérience (dérivé de X-Diffuseurs).</seg>
+        <seg> X-Diffeur: Quelqu'un qui transmet et vends des enregistrement XP de leurs propres expérience (dérivé de X-Diffuseurs).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u143&gt; Xenomorph: Alien life form.</seg>
+        <seg> Xenomorph: Alien life form.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u143&gt; Xénomorph: Forme de vie étrangères.</seg>
+        <seg> Xénomorph: Forme de vie étrangères.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u144&gt; Xer: As in ``X-er''—someone who is addicted or obsessed with XP.</seg>
+        <seg> Xer: As in ``X-er''—someone who is addicted or obsessed with XP.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u144&gt; Xé: Comme dans &quot;X-é&quot; - quelqu'un qui est accros ou obsédé par les XP.</seg>
+        <seg> Xé: Comme dans &quot;X-é&quot; - quelqu'un qui est accros ou obsédé par les XP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9478,10 +9510,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u145&gt; XP: Experience Playback.</seg>
+        <seg> XP: Experience Playback.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u145&gt; XP: Experience Playback/Lecture d'expérience.</seg>
+        <seg> XP: Experience Playback/Lecture d'expérience.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9502,10 +9534,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u146&gt; X-Risk: Existential risk.</seg>
+        <seg> X-Risk: Existential risk.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u146&gt; Risque X: Risque existentiel.</seg>
+        <seg> Risque X: Risque existentiel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9518,10 +9550,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;u147&gt; Zeroes: People without wireless mesh access.</seg>
+        <seg> Zeroes: People without wireless mesh access.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u147&gt; Zéros: Personnes sans accès sans-fil au mesh.</seg>
+        <seg> Zéros: Personnes sans accès sans-fil au mesh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10398,798 +10430,6 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>The Mesh</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>La Mesh</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Before the Fall, humanity interfaced with each other through the internet, interconnected networks that served as the technical backbone for the evolving world wide web.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Avant la Chute, Les humains étaient interfacés entre eux au travers de d'Internet, l'interconnexion des réseaux étant le facteur déterminant de l'évolution du world wide web.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>While it began as a electronic medium for retrieving information from various sources (replacing even older paper-based infosources), succeeding generations emphasized digital communities and hosted services such as networking sites, wikis, blogs, and folksonomies.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>S'il a commencé comme un support électronique pour la récupération des informations de diverses sources (en remplaçant même les anciennes sources d'informations papier), les générations successives ont dévoloppés les communautés numériques et les services hébergés tels que les réseaux des sites, des wikis, des blogs et des réseaux sociaux.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>These facilitated openness, collaboration, and sharing, thereby laying the groundwork for a modern, interconnected information society.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Ces outils d'ouverture, de collaboration et de partage ont jetés les bases d'une société moderne et d'informations interconnectées.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Further stages emphasized wireless interaction, geolocation, and semantic web approaches and achieved quantum leaps in the realm of user interaction with the advent of brain-computer interfaces, augmented reality (AR), virtual reality (VR), and experience playback (XP).</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>De nouvelles étapes sont franchies avec l'interaction sans fil, la géolocalisation, le web sémantique et les approches et les innovations réalisées dans le domaine de l'interface homme-machine, avec l'avènement des interfaces cerveau-ordinateur, de la réalité augmentée (AR), la réalité virtuelle (VR), et la lecture d'expérience (XP).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>From this point it was but a matter of time before so-called seed AI would come into existence, machine minds capable of recursive self-improvement, leading to an exponential growth in intelligence.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>A partir de là, il n'était qu'une question de temps avant que ses soit-disantes IA soit capablent capable d'auto-amélioration récursive, menant à une croissance exponentielles de leur intelligence.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Unfortunately for humanity, the TITANs were the result.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Malheureusement pour l'humanité, elles devinrent les TITANs.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Even before the Fall, however, the internet of old was transforming into something new.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Même bien avant la Chute, l'internet d'en-temps à été transformé en quelque chose d'autres.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Instead of connecting via central servers, users were wirelessly linking to each other, creating a decentralized intermeshed network of handheld devices, personal computers, robots, and electronic devices.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Au lieu de se connecter via des serveurs centraux, les utilisateurs étaient relié sans fil les uns aux autres, créant un réseau décentralisé d' appareils de poche, ordinateurs personnels, des robots, et des dispositifs électroniques entremêlés.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Users were online all of the time and connected with everything and everyone around them in a ubiquitous computing environment.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les utilisateurs étaient en ligne tout le temps et lié à tout et tout le monde autour d'eux dans un environnement informatique ubiquitaire.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Disconnected from the internet due to distance and light-speed communication lags, these users were nevertheless connected with all of the people and objects in their nearby environment or habitat, creating local wireless mesh networks.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Déconnecté d'Internet en raison des distances et du lag des communications, ces utilisateurs sont néanmoins liés à toutes les personnes et les objets de leur environnement proche ou de leur habitat, créant ainsi des réseaux locaux maillés.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Thus was the mesh born, taking the place of the old internet of earth, lost during the Fall.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Ainsi était née la Mesh, en prenant la place de l'ancien Internet de la terre, perdus au cours de la Chute.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Mesh Capabilities</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les possibilités de la  Mesh.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>The mesh, as it exists in &lt;i0&gt;Eclipse Phase,&lt;/i0&gt; is only possible thanks to major developments made in computer and communication technologies and nanofabrication.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>La Mesh, telle qu'elle existe dans&lt;i0&gt;Eclipse Phase&lt;/i0&gt; , n'est possible qu'avec les avancées majeurs en informatique, communication et nanofabrication.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Wireless radio transmitters and receivers are so unobtrusively tiny that they can literally be factored into anything.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les émeteurs et récepteurs radio sont si petits qu'ils peuvent littéralement êtres incorporés dans n'imorte quoi.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>As a result, everything is computerized and connected, or at least tagged with a radio frequency ID (RFID) chip.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>En découle que chaque objet est &quot;intélligent&quot; et connecté, ou du moins posséde une puce de radio-identification (RFID).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Even food is tagged with edible chips, complete with expiration date and nutritional content.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Même la nourriture est &quot;taggée&quot; avec des puces commestibles, qui renseigne sur les dates d'expiration et les valeurs nutritionelles.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Other communications mediums, such as laser and microwave links, add to the information flow.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les autres médiums de communication, comme les lasers ou les micro-ondes, augmentent le flux d'information.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Data storage technology has advanced to such high levels that even an individual user's &lt;i0&gt;surplus &lt;/i0&gt;storage capacity can maintain an amount of information easily surpassing the entire 20th-century internet.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les technologies de stockage d'informations sont si évoluées, que n'importe qui posséde une capacité de stockage qui dépasse largement celle de tout l'Internet du 20eme siècle.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Lifeloggers can literally record every moment of their life and never fear about running out of room.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les &quot;lifeloggers&quot; peuvent carrément enregistrer chaque moment de leur vie et ne jamais craindre de manquer d'espace disque.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>The amount of data that people carry around in the mesh inserts in their head or in portable ecto personal computers is staggering.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>La quantité de données que les gens transportent dans les implants Mesh dans leur tête ou dans les ordinateurs portables Ecto est stupéfiante.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Processing capabilities also exist at hyper-efficient levels.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les capacitées de calcul ont aussi atteint des niveau extrêmes.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Even massive supercomputers are a thing of the past when modest handheld devices can fulfill almost all of your needs, even while simultaneously running a personal AI assistant, downloading media, uploading porn, and scanning thousands of newsfeeds.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Mêmes les super-calculateurs sont du passé quand le moindre appareil de la taille d'un téléphone portable peut suffire à quasiment tous vos besoins, même s'il sagit de faire tourner une IA personnelle, télécharger des médias, uplaoder du porno et scanner des milliers de flux d'informations.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Within the mesh network, devices that near their processing limits simply share the burden with devices around them, creating a massively distributed framework that in some ways is like an entire supercomputer to itself, shared by everyone.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Avec le réseau Mesh, les appareils qui atteignent la limites de leur capacité de calcul, partagent simplement leur fardeau avec les appareils autour d'eux, créant un énorme réseau de calcul partagé, qui ressemble un peu a un super-calculateur, partagé entre tous.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Similarly, transmission capacity now far exceeds most citizens' definition of need.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>De même, les capacités de transferts dépassent maintenant de loin ce dont les utilisateurs ont besoins.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Anyone born within the last several generations has always lived in a world in which hyper-realistic, multi-sensory media of nearly any length is available for instantaneous download or upload from anywhere.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Tous ceux qui sont né ces dernières générations ont toujours vécu dans un monde de médias hyper-réaliste, multi-sensoriels de toute taille, disponibles instantanément en téléchargement et en envoi de n'importe où.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Massive databases and archives are copied back and forth with ease.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les bases de données massives et les archives sont copiés dans les deux sens avec la facilité.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Bandwidth is such a non-issue that most people forget it ever was.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>La bande passante est un tel non-problème que la plupart des gens l'oublient qu'elle existe.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>In fact, given the sheer amount of data available, &lt;i0&gt;finding &lt;/i0&gt;the information or media you're looking for takes considerably longer than downloading it.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>En fait, étant donné l'énorme quantité de données disponibles, &lt;i0&gt;trouver &lt;/i0&gt; l'information ou les médias que vous cherchez prend beaucoup plus de temps que de les télécharger.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>The mesh is also &lt;i1&gt;never &lt;/i1&gt;down.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>La Mesh n'est &lt;i1&gt;jamais &lt;/i1&gt; indisponible.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>As a decentralized network, if any one device is taken offline, connections merely route around it, finding a path via the thousands if not millions of available nodes.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Comme c'est un réseau décentralisé, si l'un des appareil est mis hors-connection, l'information le contourne seulement, trouvant un chemin via les milliers si ce n'est les millions de noeuds disponibles.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Similarly, the entire mesh behaves like a peer-to-peer network, so that large transfers are broken into manageable chunks that take independent routes.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>De même, La Mesh entière se comporte comme un réseau peer-to-peer, de sorte que les des transferts de lourds fichiers sont séparés en morceaux gérables qui prennent des routes indépendantes.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>In fact, most users maintain personal torrent archives that are publicly accessible and shared.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>En fait, la plus part des utilisateurs gardent une archive torrent, accéssible publiquement et partagé. </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Private networks still exist, of course.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les réseaux privés existent encore, bien sûr.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Some are physically walled away behind closed-access wired networks or even wireless-inhibiting infrastructure that keep a network isolated and contained.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Certains sont physiquement isolés par des connetions filaires ou même dérrière une infrastructure inhibitrice de Wifi, qui maintiennent un réseau isolé et confiné.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Most, however, operate on top of the public mesh, using encrypted tunneling protocols that provide private and secure communications over unsecured networks.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Cependant, la plupart fonctionnent a travers même la Mesh publique, en utilisant des protocols de tunneling cryptés qui fournissent des communications privées et sécurisées sur des réseaux non sécurisés.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>In other words, these private networks are part of the mesh along with everything else, but only the participants</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>En d'autres termes, ces réseaux privés, font partie de la Mesh avec tout le reste, mais seuld les participants</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>can interact with them thanks to encryption, user authentication and message integrity checking.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>peuvent interagir avec eux grâce au cryptage, à l'authentification des utilisateurs et la vérification de l'intégrité du message.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>With the factionalization of transhumanity, attempts to unify software into standard formats have still failed.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Avec le fractionnement de la transhumanité, les tenatives d'unification des logiciels en des formats standards ont toutes échouées.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>However, different operating systems or protocols are rarely an obstacle anymore due to easily accessible conversion tools and AI-aided compatibility oversight.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Cependant, les différents systèmes d'exploitation ou les protocoles sont rarement un obstacle grâce aux outils de conversion facilement accessible et le contrôle de compatibilité aidé par des IA.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Solarchive Search: ECTO(-LINK)&lt;/i0&gt; &lt;br0&gt;</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Recherche dans Solarchive : ECTO(-link)&lt;/i0&gt; &lt;br0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>A very popular brand of mobile multifunctional personal digital assistant before the Fall, the ecto name became a synonym for handheld personal computers in the Mesh Age.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Marque de mobiles multifonctions, trés populaire en tant qu'assistants personels numérique avant la Chute, le nom Ecto est devenu un synonyme d'ordinateurs portable de poche à l'ère de la Mesh</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Standard implanted computers are also sometimes referred to as endos to reflect the difference between an external and an internal device.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les ordinateurs implantés standards sont aussi parfois dénommés Endo afin de refléter la différence entre le coté interne et externe de l'appareil.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>No matter if ecto or endo, modern computers are governed by an operating system (OS), a multifunctional suite of programs that includes media tools, a mesh browser, locator, socializing programs (messenger, socnet updater), cartography and navigation software, language translation software, and similar software tools.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Peu importe s'ils sont ecto ou endo, les ordinateurs modernes possèdent tous un système d'exploitation (OS), une suite de programmes multifonctionnel qui comprend un navigateur Mesh, des outils des médias, de repérage, des programmes de socialisation (messagerie, mise à jour socnet), de cartographies et de logiciels de navigation, des logiciels de traduction et d'autres logiciels similaires.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>OS designs are highly customizable, allowing plug-and-use add-ons for whatever additional software and gadgets are desired.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>les OS sont hautement personnalisables, permettant l'utilisation de plug-in et add-ons pour tout les logiciel et les gadgets souhaitées.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>The ecto itself is typically the size of 20th-century credit card and can be molded and shaped into different forms due to smart material construction.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Le ecto lui-même est généralement la taille de la carte de crédit du 20ème siècle et peut être moulé et façonné en des formes différentes grâce aux matériaux intelligents.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>They are often worn as jewelry or clothing accessories, particularly bracelets.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Ils sont souvent portés comme bijoux ou accessoires vestimentaires, notamment en bracelets.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>The user interface varies according to user preference.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>L'interface utilisateur varie selon les préférences de l'utilisateur.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Standard entoptic control interfaces are also available via wireless radio, skinlink, and direct fiberoptic line.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les interfaces de contrôle standards entoptiques (dans l'oeil)  sont également disponibles via Wifi, skinlink (transmission d'information par la peau), et fibres optiques.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Almost all biomorphs in the solar system are equipped with basic mesh inserts (p.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Presque tous les biomorphs dans le système solaire sont équipés des implants Mesh de base (p.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>These implants are grown in the brain via non-intrusive nanosurgery.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Ces implants sont cultivés dans le cerveau via nanochirurgie non-intrusive.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>The processor, wireless transceiver, storage devices, and other components are directly wired to the user's cerebral neuronal cells and cortical centers responsible for language, speech, and visual perception among others.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Le processeur, l'émetteur-récepteur sans fil, les périphériques de stockage, et d'autres éléments sont directement câblés aux cellules neuronales, aux centres du language, des perceptions et de la paroles entre autres.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Thought-to-communication emulations (so called &lt;i0&gt;transducing&lt;/i0&gt;) enables the user to control the implant just by thinking and to communicate without vocalizing.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>L'émulation de la communication par la pensée (dite &lt;i0&gt; transduction &lt;/i0&gt; ) permet à l'utilisateur de contrôler l'implant par la pensée et de communiquer sans vocalisation.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Input from the mesh inserts is transmitted directly into the brain and sometimes perceived as augmented reality, overlaid on the user's physical senses.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les implants Mesh transmettent les informations directement au cerveaux qui sont quelque fois percues comme la Réalité Augmentée, comme une surcouche aux sensations physiques de l'utilisateur.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>In a similar vein, the mesh inserts installed in synthmorphs and pods are directly integrated with their cyberbrains (creating a potential security concern as cyberbrains are vulnerable to hacking).</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Dans la même veine, les implants mesh installés dans synthémorphs et les pods sont directement intégrées à leurs cybercerveaux (ce qui créé un problème de sécurité potentiel puisque les cyberverveaux sont vulnérables au piratage).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>External devices called ectos (p.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les appareils externes appelé ectos (p.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>325) are also used to access the mesh, though these are growing increasingly rare given the prevalence of mesh inserts.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>325) sont également utilisés pour accéder au Mesh, mais ceux-ci sont de plus en plus rares compte tenu de la prévalence des impalnts Mesh.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Ecto interface options include haptic interfaces like touch-display controls, bracelets or gloves that detect arm, hand, or finger movements (virtual mouse and keyboards), eye tracking and blink control, body scanning grids (body axis control or all-limb controls for non-humanoids), voice controls, and more.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les options d'interfaces des ectos comprennent des interfaces haptiques, comme des écran tactile, des bracelets ou des gants qui permettent de détecter les mouvements de bras, de la main, ou d'un doigt (la souris et claviers virtuels), des systèmes de contrôle par mouvements et clinements des yeux, ou du corps tout entier (controle par l'axe du corps ou des membre pour les non-humanoides), des commandes vocales, et plus encore.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Sensory information is handled via lenses, glasses, earplugs (subdermal bone-vibrating speakers), bodysuits, gloves, nose plugs, tongue dams, and other devices that are wirelessly linked to (or physically plugged into) the ecto.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>L'information sensorielle est traitée au moyen de lentilles, lunettes, écouteurs intra-auriculaires (haut-parleurs vibrants sur l'os), combinaisons, gants, pince-nez, percing à la langue, et d'autres dispositifs sans fil qui sont liés (ou physiquement branchés) à l'ecto.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Legacy Of The TITANs</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>L'héritage des TITANs</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Given the technical capabilities of modern personal computers, supercomputers and cutting-edge wired broadband are not needed.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Compte tenu des capacités techniques des ordinateurs personnels modernes, les superordinateurs de pointe à large bandepassante ne sont pas nécessaires.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>But there is another reason they are avoided: the TITANs.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Mais il ya une autre raison pour laquelle ils sont évités: les Titans.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Mainframes, hive-mind clusters, and massively parallel distributed computing parallel hive-mind systems are all considered potential dangers in Eclipse Phase, as they possess sufficient processing power and data capacity to enable a seed AI and another potential hard takeoff singularity.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les mainframes, les clusters auto-organisés, et les systèmes conscient de calcul parrallèlle massivement distribués et parrallèllisés sont tous considéré comme des dangers ptentiel dans Eclipse Phase, car ils possèdent suffisament de puissance de calcul et de capacité de traitement de donné pour activer une IA germe et d'autre lancement abrupts de singularité</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Some habitats go so far as to outlaw such systems completely under the severest of penalties: final death including the deletion of all backups and recent forks, in most cases.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Certains habitats sont jusqu'a aller interdire de tels systèmes, sous la plus grave des peines: la mort finale, y compris la suppression de toutes les sauvegardes et les forks des dernières années, dans la plupart des cas.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>These systems are typically physically wired, heavily monitored, and locked down in electronic data processing centers with strong access restrictions and ruthless real-world security measures.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Ces systèmes sont généralement connectés en filaire, très surveillés et verrouillé dans les centres de traitement des données avec des restrictions d'accès rigoureuses, du coté informatique,  et des mesures de sécurité impitoyable, dans le monde réel.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Similarly, AIs themselves are quite often heavily restricted, and it is not unusual for AGIs to be outright banned, especially in the inner system and Jovian Republic.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>De même, les IAs se sont souvent très restreinte, et il n'est pas rare pour les AGIS être purement et simplement interdites, en particulier dans le Système Intérieur et la République Jovienne.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Most intelligent programs are limited with programmed growth restraints, specifically designed to prevent them from becoming self-upgrading.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>La plupart des programmes intelligents sont limitées, avec des réstrictions de croissance, spécialement conçu pour les empêcher de s'auto-améliorer.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>{Information Overload}</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>{Surcharge d'informations}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>The mesh contains massive amounts of personal and public information shared by users, a digital commons</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Le Mesh contient d'énormes quantités de renseignements personnels et publics partagés par les utilisateurs, une mise en commun numérique</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>of news, media, discourse, knowledge, environmental data, business, and culture.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>des nouvelles, des médias, le discours, la connaissance, les données de l'environnement, des affaires, et de la culture.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Transhumans embrace the mesh as a tool for exchange, communication, and participation with other users, both local and far away.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>La transhumanité utilise le Mesh comme un outil d'échange, de communication et de participation avec d'autres utilisateurs, tant locaux qu'éloignés.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>As such, the mesh is an up-to-date, authoritative source on all transhuman knowledge and activities.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>En tant que tel, le maillage est une mise à jour, la source faisant autorité sur toutes les connaissances ou les activités transhumanistes.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Not everything online is available for free, of course, except perhaps in the autonomist zones.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Tout ce qui est en ligne n'est gratuit, bien sûr, sauf peut-être dans les zones autonomistes.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Quite a bit of proprietary data is kept off the grid in secure storage or sequestered away in private networks.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Assez peu de données de propriété industrielle est sont maintenus hors de la toile dans des stockages sécurisés, ou séquestrées loin dans les réseaux privés.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>A thriving open source movement offers free and open source alternatives to much proprietary data, however, and numerous digital piracy groups deal out cracked versions of proprietary material, despite pressure from some authorities.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Cependant, un mouvement florisant d'open-source offre des alternatives gratuites et ouvertes au grand nombre de données propriétaires et de nombreux groupes fourgent des versions crackées des produits propriétaires,et ce malgré la pression de certaines autorités.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Other data is simply secured from competitive interests (hypercorp research projects) or is an extremely private affair, such as ego backups.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>D'autres données sont simplement reliès à des intérêts concurrentiels (projets de recherche hypercorp) ou sont extrêmement privées, telles que les sauvegardes ego.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Along with the accumulated data of transhuman affairs, the mesh is also cluttered with information derived from untold numbers of wireless-capable sensor-enabled devices that continuously update the mesh with their location, sensor recordings, and other data.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Avec les données accumulées des affaires transhumaines, le Mesh est également encombré de l'information provenant nombre incalculable des appareils sans-fils qui tiennent à jour en permanence leur emplacement sur le Mesh, les enregistrements des capteur, et d'autres données.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Colloquially called ``spimes,'' these location-aware, environment-aware, self-logging, self-documenting objects broadcast their data to anyone who cares to listen.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les appareils qui sont localisés, auto-enregistreurs, auto-documentés et qui diffusent leurs données à qui veut l'entendre sont familièrement appelés &quot;spimes&quot;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Since visual, auditory, and other sensors are absurdly tiny and inexpensive, they are ubiquitously incorporated into nearly every object or product a person might wear, apply, use, or internalize.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Depuis que les capteurs visuels, sonore ou autre sont devenus ridiculement minuscules et peu coûteux, ils sont désormais omniprésents et incorporés dans presque tous les objets et produits qu'une personne peut porter, s'appliquer, utiliser, avaler, s'injecter, etc.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>{Surveillance, Privacy, And Sousveillance}</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>{Surveillance, vie privée, et sousveillance}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>While spimes are easily trackable, they also contribute to an environment of universal surveillance.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Alors que les spimes sont aisement repèrables, ils contribuent aussi à un environement de surveillance constante.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Between spimes, microsensors, ubiquitous security systems, and the recording capabilities of the mesh inserts used by almost everyone, just about everything is recorded.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Entre les spimes, les micro-senseurs, les systèmes de sécurité omniprésents, les capacités d'enregistrement des implants Mesh presque universelements utilisés, à peu près tout est enregistré</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Factor in the availability of mesh-tracking facial recognition, rep/social networks, and other data mining software, and it rapidly becomes clear that privacy is an outdated concept.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>De plus avec les capacités de reconnaissance faciale, les réseaux sociaux/de réputation et autres logiciels de recherche de données, il devient vite évident que la vie privée est une notion dépassée.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Special considerations must be embraced by anyone that seeks to mask their identity or cover their movements.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Ceux qui cherchent à masquer leur identité ou couvrir leurs mouvements doivent penser à cet état de fait un peu spécial.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Alternately, off-the-shelf looks common with some morphs (especially synthmorphs and pods) allow a user to blend in with the masses.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Sinon, les morphs communes (surtout les synthmorph et les pods) ont une apparence qui aide l'utilisateur à ce fondre dans la masse.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Though in part this may seem an Orwellian surveillance nightmare, the abundance of recording tech actually works as ``sousveillance'' (watching from below), serving a role in making everything transparent and putting checks on abuses of power.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Bien que tout cela peut resembler à un cauchemar orwellien de surveillance, une grande part des technologies d'enregistrements travaillent actuellement en ''sousveillanceé (surveillance par la base), ayant un rôle de transparance et de lutte contre les abus de pouvoir.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Authoritarian regimes tread carefully, as they are also universally monitored, despite their attempts to control information flow.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les régimes autoritaires avancer avec précaution, car ils sont aussi universellement surveillés, en dépit de leurs tentatives pour contrôler le flux d'information.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Many people also willing participate in this open ``participatory panopticon.'' With nearly infinite storage capacity, dedicated lifeloggers record every moment of their lives and share it for others to experience.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Beaucoup de gens sont en outre désireux de se joindre à cette télésurveillance participative ouverte ``.''Avec une capacité de stockage quasi illimitée, les lifeloggers enregistrent chaque instant de leur vie et partagent avec d'autres leur expériences.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Interfacing: AR, VR, And XP</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>les interfaces AR, VR, et XP</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Mesh media is accessed using one of three protocols: augmented reality (AR), virtual reality (VR), or experience playback (XP).</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les médias Mesh sont accessibles en utilisant l'un des trois protocoles: la réalité augmentée (AR), la réalité virtuelle (VR), ou la lecture d'expérience (XP).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Le Jeu De Rôle Tanshumaniste de complot et d'horreur.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Your mind is software.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Ton esprit est du code.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Program it.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Change-le.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Your body is a shell.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Ton corp est une envelloppe.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Change it.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Change-le.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Death is a disease.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>La Mort est une maladie.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Cure it.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Soigne-la.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Extinction is approaching.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>L'Extintion approche.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Fight it.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Combat-la</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>This environment, coupled with the exponential growth of processing power and memory storage, created an evolutionary path for the development of intelligent agentsâ€”designed to augment human information processingâ€”that then transformed into artificial intelligences (AIs) in the following decades.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -11238,7 +10478,7 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Those supercomputers that habitats do allow are â€œhard networksâ€� that control a habitatâ€™s most crucial systems like orbit maintenance thrusters, life support, communications, power, or cutting-edge hypercorp R&lt;u0&gt;D projects.</seg>
+        <seg>Those supercomputers that habitats do allow are â€œhard networksâ€� that control a habitatâ€™s most crucial systems like orbit maintenance thrusters, life support, communications, power, or cutting-edge hypercorp RD projects.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Ces supercalculateurs que les habitats qui le permettent, contrôlent les systèmes les plus cruciaux des habitats, comme les propulseurs d'entretien en orbite, les systèmes de survie, les communications, l'énergie, ou les projets R&amp;D de pointe des hypercorp.</seg>

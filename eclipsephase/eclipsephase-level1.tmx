@@ -10396,5 +10396,869 @@
         <seg>Rappelles-toi: la mort est juste la routine du boulot.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Mesh</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Mesh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Before the Fall, humanity interfaced with each other through the internet, interconnected networks that served as the technical backbone for the evolving world wide web.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Avant la Chute, Les humains étaient interfacés entre eux au travers de d'Internet, l'interconnexion des réseaux étant le facteur déterminant de l'évolution du world wide web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While it began as a electronic medium for retrieving information from various sources (replacing even older paper-based infosources), succeeding generations emphasized digital communities and hosted services such as networking sites, wikis, blogs, and folksonomies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>S'il a commencé comme un support électronique pour la récupération des informations de diverses sources (en remplaçant même les anciennes sources d'informations papier), les générations successives ont dévoloppés les communautés numériques et les services hébergés tels que les réseaux des sites, des wikis, des blogs et des réseaux sociaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These facilitated openness, collaboration, and sharing, thereby laying the groundwork for a modern, interconnected information society.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces outils d'ouverture, de collaboration et de partage ont jetés les bases d'une société moderne et d'informations interconnectées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Further stages emphasized wireless interaction, geolocation, and semantic web approaches and achieved quantum leaps in the realm of user interaction with the advent of brain-computer interfaces, augmented reality (AR), virtual reality (VR), and experience playback (XP).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De nouvelles étapes sont franchies avec l'interaction sans fil, la géolocalisation, le web sémantique et les approches et les innovations réalisées dans le domaine de l'interface homme-machine, avec l'avènement des interfaces cerveau-ordinateur, de la réalité augmentée (AR), la réalité virtuelle (VR), et la lecture d'expérience (XP).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>From this point it was but a matter of time before so-called seed AI would come into existence, machine minds capable of recursive self-improvement, leading to an exponential growth in intelligence.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A partir de là, il n'était qu'une question de temps avant que ses soit-disantes IA soit capablent capable d'auto-amélioration récursive, menant à une croissance exponentielles de leur intelligence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unfortunately for humanity, the TITANs were the result.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Malheureusement pour l'humanité, elles devinrent les TITANs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even before the Fall, however, the internet of old was transforming into something new.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même bien avant la Chute, l'internet d'en-temps à été transformé en quelque chose d'autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Instead of connecting via central servers, users were wirelessly linking to each other, creating a decentralized intermeshed network of handheld devices, personal computers, robots, and electronic devices.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au lieu de se connecter via des serveurs centraux, les utilisateurs étaient relié sans fil les uns aux autres, créant un réseau décentralisé d' appareils de poche, ordinateurs personnels, des robots, et des dispositifs électroniques entremêlés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Users were online all of the time and connected with everything and everyone around them in a ubiquitous computing environment.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les utilisateurs étaient en ligne tout le temps et lié à tout et tout le monde autour d'eux dans un environnement informatique ubiquitaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Disconnected from the internet due to distance and light-speed communication lags, these users were nevertheless connected with all of the people and objects in their nearby environment or habitat, creating local wireless mesh networks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Déconnecté d'Internet en raison des distances et du lag des communications, ces utilisateurs sont néanmoins liés à toutes les personnes et les objets de leur environnement proche ou de leur habitat, créant ainsi des réseaux locaux maillés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thus was the mesh born, taking the place of the old internet of earth, lost during the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ainsi était née la Mesh, en prenant la place de l'ancien Internet de la terre, perdus au cours de la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mesh Capabilities</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les possibilités de la  Mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The mesh, as it exists in Eclipse Phase, is only possible thanks to major developments made in computer and communication technologies and nanofabrication.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Mesh, telle qu'elle existe dansEclipse Phase , n'est possible qu'avec les avancées majeurs en informatique, communication et nanofabrication.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wireless radio transmitters and receivers are so unobtrusively tiny that they can literally be factored into anything.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les émeteurs et récepteurs radio sont si petits qu'ils peuvent littéralement êtres incorporés dans n'imorte quoi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a result, everything is computerized and connected, or at least tagged with a radio frequency ID (RFID) chip.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En découle que chaque objet est &quot;intélligent&quot; et connecté, ou du moins posséde une puce de radio-identification (RFID).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even food is tagged with edible chips, complete with expiration date and nutritional content.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même la nourriture est &quot;taggée&quot; avec des puces commestibles, qui renseigne sur les dates d'expiration et les valeurs nutritionelles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other communications mediums, such as laser and microwave links, add to the information flow.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les autres médiums de communication, comme les lasers ou les micro-ondes, augmentent le flux d'information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Data storage technology has advanced to such high levels that even an individual user's surplus storage capacity can maintain an amount of information easily surpassing the entire 20th-century internet.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les technologies de stockage d'informations sont si évoluées, que n'importe qui posséde une capacité de stockage qui dépasse largement celle de tout l'Internet du 20eme siècle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lifeloggers can literally record every moment of their life and never fear about running out of room.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les &quot;lifeloggers&quot; peuvent carrément enregistrer chaque moment de leur vie et ne jamais craindre de manquer d'espace disque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The amount of data that people carry around in the mesh inserts in their head or in portable ecto personal computers is staggering.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La quantité de données que les gens transportent dans les implants Mesh dans leur tête ou dans les ordinateurs portables Ecto est stupéfiante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Processing capabilities also exist at hyper-efficient levels.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les capacitées de calcul ont aussi atteint des niveau extrêmes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even massive supercomputers are a thing of the past when modest handheld devices can fulfill almost all of your needs, even while simultaneously running a personal AI assistant, downloading media, uploading porn, and scanning thousands of newsfeeds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mêmes les super-calculateurs sont du passé quand le moindre appareil de la taille d'un téléphone portable peut suffire à quasiment tous vos besoins, même s'il sagit de faire tourner une IA personnelle, télécharger des médias, uplaoder du porno et scanner des milliers de flux d'informations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Within the mesh network, devices that near their processing limits simply share the burden with devices around them, creating a massively distributed framework that in some ways is like an entire supercomputer to itself, shared by everyone.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Avec le réseau Mesh, les appareils qui atteignent la limites de leur capacité de calcul, partagent simplement leur fardeau avec les appareils autour d'eux, créant un énorme réseau de calcul partagé, qui ressemble un peu a un super-calculateur, partagé entre tous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Similarly, transmission capacity now far exceeds most citizens' definition of need.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De même, les capacités de transferts dépassent maintenant de loin ce dont les utilisateurs ont besoins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Anyone born within the last several generations has always lived in a world in which hyper-realistic, multi-sensory media of nearly any length is available for instantaneous download or upload from anywhere.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tous ceux qui sont né ces dernières générations ont toujours vécu dans un monde de médias hyper-réaliste, multi-sensoriels de toute taille, disponibles instantanément en téléchargement et en envoi de n'importe où.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Massive databases and archives are copied back and forth with ease.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les bases de données massives et les archives sont copiés dans les deux sens avec la facilité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bandwidth is such a non-issue that most people forget it ever was.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La bande passante est un tel non-problème que la plupart des gens l'oublient qu'elle existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In fact, given the sheer amount of data available, finding the information or media you're looking for takes considerably longer than downloading it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fait, étant donné l'énorme quantité de données disponibles, trouver  l'information ou les médias que vous cherchez prend beaucoup plus de temps que de les télécharger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The mesh is also never down.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Mesh n'est jamais  indisponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a decentralized network, if any one device is taken offline, connections merely route around it, finding a path via the thousands if not millions of available nodes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme c'est un réseau décentralisé, si l'un des appareil est mis hors-connection, l'information le contourne seulement, trouvant un chemin via les milliers si ce n'est les millions de noeuds disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Similarly, the entire mesh behaves like a peer-to-peer network, so that large transfers are broken into manageable chunks that take independent routes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De même, La Mesh entière se comporte comme un réseau peer-to-peer, de sorte que les des transferts de lourds fichiers sont séparés en morceaux gérables qui prennent des routes indépendantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In fact, most users maintain personal torrent archives that are publicly accessible and shared.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fait, la plus part des utilisateurs gardent une archive torrent, accéssible publiquement et partagé. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Private networks still exist, of course.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les réseaux privés existent encore, bien sûr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some are physically walled away behind closed-access wired networks or even wireless-inhibiting infrastructure that keep a network isolated and contained.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains sont physiquement isolés par des connetions filaires ou même dérrière une infrastructure inhibitrice de Wifi, qui maintiennent un réseau isolé et confiné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most, however, operate on top of the public mesh, using encrypted tunneling protocols that provide private and secure communications over unsecured networks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, la plupart fonctionnent a travers même la Mesh publique, en utilisant des protocols de tunneling cryptés qui fournissent des communications privées et sécurisées sur des réseaux non sécurisés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In other words, these private networks are part of the mesh along with everything else, but only the participants</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En d'autres termes, ces réseaux privés, font partie de la Mesh avec tout le reste, mais seuld les participants</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>can interact with them thanks to encryption, user authentication and message integrity checking.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>peuvent interagir avec eux grâce au cryptage, à l'authentification des utilisateurs et la vérification de l'intégrité du message.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>With the factionalization of transhumanity, attempts to unify software into standard formats have still failed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Avec le fractionnement de la transhumanité, les tenatives d'unification des logiciels en des formats standards ont toutes échouées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, different operating systems or protocols are rarely an obstacle anymore due to easily accessible conversion tools and AI-aided compatibility oversight.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, les différents systèmes d'exploitation ou les protocoles sont rarement un obstacle grâce aux outils de conversion facilement accessible et le contrôle de compatibilité aidé par des IA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Solarchive Search: ECTO(-LINK) </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Recherche dans Solarchive : ECTO(-link) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A very popular brand of mobile multifunctional personal digital assistant before the Fall, the ecto name became a synonym for handheld personal computers in the Mesh Age.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Marque de mobiles multifonctions, trés populaire en tant qu'assistants personels numérique avant la Chute, le nom Ecto est devenu un synonyme d'ordinateurs portable de poche à l'ère de la Mesh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Standard implanted computers are also sometimes referred to as endos to reflect the difference between an external and an internal device.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les ordinateurs implantés standards sont aussi parfois dénommés Endo afin de refléter la différence entre le coté interne et externe de l'appareil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No matter if ecto or endo, modern computers are governed by an operating system (OS), a multifunctional suite of programs that includes media tools, a mesh browser, locator, socializing programs (messenger, socnet updater), cartography and navigation software, language translation software, and similar software tools.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Peu importe s'ils sont ecto ou endo, les ordinateurs modernes possèdent tous un système d'exploitation (OS), une suite de programmes multifonctionnel qui comprend un navigateur Mesh, des outils des médias, de repérage, des programmes de socialisation (messagerie, mise à jour socnet), de cartographies et de logiciels de navigation, des logiciels de traduction et d'autres logiciels similaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>OS designs are highly customizable, allowing plug-and-use add-ons for whatever additional software and gadgets are desired.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les OS sont hautement personnalisables, permettant l'utilisation de plug-in et add-ons pour tout les logiciel et les gadgets souhaitées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ecto itself is typically the size of 20th-century credit card and can be molded and shaped into different forms due to smart material construction.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le ecto lui-même est généralement la taille de la carte de crédit du 20ème siècle et peut être moulé et façonné en des formes différentes grâce aux matériaux intelligents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are often worn as jewelry or clothing accessories, particularly bracelets.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils sont souvent portés comme bijoux ou accessoires vestimentaires, notamment en bracelets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The user interface varies according to user preference.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'interface utilisateur varie selon les préférences de l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Standard entoptic control interfaces are also available via wireless radio, skinlink, and direct fiberoptic line.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les interfaces de contrôle standards entoptiques (dans l'oeil)  sont également disponibles via Wifi, skinlink (transmission d'information par la peau), et fibres optiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Almost all biomorphs in the solar system are equipped with basic mesh inserts (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Presque tous les biomorphs dans le système solaire sont équipés des implants Mesh de base (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These implants are grown in the brain via non-intrusive nanosurgery.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces implants sont cultivés dans le cerveau via nanochirurgie non-intrusive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The processor, wireless transceiver, storage devices, and other components are directly wired to the user's cerebral neuronal cells and cortical centers responsible for language, speech, and visual perception among others.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le processeur, l'émetteur-récepteur sans fil, les périphériques de stockage, et d'autres éléments sont directement câblés aux cellules neuronales, aux centres du language, des perceptions et de la paroles entre autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thought-to-communication emulations (so called transducing) enables the user to control the implant just by thinking and to communicate without vocalizing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'émulation de la communication par la pensée (dite  transduction  ) permet à l'utilisateur de contrôler l'implant par la pensée et de communiquer sans vocalisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Input from the mesh inserts is transmitted directly into the brain and sometimes perceived as augmented reality, overlaid on the user's physical senses.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les implants Mesh transmettent les informations directement au cerveaux qui sont quelque fois percues comme la Réalité Augmentée, comme une surcouche aux sensations physiques de l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In a similar vein, the mesh inserts installed in synthmorphs and pods are directly integrated with their cyberbrains (creating a potential security concern as cyberbrains are vulnerable to hacking).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans la même veine, les implants mesh installés dans synthémorphs et les pods sont directement intégrées à leurs cybercerveaux (ce qui créé un problème de sécurité potentiel puisque les cyberverveaux sont vulnérables au piratage).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>External devices called ectos (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les appareils externes appelé ectos (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>325) are also used to access the mesh, though these are growing increasingly rare given the prevalence of mesh inserts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>325) sont également utilisés pour accéder au Mesh, mais ceux-ci sont de plus en plus rares compte tenu de la prévalence des impalnts Mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ecto interface options include haptic interfaces like touch-display controls, bracelets or gloves that detect arm, hand, or finger movements (virtual mouse and keyboards), eye tracking and blink control, body scanning grids (body axis control or all-limb controls for non-humanoids), voice controls, and more.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les options d'interfaces des ectos comprennent des interfaces haptiques, comme des écran tactile, des bracelets ou des gants qui permettent de détecter les mouvements de bras, de la main, ou d'un doigt (la souris et claviers virtuels), des systèmes de contrôle par mouvements et clinements des yeux, ou du corps tout entier (controle par l'axe du corps ou des membre pour les non-humanoides), des commandes vocales, et plus encore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sensory information is handled via lenses, glasses, earplugs (subdermal bone-vibrating speakers), bodysuits, gloves, nose plugs, tongue dams, and other devices that are wirelessly linked to (or physically plugged into) the ecto.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'information sensorielle est traitée au moyen de lentilles, lunettes, écouteurs intra-auriculaires (haut-parleurs vibrants sur l'os), combinaisons, gants, pince-nez, percing à la langue, et d'autres dispositifs sans fil qui sont liés (ou physiquement branchés) à l'ecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Legacy Of The TITANs</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'héritage des TITANs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Given the technical capabilities of modern personal computers, supercomputers and cutting-edge wired broadband are not needed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Compte tenu des capacités techniques des ordinateurs personnels modernes, les superordinateurs de pointe à large bandepassante ne sont pas nécessaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>But there is another reason they are avoided: the TITANs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mais il ya une autre raison pour laquelle ils sont évités: les Titans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mainframes, hive-mind clusters, and massively parallel distributed computing parallel hive-mind systems are all considered potential dangers in Eclipse Phase, as they possess sufficient processing power and data capacity to enable a seed AI and another potential hard takeoff singularity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les mainframes, les clusters auto-organisés, et les systèmes conscient de calcul parrallèlle massivement distribués et parrallèllisés sont tous considéré comme des dangers ptentiel dans Eclipse Phase, car ils possèdent suffisament de puissance de calcul et de capacité de traitement de donné pour activer une IA germe et d'autre lancement abrupts de singularité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some habitats go so far as to outlaw such systems completely under the severest of penalties: final death including the deletion of all backups and recent forks, in most cases.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains habitats sont jusqu'a aller interdire de tels systèmes, sous la plus grave des peines: la mort finale, y compris la suppression de toutes les sauvegardes et les forks des dernières années, dans la plupart des cas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These systems are typically physically wired, heavily monitored, and locked down in electronic data processing centers with strong access restrictions and ruthless real-world security measures.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces systèmes sont généralement connectés en filaire, très surveillés et verrouillé dans les centres de traitement des données avec des restrictions d'accès rigoureuses, du coté informatique,  et des mesures de sécurité impitoyable, dans le monde réel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Similarly, AIs themselves are quite often heavily restricted, and it is not unusual for AGIs to be outright banned, especially in the inner system and Jovian Republic.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De même, les IAs se sont souvent très restreinte, et il n'est pas rare pour les AGIS être purement et simplement interdites, en particulier dans le Système Intérieur et la République Jovienne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most intelligent programs are limited with programmed growth restraints, specifically designed to prevent them from becoming self-upgrading.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des programmes intelligents sont limitées, avec des réstrictions de croissance, spécialement conçu pour les empêcher de s'auto-améliorer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Information Overload}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Surcharge d'informations}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The mesh contains massive amounts of personal and public information shared by users, a digital commons</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le Mesh contient d'énormes quantités de renseignements personnels et publics partagés par les utilisateurs, une mise en commun numérique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>of news, media, discourse, knowledge, environmental data, business, and culture.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>des nouvelles, des médias, le discours, la connaissance, les données de l'environnement, des affaires, et de la culture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transhumans embrace the mesh as a tool for exchange, communication, and participation with other users, both local and far away.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La transhumanité utilise le Mesh comme un outil d'échange, de communication et de participation avec d'autres utilisateurs, tant locaux qu'éloignés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As such, the mesh is an up-to-date, authoritative source on all transhuman knowledge and activities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En tant que tel, le maillage est une mise à jour, la source faisant autorité sur toutes les connaissances ou les activités transhumanistes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Not everything online is available for free, of course, except perhaps in the autonomist zones.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout ce qui est en ligne n'est gratuit, bien sûr, sauf peut-être dans les zones autonomistes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Quite a bit of proprietary data is kept off the grid in secure storage or sequestered away in private networks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Assez peu de données de propriété industrielle est sont maintenus hors de la toile dans des stockages sécurisés, ou séquestrées loin dans les réseaux privés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A thriving open source movement offers free and open source alternatives to much proprietary data, however, and numerous digital piracy groups deal out cracked versions of proprietary material, despite pressure from some authorities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, un mouvement florisant d'open-source offre des alternatives gratuites et ouvertes au grand nombre de données propriétaires et de nombreux groupes fourgent des versions crackées des produits propriétaires,et ce malgré la pression de certaines autorités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other data is simply secured from competitive interests (hypercorp research projects) or is an extremely private affair, such as ego backups.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres données sont simplement reliès à des intérêts concurrentiels (projets de recherche hypercorp) ou sont extrêmement privées, telles que les sauvegardes ego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Along with the accumulated data of transhuman affairs, the mesh is also cluttered with information derived from untold numbers of wireless-capable sensor-enabled devices that continuously update the mesh with their location, sensor recordings, and other data.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Avec les données accumulées des affaires transhumaines, le Mesh est également encombré de l'information provenant nombre incalculable des appareils sans-fils qui tiennent à jour en permanence leur emplacement sur le Mesh, les enregistrements des capteur, et d'autres données.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Colloquially called ``spimes,'' these location-aware, environment-aware, self-logging, self-documenting objects broadcast their data to anyone who cares to listen.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les appareils qui sont localisés, auto-enregistreurs, auto-documentés et qui diffusent leurs données à qui veut l'entendre sont familièrement appelés &quot;spimes&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since visual, auditory, and other sensors are absurdly tiny and inexpensive, they are ubiquitously incorporated into nearly every object or product a person might wear, apply, use, or internalize.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Depuis que les capteurs visuels, sonore ou autre sont devenus ridiculement minuscules et peu coûteux, ils sont désormais omniprésents et incorporés dans presque tous les objets et produits qu'une personne peut porter, s'appliquer, utiliser, avaler, s'injecter, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Surveillance, Privacy, And Sousveillance}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Surveillance, vie privée, et sousveillance}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While spimes are easily trackable, they also contribute to an environment of universal surveillance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que les spimes sont aisement repèrables, ils contribuent aussi à un environement de surveillance constante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between spimes, microsensors, ubiquitous security systems, and the recording capabilities of the mesh inserts used by almost everyone, just about everything is recorded.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Entre les spimes, les micro-senseurs, les systèmes de sécurité omniprésents, les capacités d'enregistrement des implants Mesh presque universelements utilisés, à peu près tout est enregistré</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Factor in the availability of mesh-tracking facial recognition, rep/social networks, and other data mining software, and it rapidly becomes clear that privacy is an outdated concept.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De plus avec les capacités de reconnaissance faciale, les réseaux sociaux/de réputation et autres logiciels de recherche de données, il devient vite évident que la vie privée est une notion dépassée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Special considerations must be embraced by anyone that seeks to mask their identity or cover their movements.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ceux qui cherchent à masquer leur identité ou couvrir leurs mouvements doivent penser à cet état de fait un peu spécial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alternately, off-the-shelf looks common with some morphs (especially synthmorphs and pods) allow a user to blend in with the masses.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sinon, les morphs communes (surtout les synthmorph et les pods) ont une apparence qui aide l'utilisateur à ce fondre dans la masse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though in part this may seem an Orwellian surveillance nightmare, the abundance of recording tech actually works as ``sousveillance'' (watching from below), serving a role in making everything transparent and putting checks on abuses of power.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que tout cela peut resembler à un cauchemar orwellien de surveillance, une grande part des technologies d'enregistrements travaillent actuellement en ''sousveillanceé (surveillance par la base), ayant un rôle de transparance et de lutte contre les abus de pouvoir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Authoritarian regimes tread carefully, as they are also universally monitored, despite their attempts to control information flow.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les régimes autoritaires avancer avec précaution, car ils sont aussi universellement surveillés, en dépit de leurs tentatives pour contrôler le flux d'information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many people also willing participate in this open ``participatory panopticon.'' With nearly infinite storage capacity, dedicated lifeloggers record every moment of their lives and share it for others to experience.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup de gens sont en outre désireux de se joindre à cette télésurveillance participative ouverte ``.''Avec une capacité de stockage quasi illimitée, les lifeloggers enregistrent chaque instant de leur vie et partagent avec d'autres leur expériences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Interfacing: AR, VR, And XP</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les interfaces AR, VR, et XP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mesh media is accessed using one of three protocols: augmented reality (AR), virtual reality (VR), or experience playback (XP).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les médias Mesh sont accessibles en utilisant l'un des trois protocoles: la réalité augmentée (AR), la réalité virtuelle (VR), ou la lecture d'expérience (XP).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le Jeu De Rôle Tanshumaniste de complot et d'horreur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your mind is software.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ton esprit est du code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Program it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Change-le.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your body is a shell.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ton corp est une envelloppe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Change it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Change-le.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Death is a disease.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Mort est une maladie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cure it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Soigne-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Extinction is approaching.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'Extintion approche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fight it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Combat-la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This environment, coupled with the exponential growth of processing power and memory storage, created an evolutionary path for the development of intelligent agentsâ€”designed to augment human information processingâ€”that then transformed into artificial intelligences (AIs) in the following decades.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cet environnement, couplé à la croissance exponentielle de la puissance de traitement et du stockage de mémoire, a guidé l'évolution des agents intelligents, &quot;visant à accroître les capacité de travail de l'homme&quot;, qui se transforment alors en intelligences artificielles (IA) dans les décennies suivantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While these â€œweakâ€� AIs did not possess the full range of humancognitive abilities, tended towards overspecialization, and were restrained by programmed limitations, the digital evolution toward artificial general intelligences (AGIs)â€”â€�strongâ€� AIs with intelligence capabilities that equaled or exceeded human abilitiesâ€”could not be halted.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que ces IA &quot;miniatures&quot; ne possèdaient pas la gamme complète des capacités cognitive humaines, qu'elles tendaient vers la spécialisation excessive, et ont été limités par des gardes-fous programmées, l'évolution numérique vers l'intelligence artificielle générale (Artificial General IntelligenceS, AGIS) et de puissantes IAs, aux capacités de renseignement égalant ou dépassant les capacités de l'homme, ne pouvait être arrêtée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This was especially true of those participating in humanityâ€™s expansion into space.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela était particulièrement vrai de ceux qui participent à l'expension de l'humanité dans l'espace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Typically, the userâ€™s muse (personal AI assistant) facilitates software interactions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En règle générale, la muse™ (assistant personnel AI) facilite les interactions avec les logiciels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wireless-enabled contacts and earbuds equip users who lack mesh implants, enabling them to experience augmented reality and the ectoâ€™s AR control interface.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les lentilles de contacts sans-fil et des écouteurs équipent les utilisateurs qui n'ont pas d'implants Mesh, leur permettant de faire l'expérience de réalité augmentée et interface de contrôle AR des ectos™.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>300)â€”implanted personal computers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>300)â€”Ordinateurs personels implantés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Those supercomputers that habitats do allow are â€œhard networksâ€� that control a habitatâ€™s most crucial systems like orbit maintenance thrusters, life support, communications, power, or cutting-edge hypercorp RD projects.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces supercalculateurs que les habitats qui le permettent, contrôlent les systèmes les plus cruciaux des habitats, comme les propulseurs d'entretien en orbite, les systèmes de survie, les communications, l'énergie, ou les projets R&amp;D de pointe des hypercorp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some of this is for sale, and heavily encumbered with digital restrictionsâ€”software media, nanofabrication blueprints, skillsofts, etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines de ces données sont en ventes, et lourdement grevés de restrictions numérique comme les patrons de nanofabrication, les logiciels de compétences (skillsofts), etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This allows almost any user to reach out through the mesh and gather environmental data and ambient sensor recordings from a specific location (or at least public localesâ€”private areas typically block such signals or slave them to a local AI that filters their output).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela permet à presque n'importe quel utilisateurde se connecter au Mesh et de recueillir des données sur l'environnement et des enregistrements des sondes de température ambiante à partir d'un emplacement spécifié (ou au moins du réseau public, les zones privées généralement bloquent les signaux ou les asservisent à une IA qui filtre leurs signaux).</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>

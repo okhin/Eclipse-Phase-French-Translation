@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ruskov
 <?xml version="1.0" encoding="UTF-8" ?>
 <OmegaT+ version="1.0">
   <dir.originals>(DEFAULT)</dir.originals>
@@ -7,5 +11,9 @@
   <loc.original>en-US</loc.original>
   <loc.translation>fr-FR</loc.translation>
   <seg.sentence>true</seg.sentence>
+<<<<<<< HEAD
+  <seg.lastactive>18715</seg.lastactive>
+=======
   <seg.lastactive>14018</seg.lastactive>
+>>>>>>> ruskov
 </OmegaT+>
