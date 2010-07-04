@@ -2,46 +2,46 @@ Mesures du projet
 
 Total
     Segments:   19292
-        Mots:  268209
-  Caractères: 1444054 : - espaces
-  Caractères: 1664071 : + espaces
+        Mots:  267239
+  Caractères: 1439793 : - espaces
+  Caractères: 1659809 : + espaces
 
 Restants
-    Segments:   19184
-        Mots:  266153
-  Caractères: 1402886 : - espaces
-  Caractères: 1649957 : + espaces
+    Segments:   19193
+        Mots:  265418
+  Caractères: 1400067 : - espaces
+  Caractères: 1647346 : + espaces
 
 Uniques
     Segments:   16393
-        Mots:  262231
-  Caractères: 1404360 : - espaces
-  Caractères: 1629760 : + espaces
+        Mots:  261391
+  Caractères: 1400399 : - espaces
+  Caractères: 1625798 : + espaces
 
 Restants uniques
-    Segments:   16285
-        Mots:  260175
-  Caractères: 1392117 : - espaces
-  Caractères: 1615646 : + espaces
+    Segments:   16294
+        Mots:  259570
+  Caractères: 1389602 : - espaces
+  Caractères: 1613335 : + espaces
 
 Mesures des documents
 
     TM      MR      TCSE    CRSE    TC      CR     Document
-     584     584    3457    3457    3985    3985 - 0-credits.tex
-    8113    8113   38402   38402   45779   45779 - 1-lack.tex
-   20423   20423  104463  104463  123349  123349 - 10-accelerated-future.tex
-   41352   41352  217811  217811  255208  255208 - 11-gear.tex
-   30137   30137  158702  158702  186796  186796 - 12-game-information.tex
+     581     581    3451    3451    3979    3979 - 0-credits.tex
+    8100    8100   38376   38376   45753   45753 - 1-lack.tex
+   20340   20340  104177  104177  123063  123063 - 10-accelerated-future.tex
+   41352   41352  217317  217317  254714  254714 - 11-gear.tex
+   29962   29962  158228  158228  186322  186322 - 12-game-information.tex
        1       1       6       6       6       6 - 13-tables.tex
        1       1      10      10      10      10 - 14-references.tex
-    9118    9118   48652   48652   57239   57239 - 2-synopsis.tex
-   62027   62027  335160  335160  393841  393841 - 3-eclipse.tex
-    9965    9965   49354   49354   58650   58650 - 4-mechanics.tex
-   16678   16678   86353   86353  101669  101669 - 5-character-creation.tex
-    8638    8638   46526   46526   54384   54384 - 6-skills.tex
-   25680   25680  132425  132425  156114  156114 - 7-action-combat.tex
-   12950   12950   73264   73264   85572   85572 - 8-mind-hacks.tex
-   22476   20452  120042  108017  140979  127047 - 9-mesh.tex
+    9090    9090   48592   48592   57179   57179 - 2-synopsis.tex
+   61776   61776  334423  334423  393103  393103 - 3-eclipse.tex
+    9902    9902   49182   49182   58478   58478 - 4-mechanics.tex
+   16622   16622   85947   85947  101263  101263 - 5-character-creation.tex
+    8618    8618   46366   46366   54224   54224 - 6-skills.tex
+   25680   25680  131997  131997  155686  155686 - 7-action-combat.tex
+   12815   12815   72621   72621   84929   84929 - 8-mind-hacks.tex
+   22333   20544  119673  109090  140610  128329 - 9-mesh.tex
       66      34     443     284     490     308 - ep.tex
 
 Légende

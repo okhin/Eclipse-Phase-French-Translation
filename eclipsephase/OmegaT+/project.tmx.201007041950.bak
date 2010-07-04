@@ -54,6 +54,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>This environment, coupled with the exponential growth of processing power and memory storage, created an evolutionary path for the development of intelligent agentsâ€”designed to augment human information processingâ€”that then transformed into artificial intelligences (AIs) in the following decades.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cet environnement, couplé à la croissance exponentielle de la puissance de traitement et du stockage de mémoire, a guidé l'évolution des agents intelligents, &quot;visant à accroître les capacité de travail de l'homme&quot;, qui se transforment alors en intelligences artificielles (IA) dans les décennies suivantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While these â€œweakâ€� AIs did not possess the full range of humancognitive abilities, tended towards overspecialization, and were restrained by programmed limitations, the digital evolution toward artificial general intelligences (AGIs)â€”â€�strongâ€� AIs with intelligence capabilities that equaled or exceeded human abilitiesâ€”could not be halted.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que ces IA &quot;miniatures&quot; ne possèdaient pas la gamme complète des capacités cognitive humaines, qu'elles tendaient vers la spécialisation excessive, et ont été limités par des gardes-fous programmées, l'évolution numérique vers l'intelligence artificielle générale (Artificial General IntelligenceS, AGIS) et de puissantes IAs, aux capacités de renseignement égalant ou dépassant les capacités de l'homme, ne pouvait être arrêtée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>From this point it was but a matter of time before so-called seed AI would come into existence, machine minds capable of recursive self-improvement, leading to an exponential growth in intelligence.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -90,6 +106,14 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Les utilisateurs étaient en ligne tout le temps et lié à tout et tout le monde autour d'eux dans un environnement informatique ubiquitaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This was especially true of those participating in humanityâ€™s expansion into space.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela était particulièrement vrai de ceux qui participent à l'expension de l'humanité dans l'espace</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,6 +398,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Typically, the userâ€™s muse (personal AI assistant) facilitates software interactions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En règle générale, la muse™ (assistant personnel AI) facilite les interactions avec les logiciels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The ecto itself is typically the size of 20th-century credit card and can be molded and shaped into different forms due to smart material construction.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -398,6 +430,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Wireless-enabled contacts and earbuds equip users who lack mesh implants, enabling them to experience augmented reality and the ectoâ€™s AR control interface.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les lentilles de contacts sans-fil et des écouteurs équipent les utilisateurs qui n'ont pas d'implants Mesh, leur permettant de faire l'expérience de réalité augmentée et interface de contrôle AR des ectos™.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Standard entoptic control interfaces are also available via wireless radio, skinlink, and direct fiberoptic line.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -410,6 +450,14 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Presque tous les biomorphs dans le système solaire sont équipés des implants Mesh de base (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>300)â€”implanted personal computers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>300)â€”Ordinateurs personels implantés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -526,6 +574,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Those supercomputers that habitats do allow are â€œhard networksâ€� that control a habitatâ€™s most crucial systems like orbit maintenance thrusters, life support, communications, power, or cutting-edge hypercorp R&lt;u0&gt;D projects.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces supercalculateurs que les habitats qui le permettent, contrôlent les systèmes les plus cruciaux des habitats, comme les propulseurs d'entretien en orbite, les systèmes de survie, les communications, l'énergie, ou les projets R&amp;D de pointe des hypercorp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>These systems are typically physically wired, heavily monitored, and locked down in electronic data processing centers with strong access restrictions and ruthless real-world security measures.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -606,6 +662,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Some of this is for sale, and heavily encumbered with digital restrictionsâ€”software media, nanofabrication blueprints, skillsofts, etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines de ces données sont en ventes, et lourdement grevés de restrictions numérique comme les patrons de nanofabrication, les logiciels de compétences (skillsofts), etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A thriving open source movement offers free and open source alternatives to much proprietary data, however, and numerous digital piracy groups deal out cracked versions of proprietary material, despite pressure from some authorities.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -642,6 +706,14 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Depuis que les capteurs visuels, sonore ou autre sont devenus ridiculement minuscules et peu coûteux, ils sont désormais omniprésents et incorporés dans presque tous les objets et produits qu'une personne peut porter, s'appliquer, utiliser, avaler, s'injecter, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This allows almost any user to reach out through the mesh and gather environmental data and ambient sensor recordings from a specific location (or at least public localesâ€”private areas typically block such signals or slave them to a local AI that filters their output).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela permet à presque n'importe quel utilisateurde se connecter au Mesh et de recueillir des données sur l'environnement et des enregistrements des sondes de température ambiante à partir d'un emplacement spécifié (ou au moins du réseau public, les zones privées généralement bloquent les signaux ou les asservisent à une IA qui filtre leurs signaux).</seg>
       </tuv>
     </tu>
     <tu>
@@ -802,78 +874,6 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Combat-la</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>This environment, coupled with the exponential growth of processing power and memory storage, created an evolutionary path for the development of intelligent agentsâ€”designed to augment human information processingâ€”that then transformed into artificial intelligences (AIs) in the following decades.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Cet environnement, couplé à la croissance exponentielle de la puissance de traitement et du stockage de mémoire, a guidé l'évolution des agents intelligents, &quot;visant à accroître les capacité de travail de l'homme&quot;, qui se transforment alors en intelligences artificielles (IA) dans les décennies suivantes.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>While these â€œweakâ€� AIs did not possess the full range of humancognitive abilities, tended towards overspecialization, and were restrained by programmed limitations, the digital evolution toward artificial general intelligences (AGIs)â€”â€�strongâ€� AIs with intelligence capabilities that equaled or exceeded human abilitiesâ€”could not be halted.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Bien que ces IA &quot;miniatures&quot; ne possèdaient pas la gamme complète des capacités cognitive humaines, qu'elles tendaient vers la spécialisation excessive, et ont été limités par des gardes-fous programmées, l'évolution numérique vers l'intelligence artificielle générale (Artificial General IntelligenceS, AGIS) et de puissantes IAs, aux capacités de renseignement égalant ou dépassant les capacités de l'homme, ne pouvait être arrêtée.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>This was especially true of those participating in humanityâ€™s expansion into space.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Cela était particulièrement vrai de ceux qui participent à l'expension de l'humanité dans l'espace</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Typically, the userâ€™s muse (personal AI assistant) facilitates software interactions.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>En règle générale, la muse™ (assistant personnel AI) facilite les interactions avec les logiciels.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Wireless-enabled contacts and earbuds equip users who lack mesh implants, enabling them to experience augmented reality and the ectoâ€™s AR control interface.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les lentilles de contacts sans-fil et des écouteurs équipent les utilisateurs qui n'ont pas d'implants Mesh, leur permettant de faire l'expérience de réalité augmentée et interface de contrôle AR des ectos™.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>300)â€”implanted personal computers.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>300)â€”Ordinateurs personels implantés.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Those supercomputers that habitats do allow are â€œhard networksâ€� that control a habitatâ€™s most crucial systems like orbit maintenance thrusters, life support, communications, power, or cutting-edge hypercorp R&lt;u0&gt;D projects.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Ces supercalculateurs que les habitats qui le permettent, contrôlent les systèmes les plus cruciaux des habitats, comme les propulseurs d'entretien en orbite, les systèmes de survie, les communications, l'énergie, ou les projets R&amp;D de pointe des hypercorp.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Some of this is for sale, and heavily encumbered with digital restrictionsâ€”software media, nanofabrication blueprints, skillsofts, etc.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Certaines de ces données sont en ventes, et lourdement grevés de restrictions numérique comme les patrons de nanofabrication, les logiciels de compétences (skillsofts), etc.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>This allows almost any user to reach out through the mesh and gather environmental data and ambient sensor recordings from a specific location (or at least public localesâ€”private areas typically block such signals or slave them to a local AI that filters their output).</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Cela permet à presque n'importe quel utilisateurde se connecter au Mesh et de recueillir des données sur l'environnement et des enregistrements des sondes de température ambiante à partir d'un emplacement spécifié (ou au moins du réseau public, les zones privées généralement bloquent les signaux ou les asservisent à une IA qui filtre leurs signaux).</seg>
       </tuv>
     </tu>
   </body>
