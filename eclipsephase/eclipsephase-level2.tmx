@@ -14,30 +14,6 @@
   <body>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Dice}</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>{Dés}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Some stats and traits, however, are determined by morph, as noted, and so will change if your character leaves one body and takes on another.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>D'autres statistiques et traits sont cependant déterminés par une morph, comme noté précédemment, et changeront donc si votre personnage quitte son corps et en prend un autre.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Morphs may also affect other skills and stats, as detailed in the morph description.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les morphs peuvent aussi affecter d'autres compétences et statistiques, comme détaillée dans la description des morphs.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>Lack</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -6958,6 +6934,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Dice}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Dés}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>As described in the Game Mechanics section (p.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -7810,6 +7794,22 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Des apects de votre personnage - en particulier les compétences, ainsi que quelques traits et statistiques - appartiennent à l'ego de votre personnage et ainsi l'acompagnent tout au long du développement du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some stats and traits, however, are determined by morph, as noted, and so will change if your character leaves one body and takes on another.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres statistiques et traits sont cependant déterminés par une morph, comme noté précédemment, et changeront donc si votre personnage quitte son corps et en prend un autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Morphs may also affect other skills and stats, as detailed in the morph description.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les morphs peuvent aussi affecter d'autres compétences et statistiques, comme détaillée dans la description des morphs.</seg>
       </tuv>
     </tu>
     <tu>
