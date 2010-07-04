@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8" ?>
+<OmegaT+ version="1.0">
+  <dir.originals>(DEFAULT)</dir.originals>
+  <dir.translations>(DEFAULT)</dir.translations>
+  <dir.tms>(DEFAULT)</dir.tms>
+  <dir.glossaries>(DEFAULT)</dir.glossaries>
+  <loc.original>en-US</loc.original>
+  <loc.translation>fr-FR</loc.translation>
+  <seg.sentence>true</seg.sentence>
+  <seg.lastactive>18715</seg.lastactive>
+</OmegaT+>
+=======
+<?xml version="1.0" encoding="UTF-8" ?>
+<OmegaT+ version="1.0">
+  <dir.originals>(DEFAULT)</dir.originals>
+  <dir.translations>(DEFAULT)</dir.translations>
+  <dir.tms>(DEFAULT)</dir.tms>
+  <dir.glossaries>(DEFAULT)</dir.glossaries>
+  <loc.original>en-US</loc.original>
+  <loc.translation>fr-FR</loc.translation>
+  <seg.sentence>true</seg.sentence>
+  <seg.lastactive>17977</seg.lastactive>
+</OmegaT+>
+>>>>>>> ruskov
