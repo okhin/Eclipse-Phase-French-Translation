@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8" ?>
 <OmegaT+ version="1.0">
   <dir.originals>(DEFAULT)</dir.originals>
@@ -7,5 +9,27 @@
   <loc.original>en-US</loc.original>
   <loc.translation>fr-FR</loc.translation>
   <seg.sentence>true</seg.sentence>
+<<<<<<< HEAD
+  <seg.lastactive>17977</seg.lastactive>
+=======
   <seg.lastactive>18715</seg.lastactive>
+>>>>>>> e787973436878844dcbd819afabd2b0ac73eee89
 </OmegaT+>
+=======
+=======
+>>>>>>> ruskov
+<?xml version="1.0" encoding="UTF-8" ?>
+<OmegaT+ version="1.0">
+  <dir.originals>(DEFAULT)</dir.originals>
+  <dir.translations>(DEFAULT)</dir.translations>
+  <dir.tms>(DEFAULT)</dir.tms>
+  <dir.glossaries>(DEFAULT)</dir.glossaries>
+  <loc.original>en-US</loc.original>
+  <loc.translation>fr-FR</loc.translation>
+  <seg.sentence>true</seg.sentence>
+  <seg.lastactive>17977</seg.lastactive>
+</OmegaT+>
+<<<<<<< HEAD
+>>>>>>> ruskov
+=======
+>>>>>>> ruskov

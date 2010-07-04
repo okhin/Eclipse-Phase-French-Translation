@@ -23,7 +23,6 @@ Restants uniques
         Mots:  241680
   Caractères: 1291536 : - espaces
   Caractères: 1501236 : + espaces
-
 Mesures des documents
 
     TM      MR      TCSE    CRSE    TC      CR     Document
@@ -43,7 +42,6 @@ Mesures des documents
    11887   11885   62385   62376   73535   73525 - 8-mind-hacks.tex
    22333   22333  119673  119673  140610  140610 - 9-mesh.tex
       64      64     378     378     415     415 - ep.tex
-
 Légende
     TM: Total des mots
     MR: Mots restants
