@@ -1,28 +1,28 @@
 Mesures du projet
 
 Total
-    Segments:   19288
-        Mots:  267235
-  Caractères: 1439663 : - espaces
-  Caractères: 1659673 : + espaces
+    Segments:   18753
+        Mots:  262346
+  Caractères: 1402947 : - espaces
+  Caractères: 1622165 : + espaces
 
 Restants
-    Segments:   17852
-        Mots:  248194
-  Caractères: 1312861 : - espaces
-  Caractères: 1544133 : + espaces
+    Segments:   17295
+        Mots:  242735
+  Caractères: 1277184 : - espaces
+  Caractères: 1502859 : + espaces
 
 Uniques
-    Segments:   16391
-        Mots:  261389
-  Caractères: 1400363 : - espaces
-  Caractères: 1625758 : + espaces
+    Segments:   16204
+        Mots:  258735
+  Caractères: 1379090 : - espaces
+  Caractères: 1603686 : + espaces
 
 Restants uniques
-    Segments:   14993
-        Mots:  242500
-  Caractères: 1302453 : - espaces
-  Caractères: 1511084 : + espaces
+    Segments:   14784
+        Mots:  239276
+  Caractères: 1277957 : - espaces
+  Caractères: 1485246 : + espaces
 
 Mesures des documents
 
@@ -39,10 +39,10 @@ Mesures des documents
     9902    9862   49182   48988   58478   58247 - 4-mechanics.tex
    16622   16622   85947   85947  101263  101263 - 5-character-creation.tex
     8618    8618   46366   46366   54224   54224 - 6-skills.tex
-   25680   25679  131997  131992  155686  155681 - 7-action-combat.tex
-   12815   12811   72621   72603   84929   84909 - 8-mind-hacks.tex
+   21717   21716  109826  109821  129634  129629 - 7-action-combat.tex
+   11891   11317   62399   59162   73548   69762 - 8-mind-hacks.tex
    22333   20544  119673  109090  140610  128329 - 9-mesh.tex
-      66      34     443     284     490     308 - ep.tex
+      64      32     378     219     415     233 - ep.tex
 
 Légende
     TM: Total des mots
