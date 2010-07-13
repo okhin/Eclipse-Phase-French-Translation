@@ -6870,6 +6870,310 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Psi Drawbacks}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Inconvénients du Psi}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are several drawbacks to psi ability:</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a plusieurs inconvénients à posséder la capacité psi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The variant Exsurgent strain that endows psi ability rewires the character’s brain.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La variante du virus Exsurgent qui donne à un personnage la capaciét psi, recâble également son cerveau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An unfortunate side effect to this change is that asyncs acquire a vulnerability to mental stress.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un effet de bord malheureux à ce changement est que les async acquièrent une vulnérabilité aux maladies mentales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Reduce the async’s Trauma Threshold by 1.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Réduisez le Seuil de Trauma d'un async de 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u1&gt; The mental instability that accompanies psi infection also tends to unhinge the character’s mind.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u1&gt; L'instabilité mentale qui accompagne l'infection psi tends également à déranger l'esprit du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Asyncs acquires one Mental Disorder negative trait (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les async acuiqèrent un trait négatif Dérangement (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>150) for each level they have of the Psi trait without receiving any bonus CP.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>150) pour chaque niveau auquel ils possèdent le trait Psi sans bénéficier de CP de bonus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster and player should agree on a disorder appropriate to the character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu et les joueurs devraient se mettre d'accord sur un dérangement approprié au personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This disorder may be treated over time, according to normal rules (see Mental Healing and Psychotherapy, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce dérangement peut être traité avec le temps, en suivant les règles normales (voir Soins de l'Esprit et Psychothérapie, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u2&gt; Characters with the Psi trait are also vulnerable to infection by other strains of the Exsurgent virus.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u2&gt; Les personnages avec le trait Psi sont également vulnérables à l'infection par d'autres souches du virus Exsurgent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character suffers a –20 modifier when resisting Exsurgent infection (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage souffre d'un modificateur de -20 lorsqu'il résiste à une infection Exsurgente (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u3&gt; Critical failures when using psi tend to stress the async’s mind.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u3&gt; Les échecs critiques en utilisant le psi a tendance à stresser l'esprit de l'async.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each time a critical failure is rolled when making a sleight-related test, the async suffers a temporary brain seizure.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À chaque fois qu'un échec critique est lancé en effectuant un test lié à un exploit psi, l'async souffre d'une attaque cérébrale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They suffer a –30 modifi er and are incapable of acting until the end of the next Action Turn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils souffrent d'un modificateur de -30 et sont incapable d'agir jusqu'à la fin du prochain Tour d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They must also succeed in a WIL + COG Test or fall down.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils doivent aussi réussir un Test de VOL + COG ou s'effondrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Psi Skills And Sleights}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Compétences et Exploits Psi}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transhuman psi users can manipulate their egos and otherwise create effects that can often be neither matched nor mimicked by technological means.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les utilisateurs transhumain de psi peuvent manipuler leur ego et par ailleurs créer des effets qui dans la majorité des cas ne peuvent être reprosuit ou imités par des moyens technologique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To use these abilities, they train their mental processes and practice cognitive algorithms called sleights, which they can subconsciously recall and use as necessary.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour utiliser ces capacités, ils entraïnent leur processus mental et s'exercent à l'utilisation d'algorithmes cognitifs appelés exploits psi, qu'ils peuvent de manière subconsciente rappeler et utiliser lorsque c'est nécessaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sleights fall into two categories: psi-chi (cognitive enhancements, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les exploits psi se répartissent en deux catégories: les chi-psi (améliorations cognitives, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>223) and psi-gamma (brainwave reading and manipulation, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>223) et les gamma-psi (lecture et manipulations des ondes cérébrales, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Psi-chi sleights are available to anyone with the Psi trait (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les exploits chi-psi sont disponibles à quiconque possède le trait Psi (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>147), but psigamma sleights are only available to characters with the Psi trait at Level 2.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>147), mais les exploist gamma-psi ne sont disponible qu'aux personnages disposant du trait Psi au niveau 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In order to use these sleights, the async must be skilled in the Control (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Afin d'utiliser ces exploits, un async doit posséder les compétences Contrôle (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>178), Psi Assault (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>178), Assaut Psi  (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>183), and/or Sense skills (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>183), et/ou Divination (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>184), as appropriate to each sleight.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>184), en fonction de chaque exploit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Roleplaying Asyncs}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Jouer des Asyncs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any player who chooses to play an async should keep the origin of their abilities in mind: Watts-MacLeod strain infection.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout joueur qui choisit de jouer un async devrait garder l'origine de ses capacités en tête: infection par la souche Watts-MacLeod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character may not be aware of this source, but they undoubtedly know that they underwent some sort of transformation and have talents that no one else does.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage peuvent ne pas être conscient de cette origine, mais ils savent indubitablementqu'ils ont subit une sorte de transformation et qu'ils ont des talents que personne d'autres n'a.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If unaware of the infection, they have likely learned to keep their abilities secret lest they be ridiculed, attacked, or whisked away to some secret testing program. Learning the truth about their nature could even be the starting point of a campaign and/or their introduction to Firewall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si ils ne sont pas conscient de l'infection, ils ont probablement appris à garder leurs capacités secrètes à moins d'être ridiculisés, attaqués ou esacmoté dans une sorte de programme de tests. Apprendre la vérité sur leur nature peut même être le point de départ d'une campagne et/ou leur introduction à Firewall.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If they know the truth, however, the character must live with the fact that they are the victim of a nanoplague likely spread by the TITANs that may or may not lead to complications, side effects, or other unexpected revelations in their future.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si ils connaissent la vérité les personnages doivent cependant vivre avec le fait qu'ils sont les victimes d'une nanopeste probablemenr répandue par les TITANs qui peut ou peut ne pas amener à des complications, des effest dsecondaires ou d'autres révélations inattendues dans le futur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gamemasters and players should make an effort to explore the nature of this infection and how the character perceives it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les maîtres de jeu et les joueurs devraient faire un effort pour explorer la nature de cette infection et la manière dont les personnages la perçoivent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As noted previously, asyncs are often profoundly-changed people.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme noté précédement, les asyncs sont souvent des personnes profondément changées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The invasive and alien aspect of their abilities should not be lost on them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les aspects invasifs et étarngers de leur capacités ne devraient pas leur échapper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, an async might conceive of their psi talents as a sort of parasitic entity, living off their sleights, or they might feel that using these powers puts them in touch with some sort of fundamental substrate of the universe that is weird and terrifying.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, un async pourrait concevoir ses talents psi comme une sorte d'éntité parasite, vivant de ses exploits psi, ou il pourrait sentir qu'utiliser ces pouvoir les mets en contact avec une sort de substrat fondamental étrange et terrifiant de l'univers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alternately, they could feel as if their personality was melded with something different, something that doesn’t belong.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sinon, ils pourraient se sentir comme si leur personnalité aurait été mélangée avec quelque chose de différent, quelque chose qui n'en ferait pas parti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each async is likely to view their situation differently, and none of them pleasantly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque async a tendance à voir leur situation différement, et aucun d'entre eux ne le perçoit de manière agréable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Mesh</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
