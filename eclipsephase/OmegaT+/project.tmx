@@ -7174,6 +7174,342 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Using Psi}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Utiliser le Psi}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Using psi—i.e., drawing on a certain sleight to procure some kind of effect—does not always require a test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Utiliser le psi - c.à.d. lancer un exploit particulier pour déclencher certains effetx - ne nécessite pas toujours un jet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each sleight description details how the power is used.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La description de chaque exploit détaille comment le pouvoir est utilisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Active Psi}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Psi Actif}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Active psi sleights must be “activated” to be used.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les exploist psi actifs doivent être &quot;activés&quot; pour être utilisés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These sleights usually require a skill test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces exploits nécessitent habituellement un test de compétence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sleights that target other sentient beings or life forms are always Opposed Tests, while others are handled as Success Tests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les tests des exploits qui ciblent un autre être conscient ou une forme de vie sont toujours des Tests Opposés, alors que les autres sont gérés commes des Tests de Succès.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The level of concentration required to use these sleights varies, and so may call for a Quick, Complex, or Task Action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le niveau de concentration requis pour utilsier ces exploits varient, et donc ils peuvent nécessiter une Action Rapide, Complète ou de Tâche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Active sleights also cause strain (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les exploits actifs causent du drain (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>223) to the async.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>223) à l'async.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most psi-gamma sleights fall into this category.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des exploits gamma-psi tombent dans cette catégorie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Passive Psi}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Psi Passif}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Passive psi sleights encompasses abilities that are considered automatically active and subconscious.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les exploits psi passifs englobent les capacités qui sont considérés comme automatiquement active et subconscientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They rarely require an action to be activated and require no effort or strain by the psi user.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils requièrent rarement une action pour être activé et ne nécessite ni effort ni drain de l'utilisateur du psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Passive sleights typically add bonuses to various activities or allow access to certain abilities rather than calling for some kind of skill test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les exploits passifs ajoutent typiquement des bonus à diverses activités ou permettent l'accès à certaines capacités plutôt que de faire appel à un test de compétence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most psi-chi sleights fall into this category.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des exploits chi-psi tombent dans cette catégorie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Psi Range}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Portée du Psi}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sleights have a Range of either Self, Touch, or Close.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les exploits disposent d'une Portée qui est soi Soi, Contact ou Proche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Self: These sleights only affect the async.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Soi: Ces exploits n'affectent que l'async.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Touch: Sleights with a Touch range may be used against other biological life, but the async must have physical contact with the target.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Contact: Les Exploits avec une portée Contact peuvent être utilisés contre d'autre formes de vie biologique, mais l'async doit établir un contact physique avec la cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the target avoids being touched, this requires a successful melee attack, applying the touch-only +20 modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si la cible évite le contact, cela requiert une attaque de mélée réussie, en appliquant le moidificateur contact-seulement de +20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This attack does not cause damage, and is considered part of the same action as the psi use.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette attaque ne cause aucun dommage, et est considérée comme faisant partie de la même action que l'utilisation de psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Close: Close sleights involve interaction with other biological life from a short distance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Proche: Les exploits qui disposent d'une portée Proche impliquent une interaction avec les autres formes de vie biologique sur une courte distance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The optimal distance is within 5 meters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La distance optimale est inférieure à 5 mètres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For each meter beyond that, apply a –10 modifier to the test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour chaque mètre au-deloà de cette limite, appliquez un modificateur de -10 au test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Psi vs. Psi: Due to the nature of psi, sleights are more effective against other psi users.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Psi contre Psi: Enr aison de la nature du psi, les exploits sont plus efficace contre d'autres utilisateurs de psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sleights with a range of Touch may be used from a Close range against another async.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les exploits avec une portée de Contact peuvent être utilisé à portée Proche contre un autre async.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, a sleight with a Close range may be used at twice the normal distance (10 meters) when wielded on another async.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De la même manière, un exploit avec une portée Proche peut être utilisé à deux fois la distance normale (10 mètres) lorsqu'il est lancé sur un autre async.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Targeting}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Ciblage}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Synthmorphs, bots, and vehicles may not be targeted by psi sleights, as they lack biological brains.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les synthmorpsh, les bots et les véhicules ne peuvent pas être ciblé par des exploits psis, car ils ne possèdent pas de cerveau biologique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pods - with brains that are half biological and half computer - are less susceptible and receive a +30 modifier when defending against psi use.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les pods - avec des cerveaux moitié biologique moitié numérique - sont moins succeptible d'être affectés par le psi et reçoivent un modificateur de +30 lorsqu'il se défendent contre une utilisation du psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that infomorphs may never be targeted by psi sleights as psi is not effective within the mesh or simulspace.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que les infomorphs ne peuvent jamais être ciblées par des exploits psi car le psi n'est pas actifs dans le mesh ou dans les simulspaces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Multiple Targets: An async may target more than one character with a sleight with the same action, as long as each of them can be targeted via the rules above.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cible multiples: Un async peut cibler plus d'un personnage avec un exploit avec la même action, tant que chacun d'entre eux peut être ciblé en respect des règles ci-dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The psi character only rolls once, with each of the defending characters making their Opposed Tests against that roll.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage psi ne fait qu'un seul jet, et chacun des personnages en défense fait un Test Opposé contre ce jet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The psi character suffers strain (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage psi souffre du drain (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>223) for each target, however, meaning that using psi on multiple targets can be extremely dangerous.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>223) pour chaque cible cependant, ce qui siginfie qu'utiliser le psi sur des cibles multiples est extrêmement dangereux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Animals and Less Complex Life Forms: Psi works against any living creature with a brain and/or nervous system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Animaux et autres formes de vie moins complexe: le psi fonctionne contre n'importe quelle créature vivante disposant d'un cerveau et/ou d'un système nerveux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Against partially-sentient and partially- uplifted animals, it suffers a –20 modifier and increases strain by +1.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Contre les animaux partiellement-conscient et partiellement-élevées, le psi souffre d'un modificateur de -20 et augemente le drain de +1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Against non-sentient animals, it suffers a –30 modifier and increases strain by +3.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Contre des animaux non-conscient, le psi souffre d'un modificateur de -30 et augmente le drain de +3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It has no effect on or against less complex life forms like plants, algae, bacteria, etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il n'a aucune effet sur ou contre les formes de vie moins complexe telles que les plantes, les algues, les bactéries, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Factors and Aliens: At the gamemaster’s discretion, psi sleights may not work on alien creatures at all, depending on their physiology and neurology.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Facteurs et Aliens: à la discrétion du maître de jeu, les exploits psis peuvent ne pas fonctionner du tout sur les créatures étrangères, en fonction de leur physiologie et de leur neurologie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If it does work, it is likely to suffer at least a –20 modifier and +1 strain.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si cela fonctionne, l'usage de psi souffrira au moins d'un modificateur de -20 et d'une augmentation du drain de +1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Mesh</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
