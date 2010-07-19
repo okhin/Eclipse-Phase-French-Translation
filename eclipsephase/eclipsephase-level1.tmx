@@ -7510,6 +7510,398 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Opposed Tests}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Tests Opposé}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Psi that is used against another character is resisted with an Opposed Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le psi utilisé contre un autre personnage est résisté par un Test Opposé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Defending characters resist with WIL x 2.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages se défendant résistent avec WOL x 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Willing characters may choose not to resist.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages volontaires peuvent choisir de ne pas résister.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unconscious or sleeping characters cannot resist.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages inconscients ou endormis ne peuvent pas résister.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the psi-wielding character succeeds and the defender fails, the sleight affects the target.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le personnage qui lance le psi réussit son test et que el défenseur échoue, l'exploit affecte sa cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the psi user fails, the defender is unscathed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'utilisateur de psi échoue, le défenseur n'est pas affecté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If both parties succeed in their tests, compare their dice rolls.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si les deux parties réussissent leur tests, il faut comparer leurs résultats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the psi user’s roll is higher, the sleight bypasses the defender’s mental block and affects the target; otherwise, the sleight fails to affect the defender’s ego.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'utilisateur de psi obtient un meilleur résultat que le défenseur, l'exploit surpasse les blocage mentaux du défenseur et affectent leur cible; dans le cas contraire, l'explot échoue à affecter l'égo du défenseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Target Awareness}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Conscience de la Cible}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The target of a psi sleight is aware they are being targeted any time they succeed on their half of the Opposed Test (regardless on whether the async rolls higher or not).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La cible d'un exploit psi est consciente d'être ciblées dés qu'elles réussissent leur part du Test Opposé (que l'async obtienne un meilleur résultat ou pas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that awareness does not necessarily mean that the target understands that psi abilities are being used on them, especially as most people in Eclipse Phase are unaware of psi’s existence.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que le fait d'avoir conscience d'être ciblé par un psi ne signifie pas nécessairement que la cible comprends que des capacités psi sont utilisées sur elle, surtout que la plupart des personnes dans Eclipse Phase ne sont aps au courant de l'existence du psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Instead, the target is simply likely to understand that some outside influence is at work, or that something strange is happening.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au lieu de ça, la cible est plus encline à comprendre qu'une influence extérieure quelconque est à l'œuvre, ou que quelque chose d'étrange est en train de se passer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They may suspect that they have been drugged or are under the influence of some strange technology.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils peuvent soupçonner avoir été drogués ou être sous l'influence d'une technologie étrange.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Targets who fail their roll remain unaware.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les cibles qui échouent leur jet restent inconsciente de la tentative de psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Psi Full Defense}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Défense Psi Totale}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Like full defense in physical combat (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme la défense totale en combat physique (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>198), a defender may spend a Complex Action to rally and concentrate their mental defenses, gaining a +30 modifier to their defense test against psi use until their next Action Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>198), un défenseur peut dépenser une Action Complexe pour se regrouper et concentrer ses défenses mentales, gagnant un modificateur de +30 à ses jets de défense contre l'utilisation de psi jusqu'à leur prochaine Phase d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Criticals}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Critiques}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the defender rolls a critical success, the character attempting to wield psi is temporarily locked out of the target’s mind.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le défenseur obtient un succès critique, le personnage qui tente de l'affecter par le psi est temporairement bloqué à l'extérieur de l'esprit de la cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The psi user may not target that character with sleights until an appropriate “reset” period has passed, determined by the gamemaster.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'utilisateur de psi ne peut plus cibler ce personnage avec des exploits jusqu'à ce qu'une période de &quot;reset&quot; appropriée se soit écoulée, déterminée par le maître de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the async rolls a critical failure, they suffer temporary incapacitation as their mind dysfunctions in some harsh and distressing ways (see Psi Drawbacks, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'async obtient un échec critique, il souffre d'une incapacité temporaire suite aux dysfonctionnements particulièrement violents et stressants de leur esprit (voir Inconvénients du Psi p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a psi user rolls a critical success against a defender, or the defender rolls a critical failure, double the potency of the sleight’s effect.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un utilisateur de psi obtient un succès critique contre un défenseur, ou si le défenseur obtiens un échec critique, doublez la puissance des effets de l'exploit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the case of psi attacks, the DV can be doubled or mental armor can be bypassed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans le cadre d'attaque psi, la VD peut être doublée ou l'armure mentale peut-être ignorée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alternately, when using Psi Assault (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alternativement, lors de l'utilisation d'Assaut Psi (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>183), the targeted character may be in danger of infection by the Watts-Macleod strain (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>183), le personnage ciblé peut risquer de se faire infecter par le souche Watts-McLeod (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Mental Armor}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Armure Mentale}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Psi Shield sleight (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'exploit Bouclier Psi (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>228) provides mental armor, a form of neural hardening against psi-based attacks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>228) Procure une armurre mentale, uen forme de renforcement neuronal contre les attaques basées sur le psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Like physical armor, this mental armor reduces the amount of damage inflicted by a psi assault.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme les armures physique, cette armure mentale réduit le total de dommage infligés par un assaut psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Duration}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Durée}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Psi sleights have one of four durations: constant, instant, temporary, or sustained.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les exploits psi possèdent l'une des quatres durées suivantes: permanent, instantané, temporaire ou maintenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Constant: Constant sleights are always “on.” Instant: Instant sleights take effect only in the Action Phase in which they are used.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Permanent: Les exploits Permanents sont toujours actifs. Instantané: Les exploits Instatanés font effets pendant la Phase d'Action dans laquelle isl ont été utilisés uniquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Temporary: Temporary sleights last for a limited duration with no extra effort from the async.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Temporaire: Les exploits Temporaires sont effectifs pendant une durée limitée sans effort supplémentaires de la part de l'async.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The temporary duration is determined by the async’s WIL $$ 5 (round up) and is measured in either Action Turns or minutes, as noted.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La durée d'un effet Temporaire est déterminée par la VOL $$ 5 (arrondi au supérieur) de l'async et est mesurée soit en Tour d'Actions soit en minute, comme noté dans la description de l'exploit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Strain for the sleight is applied immediately when used, not at the end of the duration.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le drain pour l'exploit est appliqué immédiatement lorsqu'il est utilisé, pas à la fin de l'effet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sustained: Sustained sleights require active effort to maintain for as long as the async wants to keep it active.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Maintenus: Les exploits maintenus requièrent un effort de l'async pour le garder actif aussi longtemps que le désire l'async.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sustaining a sleight requires concentration, and so the async suffers a –10 modifier to all other skill tests while the sleight is sustained.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Maintenir un exploit requiert de la concentration, et infligent donc à l'async un modificateur de -10 à toutes ses autres compétences tant que l'exploit est maintenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The async must also stay within the range appropriate to the sleight, otherwise the sleight immediately ends.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'async doit également rester à portée de sa cible, sinon l'exploit se termine immédiatement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than one sleight may be sustained at a time, with a cumulative modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plus d'un exploit peut-être maintenu à la fois, avec un modificateur cumulatif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the gamemaster’s discretion, sleights that are sustained for long periods may incur additional strain.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A la discrétion du maître de jeu, les exploits qui sont maintenus sur une longue période devraient infligés un drain supplémentaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Strain}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Drain}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The use of psi is physically (and sometimes psychologically) draining to a psi user.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'utilisation de psi draine physiquement (et parfois psychologiquement)  un utilisateur psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This phenomenon is known as strain, and manifests as fatigue, exhaustion, pain, neural overload, cardiovascular stress, and adynamia (loss of vigor).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>The phénomène est appellé le drain, et se manifeste comme de la fatigue, de l'épuisevement, de la douleur, de la surcharge neurale, du stress cardiovasculaire et de l'adynamie (perte de vigueur).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though strain has only rarely been known to actually kill an async, the use of too much active psi can be life-threatening in some circumstances.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que la mort d'async provoquées par le drain soit un phénomène rare, l'utilisation de trop de psi actif peut mettre l'async en danger de mort dans certaines circonstances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In game terms, every active sleight has a Strain Value of 1d10 $$ 2 (round up) DV.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En terme de jeu, chaque exploit actif possède une Valeur de Drain de 1d10 $$ 2 (arrondies au supérieur) VD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every active sleight lists a Strain Value Modifier that modifies this amount.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque exploit actif possède une Valeur de Modificateur de Drain qui modifie ce total.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, a sleights with a Strain Value Modifier of –1 inflicts (1d10 $$ 2) –1 DV.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, un exploit avec une Valeur de Modificateur de Drain de 61 inflige (1d10 $$ 2) -1 DV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the damage points suffered from strain exceed the character’s Wound Threshold, they may inflict a wound just like other damage (see Wounds, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si les points de dommages générés par le drain dépassent le Seuil de Blessure d'un personnage, ils peuvent infliger une blessure comme toute autre source de dommage (voir Blessures, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Mesh</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
