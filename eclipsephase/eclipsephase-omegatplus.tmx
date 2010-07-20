@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Example&lt;/i0&gt; &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Exemple&lt;/i0&gt; &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Dice}</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -7737,7 +7745,7 @@
         <seg>228) provides mental armor, a form of neural hardening against psi-based attacks.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>228) Procure une armurre mentale, uen forme de renforcement neuronal contre les attaques basées sur le psi.</seg>
+        <seg>228) Procure une armurre mentale, une forme de renforcement neuronal contre les attaques basées sur le psi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7898,6 +7906,1798 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Si les points de dommages générés par le drain dépassent le Seuil de Blessure d'un personnage, ils peuvent infliger une blessure comme toute autre source de dommage (voir Blessures, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Matric is investigating a disappearance, so he decides to use his Qualia sleight to boost his Intuition while hunting for clues.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Matric est en train d'enquêter sur une disparition, il décide donc d'utiliser son exploit Qualia pour booster son intuition pendant qu'il cherche des indices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>That psi-chi sleight takes only a Quick Action to initiate and requires no test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cet exploit chi-psi ne prend qu'une Action Rapdie pour se déclencher et ne nécessite pas de test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Matric’s WIL is 25, so the duration of this temporary sleight is 5 Action Turns (25 $&lt;u0&gt;$ 5 = 5).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La VOL de matric est 25, donc la durée de cet exploit temporaire est de 5 Tours d'Action (25 $&lt;u0&gt;$ 5 = 5).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The sleight’s Strain modifier is –1, so he is facing (1d10 $&lt;u1&gt;$ 2) –1 DV.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le modificateur de Drain de l'exploi est de -1, il doit donc encaisser (1d10 $&lt;u1&gt;$ 2) - 1 DV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>He rolls a 1, so he takes no strain at all!</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il obtient un 1 et il ne prend donc pas de drain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Later on, Matric finds himself in a life-or-death struggle with a kidnapper.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un peu plus tard, Matric se retrouve prit dans une lutte à mort avec un kidnapper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lucky for Matric, they’re in a melee, so he’s close enough to try and touch his opponent.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Heureusement pour Matric, ils sont au corps à corps et il est donc suffisament proche pour tenter de toucher son adversaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On his Action Phase, he makes an Unarmed Combat Test with a +20 modifi er (for a touch-only attack) and succeeds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A sa Phase d'Action, il fait un Test de Combat à Mains nues avec un modificateur de +20 (pour une attaque de toucher uniquement) et réussit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This allows him to try and use his Psychic Stab sleight.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela lui permet d'essayer d'utiliser son exploit Frappe Psychique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>He rolls his Psi Assault of 57 against the target’s WIL x 2 (32).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il lance sa compétence Assaut Psi de 57 contre la VOL x 2 de sa cible (32).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>His target is in a worker pod morph, however, which is less susceptible to psi, so he receives a +30 modifier (32 + 30 = 62).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sa cible est incarnée dans un pod ouvrier qui est donc moins sensible au psi, il reçoit donc un modificateur de +30 (32 + 30 = 62).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Matric rolls a 32 and the worker pod a 64—Matric wins!</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Matric obtient 32 et le pod ouvrier un 64 - Matric l'emporte!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For damage, he rolls 1d10 + (WIL $&lt;u2&gt;$ 10).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour détermeiner les dégats, il lance 1d10 + (VOL $&lt;u2&gt;$ 10).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>His WIL is 25, so that’s 1d10 + 3.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sa VOL est 25, ce qui fait donc 1d10 + 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>He rolls a score a 7 and inflicts 10 (7 + 3) points of damage.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il obtient un 7 et inflige donc 10 (7 + 3° points de dommage à sa cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The worker pod screams in pain, suffering a wound from the psychic assault.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le pod ouvrier hurle de douleur, souffrant d'une blessure suite à l'assaut psychique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Psi-Chi Sleights} Psi-chi sleights are async abilities that speed up cognitive informatics (internal information processing) and enhance the user’s perception and cognition.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Exploits Chi-Psi} Les exploist chi-psi sont le capacités des aync qui accélère l'informatique cognitive (traitement interne de l'information) et améliore la perception et la cognition de l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Ambience Sense} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Précognition Ambiante} &lt;i0&gt;Type:&lt;/i0&gt; Passif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i1&gt;Action:&lt;/i1&gt; Automatic &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i1&gt;Action:&lt;/i1&gt; Automatique &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i2&gt;Range:&lt;/i2&gt; Self &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i2&gt;Portée:&lt;/i2&gt; Soi &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i3&gt;Duration:&lt;/i3&gt; Constant &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i3&gt;Durée:&lt;/i3&gt; Permanente &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This sleight provides the async with an instinctive sense about an area and any potential threats nearby.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cet exploit fournit à l'async une compréhension instinctive d'une zone et de toute menace potentielle environnantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The async receives a +10 modifier to all Investigation, Perception, Scrounging, and Surprise Tests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'async reçoit un modificateur de +10 à tous les jets d'Investigation, de Perception, de Recherche et aux Test de Surprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Cognitive Boost} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Boost Cognitif} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i1&gt;Action:&lt;/i1&gt; Quick &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i1&gt;Action:&lt;/i1&gt; Rapide &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i3&gt;Duration:&lt;/i3&gt; Temp (Action Turns) &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i3&gt;Durée:&lt;/i3&gt; Temp (Tour d'Actions) &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i4&gt;Strain Mod:&lt;/i4&gt; –1 &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i4&gt;Mod. de Drain:&lt;/i4&gt; –1 &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The async can temporarily elevate their cognitive performance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'async peut élever temporairement ses performances cognitives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In game terms, Cognition is raised by 5 for the chosen duration.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En terme de jeu, la Cognition est augmentée de 5 pour la durée déterminée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This boost to Cognition also raises the rating of skills linked to that aptitude.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce boost à la Cognition augmente également  le niveau des compétences liées à cette aptitude.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Downtime} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Veille} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i1&gt;Action:&lt;/i1&gt; Task (min.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i1&gt;Action:&lt;/i1&gt; Tâche (min.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>4 hours) &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>4 heures) &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i3&gt;Duration:&lt;/i3&gt; Sustained &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i3&gt;Durée:&lt;/i3&gt; Maintenue &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i4&gt;Strain Mod:&lt;/i4&gt; 0 &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i4&gt;Mod. de Drain:&lt;/i4&gt; 0 &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This sleight provides the async with the ability to send the mind into a fugue-state regenerative downtime, during which the character’s psyche is repaired.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cet exploit donne à l'async la possibilité d'envoyer un esprit dans un fugue de veille régénérative, pendant laquelle la psyche du personnage est réparée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The async must enter the downtime for at least 4 hours; every 4 hours of downtime heals 1 point of stress damage.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'async doit entrer en veille pour au moins 4 heures; chaque période de 4 heures de veille soigne 1 point de dégats de stress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Traumas, derangements, and disorders are unaffected by this sleight.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les traumas, dérangement et désordres mentaux ne sont pas affectés apr cet exploit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For all sensory purposes, the async is catatonic during downtime, completely oblivious to the outside world.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans le cadre de toute tentative de perception, l'async est cataonique durant la veille, complètement isolés du monde extérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only severe disturbances or physical shock (such as being wounded or hit by a shock weapon) will bring the async out of it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Seul les plus grosses perturbations ou les chocs physiques (tels qu'être blessé ou touché par une arme à choc) sortira l'async de cet état.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Emotion Control} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Contrôle Émotionnel} &lt;i0&gt;Type:&lt;/i0&gt; Passif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Emotion Control gives the async tight control over their emotional states.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Contrôle des Émotions donne à l'async un contrôle précis de son état émotionnel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unwanted emotions can be blocked out and others embraced.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les émotions non désirées peuvent être bloquées et d'autres peuvent être adoptées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This has the benefit of protecting the async from emotional manipulation, such as the Drive Emotion sleight or Intimidation skill tests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ceci à pour bénéfice de protéger l'async des manipulatiosn émotionnelles, telles que l'exploit Déclencher une Émotion ou la compétence Intimidation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The async receives a +30 modifier when defending against such tests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'async reçoit un bonus de +30 lorsqu'il se défend contre de tels tests.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Enhanced Creativity} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Créativité Améliorée} &lt;i0&gt;Type:&lt;/i0&gt; Passif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An async with Enhanced Creativity is more imaginative and more inclined to think outside the box.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un async avec Créativité Améliorée est plus imaginatif et plus enclin à sortir des cadres de pensées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Apply a +20 modifier to any tests where creativity plays a major role.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appliquez un modificateur de +20 à tous les tests dans lequel la créativité à un rôle majeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This level of ingenuity can sometimes seem strange and different, manifesting in odd or creepy ways, especially with artwork.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce niveau d'ingéniosité peut parfois paraître étarnge et déifférent, se manifestant de manière bizarre et terrifiante, partciulièrement dans le cadre d'œuvres d'art.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Filter} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Filtre} &lt;i0&gt;Type:&lt;/i0&gt; Passif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Filter allows the async to filter out out distractions and eliminate negative situational modifiers from distraction, up to the gamemaster’s discretion.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Filtre permet à l'async de filtrer les distractions et d'élliminer les modificateurs situationnels négatifs liés à la distraction, dans les limites déterminées par le maître de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Grok} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Grok} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i1&gt;Action:&lt;/i1&gt; Complex &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i1&gt;Action:&lt;/i1&gt; Complexe &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i3&gt;Duration:&lt;/i3&gt; Instant &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i3&gt;Durée:&lt;/i3&gt; Instantanée &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>By using the Grok sleight, the async is able to intuitively understand how any unfamiliar object, vehicle, or device is used simply by looking at and handling it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En utilisant l'exploit Grok, l'async est capable de comprendre instinctivement comment n'importe quel objet, véhicule ou appareil non familier est utilisé simplement en le regardant et en le manipulant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character succeeds in a COG x 2 Test, they achieve a basic ability to use the object, vehicle, or device, no matter how alien or bizarre.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le personnage réussit un test de COG x 2, il parvient à déterminer une utilisation basic de l'obejt, du véhicule ou de l'appareil, indépendamment de l'étrangeté ou de la bizzarerie du métériel en question.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This sleight does not provide any understanding of the principles or technologies involved—the psi user simply grasps how to make it work.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cet exploit ne fournit pas une compréhension des principes technologiques mis en œuvre - l'utilisateur de psi saisit juste comment le faire fonctionner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a test is called for, the psi user receives a +20 modifier to use the device (this bonus only applies to unfamiliar devices, and/or tests the character is defaulting on—it does not apply to devices the character is familiar with).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un test est nécessaire, l'utilisateur de psi reçoit un modificateur de +20 pour utiliser l'appareil (ce bonus ne s'applique qu'au appareil non-familier et/ou aux tests pour lesquels le personnage se défausse - il ne s'applique pas au apapreils avec lequel le personnage est familier).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{High Pain Threshold} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Haute Tolérance à la Douleur} &lt;i0&gt;Type:&lt;/i0&gt; Passif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This sleight allows the async to block out, ignore, or otherwise isolate pain.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cet exploi autorise l'async à bloquer, ignorer ou d'une manière ou d'une autre à isoler la douleur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The async reduces negative modifiers from wounds by 10.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'async réduit les modificateurs négatif liés aux blessures de 10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Hyperthymesia} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Hyperthymesie} &lt;i0&gt;Type:&lt;/i0&gt; Passif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hyperthymesia grants the async a superior autobiographical memory, allowing them to remember the most trivial of events.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'hyperthymésie donne à l'async une mémoire autobiographique supérieur, lui permettant de se rappeler des éveènements les plus triviaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A hyperthymestic async can be asked a random date and recall the day of the week it was, the events that occurred that day, what the weather was like, and many seemingly trivial details that most people would not be able to recall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>On peut demander à un async hyperthymésique de donner, pour une date passée choisie aléatoirement, le jour de la semaine, ce qu'il s'est passé ce jour là, quel temps faisait-il et plein d'autres détails insignifiant que la plupartd es gens nesont pas capable de retenir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Instinct} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Instinct} &lt;i0&gt;Type:&lt;/i0&gt; Passif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Instinct bolsters the async’s subconscious ability to gauge a situation and make a snap judgment that is just as accurate as a careful, considered decision.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Instinct améliore la capacité subconsciente d'un async a estimer une situation et à faire un jugement rapide qui est aussi précis qu'une décision prudente et réfléchie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For Task Actions that involve analysis or planning alone (typically Mental skill actions), the async may reduce the timeframe by 90% without suffering a modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour les Actiosn de Tâches qui n'impliquent que de l'analyse et de la plannification (typqiuemet, des actions liées aux compétences Mentales), l'async peut réduire l'intervalle de temps de 90% sans subir de modificateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For Task Actions that involve partial analysis/ planning, they may reduce the timeframe by 30% without penalty.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour les Actions de Tâches qui n'impliquent que partiellement de l'analyse/planification, il peut réduire l'intervalle de temps de 30% sans souffrir de pénalités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Multitasking} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Multitâche} &lt;i0&gt;Type:&lt;/i0&gt; Passif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The async can handle vast amounts of information without overload and can perform more than one mental task at once.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'async peut gérer un vaste total d'information sans surcharge et peut effectuer plus d'une action mental en même temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character receives an extra Complex Action each Action Phase that may only be used for mental or mesh actions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage reçoit une Action Complexe supplémentaire à chaque Tour d'Action qui ne peut être utilisée que pour des actiosn mentales ou sur le mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Pattern Recognition} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Reconnaissance de Motifs} &lt;i0&gt;Type:&lt;/i0&gt; Passif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character is adept at spotting patterns and correlating the non-random elements of a jumble—related items jump out at them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage est un adepte de la détection de motifs et de la corrélation d'éléments non-aléatoire d'un magma d'information - les éléments liés lui saute aux yeux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is useful for translating languages, breaking codes, or find clues hidden among massive amounts of data.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette compétence est utiles pour la traduction, le cassage de code ou pour trouver des indices cachés dans une montagne de données.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character must have a sufficiently large sample enough time to study, as determined by the gamemaster.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage doit avoir un échantillon suffisament large et assez de temps pour étudier, déterminés par le maître de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This might range from a few hours of listening to a spoken transhuman language to a few days of investigating inscriptions left by long-dead aliens to a week or more of researching a lengthy cipher.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela peut aller de quelques heures d'écoute d'un langage transhumain parlé à quelques jours d'investigation et d'études d'inscription laissées par des aliens depuis longtemps décédés juquu'à une semaine ou plus de recherche de code secret particulièrement long.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Languages may be comprehended by reading or listening to them being spoken.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les langues peuvent être comprise par la lecture ou par l'écoute d'extrait parlés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Apply a +20 modifier to any appropriate Language, Investigation, Research, or cod-breaking Tests (note that this does not apply to Infosec Tests made by software to decrypt a code).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appliquez un modificateur de +20 à chaque Test approprié de Langue, Investigation, Recherche ou de cassage de code (notez que cela ne s'applique pas aux Tests d'Infosec fait par un logiciel pour déchiffrer un code)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The async may also use this ability to more easily learn new languages, reducing the training time by half.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'async peut également utiliser cette capacité pour apprendre plsu facilement de nouveaux Langages, réduisant de moitié le temps d'entraînement nécessaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Predictive Boost} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Boost de Prédiction} &lt;i0&gt;Type:&lt;/i0&gt; Passif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Bayesian probability machine features of the async’s brain are boosted by this sleight, enhancing their ability to estimate and predict outcomes of events around them as they unfold in real-time and update those predictions as information changes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La machine de probabilité Bayesienne caractéristique du cerveau d'un async est boostée par cet exploit, renforçant sa capacité à estimer et à prévoir l'issue d'évènements autour d'eux alors qu'ils se déroulent en temps réels et transforme ces prédictions en informations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In effect, the character has a more intuitive sense for which outcomes are most likely.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En pratique, le personnage perçoit intuitivement les issues les plus probables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This grants the character a +10 bonus on any skill tests that involve predicting the outcome of events.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela donne au personnage un bonus de +10 a tout test de compétence qui impliquent de prévoir l'issue d'évènements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It also bolsters the async’s decision-making in combat situations by making the best course of action more clear, and so provides a +10 bonus to both Initiative and Fray Tests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela renforce également le processus décisionnel de l'async en situation de combat en mettant en exergue la meilleure suite d'action à effectuer, et lui procure donc un modificateur de +10 aux test d'Initiative et de Défilement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Qualia} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Qualia} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The async can temporarily increase their intuitive grasp of things.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'async peut temporairement augmenter sa compréhension intuitive des choses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In game terms, Intuition is raised by 5 for the chosen duration.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En terme de jeu, l'Intuition est augmentée de 5 pour la durée choisie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This boost to Intuition also raises the rating of skills linked to that aptitude.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce boost à l'Intuition augmente également le niveau des compétences liées à cette aptitude.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Savant Calculation} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Calcul Savant} &lt;i0&gt;Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character possesses an incredible facility with intuitive mathematics.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage possède d'incroyable facilités avec les mathématiques intuitives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They can do everything from calculate the odds exactly when gambling to predicting precisely where a leaf falling from a tree will land by observing the landscape and local wind currents.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il peut faire n'importe quoi du calcul exact des probabilités lors de paris à la prédiction précise de l'endroit où va atterir une feuille tombant d'un arbre en observant le paysage et les courants de vents locaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character specializes in calculation involving the activity of complex chaotic systems and so can calculate answers that even the fastest computers could not, including things like patterns of rubble distribution from an explosion.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage se spécialise en calculs impliquant l'activité de systèmes chaotiques complexes et peut donc calculer les réponses que même les ordianteurs les plus rapides ne peuvent calculer, incluant des choses comme les motifs de distribution de débris lors d'une explosion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, this mathematic facility is largely intuitive, so the character does not know the equations they are solving, they merely know the solution to the problem.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, cette fcilité en maths et largement intuitive, le personnage ne connait pas l'équation qu'il résout, ils ne connaissent que la solution au problème.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This sleight also provides a +30 modifier to any skill tests involving math (which the character is calculating, not a computer).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cet exploit procure aussi un modificateur de +30 à tout test de compétences impliquant des maths (que le personnage calcule, pas un ordinateur).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Sensory Boost} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Boost Sensoriel} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i4&gt;Strain Mod:&lt;/i4&gt; –2 &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i4&gt;Mod. de Drain:&lt;/i4&gt; –2 &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An async uses this sleight to increase their natural or augmented sensory perception (sight, audio, smell, augmented) by enhanced cerebral processing, granting a +20 bonus modifier on sensory-based Perception Tests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un async utilise cet exploit pour augmenter sa perception sensorielle naturelle ou augmentée (vision, audio, odeur, augmentée) en augmentant le traitement cérébral, accordant un modificateur de +20 sur les Tests de Perceptiosn basés sur les sens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Superior Kinesics} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Kinésique Supérieure} &lt;i0&gt;Type:&lt;/i0&gt; Passif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The async acquires more insight into people’s emotive signals, gestures, facial expressions, and body language when it comes time to predict the person’s emotional state, intent, or reactions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'async acquiert une plus grande perspicacité vis à vis des signaux émotionnels, des gestes, des expressions faciales et du langage corporel de ses interlocuteurs lorsqu'il faut deviner son état émotionnel, ses intentions ou ses réactions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Apply a +10 modifier to Kinesics Skill Tests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appliquez un modificateur de +10 aux Test de Compétence Kinésique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Time Sense} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Perception Temporelle} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An async with this ability can slow down his perception of time, making everything appear to move in slow motion or at reduced speed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un async avec cette capacité peut ralentir sa perception du temps, percevant ainsi son environnement comme si tout était en slow motion ou à une vitesse réduite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In game terms, this sleight grants the async a Speed of +1.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En terme de jeu, cet exploi tdonne à l'async une Vitesse de +1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This extra Action Phase, however, can only be spent on mental and mesh actions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette Phase d'Action supplémentaire ne peut cependant être dépensée que sur des actiosn mental ou sur le mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Unconscious Lead} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Guide de l'Incosncient} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i4&gt;Strain Mod:&lt;/i4&gt; +0 &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i4&gt;Mod. de Drain:&lt;/i4&gt; 0 &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This sleight allows the async to override their consciousness and let their unconscious mind take point.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cet exploit autorise l'async à surcharger sa conscience et à laisser la part inconsciente de son esprit prendre el contrôle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While in this state, the async’s conscious mind is only dimly aware of what is transgressing, and any memories of this period will be hazy at best.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans cet étât, l'esprit conscient de l'async est faiblement conscient de ce qui est transgresser, et tous les souvenirs de cette période seront, dans le meilleur des cas, flous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The advantage is that the unconscious mind acts more quickly, and so the async’s Speed is boosted by +1.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'avantage et que la part insconsciente de l'esprit agit plus rapidement, et donc la Vitesse de l'async est boostée de +1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character remains aware and active, but is incapable of complex communication or other mental actions and is motivated by instinct and primitive urges more than conscious thought.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage reste éveillé et actif, mais il est incapable de communications complexe ou de toute autre actions mental et est plus motivé par ses instinct et envies primitives que dans son étât conscient.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though it is recommended that the player retain control of their character while using Unconscious Lead, the gamemaster should feel free to direct the character’s actions as they see fit.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien qu'il soit recommandé que le joueur garde le contrôle de son personnage pendant l'utilisation de Guide de l'Inconscient, le maître de jeu devrait se sentir libre de diriger les actions du personnage comme il l'entend.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Psi-Gamma Sleights} Psi-gamma sleights deal with contacting (reading and communicating) and influencing the function of biological minds (egos within a biomorph, but also including animal life).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Exploit Gamma-Psi} Les exploits gamma psi traitent de contacter (ou lire et communiquer) et d'influencer les fonctions d'esprits biologiques (des egos dans une biomorph, mais incluant également les formes de vie animales).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Psi-gamma is only available to characters with Level 2 of the Psi trait.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les exploiits gamma psi ne sont disponibles qu'aux personnage qui disposent du trait Psi au Niveau 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most psi-gamma use is handled as an Opposed Test between the async and the target (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des utilisation du psi-gamma sont résolues par un Test Opposé entre l'async et la cible (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Alienation} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Aliénation} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i2&gt;Range:&lt;/i2&gt; Touch &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i2&gt;Portée:&lt;/i2&gt; Contact &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i5&gt;Skill:&lt;/i5&gt; Psi Assault &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i5&gt;Compétence:&lt;/i5&gt; Assaut Psi &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alienation is an offensive sleight that create a sense of disconnection between an ego and its morph—similar to that experienced when resleeved into a new body.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aliénation est un exploit offensif qui cré un sentiment de déconnexion entre un ego et sa morph - similaire à celui vécu lors d'une réincarnation dans un nouveau corps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ego finds their body cumbersome, strange, and alien, almost like they are a prisoner within it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'égo trouve son corps encombrant, bizarre et étranger, presque comme si il était emprisonné dans ce corps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the async beats the target in an Opposed Test, treat the test as a failed Integration Test (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'async bat la cible dans un Test Opposé, considérez le test comme un Test d'Intégration raté (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>272) for the target.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>272) pour la cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This effect lasts for the sleight’s duration.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cet effet persiste pour la durée de l'exploit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Charisma} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Charisme} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i3&gt;Duration:&lt;/i3&gt; Temp (Minutes) &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i3&gt;Durée:&lt;/i3&gt; Temp (Minute) &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i5&gt;Skill:&lt;/i5&gt; Control&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i5&gt;Compétence:&lt;/i5&gt; Contrôle &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The async uses this sleight to influence the target’s mind on a subconscious level, so that the target perceives them to be charming, magnetic, and persuasive.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'async utilise cet exploit pour influencer l'esprit de la cible à un niveau subconscient, de manière à ce qu'elle le perçoive comme étant charismatique, magnétique et persuasif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the async beats the target in an Opposed Test, they gain a +30 modifier on all subsequent Social Skill Tests for the chosen duration.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'async bat la cible dans un Test Opposé, il gagne un modificateur de +30 sur tous les Tests de Compétences Sociales suivants pendant la durée choisie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Cloud Memory} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Mamoire Brumeuse} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cloud Memory allows the async to temporarily disrupt the target’s ability to form long-term memories.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mémoire Brumeuse permet à l'async d'interrompre temporairement la capacité de la cible a former une mémoire à long terme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the async wins the Opposed Test, the target’s memorysaving ability is negated for the duration.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'async gagne un Test Opposé, la capacité de mémmorisation de la cible est annulée pendant la durée de l'exploit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The target will retain short-term memories during this time, but will soon forget anything that occurred while this sleight was in effect.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La cible retiendra les souvenirs à court-terme pendant cette période de temps, mais elle oubliera rapidement tout ce qui s'est produit pendant que l'exploit était actif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Deep Scan} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Analyse en Profondeur} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i4&gt;Strain Mod:&lt;/i4&gt; +1 &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i4&gt;Mod. de Drain:&lt;/i4&gt; +1 &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i5&gt;Skill:&lt;/i5&gt; Sense&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i5&gt;Compétence:&lt;/i5&gt; Divination &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Deep Scan is a more intrusive version of Thought Browse (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Scan en Profondeur est une version plus intrusive de Parcours des Pensées (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>228), made to extract information from the targeted individual.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>228), fait pour extraire des information de l'individu ciblé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the Opposed Test succeeds, the async telepathically invades the target’s mind and can probe it for information.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le Test Opposé réussit, l'async envahi télépathiquement l'esprit de la cible et peut le sonder à la recherche d'information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For every 10 full points of MoS the async achieves on their test, they retrieve one piece of information.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour chaque tranche coimplète de 10 points de MdS que l'async obtient à son tets, il trouve un morceau d'information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each item takes one full Action Turn to retrieve, during which the sleight must be sustained.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque élément prend une Action Complexe a récupérer, pendant laquelle l'exploit doit être maintenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The target is aware of this mental probing, though they will not know what information the async acquired.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La cible est consciente de cette sonde mentale, bien qu'elle ne sache pas quelle information l'async a récupéré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Drive Emotion} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Déclencher une Emotion} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This sleight allows the async to stimulate cortical areas of the target’s brain related to emotion.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cet exploit autorise l'async a stimuler les zones corticales liées au émotions du cerveau de l'a cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This allows the async to induce, amplify, or tone down specific emotions, thereby manipulating the target.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela permet à l'async d'induire, d'amplifier ou d'atténuer des émotions spécifiques, manipulant ainsi la cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the async beats the target in an Opposed Test, they will act in accordance with the emotion for the duration and under certain circumstances may suffer from certain penalties (up to +/–30), as determined by the gamemaster.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'async bat la cible dans un Test Opposé, elle agira en accord avec l'émotion pour la durée de l'exploit et sous certaines circonstances elle pourrait subir certaines pénalités (jusqu'à +/-30), déterminées par le amître de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, an async might receive a +30 Intimidation Test modifier against a target imbued with fear.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, un async pourrait recevoir un bonus de +30 à un Test d'Intimidation contre une cible emplie de peur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Ego Sense} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Perception Egotique} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i2&gt;Range:&lt;/i2&gt; Close &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i2&gt;Portée:&lt;/i2&gt; Proche &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ego Sense can be used to detect the presence and location of other sentient and biological life forms (i.e., egos) within the async’s range.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Perception Egotique peut être utilisé pour détecter la présence et la localisation d'autre  forme de vie consciente et biologique (c.à.d, des égos) à portée de l'async.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To detect these life forms, the async makes a single Sense Test, opposed by each life form within range.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour détecter ces forme de vie, l'async fait un simple Test de Divination, opposé par chaque forme de vie à portée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The async may suffer a modifier for detecting small animals and insects, similar to the modifier applied for targeting them in ranged combat (see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'async peu souffrir d'un modificateur pour détecter de petits animaux et insectes, similaire aux modificateurs appliqués pour les cibler en combat ) distance (voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>193); likewise, a modifier for detecting larger life forms may also be applied.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>193); de la même manière, un modificateur pour détecter les formes de vie les plus grosses peut aussi être appliqué.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If successful, the async has detected that the life form is nearby.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le test est réussi, l'async a détecté que la forme de vie est proche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every 10 full points of MoS will ascertain another piece of information regarding the detected life: direction from async, approximate size, type of creature, distance from async, etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque tranche de 10 points de MdS donnera une information supplémentaire en lien avec la forme de vie détectée: direction vis à vis de l'async, taille approximative, type de créatuer, distance de l'async, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The async will know if the target moves, if they do so during the sleight’s duration.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'asycn saura si la cible bouge, tant qu'elle el fait pendant la durée de l'exploit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Empathic Scan} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Analyse Empathique} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Empathic Scan enables the async to sense the target’s base emotions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Analyse Empathique donne à l'async la possibilité de sentir les émotiosn basique de la cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the async wins the Opposed Test, they intuitively feel the target’s emotional current state for as long as the sleight is sustained.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'async emporte le test Opposé, ils ressentent intuitivement l'état émotionnel courant de la cible tant que l'exploit est maintenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the gamemaster’s discretion, this knowledge may provide a modifier (up to +30) for certain Social skill tests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A la discrétion du maître de jeu, cette connaissance peut donner un modificateur (jusqu'à +30) pour certains tests de compétences Sociaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Implant Memory} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Implantation Mémorielle} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An async using this sleight can implant a memory of up to an hour’s length inside the target’s mind.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un async utilisant cet exploit peu implanter un souvenir d'une durée inférieur à une heure à l'intérieur de l'esprit de la cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This memory very obviously does not belong to the target—there is no way they will confuse it for one of their own.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce souvenir n'appartient pas à la cible, et ce de manière évidente - elle ne peut pas le confondre avec l'un des siens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The intent is not to fake memories, but to place one of the async’s memories in the target’s mind so that the target can access it just like any other memory.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'intention n'est pas de faire des faux souvenirs, mais de place l'un des souvenirs de l'async dans l'esprit de la cible pour que la cible puisse y accéder comme à n'importe quel autre souvenir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This can be useful for “archiving” important data with an ally, providing a literal alternate perspective, or simply making a “data dump” for the target to peruse.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela peut-être utile pour &quot;archiver&quot; des données importantes avec un allié, pour littérallement fournir un point de vue différent ou simplement pour faire un &quot;dump de donnée&quot;  que la cible pourra lire attentivement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Implant Memory requires an Opposed Test against unwilling participants.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Implantation Mémorielle requiert un Test Opposé contre un participant contraint.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the gamemaster’s discretion, particularly traumatic memories might inflict mental stress on the recipient (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au chois du maître de jeu, des souvenirs particulièrement traumatisant pourrait infliger du stress mental au récipiendaire (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Implant Skill} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Implantation de Compétences} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Similar to Implant Memory, this sleight allows the async to impart some of their expertise and implant it into the target’s mind.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire à Implantation Mémorielle, cet exploit permet à l'async de transmettre une partie de son expertise dans l'esprit de sa cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For the duration of the sleight, the target benefits when using that skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour la durée de l'exploit, la cible bénéficie de cette expertise lorsqu'elle utilise cette compétence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the async’s skill is between 31 and 60, the target receives a +10 bonus.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si la compétence de l'async est comprise entre 31 et 60, la cible reçoit un bonus de +10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the async’s skill is 61+, the target receives a +20 bonus.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si la compétence de l'async est supérieur à 61, la cible reçoit un bonus de +20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Implant Skill requires an Opposed Test against unwilling participants.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Implantation de Compétences nécessite un test Opposé contre les participants contraints.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In some cases, the target has been known to use the skill with the async’s flair and mannerisms.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il est arrivé que, dans certains cas, la cible utilise la compétence avec le style et les mannières de l'async.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Mimic} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Imitation} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In a setting where changing your body and face is not unusual, people learn to recognize habits and personality quirks more often.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans un cadre où changer de corps et de visage n'est pas unusuel, les gens apprennent à reconnaître les habitudes et la bizarrerie dans la personnalité un peu plus souvent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The async must use this sleight on a target and succeed in a Success Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'async doit utiliser cet exploit sur une cible et réussir un Test de Réussite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If successful, the async acquires an “imprint” of the target’s mind that they can take advantage of when impersonating that ego.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En cas de réussite, l'async acuiert une &quot;empreinte&quot; de l'esprit de la cible qu'il peut utiliser en imitant cet égo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The async then receives a +30 bonus on Impersonation Tests when mimicking the target’s behavior and social cues.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'async reçoit un bonus de +30 sur les Tests d'Imitation lorsqu'il imite le comportement et les signaux sociaux de la cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Mindlink} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Lien Mental} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i4&gt;Strain Mod:&lt;/i4&gt; +1/target after first &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i4&gt;Mod. de Drain:&lt;/i4&gt; +1/cible après la première &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mindlink allows two-way mental communication with a target.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lien Mental permet une communication mentale à double sens avec une cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This may be used on more than one target simultaneously, in which case the async can act as a telepathic “server,” so that everyone mindlinked with the async may also telepathically communicate with each other (via the async, however, so they overhear).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela peut-être utilisé sur plsu d'une cible simultanément, auquel cas l'async peut agir comme un &quot;server&quot; télépathiqe, de façon à ce que quiconque lié mentalement avec l'async puisse aussi communiquer mentalement avec les autres (via l'async cependant, donc ils entendent la conversation).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Language is still a factor in mindlinked communications, but this barrier may be overcome by transmitting sounds, images, emotions, and other sensations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le langage est toujours un facteur dans les conversataion par lien mental, mais cette barrière peut-être franchie en transmettant des sons, des images, des émotions et d'autres sensations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mindlink requires an Opposed Test against unwilling participants.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lien Mental nécessite un Test Opposé contre els aprticipants contraints.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Omni Awareness} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Omniscience} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An async with Omni Awareness is hypersensitive to other biological life that is observing them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un async avec Omniscience est hypersensible aux autres forme de vie biologique qui l'observent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>During this sleight’s duration, the async makes a Sense Test that is opposed by any life that has focused their attention on them within the sleight’s range; if successful, the async knows they are being watched, but not by whom or what.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pendant toute la durée de l'exploit, l'async fait un Test de Divination qui est opposé par toute forme de vie qui concentre son attention sur lui et qui est à portée de l'exploit; si le test est réussi, l'async sait qu'il est observé, mais pas par qui ou quoi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It does, however, apply a +30 Perception bonus to spot the observer.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il peut, cependant, recevoir un bonus de +30 à la Perception pour détecter les observateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This sleight does not register partial attention or fleeting attention, or simple perception of the async, it only notices targets who are actively observing (even if they are concealing their observation).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cet exploit n'enregistre pas les observateurs non attentifs ou partiels, ni la perception simple de l'async. Il ne fait que noter les cibles qui observent activement (même si elles dissimulent leur observation)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This sleight is effective in spotting a tail, as well as finding potential mates in a bar.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cet exploit est efficace aussi bien pour percevoir un petit, ou pour trouver des ami(e)s potentiels dans un bar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Penetration} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Pénétration} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i4&gt;Strain Mod:&lt;/i4&gt; 1 per AP point &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i4&gt;Mod. de Drain:&lt;/i4&gt; 1 par point de PA &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Penetration is a sleight that works in conjunction with any offensive sleight that involves the Psi Assault skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pénétration est un exploit qui fonctionne en conjonction avec n'importe quel exploi offensif qui implique la compétence Assaut Psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It allows the async to penetrate the Psi Shield of an opponent by concentrating their psi attack.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il permet à l'async de pénétrer le Bouclier Psi d'un adversaire en concentrant son attaque psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every point of Armor Penetration applied to a psi attack inflicts 1 point of strain.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque point de Pénétration d'Armure appliquée à l'attaque psi inflige un point de drain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The maximum AP that may be applied equals the async’s Psi Assault skill divided by 10 (round down).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La PA maximum qui peut-être appliquée est égale à la compétence Assaut Psi de l'async divisée par dix (arrondies à l'inférieur).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Psi Shield} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Boulcier Psi} &lt;i0&gt;Type:&lt;/i0&gt; Passif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Psi Shield bolsters the async’s mind to psi attack and manipulation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bouclier Psi renforce l'esprit de l'async contre les attaques et les manipulations psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the async is hit by a psi attack, they receive WIL $&lt;u0&gt;$ 5 (round up) points of armor, reducing the amount of damage inflicted.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'async est touché par une attaque psi, ils reçoivent VOL $&lt;u0&gt;$ 5 (arrondir au supérieur) points d'armure, réduisant le total de dommage infligés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They also receive a +10 modifier when resisting any other sleights.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils reçoivent également un modificateur de +10 lorsqu'il résistent à un autre exploit psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Psychic Stab} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Frappe Psyhcique} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Psychic Stab is an offensive sleight that seeks to inflict physical damage on the target’s brain and nervous system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Frappe Psychique est un exploit offensif qui cherche à infliger des dommages physique sur le cerveau et le système nerveux de la cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each successful attack inflicts 1d10 + (WIL $&lt;u0&gt;$ 10, round up) damage.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque attaque réussie inflige 1d10 + (VOL $&lt;u0&gt;$ 10, arrondi au supérieur) points de dommage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Increase the damage by +5 if an Excellent Success is scored.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Augmentez les dommage de +5 si un Succès Excellent est obtenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Scramble} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Brouillage} &lt;i0&gt;Psi :&lt;/i0&gt; Passif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Scramble allows the async using the sleight to hide from another async using the Ego Sense or Omni Awareness sleights.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Brouillage permet à l'async utilisant l'exploit de se cacher d'un autre async utilisant les exploits Perception Egotique ou Omniscience.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Apply a +30 modifier to the defending async’s Opposed Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appliquez un modificateur de +30 au test de défense de l'async lors du Test Opposé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Sense Block} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Bloquage Sensoriel} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sense Block disables and short circuits one of the target’s sensory cortices (chosen by the async), interfering with and possibly negating a specific source of sensory input for the chosen duration.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Blocage Sensoriel désactive et court-circuite l'un des cortex sensoriel de la cible (choisi par l'async), ineterférant voire annulant une source spécifique d'entrée sensorielle pour la durée choisie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the async beats the target in the Opposed Test, the target suffers a –30 modifier to Perception Tests with that sense equal (doubled to –60 if the async scores an Excellent Success).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'async bat la cible lors du Test Opposé, la cible souffre d'un modificateur de -30 à ses Tests de Perception avec ce sens (ce malus est doublé à -60 si l'async obtient un Succès Excellent).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Spam} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Spam} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The sleight allows the async to overload and flood one of the target’s sensory cortices (chosen by the async), spamming them with confusing and distracting sensory input and thereby impairing them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'exploit permet à l'async de surcharger et de submerger l'un des cortex sensoriel (choisit par l'async), le noyant avec des entrées sensorielles confusante et déconcentrabte et donc les attaquants directement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the async wins the Opposed Test, the target suffers a –10 modifi er to all tests the duration of the sleight (doubled to –20 if the async scores an Excellent Success).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'async gagne le test Opposé, la cible souffre d'un modoficateur de -10 à to ses tests pendant la durée de l'exploit -doublé à -20 si l'async obtient un Succès Excellent).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Static} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Statique} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i5&gt;Skill:&lt;/i5&gt; None&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i5&gt;Compétence:&lt;/i5&gt; Aucune&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The async generates an anti-psi jamming field, impeding any use of ranged sleights within their range.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'async génère un champ de saturation anti-psi, entravant toute utilisation d'un exploit distant à portée de l'async.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All such ranged sleights suffer a –30 modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout ces exploits distants souffrent d'un modificateur de -30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This sleight has no effect on self or touch-range sleights.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cet exploit n'a pas d'effet sur les exploits ayant une portée Soi ou Contact.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Subliminal} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Subliminal} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i4&gt;Strain Mod:&lt;/i4&gt; +2 &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i4&gt;Mod. de Drain:&lt;/i4&gt; +2 &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Subliminal sleight allows the async to influence the train of thought of another person by implementing a single post-hypnotic suggestion into the mind of the target.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'exploit Subliminal permet à l'async d'influencer le train de pensée d'une autre personne en implémentant une seule suggestion post-hypnotique dans l'esprit de la cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the async wins the Opposed Test, the recipient will carry out this suggestion as if it was their own idea.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'async gagne un Test Opposé, le récipiendaire va soutenir cette idée comem si il s'agissait de la leur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Implanted suggestions must be short and simple; as a rule of thumb, the gamemaster may only suggestions encompassed by a short sentence (for example: “open the airlock,” or “hand over the weapon”).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les suggestins implantés doivent être courte et simple; le maître de jeu ne devrait autoriser que les suggestions tenant en une phrase simple (par exemple: &quot;Ouvre le sas,&quot; ou &quot;Donnes moi ton arme&quot;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the gamemaster’s discretion, the target may receive a bonus for resisting suggestions that are immediately life threatening (“jump off the bridge”) or that violate their motivations or personal strictures.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À la discrétion du maître de jey, la cible peut recevoir un  bonus pour résister aux suggestions qui menancent immédiatement leur vie (&quot;sautes du pont&quot;) ou qui viole leur motivations ou leur éthique personnelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Suggestions do not need to be carried out immediately, they may be implanted with a short trigger condition (“when the alarm goes off, ignore it”).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les suggestions n 'ont pas besoin d'être déclenchée immédiatement, elles peuvent  être implantée avec une rapide condition déclenchante (&quot;quand l'alarme sonne, ignores-là&quot;).</seg>
       </tuv>
     </tu>
     <tu>
