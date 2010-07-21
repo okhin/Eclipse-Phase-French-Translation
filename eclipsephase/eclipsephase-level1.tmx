@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Psychosurgery</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Psychochirurgie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Dice}</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -9698,6 +9706,262 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Les suggestions n 'ont pas besoin d'être déclenchée immédiatement, elles peuvent  être implantée avec une rapide condition déclenchante (&quot;quand l'alarme sonne, ignores-là&quot;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Thought Browse} Psi Type: Active </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Parcours des Pensée} Type: Actif </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thought Browse is a less-intrusive form of mind reading which scans the target’s surface thoughts for certain “keywords” like a particular word, phrase, sound, or image chosen by the async.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Analyse des Pensées est une version moins intrusive de lecture d'esprit qui scanne les pensées de surface de la cible pour certains &quot;mots-clés&quot; comme un mot particulier, une phrase, un son ou une image au choix de l'async.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rather than digging through the target’s ego as with the Deep Scan sleight, Thought Browse merely verifies whether a target has a particular person, place, event, or thing in mind, which can be used by a savvy investigator to draw conclusions without the need to invade the mind directly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plutôt que de creuser à travers l'ego comme avec l'exploit Analyse en Profondeur, Analyse des Pensées vérifie plutôt si une cible a une personne, un lieu, un évènement ou une chose particulière en tête, ce qui peut être utilisé par un investigatoeur avec un peu de jugeotte pour tirer des conclusions sans avoir besoin d'envahir directement un esprit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thought Browse may be sustained, allowing the async to continue scanning the target’s thoughts over time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Analyse des Pensées peut-être maintenu, permettant à l'async de continuer à scanner les pensées de sa cible au fil du temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The async must beat the target in an Opposed Test for each scanned item.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'async doit battre la cible dans un Test Opposé pour chaque élément scanné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Given the reach of neuroscience in the time of Eclipse Phase, it is easy to think of the mind as programmable software, as something that can be reverse-engineered, re-coded, upgraded, and patched.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Étant donné les progrés réalisé par la neuroscience dans le futur d'Eclipse Phase, il est facile de concevoir que l'esprit comme un logiciel programmable, comme quelque chose qui peut être rétro-ingénieré, recodé, mis à jour et patché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To a large degree, this is true.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est vrai pour la majeure partie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aided by nanotechnology, genetics, and cognitive science, neuroscientists have demolished numerous barriers to understanding the mind’s structure and functions, and even made great leaps in unveiling the true nature of consciousness.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Assisté par la nanotechnologie, la génétique et les sciences cognitives, les neuroscientifiques ont abbatue bon nombre de barrières à la compréhension de la structure et des fonctions de l'esprit, franchissant même de grands pas dans la découverte de la véritable nature de la conscience.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Genetic tweaks, neuro-mods, and neural implants offer an assortment of options for improving the brain’s capabilities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les bidouilles génétiques, les neuro-mods et les implants neuronaux offrent un assortiment d'options pour améliorer les capacités du cerveau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The transhuman mind has become a playground—and a battlefield.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'esprit trnshumain est devenue un terrain de jeu - et un champ de bataille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nanovirii unleashed during the Fall infected millions, altering their brains in permanent ways, with occasional outbreaks still occurring a decade later.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les nanovirus libérés pendant la Chute ont infectés des millions de personne, altérant elur cerveau de manière permanente, avec des intrusions occasionelle se produisant une décenie après.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cognitive virii roam the mesh, plaguing infomorphs and AIs, reprogramming mind states.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les virus cognitive errent dans le mesh, infectant les informorphs et les IAs, reprogammant leurs états mentaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An “infectious idea” is now a literal term.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une &quot;idée infectieuse&quot; a maintenant un sens propre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In truth, mind editing is not an easy, safe, and error-proof process—it is difficult, dangerous, and often flawed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En vrai, l'édition de l'esprit n'est pas un processus simple, sécurisé et sans erreur - c'est quelque chose de difficile, dangereux et souvent défectueux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Neuroscience may be light years ahead of where it was a century ago, but there are many aspects of the brain and neural functions that continue to confound and elude even the brightest experts and AIs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La neuroscience peut être des années lumières en avance par rapport au siècle dernier, mais il y a de nombreux aspects du cerveau et des fonctiones neuronales qui continuent de perturber et de se soustraire au plus brillants experts et IAs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Technologies like nanoneural mapping, uploading, digital mind emulation, and artificial intelligence are also comparatively in their infancy, being mere decades old.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des technologies comme la cartographie nanoneuronale, l'upload, l'émulation digitale d'esprit et l'intelligence articificielle en sont encore à leur début, n'ayant qu'une décennie d'ancienneté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though transhumanity has a handle on how to make these processes work, it does not always fully understand the underlying mechanisms.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que la transhumanité ait compris la manière dont ces processus fonctionnent, elle ne comprend toujours pas complètement les mécanismes sous-jacents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any neurotech will tell you that mucking around in the mind’s muddy depths is a messy business.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>N'importe quel neurotechnicien vous dira que bidouiller dans les profondeurs boueuses de l'esprit est un véritable bordel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Brains are organic devices, molded by millions of years of unplanned evolutionary development.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les cerveau sont des appareils organiques, façonnés par des millions d'années de dévelopement évolutionnaire non planifié.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each is grown haphazardly, loaded with evolutionary leftovers, and randomly modified by an unlimited array of life events and environmental factors.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chacun d'eux s'est développé par pur hasard, rempli de reste d'évolutions et modifié aléatoirement par un nombre illimité d'évènement d'une vie et de facteurs environnementaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every mind features numerous mechanisms—cells, connections, receptors—that handle a dizzying array of functions: memory, perception, learning, reasoning, emotion, instinct, consciousness, and more.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque esprit possède de nombreux mécanismes - cellulle, connexion, récepteurs - qui manipulent un nombre vertigineux de fonctions: mémorisation, perception, apprentissage, raisonnement, émotions, instincts, conscience et tant d'autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Its system of organization and storage is holonomic, diffused, and disorganized.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Son ordonnanceur et son système de stockage est holonome, diffus et désorganisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even the geneticallymodifi ed and enhanced brains of transhumans are crowded, chaotic, cross-wired places, with each mind storing its memories, personality, and other defining features in unique ways.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même les cerveaux génétiquement modifiés et amélioré des transhumains sont des endroits bondés, chaotique et maillés et chaque esprit stocke ses propres souvenirs, personnalité et d'autres caractéristiques définissantes de manière unique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What this means is that though the general architecture and topography of neural networks can be scanned and deduced, the devil is in the details.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce que cela signifie c'est que même si l'architecture générale et la topographies des réseaux de neurones peut être scannées et déuite, le diable demeure dans les détails.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Techniques used to modify, repair, or enhance one person’s mind are not guaranteed equal success when applied to another’s brain.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des techniques utilisées pour modifier, réparer ou améliorer l'esprit d'une personne ne garantissent aps le succès lorsqu'elles sont appliquées à un autre cerveau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, the process by which brains store knowledge, skills, and memories results in a strange chaining process where these memories are linked and associated with other memories, so attempts to alter one memory can have adverse affects on other memories.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, le processus par lequel le cerveau stocke la connaissance, les compétences et les souvenirs résulte en un étrange processuss de chainage dans lequel ces souvenirs sont liés et associés avec d'autres souvenirs, et donc alétrer un souvenir peut avoir des effets de bord sur d'autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the end, minds are slippery and dodgy things, and attempts to reshape them rarely go as planned.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au final, les esprits posent des problèmes glissants et épineux, et les tentatives de les modeler ne se passent que rarement comme prévu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{The Process Of Psychosurgery} Psychosurgery is the process of selective, surgical alteration of a transhuman mind.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Le processuss de la Psychochirurgie} La psychochirurgie est le l'ensemble des alétrations sélective et chirurgique apportée à un esprit transhumain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is a separate field from neural genetic modification (which alters genetic code), neuralware implantation (adding cybernetic or biotech inserts to the brain or nervous system), or brain hacking (software attacks on computer brains, neural inserts, and infomorphs), though they are sometimes combined.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est un domaine séparé des modificatiosn neuronales par la génétique (qui modifient le code génétique), les implantatiosn de neuroware (qui ajoutent des insert cybernétiques ou biotechnologique au cerveau ou au système nerveux) ou le hacking de cerveau (qui sont des attaques logicielle sur des cerveaux informatisés, des inserts neuraux et des infomorph) bien qu'ils soient aprfois combinés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Psychosurgery is almost always performed on a digital mind-state, whether that be a real-time emulation, a backup, or a fork.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Psychochirurgie est toujours effectuée sur un état mental numérique, qu'ils s'agisse d'émulation en temps-réel, d'une sauvegarde ou d'un fork.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In most cases, the subject’s mind-state is copied via the same technology and process as uploading or forking, and run in a simulspace.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans la plupart des cas, l'état mental du sujet est copé via la même technologie et le même procédé que par l'upload ou le fork, et s'effectue dans un simulspace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The subject need not be willing, and in these cases the subject’s permissions are restricted.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le sujet n'as pas besoin d'être volontaire, auquel cas les permissions du sujet sont restreintes.</seg>
       </tuv>
     </tu>
     <tu>
