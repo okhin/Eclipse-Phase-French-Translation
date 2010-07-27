@@ -102,6 +102,246 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Game mechanics</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mécanismes de jeu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In every game, there comes a time when the gamemaster must decide if a character succeeds or fails in an action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans tous les jeux, il vient un moment où le maître de jeu doit décider si un personnage réçut ou rate une action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is when the players roll dice and the characters' stats and abilities come into play.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est le moment où les joueurs lancent des dés et où les stats du personnage entre en jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This chapter defines the core mechanics and rules that govern the outcomes of events in Eclipse Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce chapitre définit les mécnaismes au cœur des règles qui gouvernent l'issue des évènements dans Eclipse Phase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A note on terminology and Gender</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une note sur la terminologie, la traduction et le Genre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Eclipse Phase setting raises a number of interesting questions about gender and personal identity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le cadre d'Eclipse Phase soulève nombre de questions intéressante à propos du genre et de l'identité personnelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What does it mean when you are born female but you are occupying a male body?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Que signifie le fait d'être née femelle lorsque vous occuper un corps masculin?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When it comes to language and editing, this also poses a number of interesting questions for what pronouns to use.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsqu'on en vient au langage et à l'édition, cela pose aussi nombre de questions intéressantes sur l'usage des pronoms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The English language has a bit of a bias towards male-gendered pronouns that we hope to avoid in these rules.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Malheureusement, la langue Française ne possédant pas de pronom neutre (contrairement au they en Anglais), il nous sera donc difficile d'éviter le biais linguistique en faveur du masculin dans cette traduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For purposes of this game, we’ve sidestepped some of these gender neutrality quandaries by adopting the “Singular They” rule.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans le cadre de ce jeu, et en particulier de la tarduction, nous essayons d'atteindre cette neutralité des genres en utilisant des fonctiosn pour décrire les acteurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What this means is that rather than just going with male pronouns (“he”) or switching between gendered pronouns (“he” in one chapter, “she” in the next), we have adopted the use of “they” even when referring to a single person.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nous parlerons donc de joueurs, de maître de jeu, et de personnages avec des pronoms neutres dans la mesure du possible (équivalent du &quot;on&quot;) en évitant de préciser les pronom (qu'il s'agisse de &quot;il&quot; ou de &quot;elle&quot;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To some folks, this is bad grammar, but there is actually some good evidence that this usage has strong historical roots (look it up), and it certainly gives our editors fewer headaches.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, et afin de ne pas rendre le tout particulièrement lourd et indigeste, le masculin restera employé lorsque la grammaire l'exige (et il s'agira donc de un joueur, d'un maître de jeu et d'un personnage), étant donné l'absence de pronom neutre en Français.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When referring to specifi c characters, we use the gendered pronoun appropriate to the character’s personal gender identity, no matter the sex of the morph they are in.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour information, les règles originales (en Anglais donc) utilisent le &quot;They Singulier&quot; dés qu'il est cquestions de définir le genre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Core rules</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Règles de bases</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{The ultimate rule}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{La règle ultime}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>One rule in Eclipse Phase outweighs all of the others: have fun.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une règle dans Eclipse Phase surclasse toutes les autres: éclatez-vous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This means that you should never let the rules get in the way of the game.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela signifie que vous ne devriez jamais laisser les règles se mettre en travers du jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you don't like a rule, change it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous n'aimez pas une règle, changez-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you can't find a rule, make one up.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous ne trouvez pas une règle, créez en une.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you disagree over a rule's interpretation, flip a coin.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous n'êtes pas d'accord avec l'interpétation d'une règle, tirez à pile-ou-face.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Try not to let rules interfere with the game's flow and mood.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Essayez de ne pas laisser les règles interférer avec la fluidité et l'ambiance du jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you're in the middle of a really good scene or intense roleplaying and a rule suddenly comes into question, don't stop the game to look it up and argue about it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous êtes au milieu d'une trés bonne scène ou d'un moment de roleplay intense et qu'une règle pose soudainement un problème, n'arrétez pas le jeu pour la vérifier ou pour en discuter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Just wing it, make a decision quickly, and move on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Improvisez, prenez une rapide décision, et continuez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You can always look the rule up later so you'll remember it next time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous pourez toujorus revérifier la règle plus tard afin de vous en rappeler la prochaine fois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If there are disagreements over a rule's interpretation, remember that the gamemaster gets the final say.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si il y a des désaccords autour de l'interprétation d'une règle, rappelez-vous que le maître de jeu a le dernier mot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This rule also means that you shouldn't let the story be guided solely by rolls of the dice.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette règle signifie aussi que vous ne devriez pas laissez l'histoire être guidée uniquement par des jets de dés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The element of chance that dice rolls provide lends a sense of randomness, uncertainty, and surprise to the game.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'aléas d'un jet de dé amènes une impression d'aléatoire, d'incertitude et de surprise à une partie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sometimes this is exciting, like when a character makes an unexpectedly difficult roll and saves the day.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Parfois c'est excitant, comem par exemple lorsqu'un personnage réussit contre toute attente et jet de dé et, du coup, sauve l'équipe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At other times, it is brutal, such as when a lucky shot from an opponent takes one of the characters out for good in a fight.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A d'autres moment, c'est brutal comme, par exemple, un tir chanceux d'un adversaire tue un personnage pour de bon lors d'un combat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the gamemaster wants a scenario to result in a pre-planned dramatic outcome and an unexpected die roll threatens that plan, they should feel free to ignore that roll and move the story in the direction they desire.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le maître de jeu veut qu'un scénario se termine par une issue dramatique planifiée et qu'un jet de dé inattendu menace son plan, il devrait se sentir libre d'ignorer ce jet et de continuer l'histoire dans la direction qu'il désire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Dice}</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
