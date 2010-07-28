@@ -169,7 +169,7 @@
         <seg>The English language has a bit of a bias towards male-gendered pronouns that we hope to avoid in these rules.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Malheureusement, la langue Française ne possédant pas de pronom neutre (contrairement au they en Anglais), il nous sera donc difficile d'éviter le biais linguistique en faveur du masculin dans cette traduction.</seg>
+        <seg>Malheureusement, la langue Française ne possédant pas de genre neutre (contrairement au it Anglais), il nous sera donc difficile d'éviter le biais linguistique en faveur du masculin dans cette traduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -177,7 +177,7 @@
         <seg>For purposes of this game, we’ve sidestepped some of these gender neutrality quandaries by adopting the “Singular They” rule.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Dans le cadre de ce jeu, et en particulier de la tarduction, nous essayons d'atteindre cette neutralité des genres en utilisant des fonctiosn pour décrire les acteurs.</seg>
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -193,7 +193,7 @@
         <seg>To some folks, this is bad grammar, but there is actually some good evidence that this usage has strong historical roots (look it up), and it certainly gives our editors fewer headaches.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Cependant, et afin de ne pas rendre le tout particulièrement lourd et indigeste, le masculin restera employé lorsque la grammaire l'exige (et il s'agira donc de un joueur, d'un maître de jeu et d'un personnage), étant donné l'absence de pronom neutre en Français.</seg>
+        <seg>Cependant, et afin de ne pas rendre le tout particulièrement lourd et indigeste, le masculin restera employé lorsque la grammaire l'exige (et il s'agira donc d'un joueur, d'un maître de jeu et d'un personnage), le masculin, à défaut d'être le genre neutre, étant le genre &quot;par défaut&quot; de la grammaire française.</seg>
       </tuv>
     </tu>
     <tu>
@@ -201,7 +201,7 @@
         <seg>When referring to specifi c characters, we use the gendered pronoun appropriate to the character’s personal gender identity, no matter the sex of the morph they are in.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Pour information, les règles originales (en Anglais donc) utilisent le &quot;They Singulier&quot; dés qu'il est cquestions de définir le genre.</seg>
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -346,6 +346,686 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>{Dés}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Eclipse Phase uses two ten-sided dice (each noted as a d10) for random rolls.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Eclipse Phase utilise deux dés à dix faces (d10) pour les jets aléatoires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In most cases, the rules will call for a percentile roll, noted as d100, meaning that you roll two ten-sided dice, choosing one to count first, and then read them as a result between 0 and 99 (with a roll of 00 counting as zero, not 100).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans la plupart des cas, les règles demanderont un jet de pourcentage, noté d100, ce qui signifie que vous lancez deux dés à dix faces, en choisissant lequel sera lu en premier, et en lisant le résultat comme compris entre 0 et 99 (avec un résultat de 00 comptant comme zéro, non pas comme 100).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The first die counts as the tens digit, and the second die counts as the ones digit.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le premier dés compte pour els dizaines, le second pour les unités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, you roll two ten-sided dice, one red and one black, calling out red first.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, vous lancez deux dés à dix faces, un rouge et un noir, annonçant que le rouge sera lu en premier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The red one rolls a 1 and the black die rolls a 6, for a result of 16.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le rouge fait un 1 et le noir fait un 6, pour un résultat de 16.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some sets of d10s, as shown above, are specifically marked for easier rolling and reading.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains ensembles de d10 sont spcifiquement marqués pour faciliter le lancement des dés et la lecture des résultats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Occasionally the rules will call for individual die rolls, with each individual ten-sided die listed as a d10.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière occasionnelle, les règles feront appel à des jets de dés seuls, chaque dés à dix face listés en temps que d10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the rules call for several dice to be rolled, it will be noted as 2d10, 3d10, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>SI les règles demandent que plusieurs d10 soient lancés, ils seront notés 2d10, 3d10 et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When multiple ten-sided dice are rolled in these instances, the results are added together.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque plusieurs dés à dix faces sont lancés de cette manières, leurs résultats sont ajoutés les uns aux autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, a 3d10 roll of 4, 6, and 7 counts as 17.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple un jet de 3d10 ayant pour résultat 4, 6 et 7 compte pour un 17.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On d10 rolls, a result of 0 is treated as a 10, not a zero.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sur les jets de d10, un résultat de 0 et traité comme un 10, pas comme un zéro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most players of Eclipse Phase can get by with having two ten-sided dice, but it doesn't hurt to have more on hand.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des joueurs d'Eclipse Phase s'en sortent en ayant seulement deux dés à dix-faces, mais ça ne fait aps de mal d'en avoir d'autres à portée de main.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These dice can be purchased at your friendly local game store or borrowed from another gamer.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces dés peuvent être achetés dans votre boutique de jeu préférée ou empruntés à d'autres joueurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Making tests}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Faire des test}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In Eclipse Phase, your character is bound to find themself in adrenalin-pumping action scenes, high- stress social situations, lethal combats, spine-tingling investigations, and similar situations filled with drama, risk, and adventure.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans Eclipse Phase, votre personnage est destiné à se trouver impliqué dans des scènes d'actions adrénalisante, dans des situatsions ociales, hyper-stressante, dans des combats létaux, dans des enquètes frissonantes et d'autres situations simillaires emplies de drame, de risque et d'aventures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When your character is embroiled in these scenarios, you determine how well they do by making tests—rolling dice to determine if they succeed or fail, and to what degree.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque votre personnage est impliqué dans ces scénarios, vous déterminez la manière dont il s'en sort en faisant des tests - en lançant des dés pour déterminer si ils réussissent ou échouent, et dans quelel mesure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You make tests in Eclipse Phase by rolling d100 and comparing the result to a target number.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous faites des tests dans Eclipse Phase en lançant un d100 et en comparant le résultat à un seuil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The target number is typically determined by one of your character's skills (discussed below) and ranges between 1 and 98.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le seuil est typiquement déterminé par l'une des compétences de votre personnage (voir plus bas) et est comprises entre 1 et 98.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you roll less than or equal to the target number, you succeed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous obtenez un résultat inférieur ou égal au seuil, vous réussissez votre test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you roll higher than the target number, you fail.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous dépassez le seuil, vous échouez à votre test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A roll of 00 is always considered a success.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un résultat de 00 est toujours considéré comme un succès.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A roll of 99 is always a failure.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un résultat de 99 ets toujours considéré comme un échec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jaqui's character needs to make a skill test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage de Jacqui doit faire un test de compétence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Her skill is 55.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sa compétence est de 55.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jaqui takes two ten-sided dice and rolls a 53—she succeeds!</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Jacqui prends deux dés à dix faces et obtient un 53 - elle réussit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If she had rolled a 55, she still would have been successful, but any roll higher than that would have been a failure.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si elle avait obtenu un 55, elle rauait également réussit, mais tout résultat plus élevé que ça aurait été un échec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Target numbers}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Seuil}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As noted above, the target number for a d100 roll in Eclipse Phase is usually the skill rating.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme noté précédement, le seuil pour le jet d'un d100 dans Eclipse Phase est généralement la valeur d'une compétence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Occasionally, however, a different figure will be used.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant et de manière occasionnelle, un nombre différent sera utilisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In some cases, an aptitude score is used, which makes for much harder tests as aptitude scores are usually well below 50 (see Aptitudes, ).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans certains cas, un score d'aptitude sera utilisé, ce qui rend les test plsu difficile car les aptitudes sont généralement bien en dessous de 50 (voir le passage Aptitudes, ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In other tests, the target number will be an aptitude rating x 2 or x 3 or two aptitudes added together.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans d'autres test, la cible sera un score d'aptitude x2 ou x3 ou la somme de deux aptitudes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In these cases, the test description will note what rating(s) to use.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ces cas là, la description du test indiquera quel(s) score(s) utiliser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{When to make tests}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Quand faire des tetst}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster decides when a character must make a test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu décide quand un eprsonnage doit faire un test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a rule of thumb, tests are called for whenever there is a chance that a character might fail at an action or when success or failure may have an effect on the ongoing story.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme règle de base, les tests doivent être tentés lorsqu'il y a une chance qu'un eprsonnage échoue une action ou lorsque la réussite ou l'échec de l'action puisse avoir une effet sur l'histoire en-cours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tests are also called for whenever two or more characters act in opposition to one another (for example, if they are arm wrestling or haggling over a price).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les tetst sont aussi nécessaire lorsque deux personnage ou plus agissent en opposition les uns aux autres (par exemple, si ils s'affrontent au bras de fer ou si ils négoceint un prix).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On the other hand, routine use of a skill by someone with at least a rating of 30 in that skill can be assumed to be successful with no test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'un autre côté, les utilisatiosn routinières d'une compétences qui possèdent au moins un score de 30 dans cette compétence peuvent être considérées comme des réussites sansa faire de test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is not necessary to make tests for everyday, run-of-the-mill activities, such as getting dressed or checking your email (especially in Eclipse Phase, where so many activities are automatically handled by the machines around you).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il n'est pas nécessaire de faire de jets de dés pour les actiosn de la vie quotidienne tels que s'habiller ou vérifier ses mails (particulièrement dans Eclipse Phase, où tant de choses sont gérées automatiquement par les machines autour de vous).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even an activity such as driving a car does not call for dice rolls as long as you have a small modicum of skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même une activité telle que la conduite automobile ne nécessite pas de jets de dés tant que vous avez un minimum dans la compétence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A test might be necessary, however, if you happen to be driving while bleeding to death or are pursuing a gang of motorcycle-riding scavengers through the ruins of a devastated city.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un test peut cependant être nécessaire si vous conduisez pendant que vous vous videz de votre sang ou que vous poursuivez un gang de charognards à moto à travers les ruines d'une cité dévastée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Knowing when to call for tests and when to let the roleplaying flow without interruption is a skill every gamemaster must acquire.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Savoir quand faire appel à des jets et quand laisser l'interprétation et le roleplay se dérouler sans interruption est une compétence que chaque maître de jeu doit acquérir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sometimes it is better to simply make a call without rolling dice in order to maintain the pacing of the game.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Parfois, il peut-être de simplement décider arbitrairement sans lancer de dés afin de maintenir le rythme de la partie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, in certain circumstances the gamemaster may decide to make tests for a character in secret, without the player noticing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De la même manière, dans certaines circonstances décidées, le maître de jeu peut décider de faire des tests pour un personnage en secret, sans que le joueur ne le remarque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If an enemy is trying to sneak past a character on guard, for example, the gamemaster will alert the player that something is amiss if they ask them to make a perception test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un ennemi essaye de s'infiltrer sous la vigilance d'un personnage, par example, le maître de jeu signalera au joueur que quelquechose va de travers si il demande au joueur de faire un test de perception.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This means that the gamemaster should keep a copy of each character's record sheet on hand at all times.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela signifie que le maïtre de jeu devrait garder en permanence une copie de chaque fiche de personnage à portée de main.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Difficulty and modifiers}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Difficulté et Modificateurs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The measure of a test's difficulty is reflected in its modifiers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'évaluation de la difficulté d'un test est reflétées par ses modificateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Modifiers are adjustments made to the target number (not the roll), either raising or lowering it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les modificateurs sont des ajustements apportés au seuil du test (pas au jet en lui-même), soit en l'augmentant, soit en le diminuant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A test of average difficulty will have no modifiers, whereas actions that are easier will have positive modifiers (raising the target number, making success more likely) and harder actions will have negative modifiers (lowering the target number, making success less likely).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un test de difficulté moyenne n'aura pas de modificateur, alors que les actions plus simple auront des modificateurs posiftifs (augmentant le seuil de réussite et donc les chances de succès) et que les actions plus difficiles auront des modificateurs négatifs (abaissant le seuil de réussite et donc les chances de succès).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is the gamemaster's job to determine if a particular test is harder or easier than normal and to what degree (as illustrated on the Test Difficulty table) and to then apply the appropriate modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est le boulot du maître de jeu de déterminer si un test particulier est plus difficile ou plus simple que la norme et dans quelle mesure (tel qu'illustré dans la table des Difficultés des Tests) et d'éppliquer ensuite les modificateurs appropriés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other factors might also play a role in a test, applying additional modifiers aside from the test's general level of difficulty.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres facteurs peuvent aussi jouer un rôle dans un test, appliquant des modificateurs additionels au delà du niveau de difficulté général du test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These factors include the environment, equipment (or lack thereof), and the health of the character, among other things.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces facteurs incluent l'environnement, l'équipement (ou l'absence d'équipement) ainsi que la santé du personnage parmi d'autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character might be using superior tools, working in poor conditions, or even wounded, and each of these factors must be taken into account, applying additional modifiers to the target number and adjusting the likelihood of success or failure.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage peut utiliser des outils de qualité supérieure, travailler dans des conditions lamentables ou être blessé, et chacun de ces facteurs devrait être pris en compte, appliquant des modificateurs supplémentaires au seuil et modifier la probabilité de réussir ou de rater le jet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For simplicity, modifiers are applied in multiples of 10 and come in three levels of severity: Minor (+/–10), Moderate (+/–20), and Major (+/–30).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans un but de simplification, les modificateurs sont appliqués par multiples de 10 et viennent en trois niveau d'intensité: Mineur (+/-10), Modéré (+/-20) et Majeur (+/-30).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any number of modifiers may be applied, as the gamemaster deems appropriate, but the cumulative modifiers may not exceed + or – 60.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tant que le maître de jeu le pense approprié, n'importe quel nombre de modificateurs peuvent être appliqués, mais la valeur cumulée de ces modificateurs ne peut pas excéder + ou - 60.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jaqui is attempting to leap from one door to another across a large chamber in zero gravity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Jacqui tente d'aller d'une porte à une autre à travers une grande pièce en gravité zéro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She's in a hurry.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle est pressée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If she misses the door, she'll lose valuable time, so the gamemaster calls for a Freefall Skill Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si elle rate la prote, elle perdra beaucoup de temps important et donc le maître de jeu demande un Test de Compétence en Chute Libre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jaqui's Freefall skill is 46.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La compétence Chute Libre de Jaqui est de 46.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unfortunately the chamber is filled with floating debris that could get in her way.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Malheureusement, la pièce est emplie de débris flottant qui pourrait la géner dans ses déplacements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster determines this is a Moderate modifier, reducing the target number by 20.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu détermine qu'il s'agît d'un modificateur Modéré, réduisant le seuil de 20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jaqui must roll a 26 or less to succeed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Jacqui doit obtenir 26 ou moins pour réussir son jet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Criticals: rolling doubles}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Critiques: obtenir des doubles}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any time both dice come up with the same number -- 00, 11, 22, 33, 44, etc.—you have scored a critical success or critical failure, depending on whether your roll also beat your target number.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A chaque fois que les dés tombent sur le même résultat - 00, 11, 22, 33, 44, etc - vous obtenez un succès critique ou un échec critique, selon que vous ayez battus ou non le seuil de difficulté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>00 is always a critical success, whereas 99 is always a critical failure.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>00 est toujour sun succès critique alors que 99 est toujours un échec critique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rolling doubles means that a little something extra happened with the outcome of the test, either positive or negative.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Obtenir des doubles signifie qu'un petit extra se produit en plus de l'issue du test, qu'il soit positif ou négatif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Criticals have a very specific application in combat tests (see ), but for all other purposes the gamemaster decides what exactly went wrong or right in a specific situation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les critiques ont une applications trés spécifiques sur les test de Combat (voir ), mais dans tous les autres cas le maître de jeu décide ce qui s'est mal ou bien passé dans une situation particulière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Criticals can be used to amplify a success or failure: you finish with a flourish or fail so spectacularly that you remain the butt of jokes for weeks to come.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les critiques peuvent être utilisés pour amplifier un succès ou un échec: vous pouvez terminer avec un bonus ou rater de manière tellement spectaclaire que vous serez la cible des moqueries pendant les semaines à venir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They can also result in some sort of unexpected secondary effect: you repair the device and improve its performance; or you fail to shoot your enemy and hit an innocent bystander.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils peuvent aussi amener une sorte d'effet secondaire inattendus: vous réparez l'appareil et améliorez ses performances; ou vous pouvez échouer à toucher votre ennemi et blesser un passant innocent à la place.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alternately, a critical can be used to give a boost (or a hindrance) to a follow-up action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière alternative, un critique peut-être utilisé pour donner un boost (ou une gène) sur une action à suivre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, you not only spot a clue, but you immediately suspect it to be red herring; or you not only fail to strike the target, but your weapon breaks, leaving you defenseless.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, vous ne faites pas que remarquer un indice, vous supectez immédiatement qu'il s'agît d'une fausse piste; ou vous ne faites pas que ratez votre cible, mais votre arme casse vous laissant sans défense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gamemasters are encouraged to be inventive with their use of criticals and choose results that create comedy, drama, or tension.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les maîtres de jeu sont encouragés à être inventifs dans leur utilisation des critiques et de choisir les résultats qui créent des situations comiques, dramatiques ou de tendues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Audrey is attempting to intimidate a low-level triad mook into giving her information.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Audrey tente d'intimider une petite-frappe des triades afin d'en obtenir des informations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unfortu- nately she rolls a 99—a critical failure.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Malheureusement, elle obtient un 99 - un échec critique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Not only does she fail to scare the guy, but she accidentally lets slip an important piece of information that she didn't want the triad to know.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En plus de ne pas parvenir à effrayer le mec, elle laisse filtrer une information importante qu'elle ne voulait pas que les triades obtiennent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If she rolled a 00 instead—a critical success—she would browbeat the man so thoroughly that he throws in some extra important information just so she'll leave him alone in the future.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si elle avait obtenu un 00 - un succès critique - elle aurait tellement initimder le caïd qu'il lui aurait balancé des informations supplémentaires importante juste pour qu'elle le laisse tranquille par la suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Defaulting: untrained skill use}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Défausser: utilisation de compétence non-entraînée}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Certain tests may call for a character to use a skill they don't have—a process called defaulting.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certain tests peuvent demander à un personnage d'utiliser une compétence qu'il ne possède pas - ce qu'on appelle défausser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, the character instead uses the rating of the aptitude (see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, le personnage utilise le score de l'aptitude (voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>123) that is linked to the skill in question as the target number.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>123) liée à la compétence en question comme seuil de réussite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Not all skills may be defaulted; some of them are so complex or require such training than an unskilled character can't hope to succeed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toutes les compétences ne peuvent aps être défaussée; certaines sont tellement complexe ou nécessite un entrainement tel qu'un personnage ne la possédant pas n'a aucune chance de réussir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Skills that may not be defaulted on are noted on the Skill List (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les compétences qui ne peuvent pas être défaussée sont notées dans la Liste de Compétence (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>176) and in the skill description.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>176) et dans la description de celles-ci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In rare cases, a gamemaster might allow a character to default to another skill that also relates to a test (see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>dans de rares cas, le maître de jeu peu autoriser un personnage à se défausser sur une compétence qui pourrait également être liée au test (voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When allowed, defaulting to another skill incurs a –30 modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque c'est autorisé, défausser sur une autre compétence inclut un modificateur de -30.</seg>
       </tuv>
     </tu>
     <tu>
