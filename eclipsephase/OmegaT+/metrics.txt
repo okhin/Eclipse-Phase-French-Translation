@@ -7,10 +7,10 @@ Total
   Caractères: 1622165 : + espaces
 
 Restants
-    Segments:   16328
-        Mots:  228684
-  Caractères: 1205069 : - espaces
-  Caractères: 1417540 : + espaces
+    Segments:   16310
+        Mots:  228350
+  Caractères: 1203490 : - espaces
+  Caractères: 1415646 : + espaces
 
 Uniques
     Segments:   16204
@@ -19,10 +19,10 @@ Uniques
   Caractères: 1603686 : + espaces
 
 Restants uniques
-    Segments:   13968
-        Mots:  225595
-  Caractères: 1206409 : - espaces
-  Caractères: 1402495 : + espaces
+    Segments:   13950
+        Mots:  225261
+  Caractères: 1204830 : - espaces
+  Caractères: 1400601 : + espaces
 
 Mesures des documents
 
@@ -36,7 +36,7 @@ Mesures des documents
        1       1      10      10      10      10 - 14-references.tex
     9090      14   48592      69   57179      71 - 2-synopsis.tex
    61776   61776  334423  334423  393103  393103 - 3-eclipse.tex
-    9902    7102   49182   35946   58478   42599 - 4-mechanics.tex
+    9902    6768   49182   34367   58478   40705 - 4-mechanics.tex
    16622   16622   85947   85947  101263  101263 - 5-character-creation.tex
     8618    8615   46366   46339   54224   54195 - 6-skills.tex
    21717   21716  109826  109821  129634  129629 - 7-action-combat.tex
