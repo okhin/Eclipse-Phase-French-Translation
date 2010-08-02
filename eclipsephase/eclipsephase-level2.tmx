@@ -1030,6 +1030,318 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Toljek is trying to casually sneak inside a hypercorp facility when he unexpectedly runs into a hypercorp employee.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toljek essayes de s'inflitrer dans un bâtiment d'une hypercop lorsqu'il percute accidentellement une employée hypercoproratiste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The woman he's encountered doesn't necessarily have grounds to be suspicious of Toljek's presence, but the gamemaster calls for Toljek to make a Protocol Test to pass himself off as someone that belongs there.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La femme qu'il croise n'a pas forcément de raison d'être suspicieuse mvis à vis de la présence de Toljek, mais le maître de jeu demande à Toljek de réussir un Test de Protocole pour se faire passer pour quelqu'un qui est à sa place ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unfortunately, Toljek doesn't have that skill, so he must default to its linked aptitude, Savvy, instead.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Malheureusement, Toljek n'as pas cette compétence, il doit donc défausser sur l'aptitude liée, Bon Sens, à la place.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>His Savvy score is only 18, so Toljek better hope he gets lucky.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Son score de Bon Sens est seulementd e 18, donc Toljek espère avoir de la chance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Simplifying modifiers}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Simplifier les modificateurs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rather than looking up and accumulating a long list of modifiers for each action and doing the math, the gamemaster can instead choose to simply “eyeball” the situation and apply the modifier that best sums up the net effect.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au lieu de chercher et d'accumuler une longue liste de modificateurs pour chaque action et de calculer le modificateur total, le maître de jeu peu choisir de simplement &quot;évaluer&quot; la situation et d'appliquer le modificateur qui résume le mieux l'effet voulu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This method is quicker and allows for easier test resolution.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette méthode est plus rapide et permet des résolutions de tests plus rapide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>One way to eyeball the situation is to simply apply the most severe modifier affecting the situation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une manière d'évaluer la situation est de choisir le modificateur le plus sévère qui affecte la situation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tyska is trying to escape from some thing that's chasing him through a derelict habitat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tyska essaye d'échapper à quelque chose qui la poursuit à travers un habitat abandonné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster calls for a Freerunning Test, but there are a number of modifying conditions: it's dark, he's running with a flashlight, and there's debris everywhere.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu demande un Test de Parkour, mais il y a beaucoup de modificateurs situationnel: il fait sombre, il court avec une lampe de poche et il y a des débris un peu partout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tyska, however, has an entoptic map of the best route out of there to help him out.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tyska, cependant, a une carte entoptique du meilleur trajet possible pour le sortir de là.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster assesses the situation and decides the overall effect is that the test is challenging, and so a –20 modifier is applied.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu estime la situation et décide que l'eefet global se résoud par un test difficile, et un modificateur de -20 est appliqué.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{narrative modifiers}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Modificateurs narratifs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you wish to develop a more cinematic feel for your game, or if you simply wish to encourage your players to invest more detail and creativity into the storyline, you can award “narrative modifiers” to a character's test when that player describes what the character is doing in exceptionally colorful, inventive, or dramatic detail.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous voulez développer une ambiance plus cinématique à vos parties, ou si vous voulez simplement encourager vos joueurs à s'investir plus dans les détails et la création narrative, vous pouvez donner des &quot;modificateurs narratifs&quot; aux tests des personnages lorsqu'un joueur décrit les actions de son personnage de manière exceptionnellement colorée, inventive ou dramatique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The better the detail, the better the modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Meilleurs sont les détails ajoutés, meilleurs sera le modificateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cole doesn't just want his character to jump over the table, he wants to make an impact.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cole ne veux pas que son personnage saute simplement apr-dessus la table, il veut créer un minimum d'impact narratif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cole tells the gamemaster that his character kicks a chair out of the way, rolls over the dinner table on his shoulder, grabs a fork as he does it, makes sure to knock all of the fine china on the floor, then lands on his feet in a defensive martial arts posture, fork raised high.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cole annonce au maître de jeu que son personnage balance un coup de pied dans une chaise qui va valser plus loin, roule sur son épaule à travers la table à manger, attrapes une fourchette dans le mouvement, s'assure d'envoyer au sol toute la porcelaine puis atterit dans une posture martiale défensive, fourchette prête à frapper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster decides the extra description is worth +10 to his Freerunning Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu décide que cette escription supplémentaire vaut bien un modificateur de +10 à son jet de Parkour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Teamwork}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Travail d'équipe}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If two or more characters join forces to tackle a test together, one of the characters must be chosen as the primary actor.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si deux personnage ou plus se regroupent pour s'attaquer à un test ensemble, l'un des personnage doit être désigné comme l'acteur primaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This leading character will usually (but not always) be the one with the highest applicable skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce personnage sera habituellement (mais pas forcément automatiquement) celui quei a le plus haut score dans une compétence applicable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The primary acting character is the one who rolls the test, though they receive a +10 modifier for each additional character helping them out, up to a maximum +30 modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage principal est celui qui lancera les dés, bien qu'il reçoive un modificateur de +10 pour chque personnage supplémentaire qu'i l'assite, jusqu'à un maximum de +30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that helping characters do not necessarily need to know the skill being used if the gamemaster decides that they can follow the primary actor's lead.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que les personnage assistants n'ont pas nécessairement besoin de connaître la compétence utilisé si le maître de jeu décide qu'ils peuvent suivre et comprendre les ordres du personnage dirigeant l'action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The robotic leg on Eva's synthetic morph has been badly damaged, so she needs to repair it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La jambe robotisée sur la synthmorph d'Eva a été salement abîmée, au point qu'elle ait besoin de la réparer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Max and Vic both sit down and help her out, giving her a +20 modifier (+10 for each helper) to her Hardware: Robotics Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Max et Vic se posent et lui donnent un coup de main, lui donnant un modificateur de +20 (+10 pour chaque assistant) à son Test de Matériel: Robotique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Types of tests</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Type de tests.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are two types of tests in Eclipse Phase: Success and Opposed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a deux types de test dans Eclipse Phase: Les tests de Résussite  et les Tests Opposés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Success tests}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Tests de Réussite}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Success Tests are called for whenever a character is acting without direct opposition.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>On demande un Test de Réussite lorsqu'un personnage agît sans opposition directe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are the standard tests used to determine how well a character exercises a particular skill or ability.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce sont les tests standard utilisés pour déterminer à comment un personnage utilises une compétence ou une aptitude particulière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Success Tests are handled exactly as described under Making Tests, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Tests de Réussite sont gérés exactement tels que décrit dans la section Réaliser des Tests, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The player rolls d100 against a target number equal to the character's skill +/– modifiers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le joueur lance un d100 contre un seuil égal à la compétence du personnage +/- les modificateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If they roll equal to or less than the target number, the test succeeds, and the action is completed as desired.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si il obtient un résultat inférieur ou égal au seuil, le tests est une réussite et l'action se déroule comme désiré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If they roll higher than the target number, the test fails.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si il obtient un résultat supérieur au seuil, le test échoue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Trying again}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Essayer encore}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you fail at a test, you can take another shot.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous ratez un test, vous pouvez le tenter votre chance une fois de plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each subsequent attempt at an action after a failure, however, incurs a cumulative –10 modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque tentative de réussir une action après un échec subira cependant un modificateur cumulatif de -10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>That means the second try suffers –10, the third –20, the fourth –30, and so on, up to the maximum –60.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce qui signifie que le deuxième essai souffre d'un -10, le troisième d'un -20, le quatrième d'un -30 et ainsi de suite jusqu'au maximum de -60.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Taking the time}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Prendre le temps}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Some stats and traits, however, are determined by morph, as noted, and so will change if your character leaves one body and takes on another.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
