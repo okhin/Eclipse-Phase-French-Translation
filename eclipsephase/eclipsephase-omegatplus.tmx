@@ -17,7 +17,7 @@
         <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Le Jeu De Rôle Tanshumaniste de complot et d'horreur.</seg>
+        <seg>Le Jeu De Rôle de Complot et d'Horreur Transhumaniste</seg>
       </tuv>
     </tu>
     <tu>
@@ -41,7 +41,7 @@
         <seg>Your body is a shell.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Ton corp est une envelloppe.</seg>
+        <seg>Ton corp est une enveloppe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1338,6 +1338,150 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>{Prendre le temps}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most skill tests are made for Automatic, Quick, or Complex Actions (see pp.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des tests concernent les Actions Automatique, Rapide ou Complexes (voir pp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>119–120) and so are resolved within one Action Turn (3 seconds, see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>119–120) et sont donc réalisées en un Tour d'Action (3 secondes, voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tests made for Task actions (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les tests faits pour des Actiosn de Tâches (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>120) take longer.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>120) prennent plus de temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Players may choose to take extra time when their character undertakes an action, meaning that they choose to be especially careful when performing the action in order to enhance their chance of success.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les joueurs peuvent choisir de prendre du temps dupplémentaires lorsque leur personnage réalise une action, ce qui signifie qu'ils choisissent d'être particulièrement précautionneux lorsqu'ils accomplissent l'action afin d'améliorer leurs chances de succès.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For every minute of extra time they take, they increase their target number by +10.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour chaque minute de temps supplémentaire, ils augmentent leur seui de +10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once they've modified their target number to over 99, they are practically assured of success, so the gamemaster can waive the dice roll and grant them an automatic success.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois qu'ils ont modifiés leur seuil au-delà de 99, ils sont pratiquement sûr de réussir, le maître de jeu peut donc passer outre le jet de dé et leur accorder un succès automatique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that the maximum +60 modifier rule still applies, so if their skill is under 40 to start with, taking the time may still not guarantee a favorable outcome.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que la règle du modificateur maximal de +10 s'applique toujours, et que, apr conséquent, si leur compétence est inférieure à 40, prendre e temps peut ne pas garantir un succès automatique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may take the time even when defaulting (see Defaulting, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous pouvez prendr evotre temps même lorsque vous défaussez (voir Défausser p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Taking extra time is a solid choice when time is not a factor to the character, as it eliminates the chance that a critical failure will be rolled and allows the player to skip needless dice rolling.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Prendre du temps supplémentaires est une bonne décision lorsque le temps n'est pas un facteur décisif, car il élimine les chances d'échec critique et permet au joueur de passer outre des jtes de dés inutiles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For certain tests it may not be appropriate, however, if the gamemaster decides that no amount of extra time will increase the likelihood of success.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, cela est inapproprié pour certains tests si le maître de jeu décide qu'aucune quantité de temps supplémentaire n'augmentera els chances de réussite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In that case, the gamemaster simply rules that taking the time has no effect.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, le maître de jeu décide simplement que prendre son temps n'a aucun effet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For Task action tests (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour les test d'Actions de Tâches (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>120), which already take time to complete, the duration of the task must be increased by 50 percent for each +10 modifier gained for taking extra time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>120), qui prennent déjà du temps pour réussir, la durée de cette tâche peut être augmentée de 50 pourcent pour chaque modificateur de +10 gagné par du temps supplémentaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Srit is searching through an abandoned space- ship, looking for a sign of what happened to the missing crew.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Srit est en train de fouiller un vaisseau abandonné, à la recherche d'un signe de ce qui a pu arrivé à l'équiipage manquant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster tells her it will take twenty minutes to search the whole ship.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu lieu dit que cela prendra vingt minutes pour fouiller tout le vaisseau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She wants to be extra thorough, however, so she takes an extra thirty minutes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, elle veut être absolument sûre, elle prend donc trente minutes supplémentaires pour fouiller.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fifty percent of the original timeframe is ten minutes, so taking an extra thirty minutes means that Srit receives a +30 modifier to her Investigation Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cinquantes pourcents de l'intervalle originel correspondent à dix minutes, donc en prendre trente de plus signifie que Srit reçoit un modificateur de +30 à son Test d'Investigation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9137,7 +9281,7 @@
         <seg>For example, a sleights with a Strain Value Modifier of –1 inflicts (1d10 $&lt;u1&gt;$ 2) –1 DV.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Par exemple, un exploit avec une Valeur de Modificateur de Drain de 61 inflige (1d10 $&lt;u0&gt;$ 2) -1 DV.</seg>
+        <seg>Par exemple, un exploit avec une Valeur de Modificateur de Drain de -1 inflige (1d10 $&lt;u1&gt;$ 2) -1 DV.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12505,7 +12649,7 @@
         <seg>$&lt;u0&gt;$ end excerpt $&lt;u0&gt;$</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>$&lt;u0&gt;$ fin de l'extrait $&lt;u0&gt;$ &lt;br0&gt;</seg>
+        <seg>$&lt;u0&gt;$ fin de l'extrait $&lt;u0&gt;$</seg>
       </tuv>
     </tu>
     <tu>

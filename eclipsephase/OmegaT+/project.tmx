@@ -17,7 +17,7 @@
         <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Le Jeu De Rôle Tanshumaniste de complot et d'horreur.</seg>
+        <seg>Le Jeu De Rôle de Complot et d'Horreur Transhumaniste</seg>
       </tuv>
     </tu>
     <tu>
@@ -41,7 +41,7 @@
         <seg>Your body is a shell.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Ton corp est une envelloppe.</seg>
+        <seg>Ton corp est une enveloppe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9281,7 +9281,7 @@
         <seg>For example, a sleights with a Strain Value Modifier of –1 inflicts (1d10 $&lt;u1&gt;$ 2) –1 DV.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Par exemple, un exploit avec une Valeur de Modificateur de Drain de 61 inflige (1d10 $&lt;u0&gt;$ 2) -1 DV.</seg>
+        <seg>Par exemple, un exploit avec une Valeur de Modificateur de Drain de -1 inflige (1d10 $&lt;u1&gt;$ 2) -1 DV.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12649,7 +12649,7 @@
         <seg>$&lt;u0&gt;$ end excerpt $&lt;u0&gt;$</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>$&lt;u0&gt;$ fin de l'extrait $&lt;u0&gt;$ &lt;br0&gt;</seg>
+        <seg>$&lt;u0&gt;$ fin de l'extrait $&lt;u0&gt;$</seg>
       </tuv>
     </tu>
     <tu>
