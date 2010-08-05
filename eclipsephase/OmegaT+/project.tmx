@@ -1486,6 +1486,302 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Simple success tests}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Tests de Réussite simple}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In some circumstances, the gamemaster may not be concerned that a character might fail a test, but instead simply wants to gauge how well the character performs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans certaines situations, le maître de jeu peut ne pas être interessé par le fait qu'un personnage puisse échouer à un test, mais simplement vouloir mesurer à quel point celui-ci réussit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, the gamemaster calls for a Simple Success Test, which is handled just like a standard Success Test (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ces cas là, le maître de jeu demande un Test de Réussite simple, qui est géré de la m€me manière qu'un Test de Réussite (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rather than determining success or failure, however, the test is assumed to succeed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au lieu de déterminer la réussite ou l'échec, on par du principe que le test est une réussite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The roll determines whether the character succeeds strongly (rolls equal to or less than the target number) or succeeds weakly (rolls above the target number).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le résultat détermine si le personnage obtient une réussite brillante (résultat inférieur ou égal au seuil) ou une réussite de justesse (résultat au-delà du seuil).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Dav is taking a short spacewalk between two parked ships.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dav prend un raccrouci dans le vide entre deux vaisseaux stationnés là.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster determines that this is a routine operation and calls for Dav to make a Simple Success Test using the Freefall skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu détermine que c'est une opération de routine et demande à Dave de faire un Tests de Réussite Simple en utilisant sa compétence Chute libre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Dav's skill is only 35.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La compétence de DAv est de seulement 35.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>He rolls a 76, but the gamemaster merely determines that Dav has some trouble orienting himself and has to take some extra time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il obtient un 76, et le maître de jeu que Dav a quelques problèmes d'orientation et y passera un peu plus de temps que prévu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If Dav had rolled a 77—a critical failure—his suit's maneuvering jets may have died and he may have accidentally propelled himself into deep space.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si Dav avait obtenu un 77 - un échec critique - les propulseurs de sa combinaisons auraient pu tomber en panne et le propulser accidentellement dans le vide spatial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Margin of success/failure}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Marge de réussite/d'échec}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sometimes it may be important that a character not only succeeds, but that they kick ass and take names while doing it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par moment, il est important qu'un personnage aille au-delà de la réussite, il doit réussir avec panache et style.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is usually true of situations where the challenge is not only difficult but the action must be pulled off with finesse.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est généralement vrai dans les situations ou le défi n'est pas uniquement de battre une difficulté mais aussi de s'en sortir avec finesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tests of this sort may call for a certain Margin of Success (MoS)—an amount by which the character must roll under the target number.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les tests de ce type peuvent nécessiter un certain degré de Marge de Réussite (MdR) - un écart sous le seuil que le joueur doit atteindre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, a character facing a target number of 55 and a MoS of 20 must roll equal to or less than a 35 to succeed at the level the situation calls for.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, un personnage faisant face à un seuil de 55 et une MdR de 20 doit obtenir un résultat inférieur ou égal à 35 pour atteindre le degré de réussite nécessaire pour la situation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An enemy has thrown an incendiary device near Stoya.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un ennemi a lancé un objet incendiaire non loin de Stoya.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She has only a moment to act and decides to try to kick it away from herself.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle 'a qu'un instant pour agir et décides de la dégager loin d'elle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even better, she hopes to kick it into the open maintenance hatch a dozen meters away.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Encore mieux, elle espère la dégager droit dans la porte ouverte du sas de maintenance à une douzaine de mètre de là.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster determines that in order to kick it into the hatch, Stoya needs to succeed with an MoS of 30.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu détermine que, afin de shooter l'objet dans le sas, Stoya doit obtenir une MdR de 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Her Unarmed Combat skill is 66, so Stoya needs to roll 66 or less to kick the device away (though she may still be damaged when it explodes), and 36 or less to kick it into the hatch (in which case she will be completely safe when it detonates).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sa compétence de Combat À Mains Nues est de 66, Stoya doit donc obtenir 66 ou moins pour envoyer l'objet au loin (bien qu'elle puisse toujours subir des dégats lorsqu'il explosera) et 36 ou moins pour l'envoyer dans le sas (auquel cas, elle sera abritée totalement au moment de l'explosion).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She rolls a 44—missing the hatch, but scoring a critical success!</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle obtient un 44 - ratant le sas, mais obtenant un succès critique!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Her aim is off, but the gamemaster decides that the device rebounds off some machinery and falls into the hatch anyway.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle rate sa cible, mais le maître de jeu décide que l'appareil rebondit sur une mchinerie quelconque et finit par tomber dans le sas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At other times, it may be important to know how badly a character fails, as determined by a Margin of Failure (MoF), which is the amount by which the character rolled over the target number.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A d'autres moment, il peut être important de savoir à quel point un personnage échoue, déterminé par la Marge d'Échec (MdE), qui est l'écart entre le score du personnage et le seuil du jet/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In some cases, a test may note that a character who fails with a certain MoF may suffer additional consequences for failing so dismally.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans certaisn cas, un test peut indiquer qu'un personnage qui échoue avec une certaine MdE peut souffrir de conséquences additionnelles pour avoir échouer si lamentablement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nico is trying to sketch out a picture of someone's face.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nico essayes de dfessiner de mémoire le visage de quelqu'un.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>He has eidetic memory, but his drawing needs to be good enough for someone else to identify the person.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il a une mémoire éidétique, mais son dessin doit être suffisament bon pour que quelqu'un d'autre puisse identifier la personne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>He rolls against his Art: Drawing skill of 34, scoring a 97—a MoF of 63.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il fait un jet avec sa compétence Art: Dessin de 34, et obtient un 97 - Une MdE de 63.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The illustration is so bad that the gamemaster determines that anyone using that picture to identify the person will need to score a MoS of at least 63 on a Perception Test to recognize the person.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'illustration est tellement mauvaise que le maître de jeu détermine que quiconque utilisera ce dessin pour identifier la personne devra obtenir une MdR d'au moins 63 sur un Test de Perception pour la reconnaître.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Excellent successes/severe failures}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Réussites Exceptionelle/Échec Catastrophique}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Excellent Successes and Severe Failures are a method used to benchmark successes and failures with an MoS or MoF of 30+.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Réussites Exceptionnelle et les Échecs Catastrophiques sont une méthode utilisée pour évaluer une réussite ou un échec avec une MdR ou une MoE de 30+.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Excellent Successes are used in situations where an especially good roll may boost the intended effect, such as inflicting more damage with a good hit in combat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Réussites Exceptionnelles sont utilisés dans les situations où un jet particulièrement bon peut améliorer l'effet désiré, tels que infliger plus de domage avec un bon coup en combat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Severe Failures denote a roll that is particularly bad and has a worse effect than a simple failure.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Échecs Catastrophiques signalent un résultat particulièrement mauvais et à des effest pire qu'un simple échec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Neither Excellent Successes or Severe Failures are as good or bad as criticals, however.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ni les Réussites Exceptionnelles ni les Échecs Catastophiques sont aussi bon ou mauvais que les critiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stoya has been caught in a deal gone bad.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stoya s'est rertrouvée embarquée dans une négociation qui a dégénérée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She moves to kick her opponent using her Unarmed Combat of 65.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle se déplaces pour donner un coup de pied à son adversaire utilisant son compétences de Combats à Mains Nues de 65.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She rolls a 33 (for an MoS of 32), and her opponent rolls a 21 (also successful, but less than Stoya, so she wins).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle obtient 33 (pour une MdR de 32) et son opposant obtient un 21 (également un succès, elle l'emporte donc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She has succeeded and beaten her opponent with an MoS of 30+, scoring an Excellent Success, meaning she will inflict extra damage with the kick.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle réussit et bat son adversaire avec une MdR de 30+, obtenant une Réussite Exceptionnelle, signifiant qu'elle infligera des dommages supplémentaires avec son coup de pied.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Some stats and traits, however, are determined by morph, as noted, and so will change if your character leaves one body and takes on another.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -7510,30 +7806,6 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Æther Jabber: Asyncs} &lt;u0&gt; Start Æther Jabber &lt;u1&gt; &lt;br0&gt;</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>{Æther Jabber: Asyncs} &lt;u0&gt; Lancement de Æther Jabber &lt;u1&gt; &lt;br0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>&lt;u2&gt; Active Members: 2</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>&lt;u2&gt; Membres Actifs: 2</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>1&lt;/i0&gt;&lt;/i0&gt; Sorry to bother you, but my muse just alerted me to this excerpt that was sent around to my Firewall team. Is this for real?</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>1&lt;/i0&gt;&lt;/i0&gt; Désolé de te déranger, mais ma muse vient de m'alerter que cet extrait a été evoyé à mon équipe Firewall. Est-ce que tout ça est vrai?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>I’ve heard the talk about psi before—enough to be convinced that there’s something to it, even if we can’t explain it—but this bit about variant Exsurgent infection is too much.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -7574,14 +7846,6 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>2&lt;/i0&gt;&lt;/i0&gt; Well, as to the Medeans ... that’s history.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>2&lt;/i0&gt;&lt;/i0&gt; Ouais, à propos des Médéens ... c'ets du passé.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>I am back on the freelancing market right now.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -7602,22 +7866,6 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Je sait que ce n'est pas simple à saisir.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>1&lt;/i0&gt;&lt;/i0&gt; Shiny.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>1&lt;/i0&gt;&lt;/i0&gt; Brillant.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>2&lt;/i0&gt;&lt;/i0&gt; Yes, Srit was once infected with a strain of the Exsurgent virus, probably on Mars near the end of the Fall.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>2&lt;/i0&gt;&lt;/i0&gt; Oui, Srit a été infecté par une souche du virus Exsurgent, probablement sur Mars pas loin autour de la fin de la Chute.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7686,30 +7934,6 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>2&lt;/i0&gt;&lt;/i0&gt; That seems like a wise choice.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>2&lt;/i0&gt;&lt;/i0&gt; Ça à l'air d'un choix sage.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>1&lt;/i0&gt;&lt;/i0&gt; Maybe you can put my mind at ease by explaining to me in a bit more detail how Watts-MacLeod infection occurs.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>1&lt;/i0&gt;&lt;/i0&gt; Tu peux peut-être clarifier mes pensées en me donnant un peu plus de détail sur la manière dont se produit l'infection par la souche Watts-MacLeod.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>2&lt;/i0&gt;&lt;/i0&gt; Well, like the other Exsurgent strains you are unfortunately familiar with, the primary transmission vector is a nanovirus, but we speculate that it may also be transmitted as a digital computer virus or possibly even as a basilisk hack.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>2&lt;/i0&gt;&lt;/i0&gt; Bien, comme toutes les autres souches Exsurgente avec lesquelles tu es malheureusement familier, le principal vecteur de transmission est un nanovirus, mais nous pensont qu'il puisse également être transmis comme un virus informatique ou peut-être même par un piratage basilique.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>The physical plague form is spread by highly-advanced techno-organic nanobots that infect a biomorph and use bio-mimicry mechanisms to pass as normal cells and penetrate the blood-brain barrier and central nervous system.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -7742,26 +7966,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>1&lt;/i0&gt;&lt;/i0&gt; I’ve heard that synthmorphs are effectively invulnerable to psi as well.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>1&lt;/i0&gt;&lt;/i0&gt; J'ai entendu dire que les synthmorphs sont effectivement invulnérables au psi.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>This true?</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>C'est vrai?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>2&lt;/i0&gt;&lt;/i0&gt; Yes.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>2&lt;/i0&gt;&lt;/i0&gt; Oui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7798,14 +8006,6 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>1&lt;/i0&gt;&lt;/i0&gt; Interesting.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>1&lt;/i0&gt;&lt;/i0&gt; Intéressant.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>So, I have to ask again— you’re sure she’s safe?</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -7818,14 +8018,6 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>J'ai entendu dire que certains de ces asyncs peuvent être de vrais cinglés.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>2&lt;/i0&gt;&lt;/i0&gt; I’ve heard from several of these asyncs directly.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>2&lt;/i0&gt;&lt;/i0&gt; J'ai entendu parler de plusieurs de ces asyncs directement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7894,14 +8086,6 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>2&lt;/i0&gt;&lt;/i0&gt; Unfortunately, we don’t.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>2&lt;/i0&gt;&lt;/i0&gt; Malheureusement, non.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>Even the Prometheans haven’t been much help.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -7926,14 +8110,6 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>1&lt;/i0&gt;&lt;/i0&gt; Of course.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>1&lt;/i0&gt;&lt;/i0&gt; Bien sûr.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>The TITANs didn’t get us, but we can still get ourselves.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -7946,14 +8122,6 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Le fait que nous n'ayons rien m'inquiètes.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>2&lt;/i0&gt;&lt;/i0&gt; It’s important to keep perspective.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>2&lt;/i0&gt;&lt;/i0&gt; C'est important de prendre du recul.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10870,14 +11038,6 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>If the async is hit by a psi attack, they receive WIL $&lt;u0&gt;$ 5 (round up) points of armor, reducing the amount of damage inflicted.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Si l'async est touché par une attaque psi, ils reçoivent VOL $&lt;u0&gt;$ 5 (arrondir au supérieur) points d'armure, réduisant le total de dommage infligés.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>They also receive a +10 modifier when resisting any other sleights.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -10898,14 +11058,6 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Frappe Psychique est un exploit offensif qui cherche à infliger des dommages physique sur le cerveau et le système nerveux de la cible.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Each successful attack inflicts 1d10 + (WIL $&lt;u0&gt;$ 10, round up) damage.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Chaque attaque réussie inflige 1d10 + (VOL $&lt;u0&gt;$ 10, arrondi au supérieur) points de dommage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11806,14 +11958,6 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>&lt;i2&gt;SV:&lt;/i2&gt; (1d10 $&lt;u0&gt;$ 2, round up) &lt;br0&gt;</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>&lt;i2&gt;VS:&lt;/i2&gt; (1d10 $&lt;u0&gt;$ 2, arrondi au supérieur) &lt;br0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>Commonly used for criminal rehabilitation, behavioral control attempts to limit, block, or expunge a specific behavior from the subject’s psyche.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -11862,26 +12006,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>They will find themselves completely incapable of initiating a behavior that is expunged, and if forced into the behavior will suffer a –30 modifier and (1d10 $&lt;u1&gt;$ 2, round up) points of mental Stress.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Il sera complètement incapable d'initier un comportement qui a été effacé et, si il est forcé dans ce comportement, souffrira d'un modificateur de -30 et recevra (1d10 $&lt;u1&gt; $2, arrondi au supérieur) point de Stress mental.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>Likewise, a character will feel compelled to pursue a behavior that is boosted, and will find it hard to avoid engaging in a behavior that is encouraged (requiring a WIL x 3 Test to avoid).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>De la même manière, un personnage se sentira contarint de suivre un comportement qui a été amplifié et trouvera difficile d'éviter de suivre un comporter qui est encouragé (nécessitant un test de VOL x 3 pour l'éviter).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>They will have no choice but to engage in enforced behaviors, and will suffer (1d10 $&lt;u2&gt;$ 2, round up) points of mental Stress if prevented from doing so.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Ils n'auront aps d'autres choix que sde suivre un comportement forcé, et souffriront de (1d10 $&lt;u2&gt;$ 2, arrondi au supérieur) point de Stress mental si ils sont empécher de le faire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11898,14 +12026,6 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>&lt;i1&gt;MP:&lt;/i1&gt; –20 &lt;br0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>&lt;i2&gt;SV:&lt;/i2&gt; 1d10 $&lt;u0&gt;$ 2, round up &lt;br0&gt;</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>&lt;i2&gt;VS:&lt;/i2&gt; 1d10 $&lt;u0&gt;$ 2, arrondi au supérieur&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11942,14 +12062,6 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Deep Learning} &lt;i0&gt;Timeframe:&lt;/i0&gt; Skill Learning Time $&lt;u0&gt;$ 2 &lt;br0&gt;</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>{Apprentissage en Profondeur} &lt;i0&gt;Intervalle:&lt;/i0&gt; Temps d'Apprentissage de la Compétence$&lt;u0&gt;$ 2 &lt;br0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>&lt;i1&gt;PM:&lt;/i1&gt; +20 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -11978,14 +12090,6 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>{Contrôle Émotionnel} &lt;i0&gt;Intervalle:&lt;/i0&gt; 1 sem. &lt;br0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>&lt;i2&gt;SV:&lt;/i2&gt; (1d10 $&lt;u0&gt;$ 2, round up) + 2 &lt;br0&gt;</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>&lt;i2&gt;VS:&lt;/i2&gt; (1d10 $&lt;u0&gt;$ 2, arrondi au supérieur) + 2&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12122,14 +12226,6 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>&lt;i1&gt;MP:&lt;/i1&gt; Mineur –10; Modéré –20, Majeur –30 &lt;br0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>&lt;i2&gt;SV:&lt;/i2&gt; (1d10 $&lt;u0&gt;$ 2, round up) + 3 &lt;br0&gt;</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>&lt;i2&gt;VS:&lt;/i2&gt; (1d10 $&lt;u0&gt;$ 2, arrondi au supérieur) + 3 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12362,14 +12458,6 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>{Les Égarés}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>$&lt;u0&gt;$ begin excerpt $&lt;u0&gt;$ &lt;br0&gt;</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>$&lt;u0&gt;$ début d'extrait $&lt;u0&gt;$ &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12642,14 +12730,6 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Dans la population restante, *** ont cherché un refuge chez des autorités sympathisantes, *** se sont révélées au public et se sont soumit à une psychothérapie intense, *** furent tués dans des incidents violents et n'ont pas rescussités et le reste est supposé se cacher quelque part.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>$&lt;u0&gt;$ end excerpt $&lt;u0&gt;$</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>$&lt;u0&gt;$ fin de l'extrait $&lt;u0&gt;$</seg>
       </tuv>
     </tu>
     <tu>
@@ -18042,6 +18122,222 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Rappelles-toi: la mort est juste la routine du boulot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Æther Jabber: Asyncs} &lt;u0&gt; Start Æther Jabber &lt;u1&gt; &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Æther Jabber: Asyncs} &lt;u0&gt; Lancement de Æther Jabber &lt;u1&gt; &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u2&gt; Active Members: 2</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u2&gt; Membres Actifs: 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1&lt;/i0&gt;&lt;/i0&gt; Sorry to bother you, but my muse just alerted me to this excerpt that was sent around to my Firewall team. Is this for real?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1&lt;/i0&gt;&lt;/i0&gt; Désolé de te déranger, mais ma muse vient de m'alerter que cet extrait a été evoyé à mon équipe Firewall. Est-ce que tout ça est vrai?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; Well, as to the Medeans ... that’s history.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; Ouais, à propos des Médéens ... c'ets du passé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1&lt;/i0&gt;&lt;/i0&gt; Shiny.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1&lt;/i0&gt;&lt;/i0&gt; Brillant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; Yes, Srit was once infected with a strain of the Exsurgent virus, probably on Mars near the end of the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; Oui, Srit a été infecté par une souche du virus Exsurgent, probablement sur Mars pas loin autour de la fin de la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; That seems like a wise choice.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; Ça à l'air d'un choix sage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1&lt;/i0&gt;&lt;/i0&gt; Maybe you can put my mind at ease by explaining to me in a bit more detail how Watts-MacLeod infection occurs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1&lt;/i0&gt;&lt;/i0&gt; Tu peux peut-être clarifier mes pensées en me donnant un peu plus de détail sur la manière dont se produit l'infection par la souche Watts-MacLeod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; Well, like the other Exsurgent strains you are unfortunately familiar with, the primary transmission vector is a nanovirus, but we speculate that it may also be transmitted as a digital computer virus or possibly even as a basilisk hack.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; Bien, comme toutes les autres souches Exsurgente avec lesquelles tu es malheureusement familier, le principal vecteur de transmission est un nanovirus, mais nous pensont qu'il puisse également être transmis comme un virus informatique ou peut-être même par un piratage basilique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1&lt;/i0&gt;&lt;/i0&gt; I’ve heard that synthmorphs are effectively invulnerable to psi as well.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1&lt;/i0&gt;&lt;/i0&gt; J'ai entendu dire que les synthmorphs sont effectivement invulnérables au psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; Yes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; Oui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1&lt;/i0&gt;&lt;/i0&gt; Interesting.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1&lt;/i0&gt;&lt;/i0&gt; Intéressant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; I’ve heard from several of these asyncs directly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; J'ai entendu parler de plusieurs de ces asyncs directement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; Unfortunately, we don’t.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; Malheureusement, non.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1&lt;/i0&gt;&lt;/i0&gt; Of course.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1&lt;/i0&gt;&lt;/i0&gt; Bien sûr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; It’s important to keep perspective.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; C'est important de prendre du recul.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the async is hit by a psi attack, they receive WIL $&lt;u0&gt;$ 5 (round up) points of armor, reducing the amount of damage inflicted.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'async est touché par une attaque psi, ils reçoivent VOL $&lt;u0&gt;$ 5 (arrondir au supérieur) points d'armure, réduisant le total de dommage infligés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each successful attack inflicts 1d10 + (WIL $&lt;u0&gt;$ 10, round up) damage.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque attaque réussie inflige 1d10 + (VOL $&lt;u0&gt;$ 10, arrondi au supérieur) points de dommage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i2&gt;SV:&lt;/i2&gt; (1d10 $&lt;u0&gt;$ 2, round up) &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i2&gt;VS:&lt;/i2&gt; (1d10 $&lt;u0&gt;$ 2, arrondi au supérieur) &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They will find themselves completely incapable of initiating a behavior that is expunged, and if forced into the behavior will suffer a –30 modifier and (1d10 $&lt;u1&gt;$ 2, round up) points of mental Stress.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il sera complètement incapable d'initier un comportement qui a été effacé et, si il est forcé dans ce comportement, souffrira d'un modificateur de -30 et recevra (1d10 $&lt;u1&gt; $2, arrondi au supérieur) point de Stress mental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They will have no choice but to engage in enforced behaviors, and will suffer (1d10 $&lt;u2&gt;$ 2, round up) points of mental Stress if prevented from doing so.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils n'auront aps d'autres choix que sde suivre un comportement forcé, et souffriront de (1d10 $&lt;u2&gt;$ 2, arrondi au supérieur) point de Stress mental si ils sont empécher de le faire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i2&gt;SV:&lt;/i2&gt; 1d10 $&lt;u0&gt;$ 2, round up &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i2&gt;VS:&lt;/i2&gt; 1d10 $&lt;u0&gt;$ 2, arrondi au supérieur&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Deep Learning} &lt;i0&gt;Timeframe:&lt;/i0&gt; Skill Learning Time $&lt;u0&gt;$ 2 &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Apprentissage en Profondeur} &lt;i0&gt;Intervalle:&lt;/i0&gt; Temps d'Apprentissage de la Compétence$&lt;u0&gt;$ 2 &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i2&gt;SV:&lt;/i2&gt; (1d10 $&lt;u0&gt;$ 2, round up) + 2 &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i2&gt;VS:&lt;/i2&gt; (1d10 $&lt;u0&gt;$ 2, arrondi au supérieur) + 2&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i2&gt;SV:&lt;/i2&gt; (1d10 $&lt;u0&gt;$ 2, round up) + 3 &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i2&gt;VS:&lt;/i2&gt; (1d10 $&lt;u0&gt;$ 2, arrondi au supérieur) + 3 &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>$&lt;u0&gt;$ begin excerpt $&lt;u0&gt;$ &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>$&lt;u0&gt;$ début d'extrait $&lt;u0&gt;$ &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>$&lt;u0&gt;$ end excerpt $&lt;u0&gt;$</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>$&lt;u0&gt;$ fin de l'extrait $&lt;u0&gt;$</seg>
       </tuv>
     </tu>
     <tu>
