@@ -1782,6 +1782,278 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Opposed tests}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Tests en Opposition}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An Opposed Test is called for whenever a character's action may be directly opposed by another.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un Test en Opposition est demandé lorsque l'action d'un personnage s'oppose directement à l'action d'un autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Regardless of who initiates the action, both characters must make a test against each other, with the outcome favoring the winner.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Indépendemment de qui commence l'action, les deux personnages doivent faire un test l'un contre l'autre, dont le résultat faavorisera le gagnant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To make an Opposed Test, each character rolls d100 against a target number equal to the relevant skill(s) along with any appropriate modifiers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour réaliser un Test en Opposition, chaque personnage lance 1d100 contre un seuil égal à la compétence appropriée modifiée selon la situation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If only one of the characters succeeds (rolls equal to or less than their target number), that character has won.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un seul des des personnages réussit (obtient un résultat inférieur ou égal à son seuil), ce personnage l'emporte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If both succeed, the character who gets the highest dice roll wins.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si les deux réussissent, le personnage qui obtient le résultat le plus élevé gagne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If both characters fail, or they both succeed and roll the same number, then a deadlock occurs—the characters remain pitted against each other, neither gaining ground, until one of them takes another action and either breaks away or makes another Opposed Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si les deux personnages échouent, o si ils réussissent et obtiennent le même résultat, la situation est une impasse - les personnages restent au même niveau, l'un contre l'autre jusqu'à ce que l'un des deux tente quelque chose et parvienne à sortir de la situation ou décide de faire un autre Tests en Opposition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that critical successes trump high rolls in an Opposed Test—if both characters succeed and one rolls 54 while the other rolls 44, the critical roll of 44 wins.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les succès critiquent surpassent le meilleur résultat dans un Test en Opposition - si les deux personnages réussissent et que 'lun obtient 54 et l'autre 44, celui qui obtient le résultat critique de 44 l'emporte sur l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Care must be taken when applying modifiers in an Opposed Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il faut apporter une attention particulière aux modificateurs à appliquer dans les Tests en Opposition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some modifiers will affect both participants equally, and should be applied to both tests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains modificateurs affecteront de manière égales es deux participants et doivent être appliqués aux deux tests.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a modifier arises from one character's advantage in relation to the other, however, that modifier should only be applied to benefit the favored character; it should not also be applied as a negative modifier to the disadvantaged character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un modificateurs émerge d'un avantage d'un personnage sur l'autre, ce modificateur ne devrait s'appliquer qu'au bénéfice du personnage avantagé; il ne devrait aps être apliqué en temps que modificateur négatif au personnage désavantagé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Zhou has been hired by the Jovian Republic to infiltrate his old pirate band.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Zhou a été employé par la République Jovienne pour infiltré son ancien équipage pirate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even though he's resleeved in a new skin, he's worried that one of his old buddies, Wen, might recognize his mannerisms, since they lived, whored, and raided together for years.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même si il s'est réincarné dasn une nouvelle peau, il s'inquiète du fait que l'un de ses anciens pote, Wen, puisse reconnaître ses manières étant donné qu'ils ont vécus, partagés des filles et menés des raids ensemble pendant des années.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>After Zhou has spent some time in Wen's company, the gamemaster makes a secret Opposed Test, pitting Zhou's Impersonation skill of 57 against Wen's Kinesics of 34.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Après que Zhou ait passé un peu de temps en compagnie de Wen, le maître de jeu fait un Test en Opposition secret, opposant la compétence Imitation de 57 de Zhou contre la Kinésique de 34 de Wen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster decides to give Wen a bonus +20, since he is so familiar with his former buddy and has been on the lookout for him, eager to repay the old grudge that split them apart.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu décide de donner à Wen un bonus de +20 étant donné qu'il est extrêmemet familier de son vieux pote et qu'il le recherche activement, impatient de lui faire payer la vieille rancune qui les as séparés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wen's target number is now 54.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le seuil de Wen est de 54.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster rolls for both.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La maître de jeu lance les dés pour les deux protagonistes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Zhou scores a 45 and Wen a 39.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Zhou obtient 45 et Wen 39.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Both succeed, but Zhou rolled higher, so his deception is successful.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les deux réussissent, mais Zhou obtient un meilleur résultat, son mensonge est donc une réussite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster decides that Wen finds something about Zhou to be familiar, but he can't put his finger on it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu décide que Wen trouve quelquechose de familier à Zhou, sans pouvoir mettre le doigt dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Opposed tests and margin of success/failure}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Tests en Oppositiosn et Marge de Réussite/d'Échec)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In some cases, it may also be important to note a character's Margin of Success or Failure in an Opposed Test, as with a Success Test above.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans certains cas, il peut être important de prendre en compte la Marge de Réussite ou d'Echec dans un Test en Opposition, de la même manière qu'avec un Test de réussite comme décrit ci-dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, the MoS/MoF is still determined by the difference between the character's roll and their target number—it is not calculated by the difference between the character's roll and the opposing character's roll.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, la MdR/MdE est toujours déterminer par l'écart entre le jet d'un personnage et son seuil - elle n'est aps calculée par la différence entre le résultat obtenus par les deux personnages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Variable opposed test}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Tests en Opposition variables}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In some cases, the rules will call for a Variable Opposed Test, which allows for slightly more outcomes than a standard Opposed Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans certains cas, les règles demandent un Test en Opposition Variable, qui permet des issues plus fines qu'un test en Opposition standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If both characters succeed in a Variable Opposed Test, then an outcome is obtained which is different from just one character winning over the other.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si les deux personnages réussissent à un Test en Opposition Variable, alors l'issue est juste différente de la simple victoire d'un personnage sur l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The exact outcomes are noted with each specific Variable Opposed Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'issue exacte est notée avec cahque Test en Opposition Variable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jaqui needs to hack into a local network to retrieve some video footage.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Jaqui a besoin de hacker un réseau local pour récupérer des extraits vidéos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The network is ac- tively defended by an AI, so a Variable Opposed Test is called for, pitting Jaqui's Infosec skill of 48 against the AI's Infosec of 25.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le réseau est activement défendu par une IA, un Test en Opposition Variable est donc demandé, opposant la Compétence Infosec de 48 de Jacqui contre l'Infosec de 25 de l'IA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jaqui rolls a 48—a success—but the AI rolls a 14—also a success.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Jaqui obtient un 48 - une réussite - mais l'IA obtien un 24 - également une réussite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this circumstance, Jaqui succeeds in hacking in, but the AI is aware of the infiltration and can take active countermeasures against her.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ces circonstances, Jaqui réussit a hacker le réseau, mais l'IA est consciente de l'infiltration et peut prendre des contre-meusre active contre Jaqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Time and actions</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Temps et Actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though the gamemaster is responsible for managing the speed at which events unfold, there are times when it is important to know exactly who is acting when, especially if some people are acting before or after other people.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que la maître de jeu soit responsable de la gestion de la vitesse à laquelle se déroule els évènements, il y a des moments où il est important de savoir exactement qui agît quand, particulièrement si des personnages agissent avant ou après d'autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In these circumstances, gameplay in Eclipse Phase is broken down into intervals called Action Turns.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ces circonstances, le jeu dans Eclipse Phase est divisé en intervalle appelés Tour d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Some stats and traits, however, are determined by morph, as noted, and so will change if your character leaves one body and takes on another.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
