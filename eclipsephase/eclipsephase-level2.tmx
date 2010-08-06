@@ -2054,6 +2054,358 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Action turns}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Tours d'Action}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each Action Turn is three seconds long, meaning there are twenty Action Turns per minute.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque Tour d'Action dure trois secondes, ce qui signifie qu'il y a vingt Tours d'Action par minute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The order in which characters act during a turn is determined by an Initiative Test (see Initiative, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'ordre dans lequel les personnages agissent durant un tour est déterminé par n test d'Initiative (voir Initiative, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Action Turns are further subdivided into Action Phases.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Tours d'Actions sont ensuite subivisés en Phases d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each character's Speed stat (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La stat Vitesse (p. 121) de chaque personnage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>121) determines the amount of actions they can take in a turn, represented by how many Action Phases they may take.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>détermine le total d'actions qu'ils peuvent faire en un tour, représenté par le nombre de Phases d'Action qu'ils peuvent prendre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Types of actions}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Types d'actions}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The types of actions a character may take in an Action Turn are broken down to: Automatic, Quick, Complex, and Task actions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le type d'action qu'un personnage peu prendre en un Tour d'Action sont réparties en quatre type: Action Automatique, Rrapide, Complexe et de Tâches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{automatic actions}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Actiosn automatiques}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Automatic actions are “always on” and require no effort from the character, assuming they are conscious.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les actions automatiques sont &quot;toujours actives&quot; et ne nécessite pas d'effort de la part du personnage, en partant du principe qu'ils sont conscient.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Examples: basic perception, certain psi sleights</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Exemples: perception simple, certains exploits psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Quick actions}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Actions rapide}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Quick actions are simple, so they can be done fast and can be multi-tasked.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les actions rapide sont simples, elles peuvent donc être exécutées rapidement et simultanément à d'autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster determines how many Quick actions a character may take in a turn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu décide combien d'actions Rapide un personnage peut prendre en un tour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Examples: talking, switching a safety, activating an implant, standing up</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Exemples: parler, basculer un cran de sureté, activer un implant, se relever.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Complex actions}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Actions complexe}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Complex actions require concentration or effort.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les actions Complexes recquiert concentration et effort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The number of Complex actions a character may take per turn is determined by their Speed stat (see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le nombre d'actions Complexe qu'un personnage peut faire en un tour est déterminé par sa stat Vitesse (voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Examples: attacking, shooting, acrobatics, disarming a bomb, detailed examination</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Exemples: attaquer, tirer, acrobaties, désarmer une bombe, examen détaillé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Task actions}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Actiosn de Tâche}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Task actions are any actions that require longer than one Action Turn to complete.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les actiosn de Tâches sont des actiosnq ui nécessitent plus de temps qu'un Tour d'Action pour se réaliser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each Task action has a timeframe, usually listed in the task description or otherwise determined by the gamemaster.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque action de Tâche à un intervalle de temps, habituellement listé dans la description de la tâche ou déterminée par le maître de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The time-frame determines how long the task takes to complete, though this may be reduced by 10 percent for every 10 full points of MoS the character scores on the test (see Margin of Success/Failure, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'intervalle de temps détermine la durée que nécessite la tâche pour être terminée, bien que ce temps puisse être réduit de 10 pourcent pour chaque tranche complète de 10 points de MdR obtenu par le personnage (voir Marge de Succès/d'Échec, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a character fails on a Task action test roll, they work on the task for a minimum period equal to 10 percent of the timeframe for each 10 full points of MoF before realizing it's a failure.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un personnage rate un jet pour une action de Tâche, ils travaillent à la tâche pendant une période minimale égale à 10 pourcent de l'intervalle de temps pour chaque tranche complète de 10 points de MdE avant de s'apercevoir de leur échec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For Task actions with timeframes of one day or longer, it is assumed that the character only works eight hours per day.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour les actiosn de Tâche avec un intervalle de temps de plus d'une journée, on part du principe que le personnage travaille 8 heures par jour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character that works more hours per day may reduce the time accordingly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un eprsonnage travaillant plsu de huit heures par jour réduit le temps nécessaire en proportion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters working on Task actions may also interrupt their work to do something else and then pick up where they left off, unless the gamemaster rules that the action requires continuous and uninterrupted attention.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages travaillant à des actions de Tâche peuvent interrompre leur travail pour faire quelque chose d'autre et reprendre ensuite le boulot là où ils l'ont arrété, sauf si le maître de jeu décide que l'acion nécessite une attention continue et ininterrompue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Similar to taking the time (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire à celle utilisée pour Prendre son Temps (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>117), a character may rush the job on a Task action, taking a penalty on the test in order to decrease the timeframe.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>117), un personnage peut accélérer le bopulot sur une action de Tâche, en prenant une pénalité sur le test afin de réduire l'intervalle de temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character must declare they are rushing the job before they roll the test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage doit déclarer qu'il précipite son action avant de lancer les dés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For every 10 percent they wish to reduce the timeframe, they incur a –10 modifier on the test (to a maximum reduction of 60 percent with a maximum modifier of –60).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour chaque réduction de 10% de l'intervalle de temps, il reçoit un modificateur de -10 à son test (jusqu'à un maximum de 60 pourcent pour un odificateur maximal de -60).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Defining your character</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Définir votre personnage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In order to gauge and quantify what your character is merely good at and what they excel in—or what they are clueless about and suck at—Eclipse Phase uses a number of measurement factors: stats, skills, traits, and morphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Afin d'évaluer et de quantifier les domaines que votre personnage connaît à peine et ceux dans lesquels il est un exepert - ou pour déterminer ce pour quoi ils n'ont aucune idée ou ce à quoi ils sont nuls - Eclipse Phase utilise un nombre de facteurs d'évaluation: stats, compétences, traits et morphs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each of these characteristics is recorded and tracked on your character's record sheet (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chacune de ces caractéristiques est enregistrée et suivie sur votre fiche de personnage (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{concept}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Concept}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your character concept defines who you are in the Eclipse Phase universe.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le concept de votre personnage définit qui vous êtes dansl'univers d'Eclipse Phase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You're not just a run-of-the-mill plebeian with a boring and mundane life, you're a participant in a post- apocalyptic transhuman future who gets caught up in intrigue, terrible danger, unspeakable horrors, and scrambling for survival.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous n'êtes pas juste un plébéien moyen avec une vie ennuyante et monotone, vous êtes un participant actif d'un futur transhumain et post-apocalyptic qui se retrouve embarqués dans des intrigues, de terribles dangers, d'innomables horreurs et qui se débat pour sa survie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Much like a character in an adventure, drama, or horror story, you are a person to whom interesting things happen—or if not, you make them happen.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme à peu près tous les personnages dans une aventure, un drame ou une histoire d'horreur, vous êtes une personne à qui il arrive des choses intéressants - ou si ce n'est aps le cas, vous faites en sorte que cela vous arrive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This means your character needs a distinct personality and sense of identity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela signifie que votre personnage a besoin d'une personnalité distincte et d'un sens de l'identité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the very least, you should be able to sum up your character concept in a single sentence, such as “cantankerous neotenic renegade archaeologist with anger management issues” or “thrill-seeking social animal who is dangerously obsessed with conspiracy theories and mysteries.” If it helps, you can always borrow ideas from characters you've seen in movies or books, modifying them to fit your tastes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A l'extrême limite, vous devriez être capable de résumer le concept de votre personnage en une phrase simple, telle que &quot;un archéologiste renégat néoténique et aigri avec des problèmes de gestion de la colère&quot; ou &quot;un animal social casse-cou qui est dangereusement obsédé par les théories conspirationnsites et les mystères.&quot; Si cela vous aide, vous pouvez toujors emprunter des idées d'autres personnage que vous avez vu dans un film ou des livres, en les adapatant à vos goûts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your character's concept will likely be influenced by two important factors: background and faction.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le concept de votre personnage sera probablement influencé par deux facteurs importants: passé et faction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your background denotes the circumstances under which your character was raised, while your faction indicates the post-Fall grouping to which you most recently held ties and allegiances.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Votre passé indique les circonstances dans lesquelles votre eprsonnage a été éduqué, alors que votre faction indique le plsu récent groupe post-Chute avec lequel vous avez gardé des attaches et des allégeance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Both of these play a role in character creation (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les deux éléments jouent un rôle dans la création de eprsonnage (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{motivations}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Motivations}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Some stats and traits, however, are determined by morph, as noted, and so will change if your character leaves one body and takes on another.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
