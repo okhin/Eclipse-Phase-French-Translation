@@ -2390,6 +2390,62 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>122) and earn Rez Points for character advancement (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>122) et des points de Rez pour l'avancement du personnage (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Motivational goals may be short-term or long-term, and may in fact change for a character over time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les objectifs motivés peuvent être à court ou moyen terme, et peuvent de fait évoluer au fil du temps pour un personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Short-term goals are more immediately obtainable objectives or short-lived interests, and these goals are likely to change once achieved.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des objectifs à court-terme sont atteignables plus immédiatement ou de simples passades, et ces buts sont plus sujet à changer une fois atteint.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even so, they should reflect intentions that will take more than one game session to reach, possibly covering weeks or months.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même ainsi, ils doivent refléter des intentions qui prendront plus d'une session de jeu à accomplir, pouvant couvrir plusieurs semaines ou mois de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These short-term goals may in fact tie directly into the gamemaster's current storyline.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces objectifs à court terme peuvent en fait être directement liés à la trame de jeu du maître de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Examples include conducting a full analysis of an alien artifact, completing a research project, or living life as an uplifted dog for a while.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les exemples incluent mener une analyse complète d'un artefact étranger, compléter un projet de recherche ou vivre une vie d'un chien élevé pendant un moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Long-term goals reflect deeply rooted beliefs or tasks that require major efforts and time (possibly lifelong) to achieve.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les objectifs à long-terme reflètent des croyances profondément implanté dans la personnalité du personnage ou des tâches qui nécessitent un effort majeur et du temps (probablement le temps d'une vie) pour s'accomplir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Some stats and traits, however, are determined by morph, as noted, and so will change if your character leaves one body and takes on another.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
