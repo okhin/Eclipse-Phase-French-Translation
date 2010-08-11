@@ -2446,6 +2446,86 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>For example, finding the lost backup of a sibling missing since the Fall, overthrowing an autocratic regime, or making first contact with a new alien species.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, trouver la sauvegarde perdue d'un parent proche disparu depuis la Chute, faire tomber un régime autoritaire ou établir un premier contact avec une nouvelle espèce alien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For purposes of awarding Moxie or Rez Points, long-term goals are best broken down into obtainable chunks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans le cadre de l'attribution de points de Moxie ou de Res, les objectifs à long terme ont intérêt à être divisés en plusieurs parties obtenable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Someone whose goal is to track down the murderer who killed their parents when they were a child, for example, can be considered to achieve that goal every time they discover some evidence that brings them a little closer to solving the puzzle.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelqu'un dont le but est de pourchasser le meurtrier qui a tué ses parents lorsqu'il était un enfant, peut considéré que son objectif est atteint à chaque fois qu'il découvre des pièces manquantes au puzzle, le rapprochant de so nobjectif final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Ego vs. morph}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Ego contre morph}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Eclipse Phase's setting dictates that a distinction must be made between a character's ego (their ingrained self, their personality, and inherent traits that perpetuate in continuity) and their morph (their ephemeral physical—and sometimes virtual—form).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le cadre de jeu d'Eclipse Phase impose qu'une distinction soit faites entre l'égo d'un personnage (leur identité, leur personnalité et les traits inhérents à ces aspects qui se perpétue dans la continuité) et leur morph (leur forme physique - et parfois virtuelle - éphémère).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character's morph may die while the character's ego lives on (assuming appropriate backup measures have been taken), transplanted into a new morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La morph d'un personnage peut mourrir alors que son ego survit (en supposant que des mesures de sauvegardes appropriées ont été prise),transplanté dans une nouvelle morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Morphs are expendable, but your character's ego represents the ongoing, continuous life path of your character's mind, personality, memories, knowledge, and so forth.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les morphs sont jetables, mais l'ego de votre personnage représente la continuité initerrompue de l'esprit, de la personnalité, des mémoires, des connaissances et autres de votre personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This continuity may be interrupted by an unexpected death (depending on how recent the backup was made), or by forking (see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette continuité peut être interrompue par une mort inattendue (dépendant de la date de votre dernière sauvegarde), ou en forkant (voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>273), but it represents the totality of the character's mental state and experiences.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>273), mais il représente la totalité de l'état mental et des expériences du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some aspects of your character—particularly skills, along with some stats and traits—belong to your character's ego, which means they stay with them throughout the character's development.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des apects de votre personnage - en particulier les compétences, ainsi que quelques traits et statistiques - appartiennent à l'ego de votre personnage et ainsi l'acompagnent tout au long du développement du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Some stats and traits, however, are determined by morph, as noted, and so will change if your character leaves one body and takes on another.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -2458,6 +2538,662 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Les morphs peuvent aussi affecter d'autres compétences et statistiques, comme détaillée dans la description des morphs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is important that you keep ego- and morph-derived characteristics straight, especially when updating your character's record sheet.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il est important que vous conserviez les caractéristiques dérivées de votre ego - et de votre morph - à jour, spécialement lorsquevous mettez à jour votre fiche de personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{character stats}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Stats des personnages}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your character's stats measure several characteristics that are important to game play: Initiative, Speed, Durability, Wound Threshold, Lucidity, Trauma Threshold, and Moxie.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les stats de votre personnage mesurent différentes caractéristiques qui sont important pour le jeu: Initiative, Vitesse, Solidité, Seuil de Blessure, Lucidité, Seuil de Trauma et Moxie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some of these stats are inherent to your character's ego, others are influenced or determined by morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines de ces stats sont inhérente à l'ego de votre personnage et d'autres sont influencées ou déterminées par la morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ego stats   Initiative  Lucidity  Trauma  Threshold  Insanity  Rating  Moxie</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stats d'égo   Initiative  Lucidité  Seuil de  Trauma Niveau de  Folie  Moxie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Morph stats   Speed  Durability  Wound  Threshold  Death  Rating  Damage  Bonus</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stats de morph   Vitesse  Solidité  Seuil de  Blessure  Niveau de  Mort  Bonus de  Dégat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your character's Initiative stat helps determine when they act in relation to other characters during the Action Turn (see Initiative, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La stat d'Initiative de votre personnage aide à déterminer à quel moment ils agissent par rapport aux autres personnages pendant le Tour d'Action (voir Initiative, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your Initiative stat is equal to your character's Intuition + Reflexes aptitudes (see Aptitudes, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Votre stat d'Initiative est égal à la somme des aptitudes Intuition et Réflexes multipliées par 2 de votre personnage (voir Aptitudes, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>123) multiplied by 2.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>123).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Certain implants and other factors may modify this score.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains implants et d'autres facteurs peuvent modifier ce score.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lazaro's Intuition is 15 and his Reflexes score is 20.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le score d'Intuition de Lazaro est de 15 et son score de Réflexe est de 20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>That means his Initiative is 70 (15 + 20 = 35, 35 x 2 = 70).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela signifie que sonInitiative est de 70 (15 + 20 = 35, 35 x 2 = 70).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Speed (spd)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Vitesse (vit)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Speed stat determines how often your character gets to act in an Action Turn (see Initiative, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La stat de Vitesse détermine le nombre de fois que votre personnage peut agir en un Tour d'Action (voir Initiative, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All characters start with a Speed stat of 1, meaning they act once per turn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tous les personnages démarrent avec une stat de Vitesse de 1, signifiant qu'ils agissent une fois par tour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Certain implants and other advantages may boost this up to a maximum of 4.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains implants et d'autres avantages peuvent améliorer cette stats à un maximum de 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Durability (dur)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Solidité (sol)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Durability is your morph's physical health (or structural integrity in the case of synthetic shells, or system integrity in the case of infomorphs).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Solidité est la santé physique de votre morph (ou son intégréité structurelle dans le cas des coques synthétique,ou son intégrité système dans le cas des infomorphs).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It determines the amount of damage your morph can take before you are incapacitated or killed (see Physical Health, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle détermine le total de dégat que votre morph peut encaisser avant d'être incapacité ou tué (voir Santé Physique, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Durability is unlimited, though the range for baseline (unmodified) humans tends to fall between 20 and 60.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Solidité est illimitée, bien que l'échelle pour les humains de base (non modifié) tend à ête comprise entre 20 et 60.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your Durability stat is determined by your morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Votre stat de Solidité est déterminée par votre morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Wound threshold (wt)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Seuil de Blessure (sb)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A Wound Threshold is used to determine if you receive a wound each time you take physical damage (see Physical Health, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le Seuil de Blessure est utilisé pour déterminer si vous recevez une blessure chaque fois que vous encaissez des dommages physiques (voir Santé Physique, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The higher the Wound Threshold, the more resistant to serious injury you are.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plus le Seuil de Blessure est élevé, plus vous êtes résitants aux blessures sérieuses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wound Threshold is calculated by dividing Durability by 5 (rounding up).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le Seuil de Blessure est calculé en divisant la Solidité par 5 (en arrondissant au supérieur).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Death rating (dr)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Seuil de Mort (sm)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Death Rating is the total amount of damage your morph can take before it is killed or destroyed beyond repair.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le Seuil de Mort est le montant total de dommage que votre morph peut encaisser avant d'être tué ou détruit au delà de toute réparation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Death Rating is equal to DUR x 1.5 for biomorphs and DUR x 2 for synthmorphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le Seuil de Mort est égal à SOL x 1,5 pour les biomorpĥs et SOL x 2 pour les synthmorphs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tyska is sleeved in a run-of-the-mill splicer morph with a Durability of 30.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tyska est incarné dans une morph splicer standard avec une Solidité de 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>That gives him a Wound Threshold of 6 (30 / 5) and a Death Rating of 45 (30 x 1.5).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela lui donne un Seuil de Blessure de 6 (30 / 5) et un Seuil de Mort de 45 ( 30 x 1.5 ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If Tyska acquired an implant that boosted his Durability by +10 to 40, his Wound Threshold would be 8 (40 / 5) and his Death Rating would be 60 (40 x 1.5).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si Tyska acquiert un implant qui améliore la Solidité de +10 pour l'amener à 40, son Seuil de Blessure sera de 8 ( 40 / 5 ) et son Seuil de Mort serait de 60 ( 40 x 1.5 ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Lucidity (luc)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Lucidité (luc)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lucidity is similar to Durability, except that it measures mental health and state of mind rather than physical well-being.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Lucidité est similaire à la Solidité, excepté qu'elle mesure la santé mentale et l'état d'esprit au lieu de la santé et au bien-être physique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your Lucidity determines how much stress (mental damage) you can take before you are incapacitated or driven insane (see Mental Health, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Votre Lucidité détermine combien de stress (dommages mentaux) vous pouvez prendre avant d'être incapacité ou de devenir fou (voir Santé Mentale, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lucidity is unlimited, but generally ranges from 20 to 60 for baseline unmodified humans.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Lucidité est illimitée, mais est comprise entre 20 et 60 pour l'humain non-modifié de base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lucidity is determined by your Willpower aptitude x 2.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Lucidité est déterminée par votre aptitude de Volonté x 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Trauma threshold (tt)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Seuil de Trauma (st)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Trauma Threshold determines if you suffer a trauma (mental wound) each time you take stress (see Mental Health, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le Seuil de Trauma détermine si vous souffrez d'un trauma (blessure mentale) chaque fois que vous prenez du stress (voir Santé Mentale, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A higher Trauma Threshold means that your mental state is more resilient against experiences that might inflict psychiatric disorders or other serious mental instabilities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un Seuil de Trauma plus élevée signifieque votre état mental est plus résilient vis à vis des expériences qui peuvent infliger des troubles psychiatrique ou autre instabilité mentale sérieuse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Trauma Threshold is calculated by dividing Lucidity by 5 (rounding up).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le Seuil de Blessure est calculé en divisant la Lucidité par 5 (arrondissez au supérieur).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Insanity rating (ir)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Seuil de Folie (sf)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your Insanity Rating is the total amount of stress your mind can take before you go permanently insane and are lost for good.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Votre Seuil de Folie est le montant total de stress que votre esprit peut prendre avant devenir complètement fou et perdu pour de bon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insanity Rating equals LUC x 2.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le Seuil de Folie est égal à LUC x 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cole's Willpower is 16.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Volonté de Cole est de 16.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>That makes his Lucidity stat 32 (16 x 2), his Trauma Threshold 7 (32 / 5, rounded up), and his Insanity Rating 64 (32 x 2)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela fait que sa stat Lucidité est de 32 (16 x 2), son Seuil de Trauma est de 7 ( 32/5, arrondi au supérieur), et son Seuil de Folie 64 (32 x 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moxie represents your character's inherent talent at facing down challenges and overcoming obstacles with spirited fervor.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le Moxie représente le talent inné de votre personnage à faire faceà des challenges et vaincre des obstacles avec une ferveur particulière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than just luck, Moxie is your character's ability to run the edge and do what it takes, no matter the odds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au delà de la simple chance, le Moxie est la capacité de votre personnage à courir sur le fil du rasoir et à faire ce qu'il faut, quelle que soit les probabilités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some people consider it the evolutionary trait that spurred humankind to pick up tools, expand our brains, and face the future head on, leaving other mammals in the dust.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines personnes le considère comme un trait évolutionnaire qui a permi à l'humanité de ramasser, développer nos cerveaux et affronter le futur bille en tête, laissant les autres mammifères dans la poussière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When the sky is falling, death is imminent, and no one can help you, Moxie is what saves the day.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand leciel vous tombe sur la tête, que la mort est imminente et que personne ne peut vous aider, le Moxie est ce qui vous gardera en un seul morceau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Moxie stat is rated between 1 and 10, as purchased during character creation (and perhaps raised later).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La stat Moxie est comprise entre 1 et 10, au niveau choisit lors de la création de personnage (et peut-être augmenté plus tard).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In game play, Moxie is used to influence the odds in your favor.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En terme de jeu, le Moxie est utilisé pour influencer le hasard en votre faveur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every game session, your character begins with a number of Moxie points equal to their Moxie stat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A chaque session de jeu,votre personnage commence avec un nombre de point de Moxie égal à leur stat Moxie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moxie points may be spent for any of the following effects:</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les points de Moxie peuvent être dépensés pour obtenir l'un des effets suivants:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character may ignore all modifiers that apply to a test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage peut ignorer tous les modificateurs appliqués à un test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Moxie point must be spent before dice are rolled.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le point de Moxie doit être dépensé avant de lancer les dés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> The character may flip-flop a d100 roll result.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Le personnage peut faire un flip-flop sur le résultat d'un d100.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, an 83 would become a 38.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, un 83 deviendrait un 38.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> The character may upgrade a success, making it a critical success, as if they rolled doubles.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Le personnage peut améliorer un succès, le transformant en critique,comme si il avait obtenu un double.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character must succeed in the test before they spend the Moxie point.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage doit avoir réussi son jet avant de dépenser le point de Moxie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> The character may ignore a critical failure, treating it as a regular failure instead.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Le personnage peut ignorer un écheccritique, et le considéré comme un échec normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> The character may go first in an Action Phase (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Le personnage peut agir enpremier dans une Phase d'Action (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only 1 point of Moxie may be spent on a single roll.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un seul point de Moxie peut-être dépensé sur un jet de dé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moxie points will fluctuate during gameplay, as they are spent and sometimes regained.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les points de Moxie vont fluctuer lors du jeu, au fur et à mesure qu'ils seront dépensés et parfois récupérés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Regaining Moxie: At the gamemaster's discretion, Moxie points may be refreshed up to the character's full Moxie stat any time the character rests for a significant period.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Récupérer du Moxie: À la discrétion du maître de jeu, les points de Moxie peuvent-être régénérés jusqu'au niveau de Moxie maximum du personnage, chaque fois qu'il se repose pour une durée significative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moxie points may also be regained if the character achieves a personal goal, as determined by their Motivation (see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les points de Moxie peuvent aussi être récupérés si le personnage atteint un objectif personnel tel que déterminé par leur Motivation (voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster determines how much Moxie is regained in proportion to the goal achieved.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu détermine combien de Moxie est récupéré en fonction de la proportion de l'objectif atteint.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Audrey has a difficult Piloting: Aircraft roll to make.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Audrey doit faire un jet de Piloter: Engins Volants difficile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Her skill is 61, but she's facing a lot of modifiers (–30), and if she fails she's in big trouble.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sa compétence est de 61, mais elle doit faire face à plein de modificateurs (-30), et si elle échoue, elle se retrouvera dans une situation critique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She could spend a point of Moxie before the test to ignore the modifiers, but she decides to take her chances against the target number of 31.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle pourrait dépenser un point de Moxie avant le test pour ignorer les modificateurs, mais elle décide de tenter sa chance contre le seuil de 31.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unfortunately, she rolls an 82.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Malheureusement, elle obtient un 82.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Luckily, she can spend a Moxie point to flip-flop that roll and make it a 28—a success!</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Heureusement pour elle, elle peut dépenser un point de Moxie pour faireun flip-flop et transformer le jet en 28 - un succès!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Damage bonus}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Bonus de dommage}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Damage Bonus stat quantifies how much extra oomph your character is able to give their melee and thrown weapons attacks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La stat de Bonus de Dommage quantify le punch supplémentaire que votre personnage peut donner à sesattaques de mélées et d'armes de jet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Damage Bonus is determined by dividing your Somatics aptitude (see below) by 10 and rounding down.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le Bonus de Dommage est déterminé en divisant votre aptitude Somatique (voir plus bas) par 10 et en arrondissant à l'inférieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Character skills}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Compétences des personnages}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Skills represent your character's talents.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les compétences représentent les talents de votre personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Skills are broken down into aptitudes (ingrained abilities that everyone has) and learned skills (abilities and knowledge picked up over time).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les compétences sont séparés entre les aptitudes (capacités innées quetout le monde possède) et les compétences apprises (capacités et connaissances assimilées au fil du temps).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Skills determine the target number used for tests (see Making Tests, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les compétences déterminent le seuil utilisés pour les tests (voir Faire des Test, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aptitudes are the core skills that every character has by default.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Aptitudes sont les compétences de base que chaque personnage possède par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are the foundation on which learned skills are built.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elles sont les fondations sur lesquelles les compétences apprise sont construites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aptitudes are purchased during character creation and rate between 1 and 30, with 10 being average for a baseline unmodified human.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Aptitudes sont achetées pendant la phase de création du ersonnage et sont comprise entre 1 et 30, avec la moyenne pour l'humain non modifié de base à 10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They represent the ingrained characteristics and talents that your character has developed from birth and stick with you even when you change morphs—though some morphs may modify your aptitude ratings.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elles représentent les caractéristiques innées et les talents que votre personnage à développer depuis sanaissance et qui restent avec vous même lorsque vous changez de morphs - bien que certaines peuvent modifier vos score d'aptitude.</seg>
       </tuv>
     </tu>
     <tu>

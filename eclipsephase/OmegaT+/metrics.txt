@@ -7,10 +7,10 @@ Total
   Characters: 1622165 : +spaces
 
 Remaining
-    Segments:   16176
-       Words:  225961
-  Characters: 1191720 : -spaces
-  Characters: 1401630 : +spaces
+    Segments:   16084
+       Words:  224575
+  Characters: 1184671 : -spaces
+  Characters: 1393260 : +spaces
 
 Unique
     Segments:   16204
@@ -19,10 +19,10 @@ Unique
   Characters: 1603686 : +spaces
 
 Unique Remaining
-    Segments:   13819
-       Words:  222878
-  Characters: 1193103 : -spaces
-  Characters: 1386631 : +spaces
+    Segments:   13727
+       Words:  221492
+  Characters: 1185960 : -spaces
+  Characters: 1378261 : +spaces
 
 Documents Metrics
 
@@ -36,7 +36,7 @@ Documents Metrics
        1       1      10      10      10      10 - 14-references.tex
     9090      14   48592      69   57179      71 - 2-synopsis.tex
    61776   61776  334423  334423  393103  393103 - 3-eclipse.tex
-    9902    4385   49182   22640   58478   26735 - 4-mechanics.tex
+    9902    2999   49182   15591   58478   18365 - 4-mechanics.tex
    16622   16622   85947   85947  101263  101263 - 5-character-creation.tex
     8618    8615   46366   46339   54224   54195 - 6-skills.tex
    21717   21710  109826  109778  129634  129583 - 7-action-combat.tex
