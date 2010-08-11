@@ -3198,6 +3198,470 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Each learned skill is linked to an aptitude.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque compétences apprise est liée à une aptitude.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a character doesn't have the skill necessary for a test, they may default to the aptitude instead (see Defaulting, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un personnage nepossède pas la compétence nécessaie à un test, ils peuvent défaussersur l'aptitude associée (voir Défausser p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are 7 aptitudes in Eclipse Phase:</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a 7 aptitudes à Eclipse Phase:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cognition (COG)&lt;/i0&gt; is your aptitude for problem solving, logical analysis, and understanding.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cognition (COG)&lt;/i0&gt; est votre aptitude pour la résolution de problème, l'analyse logique et la compréhension.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It also includes memory and recall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela peut également inclure la mémoire et se remémorer ces souvenirs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u1&gt; &lt;i1&gt;Coordination (COO)&lt;/i1&gt; is your skill at integrat ing the actions of different parts of your morph to produce smooth, successful movements.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u1&gt; &lt;i1&gt;Coordination (COO)&lt;/i1&gt; et votre compétence à intégrer les actions de différentes parties de votre morph pour produire des mouvements fluide et efficaces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It includes manual dexterity, fine motor control, nimbleness, and balance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela inclut la dextérité manuelle, le contrôle motriciel précis, l'agilité et l'équilibre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u2&gt; &lt;i2&gt;Intuition (INT)&lt;/i2&gt; is your skill at following your gut instincts and evaluating on the fly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u2&gt; &lt;i2&gt;Intuition (INT)&lt;/i2&gt; est votre compétence à suivre vos instincts et à évoluer les situations au vol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It includes physical awareness, cleverness, and cunning.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle inclut la conscience, l'intelligence et la ruse physique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u3&gt; &lt;i3&gt;Reflexes (REF)&lt;/i3&gt; is your skill at acting quickly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u3&gt; &lt;i3&gt;Réflexes (REF)&lt;/i3&gt; est votre compétence à agir rapidement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This encompasses your reaction time, your gut-level response, and your ability to think fast.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle définit votre temps de réaction, votre réponse instinctive et votre capacité à penser rapidement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u4&gt; &lt;i4&gt;Savvy (SAV)&lt;/i4&gt; is your mental adaptability, social in tuition, and proficiency for interacting with others.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u4&gt; &lt;i4&gt;Astuce (AST)&lt;/i4&gt; est votre adaptabilité, votre intuition sociale et votre proficience à intéragir avec les autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It includes social awareness and manipulation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela inclut votre conscience sociale et votre capacité à la manipulation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u5&gt; &lt;i5&gt;Somatics (SOM)&lt;/i5&gt; is your skill at pushing your morph to the best of its physical ability, including the fundamental utilization of the morph's strength, endurance, and sustained positioning and motion.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u5&gt; &lt;i5&gt;Somatique (SOM)&lt;/i5&gt; est votre compétence à pousser votre morph au meilleur de ses capacités physique, incluant l'utilisation fondamentale de la force et de l'endurance de la morph ainsi que le maintien du positionnement et du mouvement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u6&gt; &lt;i6&gt;Willpower (WIL)&lt;/i6&gt; is your skill for self-control, your ability to command your own destiny.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u6&gt; &lt;i6&gt;Volonté (VOL)&lt;/i6&gt; est votre capacité à gader votre sang-froid, à diriger votre propre destinée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Learned skills}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Compétences apprises}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Learned skills encompass a wide range of specialties and education, from combat training to negotiating to astrophysics (for a complete skill list, see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les compétences apprises englobent une vaste gamme de spécialités et d'apprentissages, de l'entraînement au combat à la négociatiion en passant parl'astrophysique (pour une liste complète de compétences, voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Learned skills range in rating from 1 to 99, with an average proficiency being 50.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les compétences apprises sont comprises entre 1 et 99, le niveau d'efficacité moyen étant de 50.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each learned skill is linked to an aptitude, which represents the underlying competency in which the skill is based.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque compétence apprises est liée à une aptitude, qui représente la compétence sous-jacente sur laquelle elle se base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When a learned skill is purchased (either during character generation or advancement), it is bought starting at the rating of the linked aptitude and then raised from there.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsqu'une compétence apprise est récupérée (soit pendant la création de personnage, soit parl'avancement), elle est achetée au niveau de l'aptitude liée puis auigmentée depuis ce niveau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the linked aptitude is raised or modified, all skills built off it are modified appropriately as well.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'aptitude liée est augmentée ou modifiée, toutes les compétenes basées dessus sont également modifiées de manière appropriée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending on your background and faction, you may receive some starting skills for free during character creation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fonction de votre historique et de votre faction, vous pouvez recevoir des compétences gratuites à lacréation du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Like aptitudes, learned skills stay with the character even when they change morphs, though certain morphs, implants, and other factors may sometimes modify your skill rating.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme pour les aptituides, les compétences apprises restent avec le personnage même lorsqu'ils changent de morph, bien que certaines morphs, certains implants ou d'autre facteurs peuvent parfois varier le niveau de votre compétence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you lack a particular skill called for by a test, in most cases you can default to the linked aptitude for the test (see Defaulting, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si il vous ne possèdez pas la compétence nécessaire à un test, vous pouvez défausser sur l'aptitude associée (voir Défausser p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Specializations}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Spécialisations}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations represent an area of concentration and focus in a particular learned skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Spécialisations représentent un domaine de concentration dans une compétence particulière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character who learns a specialization is one who not only grasps the basic tenets of that skill, but they have trained hard to excel in one particular aspect of that skill's field.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage qui apprend une spécialisation est quelqu'un qui va au-delà de simplement saisir les bases d'unecompétence, il s'est beaucoup entraîné pour exceller dans un aspect particulier du domaine de cette compétence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations apply a +10 modifier when the character utilizes that skill in the area of specialization.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Spếcialisations appliquent un modificateur de +10 lorsque le personnage utilises cette compétence dans le domaine de sa spécialisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations may be purchased during character creation or advancement for any existing skill the character possesses with a rating of 30 or more.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Spécialisations peuvent être achetées pendant la création de personnage ou par l'avancement pour toute compétence existante que le personnage possède au moins au niveau 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only one specialization may be purchased for each skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une seule spécialisation peut-être acquise pour chaque compétence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specific possible specializations are noted under individual the skill descriptions (see Skills, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les spécialisations possibles spécifiques à chaque compétences sont notés sous la description de chacune des compétences (voir Compétences p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Toljek has Palming skill of 63 with a specialization in Pickpocketing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toljek a une compétence Manipulation de 63 avec une spécialisation en Pick-Pocket.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Whenever he uses Palming to pick someone's pocket or otherwise steal from someone's person, his target number is 73, but for all other uses of Palming the standard 63 applies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsqu'il utilise Manipulation pour attraper quelque chose dans la poche de quelqu'un ou, de manière similaire, voler quelque chose à quelqu'un, son seuil est de 73 alors que pour tous les autres usages de Manipulation, son score standard de 63 s'applique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Character traits}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Traits de personnage}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Traits include a range of inherent qualities and features that help define your character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Traits incluents une vaste gamme de qualités et decaractéristiques inhérentes qui aident à définir votre personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some traits are positive, in that they give your character a bonus to certain stats, skills, or tests, or otherwise give them an edge in certain situations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains traits sont positifs, car ils donnent à votre personnage un bonus à certaines stats, compétences ou tests, ouleur donnent un avantage dans certaines situations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Others are negative, in that they impair your abilities or occasionally create a glitch in your plans.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres sont négatifss, car ils vont géner vos capacités ou créer un défaut occasionnel dans vos plans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some traits apply to a character's ego, staying with them from body to body, while others only apply to a character's morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains traits s'appliquent à l'égo du personnage, restant avec eux d'une incarnation à l'autre, alors que d'autres ne s'appliquent qu'à la morph du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Traits are purchased during character generation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Traits sont achetés pêndant la création de personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Positive traits cost customization points (CP), while negative traits give you extra CP to spend on other things (see Traits, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les traits positifs vous coûtent des points de personnalisation (PP), alors que les traits négaitfs vous rapporterons des PP supplémentaire à dépenser ailleurs (voir Traits, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The maximum number of CP you may spend on traits is 50, while the maximum you may gain from negative traits is 50.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le nombre maximum de PP que vous pouvez dépenser dans les traits est de 50, alors que le gain de PP que vous pouvez obtenir de traits négatifs est de 50.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In rare circumstances—and only with gamemaster approval—traits may be purchased, bought off, or inflicted during gameplay (see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans de rares circonstances - et seulement avec l'accord du maître de jeu - des trraits peuvent être acquis, rachetésou infligés pendant le jeu (voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Character morph}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Morph des personnages}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In Eclipse Phase, your body is disposable.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans Eclipse Phase, votre corps est jetable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If your body gets old, sick, or too heavily damaged, you can digitize your consciousness and download it into a new body.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si votre corps devient vieux, malade où trop lourdement endommagé, vouspouvez numériser votre conscience et vous télécharger dans une nouveau corps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The process isn't cheap or easy, but it offers effective immortality—as long as you remember to back yourself up and don't go insane.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le processuss n'est ni bon marché, ni simple, mais il offre une immortalité effective - tant que vous vous rappelez de vous sauvegarder et que vous ne devenez pas fou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The term morph is used to describe any type of form your mind inhabits, whether it be a vat-grown clone sleeve, a synthetic robotic shell, a part-bio/part-flesh pod, or even the purely electronic software state of an infomorph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le terme de morph est utilisé pour décrire tout type de forme que votre esprit habite, qu'il s'agisse d'une enveloppe clonée cultivé en cuve, d'une coquille robotique et synthétique, d'un &quot;pod&quot; en partie bio et en partie synthétique, ou même de l'état purement logiciel d'une informoph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You purchase your starting morph during character creation (see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous acquérez votre morph de départ lors de la création de personnage (voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is likely the morph you were born with (assuming you were born), though it may simply be another morph you've moved onto.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il s'agît probablement de la morph dans laquelle vous êtes nés (en partant du principe que vous êtes nés), bien qu'il puisse simplement s'agir d'une autre morph dans laquelle vous vous êtes déplacés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Physical looks aside, your morph has a large impact on your characteristics.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au delà de l'apparence physique, votre morph a un impact important sur vos caractéristiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your morph determines certain physical stats, such as Durability and Wound Threshold, and it may also influence Initiative and Speed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Votre morph détermine certaines de vos stats physiques, tekllkes que la Solidité et le Seuil de Blessure, et elle peut aussi influencer l'Initiative et la Vitesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Morphs may also modify some of your aptitudes and learned skills.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les morphs peuvent aussi modifier certaines de vos aptitudes et de vos compétences apprises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some morphs come pre-loaded with specific traits and implants, representing how it was crafted, and you can always bling yourself out with more implants if you choose (see Implants, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines morph sont fournies préchargées avec des traits et des implants spécifiquesn représentatnt la manière dont elles ont étés fabriquées, et vous pouvez toujours y ajouter un peu plus de clinquants avec d'autres implants si vous le voulez (voir Implants, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All of these factors are noted in the individual morph descriptions (see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout ces facteurs sont notés dans lesdescriptions individuelles des morphs (voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you plan on switching your current morph to another during gameplay, you may first want to back yourself up (see Backups and Uploads, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous prévoyer de basculer d'une morph à l'autre pendant le jeu, vous pouvez vouloir vous sauvegarder d'abord (voir Sauvegardes et Uploads, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Backing up regularly is always a smart option in case you suffer an accidental or untimely death.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Se sauvegarder régulièrement est toujours une bonne chose au cas où vous souffrier une mport accidentelle ou non-prévue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Acquiring a new morph is not always easy, especially if you want it pre-loaded according to certain specifications.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Acquérir une nouvelle morph n'est pas toujours simple, particulièrement si vous la voulez préchargée avec certaines spécifications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The full process is detailed under Resleeving, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le processuss complet est détaillée sous Réincarnation, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Mind Hacks</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
