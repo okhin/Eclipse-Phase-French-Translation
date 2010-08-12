@@ -494,10 +494,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>In some cases, an aptitude score is used, which makes for much harder tests as aptitude scores are usually well below 50 (see Aptitudes, ).</seg>
+        <seg>In some cases, an aptitude score is used, which makes for much harder tests as aptitude scores are usually well below 50 (see Aptitudes, &lt;n0&gt;).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Dans certains cas, un score d'aptitude sera utilisé, ce qui rend les test plsu difficile car les aptitudes sont généralement bien en dessous de 50 (voir le passage Aptitudes, ).</seg>
+        <seg>Dans certains cas, un score d'aptitude sera utilisé, ce qui rend les test plsu difficile car les aptitudes sont généralement bien en dessous de 50 (voir le passage Aptitudes, &lt;n0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -790,10 +790,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Criticals have a very specific application in combat tests (see ), but for all other purposes the gamemaster decides what exactly went wrong or right in a specific situation.</seg>
+        <seg>Criticals have a very specific application in combat tests (see &lt;n0&gt;), but for all other purposes the gamemaster decides what exactly went wrong or right in a specific situation.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Les critiques ont une applications trés spécifiques sur les test de Combat (voir ), mais dans tous les autres cas le maître de jeu décide ce qui s'est mal ou bien passé dans une situation particulière.</seg>
+        <seg>Les critiques ont une applications trés spécifiques sur les test de Combat (voir &lt;n0&gt;), mais dans tous les autres cas le maître de jeu décide ce qui s'est mal ou bien passé dans une situation particulière.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2574,18 +2574,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Ego stats   Initiative  Lucidity  Trauma  Threshold  Insanity  Rating  Moxie</seg>
+        <seg>Ego stats&lt;/i0&gt; &lt;n1&gt; &lt;u0&gt; Initiative &lt;u1&gt; Lucidity &lt;u2&gt; Trauma &lt;u3&gt; Threshold &lt;u4&gt; Insanity &lt;u5&gt; Rating &lt;u6&gt; Moxie</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Stats d'égo   Initiative  Lucidité  Seuil de  Trauma Niveau de  Folie  Moxie</seg>
+        <seg>Stats d'égo&lt;/i0&gt; &lt;n1&gt; &lt;u0&gt; Initiative &lt;u1&gt; Lucidité &lt;u2&gt; Seuil de &lt;u3&gt; Trauma&lt;u4&gt; Niveau de &lt;u5&gt; Folie &lt;u6&gt; Moxie</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Morph stats   Speed  Durability  Wound  Threshold  Death  Rating  Damage  Bonus</seg>
+        <seg>Morph stats&lt;/i0&gt; &lt;n1&gt; &lt;u0&gt; Speed &lt;u1&gt; Durability &lt;u2&gt; Wound &lt;u3&gt; Threshold &lt;u4&gt; Death &lt;u5&gt; Rating &lt;u6&gt; Damage &lt;u7&gt; Bonus</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Stats de morph   Vitesse  Solidité  Seuil de  Blessure  Niveau de  Mort  Bonus de  Dégat</seg>
+        <seg>Stats de morph&lt;/i0&gt; &lt;n1&gt; &lt;u0&gt; Vitesse &lt;u1&gt; Solidité &lt;u2&gt; Seuil de &lt;u3&gt; Blessure &lt;u4&gt; Niveau de &lt;u5&gt; Mort &lt;u6&gt; Bonus de &lt;u7&gt; Dégat</seg>
       </tuv>
     </tu>
     <tu>
@@ -2982,10 +2982,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> The character may flip-flop a d100 roll result.</seg>
+        <seg>&lt;u1&gt; The character may flip-flop a d100 roll result.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Le personnage peut faire un flip-flop sur le résultat d'un d100.</seg>
+        <seg>&lt;u1&gt; Le personnage peut faire un flip-flop sur le résultat d'un d100.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2998,10 +2998,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> The character may upgrade a success, making it a critical success, as if they rolled doubles.</seg>
+        <seg>&lt;u2&gt; The character may upgrade a success, making it a critical success, as if they rolled doubles.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Le personnage peut améliorer un succès, le transformant en critique,comme si il avait obtenu un double.</seg>
+        <seg>&lt;u2&gt; Le personnage peut améliorer un succès, le transformant en critique,comme si il avait obtenu un double.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3014,18 +3014,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> The character may ignore a critical failure, treating it as a regular failure instead.</seg>
+        <seg>&lt;u3&gt; The character may ignore a critical failure, treating it as a regular failure instead.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Le personnage peut ignorer un écheccritique, et le considéré comme un échec normal.</seg>
+        <seg>&lt;u3&gt; Le personnage peut ignorer un écheccritique, et le considéré comme un échec normal.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> The character may go first in an Action Phase (p.</seg>
+        <seg>&lt;u4&gt; The character may go first in an Action Phase (p.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Le personnage peut agir enpremier dans une Phase d'Action (p.</seg>
+        <seg>&lt;u4&gt; Le personnage peut agir enpremier dans une Phase d'Action (p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3222,10 +3222,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Cognition (COG) is your aptitude for problem solving, logical analysis, and understanding.</seg>
+        <seg>Cognition (COG)&lt;/i0&gt; is your aptitude for problem solving, logical analysis, and understanding.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Cognition (COG) est votre aptitude pour la résolution de problème, l'analyse logique et la compréhension.</seg>
+        <seg>Cognition (COG)&lt;/i0&gt; est votre aptitude pour la résolution de problème, l'analyse logique et la compréhension.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3238,10 +3238,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Coordination (COO) is your skill at integrat ing the actions of different parts of your morph to produce smooth, successful movements.</seg>
+        <seg>&lt;u1&gt; &lt;i1&gt;Coordination (COO)&lt;/i1&gt; is your skill at integrat ing the actions of different parts of your morph to produce smooth, successful movements.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Coordination (COO) et votre compétence à intégrer les actions de différentes parties de votre morph pour produire des mouvements fluide et efficaces.</seg>
+        <seg>&lt;u1&gt; &lt;i1&gt;Coordination (COO)&lt;/i1&gt; et votre compétence à intégrer les actions de différentes parties de votre morph pour produire des mouvements fluide et efficaces.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3254,10 +3254,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Intuition (INT) is your skill at following your gut instincts and evaluating on the fly.</seg>
+        <seg>&lt;u2&gt; &lt;i2&gt;Intuition (INT)&lt;/i2&gt; is your skill at following your gut instincts and evaluating on the fly.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Intuition (INT) est votre compétence à suivre vos instincts et à évoluer les situations au vol.</seg>
+        <seg>&lt;u2&gt; &lt;i2&gt;Intuition (INT)&lt;/i2&gt; est votre compétence à suivre vos instincts et à évoluer les situations au vol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3270,10 +3270,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Reflexes (REF) is your skill at acting quickly.</seg>
+        <seg>&lt;u3&gt; &lt;i3&gt;Reflexes (REF)&lt;/i3&gt; is your skill at acting quickly.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Réflexes (REF) est votre compétence à agir rapidement.</seg>
+        <seg>&lt;u3&gt; &lt;i3&gt;Réflexes (REF)&lt;/i3&gt; est votre compétence à agir rapidement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3286,10 +3286,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Savvy (SAV) is your mental adaptability, social in tuition, and proficiency for interacting with others.</seg>
+        <seg>&lt;u4&gt; &lt;i4&gt;Savvy (SAV)&lt;/i4&gt; is your mental adaptability, social in tuition, and proficiency for interacting with others.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Astuce (AST) est votre adaptabilité, votre intuition sociale et votre proficience à intéragir avec les autres.</seg>
+        <seg>&lt;u4&gt; &lt;i4&gt;Astuce (AST)&lt;/i4&gt; est votre adaptabilité, votre intuition sociale et votre proficience à intéragir avec les autres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3302,18 +3302,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Somatics (SOM) is your skill at pushing your morph to the best of its physical ability, including the fundamental utilization of the morph's strength, endurance, and sustained positioning and motion.</seg>
+        <seg>&lt;u5&gt; &lt;i5&gt;Somatics (SOM)&lt;/i5&gt; is your skill at pushing your morph to the best of its physical ability, including the fundamental utilization of the morph's strength, endurance, and sustained positioning and motion.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Somatique (SOM) est votre compétence à pousser votre morph au meilleur de ses capacités physique, incluant l'utilisation fondamentale de la force et de l'endurance de la morph ainsi que le maintien du positionnement et du mouvement.</seg>
+        <seg>&lt;u5&gt; &lt;i5&gt;Somatique (SOM)&lt;/i5&gt; est votre compétence à pousser votre morph au meilleur de ses capacités physique, incluant l'utilisation fondamentale de la force et de l'endurance de la morph ainsi que le maintien du positionnement et du mouvement.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Willpower (WIL) is your skill for self-control, your ability to command your own destiny.</seg>
+        <seg>&lt;u6&gt; &lt;i6&gt;Willpower (WIL)&lt;/i6&gt; is your skill for self-control, your ability to command your own destiny.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Volonté (VOL) est votre capacité à gader votre sang-froid, à diriger votre propre destinée.</seg>
+        <seg>&lt;u6&gt; &lt;i6&gt;Volonté (VOL)&lt;/i6&gt; est votre capacité à gader votre sang-froid, à diriger votre propre destinée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3662,606 +3662,6 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Aptitude Maximums}</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>{Maximum d'Aptitude}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Every morph has an aptitude maximum, sometimes modified by traits.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Chaque morph possède un maximum d'aptitude, quelquefois modifié par les traits.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>This maximum represents the highest value at which the character may use that aptitude while inhabiting that morph, reflecting an inherent limitation in some morphs.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Ce maximum représente la plus haute valeur à laquelle un personnage peu utiliser une aptitude pendant qu'elle habite cette morph, reflétant une limitation inhérente à certaines morph.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>If a character's aptitude exceeds the aptitude maximum of their morph, they must use it at the maximum value for the duration of the time they remain in that morph.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Si l'aptitude d'un personnage dépasse le maximum de leur morph, ils doivent l'utiliser à la valeur maximale pendant la durée de leur incarnation dans cette morph.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>This may also affect the skills linked to that aptitude, which must be modified appropriately.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Cela peut égalment affecter les compétences liées à cetteaptitude, qui doivent êtremodifiée de manière appropriée.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Some implants, gear, psi, and other factors may modify a character's natural aptitudes.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Certains implants, équipements, exploit psi ou d'autres facteurs peuvent modifier les aptitudes naturelles d'un personnage.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>These augmented values may exceed a morph's aptitude maximums, as they represent external factors boosting the morph's ability.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Comme elles représentent des facteurs externe améliorant les capacités de la morph, ces valeur augmentées peuvent dépasser le maximum d'aptitude de celle-ci.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>No aptitude, however, augmented or not, may ever exceed a value of 40.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Cependant,aucune aptitude, augmentée ou non, ne peut dépasser la valeur de 40.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Innate ability only takes a person so far—after that point, actual skill is what counts.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les capacités innées n'amènent une personne qu'à ce niveau - pour aller au-delà, les réelles compétences sont ce qui fait la différence.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Eva has a Cognition aptitude of 25.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Eva a une aptitude Cognition de 25.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>She is unfortunately forced to sleeve into a flat morph with an aptitude maximum of 20.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Elle est malheureusement forcées de s'incarner dans une morph flat qui possède unmaximum d'aptitude de 20.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>For the duration of the period she inhabits that morph, her Cognition is reduced to 20, which also impacts all of her COG-linked skills, reducing them by 5.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Pour la durée de la période pendant laquelle elle habite cette morph, sa Cognition st réduite à 20, ce qui impacte également toutes ses compétences liées à la COG, les réduisant de 5.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Things characters use</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les choses qu'utilisent les personnages.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>In the advanced technological setting of Eclipse Phase, characters don't get by on their wits and morphs alone; they take advantage of their credit and reputation to acquire gear and implants and use their social networks to gather information.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Dans le cadre technologiquement avancé d'Eclipse Phase, les personnages ne s'en sortent pas uniquement sur leur astuce et leurs morphs; ils utilisent leurs crédit et leur réputation pour acquérir de l'équipement et des implants et leurs réseaux sociaux pour rassembler leurs informations.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Some characters also have the capability to use mental powers known as psi.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Certains personnages ont aussi la capacité d'utiliser leurs pouvoirs mentaux appelés psi.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>{Identity}</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>{Identité}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>In an age of ubiquitous computing and omnipresent surveillance, privacy is a thing of the past—who you are and what you do is easily accessed online.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>A une époque d'informatique ubiquitaire et de surveillance omniprésente, la vie privée est un concept qui appartient au passé - qui vous êtes et ce que vous faites et facilement accessible en ligne.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Characters in Eclipse Phase, however, are often involved in secretive or less-than-legal activities, so the way to keep the bloggers, news, paparazzi, and law off your back is to make extensive use of fake IDs.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les personnages dans Eclipse Phase, sont cependant régulièrement impliqué dans des activités secrètes et para-légales, et la seule façon de garder les blogueurs, les infos, les paparazzi et la loi à l'écart est de faire un usage extensif des fausses ID.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>While Firewall often provides covers for its sentinel agents, it doesn't hurt to keep a few extra personas in reserve, in case matters ever go out the airlock in a hurry.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Bien que Firewall fournisse des couvertures à ses sentinelles, cela ne fait pas de mal de garder une ou deux personna en réserve, au cas où il devienne nécessaire d'abandonner le navire.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Thankfully, the patchwork allegiances of city-state habitats and faction stations means that identities aren't too difficult to fake, and the ability to switch morphs makes it even easier.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Heureusement, le pacthwork d'allégeances des habitats cités-état et des stations de faction signifie que les identités ne sont pas trop dures à fausser, et la possibilité de changer de morph rend la tâche encore plus facile.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>On the other hand, anyone with a copy of your biometrics or geneprint is going to have an edge tracking you down or finding any forensic traces you leave behind (for more on ID, see p.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>D'un autre côté, quiconque est enpossession d'unecopie de vosdonnéesbiométriques ou de votre empreinte génétique aura un avantage pour vous pister ou pour trouver toute trace que vous auriez pu laisser derrière vous (pourplus d'information sur les ID, voir p.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>{Social networks}</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>{Réseaux sociaux}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Social networks represent people the character knows and social groups with which they interact.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les réseaux sociaux représentent les personnes que connaît le personnageet les groupes sociaux avec lesquel il interagît.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>These contacts, friends, and acquaintances are not just maintained in person, but also through heavy Mesh contact.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Ces contacts, amis et acquointances ne sont pas seulement entretenus en personne, mais aussi par unusage important des contacts par le Mesh.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Social software allows people to stay updated on what the people they know are doing, where they are, and what they are interested in, right up to the minute.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les logiciels sociaux permettent aux gens de rester au courant de ce que font leurs connaissances,où ils sont et ce qui les intéresse de manière instantanée.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Social networks also incorporate the online projects of individual members, whether it's a mesh-site loaded with a band member's songs, a personal archive of stored media, a decade of blog entries reviewing the best places to score cheap electronics, or a depository of research papers and studies someone has worked on or finds interesting.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les Réseaux sociaux incroporent également les projets en-ligne des membres, qu'il s'agisse d'un site sur le mesh chargé de chanson du groupe dumembre, d'une archive personnel de média archivés,d'une décennie de billets de blog recensant lesendroits où truver de l'électronique bon marché ou un dépot de publication de recherche et d'études sur lesquels quelqu'un à travailler ou qu'il a trouvé intéressant.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>In game play, social networks are quite useful to characters.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>En jeu, les réseaux sociaux sont particulièrement utiles aux personnages.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Their friends list is an essential resource—a pool of people you can actively poll for ideas, troll for news, listen to for the latest rumors, buy or sell gear from, hit up for expert advice, and even ask for favors.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Leur liste d'amis est une ressource essentielle - une réserve de personnes que vous pouvez utiliser activement pour trouver des idées, troller des sujets d'actualités, écouter les dernières rumeurs, acheter ou vendre du matériel, récupérer des conseils d'experts et même demander des faveurs.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>While a character's social networks are nebulous and constantly shifting, the use of them is not.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Alors que les réseaux sociaux d'un personnage sont nébuleux et en changement permanent, leur utilisation ne change pas.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>A character takes advantage of their social networks via the Networking (Field) skill (p.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Un personnage utilise ses réseaux sociaux via la compétence Networking(Field) (p.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>The exact use of this skill is covered under Reputation and Social Networks, p.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>L'utilisation exacte de cette compétence est couverte sous le chapitre Réputation et Résaux Sociaux, p.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>The Fall devastated the global economies and currencies of the past.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>La Chute a dévasté l'économie globale et les systèmes monétaires du passé.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>In the years of reconsolidation that followed, the hypercorps and governments inaugurated a new system-wide electronic monetary system.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Dans les annéesqui de reconsolidation qui ont suivis, les hypercorps et les gouvernements ont inaugurés un nouveau système monétaire électronique à l'échelle du système solaire.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Called credit, this currency is backed by all of the large capitalist-oriented factions and is used to trade for goods and services as well for other financial transactions.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Appelé credit, cette monnaie est supportée par toutes les principales factions orientées vers le capitalisme et est utilisé pour échanger des marchandises et des services aussi bien que pour d'autres transactions financières.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Credit is mainly transferred electronically, though certified credit chips are also common (and favored for their anonymity).</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Le credit est principalement transféré électroniquement, bien que des puces de crédits certifiées qont également fréquemment utilisées (et préférées pour leur anonymat).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Hardcopy bills are even used in some habitats.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Des factures papiers sont même utilisées dans certains habitats.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Depending on your background or faction, your character may be given an amount of credit at the start of the game.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>En fonction de votre historique et de votre faction, votre personnage peut recevoir une somme de crédit au début du jeu.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>During game play, your character must earn credit the old-fashioned way: by earning or stealing it.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Pendant le jeu, votre personnage peut gagner du credit à l'ancienne: en le gagnant ou en le volant.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Capitalism is no longer the only economy in town.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Le capitalism n'est plus le seul système économique en ville.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>The development of nanofabricators allowed for the existence of post-scarcity economies, a fact eagerly taken advantage of by anarchist factions and others.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Le développement des nanofabers a rendu possible l'existence d'une économie post-pénurie, un fait largement exploité par les factions anarchistes et d'autres.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>When anyone can make anything, concepts like property and wealth become irrelevant.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Lorque n'importe qui peut fabriquer n'importe quoi, des concepts tels que la propriété ou la richesse deviennent hors sujet.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>The advent of functional gift and communist economies, among other alternative economic models, means that in such systems you can acquire any goods or services you need via free exchange, reciprocity, or barter—presuming you are a contributing member of such a system and respected by your peers.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>L'avènement d'économie fonctionnelles basées sur le communisme et le don,parmi d'autres économies alternatives,signifie que dans de tels système vous pouvez acquérir tout bien ou tout service dont vous avez besoin via l'échange libre, la réciprocité ou le troc - en partant du fait que vous êtes un membre contributeur d'un tel système et que vous êtes respectés par vos pairs.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Likewise, art, creativity, innovation, and various forms of cultural expression have a much higher worth than they do in capitalist economies.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>De manière similaire, l'art, la créativité, l'innovation et différentes forme d'expression culturelle ont une valeur bienplus élevée que dans une économie capitaliste.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>In alternative economies, money is often meaningless, but reputation matters.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Dans les économies alternatives, la monnaie n'a souvent aucun sens, c'est la réputation qui fait sens.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Your reputation score represents your social capital—how esteemed you are to your peers.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Votre score de réputation représente votre capital social - à quel point vous êtes estimés par vos pairs.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Rep can be increased by positively influencing, contributing to, or helping individuals or groups, and it can be decreased through antisocial behavior.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>La rep peut-être augmentée en influençant positivement, en contribuant ou en aidant des individus ou des groupes, et elle peut-être diminuée par un comportement antisocial. </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>In anarchist habitats, your likelihood of obtaining things that you need is entirely based on how you are viewed by others.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Dans les habitats anarchistes, votre capacité à obtenir les choses dont vous avez besoin est entièrement basé sur la manière dont vous êtes vus par d'autres.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Reputation is easily measured by one of several online social networks.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>La réputation est facilement mesurée par l'un des nombreux réseaux sociaux.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Your actions are rewarded or punished by those with whom you interact, who can ping your Rep score with positive or negative feedback.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Vos actions sont récompensées ou punies par ceux avec qui vous interagissez, qui pingent votre score de Rep avec un retour positif ou négatif.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>These networks are used by all of the factions, as reputation can affect your social activities in capitalist economies as well.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Ces réseaux sont utilisées par toutes les factions, car la réputation peut également affecter vos activités sociales dans une économie capitaliste.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>The primary reputation networks include:</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Les principaux réseaux réputationnels incluent:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>The @-list: the Circle-A list for anarchists, Bar- soomians, Extropians, scum, and Titanians, noted as @-rep.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>La liste @: la liste Arobase est utilisée par les anarchistes, les Barsoomiens, les Extropiens, la racaille et les Titaniens, notée comme @-rep.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg> CivicNet: used by the Jovian Republic, Lunar- Lagrange Alliance, Morningstar Constellation, Planetary Consortium, and many hypercorps, referred to as c-rep.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg> CivicNet: utilisée par la République Jovienne, l'Alliance Lunaire-Lagrange, la Constellation Morningstar, le Consortium Planétaire et beaucoup d'hypercorp et est référencé comme c-rep.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg> EcoWave: used by nano-ecologists, preservation- ists, and reclaimers, referred to as e-rep.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg> EcoWave: utilisé par les nano-écologistes, les préservationnistes et les réclamationnistes, est référencé comme e-rep.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg> Fame: the seen-and-be-seen network used by socialites, artists, glitterati, and media, referred to as f-rep.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg> Fame: le réseau pour voir et être vus utilisés par les élites, les artistes, les célébrités et les médias, référencé comme f-rep.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg> Guanxi: used by the triads and numerous crimi- nal entities, referred to as g-rep.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg> Guanxi: utilisé par les triades et de nombreuses entités criminelles, référencé en tant que g-rep.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg> The Eye: used by Firewall, noted as i-rep.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg> L'Œil: utilisé par Firewall, référencé comme i-rep.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg> RNA: Research Network Affiliation, used by ar- gonauts, technologists, scientists, and researchers, referred to as r-rep.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg> RRA: Réseau de Recherche Affilié, utilisé par les argonautes, les technologistes, les scientifiques et les chercheurs, référencé comme r-rep.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Reputation is rated from 0-99.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>La Réputation est notée de 0 à 99.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Depending on your background and faction, you may start with a Rep score in one or more networks.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>En fonction de votre historique et de votre faction, vous pouvez démarrer avecun score de Rep dans un réseau ou plus.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>This can be bolstered through spending customization points during character creation.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Ils peuvent être amélioré par des points de personnalisations pendant la création du personnage.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>During game play, your Rep scores will depend entirely on your character's actions.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Pendant le jeu, votre score de Rep dépendra entièrement des actions de votre personnage.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>For more information, see Reputation and Social Networks, p.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Pour plus d'information, voir Réputations et Réseaux Sociaux, p.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Note that each Rep score is tied to a particular identity.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Notez que chaque score de Rep est lié à une identité particulière.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>{Gear}</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>{Matériel}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Gear is all of the equipment your character owns and keeps on their person, from weapons and armor to clothing and electronics.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Le matériel regroupe tout l'équipement que votre personnage possède et qu'il garde sur eux,depuis les armes et les armures à l'habillement et à l'électronique.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>You buy gear for your character with customization points during character creation (see p.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Vous achetez votre équipement avec les points de personnalisation pendant la création de personnage (voir p.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>136) and in the game with Credit or Rep.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>136) et pendant le jeu avec du Credit ou de la Rep.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Certain restricted, illegal, or hard-to-find items may require special efforts to obtain (see Acquiring Gear, p.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Certains objets restreints, illégaux ou difficile à trouver peuvent nécessiter des efforts particulier pour les obtenirs (voir Acquérir du Matériel, p.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>If you have access to a nanofabricator, you may be able to simply build gear, presuming you have the proper blueprints (see Nanofabrication, p.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Si vous avez accès à un nanofabeur, vous pouvez simplement construire du matériel, si vous possédez le plan adéquat (voir Nanofabrication, p.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>For a complete listing of equipment options, see the Gear chapter, p.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Pour un listing complet d'options d'équipement, voir le chapitre Matériel, p.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Even among the remaining capitalist economies, prices can vary drastically.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Même parmi les restes de l'économie capitaliste, les prix peuvent varier drastiquement.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>To represent this, all gear falls into a cost category.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Pour représenter ce fait, tout le matériel tombe dans une catégorie de prix.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Each category defines a range of costs, so the gamemaster can adjust the prices of individual items as appropriate to the situation.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Chaque catégorie définit une gamme de prix, pour que le maître de jeu puisse ajuster le prix de chaque élément de manière appropriée à la situation.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Each category also lists an average price for that category, which is used during character generation and any time the gamemaster wants to keep costs simple.</seg>
-      </tuv>
-      <tuv xml:lang="fr-FR">
-        <seg>Chaque catégorie liste également le prix moyen pour cette catégorie, qui est utilisé pour la création de personnage et à n'importe quel moment où le maître de jeu désire garder la gestion des prix de manière simplifiée.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>Mind Hacks</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -4270,10 +3670,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>$ $ Desdemona: Glad to have you back.</seg>
+        <seg>$&lt;u0&gt; $ Desdemona: Glad to have you back.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>$ $ Desdemona: Contente de te revoir.</seg>
+        <seg>$&lt;u0&gt; $ Desdemona: Contente de te revoir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4582,26 +3982,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Æther Jabber: Asyncs}  Start Æther Jabber  </seg>
+        <seg>{Æther Jabber: Asyncs} &lt;u0&gt; Start Æther Jabber &lt;u1&gt; &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Æther Jabber: Asyncs}  Lancement de Æther Jabber  </seg>
+        <seg>{Æther Jabber: Asyncs} &lt;u0&gt; Lancement de Æther Jabber &lt;u1&gt; &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Active Members: 2</seg>
+        <seg>&lt;u2&gt; Active Members: 2</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Membres Actifs: 2</seg>
+        <seg>&lt;u2&gt; Membres Actifs: 2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>1 Sorry to bother you, but my muse just alerted me to this excerpt that was sent around to my Firewall team. Is this for real?</seg>
+        <seg>1&lt;/i0&gt;&lt;/i0&gt; Sorry to bother you, but my muse just alerted me to this excerpt that was sent around to my Firewall team. Is this for real?</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>1 Désolé de te déranger, mais ma muse vient de m'alerter que cet extrait a été evoyé à mon équipe Firewall. Est-ce que tout ça est vrai?</seg>
+        <seg>1&lt;/i0&gt;&lt;/i0&gt; Désolé de te déranger, mais ma muse vient de m'alerter que cet extrait a été evoyé à mon équipe Firewall. Est-ce que tout ça est vrai?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4646,10 +4046,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>2 Well, as to the Medeans ... that’s history.</seg>
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; Well, as to the Medeans ... that’s history.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>2 Ouais, à propos des Médéens ... c'ets du passé.</seg>
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; Ouais, à propos des Médéens ... c'ets du passé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4678,18 +4078,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>1 Shiny.</seg>
+        <seg>1&lt;/i0&gt;&lt;/i0&gt; Shiny.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>1 Brillant.</seg>
+        <seg>1&lt;/i0&gt;&lt;/i0&gt; Brillant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>2 Yes, Srit was once infected with a strain of the Exsurgent virus, probably on Mars near the end of the Fall.</seg>
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; Yes, Srit was once infected with a strain of the Exsurgent virus, probably on Mars near the end of the Fall.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>2 Oui, Srit a été infecté par une souche du virus Exsurgent, probablement sur Mars pas loin autour de la fin de la Chute.</seg>
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; Oui, Srit a été infecté par une souche du virus Exsurgent, probablement sur Mars pas loin autour de la fin de la Chute.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4766,26 +4166,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>2 That seems like a wise choice.</seg>
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; That seems like a wise choice.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>2 Ça à l'air d'un choix sage.</seg>
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; Ça à l'air d'un choix sage.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>1 Maybe you can put my mind at ease by explaining to me in a bit more detail how Watts-MacLeod infection occurs.</seg>
+        <seg>1&lt;/i0&gt;&lt;/i0&gt; Maybe you can put my mind at ease by explaining to me in a bit more detail how Watts-MacLeod infection occurs.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>1 Tu peux peut-être clarifier mes pensées en me donnant un peu plus de détail sur la manière dont se produit l'infection par la souche Watts-MacLeod.</seg>
+        <seg>1&lt;/i0&gt;&lt;/i0&gt; Tu peux peut-être clarifier mes pensées en me donnant un peu plus de détail sur la manière dont se produit l'infection par la souche Watts-MacLeod.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>2 Well, like the other Exsurgent strains you are unfortunately familiar with, the primary transmission vector is a nanovirus, but we speculate that it may also be transmitted as a digital computer virus or possibly even as a basilisk hack.</seg>
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; Well, like the other Exsurgent strains you are unfortunately familiar with, the primary transmission vector is a nanovirus, but we speculate that it may also be transmitted as a digital computer virus or possibly even as a basilisk hack.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>2 Bien, comme toutes les autres souches Exsurgente avec lesquelles tu es malheureusement familier, le principal vecteur de transmission est un nanovirus, mais nous pensont qu'il puisse également être transmis comme un virus informatique ou peut-être même par un piratage basilique.</seg>
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; Bien, comme toutes les autres souches Exsurgente avec lesquelles tu es malheureusement familier, le principal vecteur de transmission est un nanovirus, mais nous pensont qu'il puisse également être transmis comme un virus informatique ou peut-être même par un piratage basilique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4822,10 +4222,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>1 I’ve heard that synthmorphs are effectively invulnerable to psi as well.</seg>
+        <seg>1&lt;/i0&gt;&lt;/i0&gt; I’ve heard that synthmorphs are effectively invulnerable to psi as well.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>1 J'ai entendu dire que les synthmorphs sont effectivement invulnérables au psi.</seg>
+        <seg>1&lt;/i0&gt;&lt;/i0&gt; J'ai entendu dire que les synthmorphs sont effectivement invulnérables au psi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4838,10 +4238,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>2 Yes.</seg>
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; Yes.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>2 Oui.</seg>
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; Oui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4878,10 +4278,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>1 Interesting.</seg>
+        <seg>1&lt;/i0&gt;&lt;/i0&gt; Interesting.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>1 Intéressant.</seg>
+        <seg>1&lt;/i0&gt;&lt;/i0&gt; Intéressant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4902,10 +4302,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>2 I’ve heard from several of these asyncs directly.</seg>
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; I’ve heard from several of these asyncs directly.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>2 J'ai entendu parler de plusieurs de ces asyncs directement.</seg>
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; J'ai entendu parler de plusieurs de ces asyncs directement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4974,10 +4374,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>2 Unfortunately, we don’t.</seg>
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; Unfortunately, we don’t.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>2 Malheureusement, non.</seg>
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; Malheureusement, non.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5006,10 +4406,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>1 Of course.</seg>
+        <seg>1&lt;/i0&gt;&lt;/i0&gt; Of course.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>1 Bien sûr.</seg>
+        <seg>1&lt;/i0&gt;&lt;/i0&gt; Bien sûr.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5030,10 +4430,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>2 It’s important to keep perspective.</seg>
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; It’s important to keep perspective.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>2 C'est important de prendre du recul.</seg>
+        <seg>2&lt;/i0&gt;&lt;/i0&gt; C'est important de prendre du recul.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5334,10 +4734,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>In game terms, asyncs take 1d10 $$ 2 (round up) points of mental stress damage per month they stay in a pod, synthmorph or infomorph form without psychological assistance by a psychiatrist, software, or muse.</seg>
+        <seg>In game terms, asyncs take 1d10 $&lt;u0&gt;$ 2 (round up) points of mental stress damage per month they stay in a pod, synthmorph or infomorph form without psychological assistance by a psychiatrist, software, or muse.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>En terme de jeu, les asyncs subissent 1d10 $$ 2 (arrondir au supérieur) points de dommage mental dus au stress par mois pendant lesquels  ils restent dans un pod, une synthmorph ou une infomorph sans assistance psychologique par un psychiatre, un logiciel ou une muse.</seg>
+        <seg>En terme de jeu, les asyncs subissent 1d10 $&lt;u0&gt;$ 2 (arrondir au supérieur) points de dommage mental dus au stress par mois pendant lesquels  ils restent dans un pod, une synthmorph ou une infomorph sans assistance psychologique par un psychiatre, un logiciel ou une muse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5382,10 +4782,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> The mental instability that accompanies psi infection also tends to unhinge the character’s mind.</seg>
+        <seg>&lt;u1&gt; The mental instability that accompanies psi infection also tends to unhinge the character’s mind.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> L'instabilité mentale qui accompagne l'infection psi tends également à déranger l'esprit du personnage.</seg>
+        <seg>&lt;u1&gt; L'instabilité mentale qui accompagne l'infection psi tends également à déranger l'esprit du personnage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5422,10 +4822,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Characters with the Psi trait are also vulnerable to infection by other strains of the Exsurgent virus.</seg>
+        <seg>&lt;u2&gt; Characters with the Psi trait are also vulnerable to infection by other strains of the Exsurgent virus.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Les personnages avec le trait Psi sont également vulnérables à l'infection par d'autres souches du virus Exsurgent.</seg>
+        <seg>&lt;u2&gt; Les personnages avec le trait Psi sont également vulnérables à l'infection par d'autres souches du virus Exsurgent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5438,10 +4838,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Critical failures when using psi tend to stress the async’s mind.</seg>
+        <seg>&lt;u3&gt; Critical failures when using psi tend to stress the async’s mind.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Les échecs critiques en utilisant le psi a tendance à stresser l'esprit de l'async.</seg>
+        <seg>&lt;u3&gt; Les échecs critiques en utilisant le psi a tendance à stresser l'esprit de l'async.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6254,10 +5654,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>The temporary duration is determined by the async’s WIL $$ 5 (round up) and is measured in either Action Turns or minutes, as noted.</seg>
+        <seg>The temporary duration is determined by the async’s WIL $&lt;u0&gt;$ 5 (round up) and is measured in either Action Turns or minutes, as noted.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>La durée d'un effet Temporaire est déterminée par la VOL $$ 5 (arrondi au supérieur) de l'async et est mesurée soit en Tour d'Actions soit en minute, comme noté dans la description de l'exploit.</seg>
+        <seg>La durée d'un effet Temporaire est déterminée par la VOL $&lt;u0&gt;$ 5 (arrondi au supérieur) de l'async et est mesurée soit en Tour d'Actions soit en minute, comme noté dans la description de l'exploit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6342,10 +5742,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>In game terms, every active sleight has a Strain Value of 1d10 $$ 2 (round up) DV.</seg>
+        <seg>In game terms, every active sleight has a Strain Value of 1d10 $&lt;u0&gt;$ 2 (round up) DV.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>En terme de jeu, chaque exploit actif possède une Valeur de Drain de 1d10 $$ 2 (arrondies au supérieur) VD.</seg>
+        <seg>En terme de jeu, chaque exploit actif possède une Valeur de Drain de 1d10 $&lt;u0&gt;$ 2 (arrondies au supérieur) VD.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6358,10 +5758,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>For example, a sleights with a Strain Value Modifier of –1 inflicts (1d10 $$ 2) –1 DV.</seg>
+        <seg>For example, a sleights with a Strain Value Modifier of –1 inflicts (1d10 $&lt;u1&gt;$ 2) –1 DV.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Par exemple, un exploit avec une Valeur de Modificateur de Drain de -1 inflige (1d10 $$ 2) -1 DV.</seg>
+        <seg>Par exemple, un exploit avec une Valeur de Modificateur de Drain de -1 inflige (1d10 $&lt;u1&gt;$ 2) -1 DV.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6374,10 +5774,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Example </seg>
+        <seg>Example&lt;/i0&gt; &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Exemple </seg>
+        <seg>Exemple&lt;/i0&gt; &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6398,18 +5798,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Matric’s WIL is 25, so the duration of this temporary sleight is 5 Action Turns (25 $$ 5 = 5).</seg>
+        <seg>Matric’s WIL is 25, so the duration of this temporary sleight is 5 Action Turns (25 $&lt;u0&gt;$ 5 = 5).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>La VOL de matric est 25, donc la durée de cet exploit temporaire est de 5 Tours d'Action (25 $$ 5 = 5).</seg>
+        <seg>La VOL de matric est 25, donc la durée de cet exploit temporaire est de 5 Tours d'Action (25 $&lt;u0&gt;$ 5 = 5).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>The sleight’s Strain modifier is –1, so he is facing (1d10 $$ 2) –1 DV.</seg>
+        <seg>The sleight’s Strain modifier is –1, so he is facing (1d10 $&lt;u1&gt;$ 2) –1 DV.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Le modificateur de Drain de l'exploi est de -1, il doit donc encaisser (1d10 $$ 2) - 1 DV.</seg>
+        <seg>Le modificateur de Drain de l'exploi est de -1, il doit donc encaisser (1d10 $&lt;u1&gt;$ 2) - 1 DV.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6478,10 +5878,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>For damage, he rolls 1d10 + (WIL $$ 10).</seg>
+        <seg>For damage, he rolls 1d10 + (WIL $&lt;u2&gt;$ 10).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Pour détermeiner les dégats, il lance 1d10 + (VOL $$ 10).</seg>
+        <seg>Pour détermeiner les dégats, il lance 1d10 + (VOL $&lt;u2&gt;$ 10).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6518,34 +5918,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Ambience Sense} Psi Type: Passive </seg>
+        <seg>{Ambience Sense} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Précognition Ambiante} Type: Passif </seg>
+        <seg>{Précognition Ambiante} &lt;i0&gt;Type:&lt;/i0&gt; Passif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Action: Automatic </seg>
+        <seg>&lt;i1&gt;Action:&lt;/i1&gt; Automatic &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Action: Automatique </seg>
+        <seg>&lt;i1&gt;Action:&lt;/i1&gt; Automatique &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Range: Self </seg>
+        <seg>&lt;i2&gt;Range:&lt;/i2&gt; Self &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Portée: Soi </seg>
+        <seg>&lt;i2&gt;Portée:&lt;/i2&gt; Soi &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Duration: Constant </seg>
+        <seg>&lt;i3&gt;Duration:&lt;/i3&gt; Constant &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Durée: Permanente </seg>
+        <seg>&lt;i3&gt;Durée:&lt;/i3&gt; Permanente &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6566,34 +5966,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Cognitive Boost} Psi Type: Active </seg>
+        <seg>{Cognitive Boost} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Boost Cognitif} Type: Actif </seg>
+        <seg>{Boost Cognitif} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Action: Quick </seg>
+        <seg>&lt;i1&gt;Action:&lt;/i1&gt; Quick &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Action: Rapide </seg>
+        <seg>&lt;i1&gt;Action:&lt;/i1&gt; Rapide &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Duration: Temp (Action Turns) </seg>
+        <seg>&lt;i3&gt;Duration:&lt;/i3&gt; Temp (Action Turns) &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Durée: Temp (Tour d'Actions) </seg>
+        <seg>&lt;i3&gt;Durée:&lt;/i3&gt; Temp (Tour d'Actions) &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Strain Mod: –1 </seg>
+        <seg>&lt;i4&gt;Strain Mod:&lt;/i4&gt; –1 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Mod. de Drain: –1 </seg>
+        <seg>&lt;i4&gt;Mod. de Drain:&lt;/i4&gt; –1 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6622,42 +6022,42 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Downtime} Psi Type: Active </seg>
+        <seg>{Downtime} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Veille} Type: Actif </seg>
+        <seg>{Veille} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Action: Task (min.</seg>
+        <seg>&lt;i1&gt;Action:&lt;/i1&gt; Task (min.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Action: Tâche (min.</seg>
+        <seg>&lt;i1&gt;Action:&lt;/i1&gt; Tâche (min.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>4 hours) </seg>
+        <seg>4 hours) &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>4 heures) </seg>
+        <seg>4 heures) &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Duration: Sustained </seg>
+        <seg>&lt;i3&gt;Duration:&lt;/i3&gt; Sustained &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Durée: Maintenue </seg>
+        <seg>&lt;i3&gt;Durée:&lt;/i3&gt; Maintenue &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Strain Mod: 0 </seg>
+        <seg>&lt;i4&gt;Strain Mod:&lt;/i4&gt; 0 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Mod. de Drain: 0 </seg>
+        <seg>&lt;i4&gt;Mod. de Drain:&lt;/i4&gt; 0 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6702,10 +6102,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Emotion Control} Psi Type: Passive </seg>
+        <seg>{Emotion Control} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Contrôle Émotionnel} Type: Passif </seg>
+        <seg>{Contrôle Émotionnel} &lt;i0&gt;Type:&lt;/i0&gt; Passif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6742,10 +6142,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Enhanced Creativity} Psi Type: Passive </seg>
+        <seg>{Enhanced Creativity} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Créativité Améliorée} Type: Passif </seg>
+        <seg>{Créativité Améliorée} &lt;i0&gt;Type:&lt;/i0&gt; Passif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6774,10 +6174,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Filter} Psi Type: Passive </seg>
+        <seg>{Filter} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Filtre} Type: Passif </seg>
+        <seg>{Filtre} &lt;i0&gt;Type:&lt;/i0&gt; Passif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6790,26 +6190,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Grok} Psi Type: Active </seg>
+        <seg>{Grok} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Grok} Type: Actif </seg>
+        <seg>{Grok} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Action: Complex </seg>
+        <seg>&lt;i1&gt;Action:&lt;/i1&gt; Complex &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Action: Complexe </seg>
+        <seg>&lt;i1&gt;Action:&lt;/i1&gt; Complexe &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Duration: Instant </seg>
+        <seg>&lt;i3&gt;Duration:&lt;/i3&gt; Instant &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Durée: Instantanée </seg>
+        <seg>&lt;i3&gt;Durée:&lt;/i3&gt; Instantanée &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6846,10 +6246,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{High Pain Threshold} Psi Type: Passive </seg>
+        <seg>{High Pain Threshold} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Haute Tolérance à la Douleur} Type: Passif </seg>
+        <seg>{Haute Tolérance à la Douleur} &lt;i0&gt;Type:&lt;/i0&gt; Passif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6870,10 +6270,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Hyperthymesia} Psi Type: Passive </seg>
+        <seg>{Hyperthymesia} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Hyperthymesie} Type: Passif </seg>
+        <seg>{Hyperthymesie} &lt;i0&gt;Type:&lt;/i0&gt; Passif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6894,10 +6294,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Instinct} Psi Type: Passive </seg>
+        <seg>{Instinct} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Instinct} Type: Passif </seg>
+        <seg>{Instinct} &lt;i0&gt;Type:&lt;/i0&gt; Passif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6926,10 +6326,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Multitasking} Psi Type: Passive </seg>
+        <seg>{Multitasking} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Multitâche} Type: Passif </seg>
+        <seg>{Multitâche} &lt;i0&gt;Type:&lt;/i0&gt; Passif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6950,10 +6350,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Pattern Recognition} Psi Type: Passive </seg>
+        <seg>{Pattern Recognition} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Reconnaissance de Motifs} Type: Passif </seg>
+        <seg>{Reconnaissance de Motifs} &lt;i0&gt;Type:&lt;/i0&gt; Passif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7014,10 +6414,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Predictive Boost} Psi Type: Passive </seg>
+        <seg>{Predictive Boost} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Boost de Prédiction} Type: Passif </seg>
+        <seg>{Boost de Prédiction} &lt;i0&gt;Type:&lt;/i0&gt; Passif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7054,10 +6454,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Qualia} Psi Type: Active </seg>
+        <seg>{Qualia} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Qualia} Type: Actif </seg>
+        <seg>{Qualia} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7086,10 +6486,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Savant Calculation} Psi Type: Passive </seg>
+        <seg>{Savant Calculation} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Calcul Savant} Type: Passive </seg>
+        <seg>{Calcul Savant} &lt;i0&gt;Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7134,18 +6534,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Sensory Boost} Psi Type: Active </seg>
+        <seg>{Sensory Boost} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Boost Sensoriel} Type: Actif </seg>
+        <seg>{Boost Sensoriel} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Strain Mod: –2 </seg>
+        <seg>&lt;i4&gt;Strain Mod:&lt;/i4&gt; –2 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Mod. de Drain: –2 </seg>
+        <seg>&lt;i4&gt;Mod. de Drain:&lt;/i4&gt; –2 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7158,10 +6558,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Superior Kinesics} Psi Type: Passive </seg>
+        <seg>{Superior Kinesics} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Kinésique Supérieure} Type: Passif </seg>
+        <seg>{Kinésique Supérieure} &lt;i0&gt;Type:&lt;/i0&gt; Passif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7182,10 +6582,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Time Sense} Psi Type: Active </seg>
+        <seg>{Time Sense} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Perception Temporelle} Type: Actif </seg>
+        <seg>{Perception Temporelle} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7214,18 +6614,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Unconscious Lead} Psi Type: Active </seg>
+        <seg>{Unconscious Lead} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Guide de l'Incosncient} Type: Actif </seg>
+        <seg>{Guide de l'Incosncient} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Strain Mod: +0 </seg>
+        <seg>&lt;i4&gt;Strain Mod:&lt;/i4&gt; +0 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Mod. de Drain: 0 </seg>
+        <seg>&lt;i4&gt;Mod. de Drain:&lt;/i4&gt; 0 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7294,26 +6694,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Alienation} Psi Type: Active </seg>
+        <seg>{Alienation} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Aliénation} Type: Actif </seg>
+        <seg>{Aliénation} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Range: Touch </seg>
+        <seg>&lt;i2&gt;Range:&lt;/i2&gt; Touch &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Portée: Contact </seg>
+        <seg>&lt;i2&gt;Portée:&lt;/i2&gt; Contact &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Skill: Psi Assault </seg>
+        <seg>&lt;i5&gt;Skill:&lt;/i5&gt; Psi Assault &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Compétence: Assaut Psi </seg>
+        <seg>&lt;i5&gt;Compétence:&lt;/i5&gt; Assaut Psi &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7358,26 +6758,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Charisma} Psi Type: Active </seg>
+        <seg>{Charisma} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Charisme} Type: Actif </seg>
+        <seg>{Charisme} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Duration: Temp (Minutes) </seg>
+        <seg>&lt;i3&gt;Duration:&lt;/i3&gt; Temp (Minutes) &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Durée: Temp (Minute) </seg>
+        <seg>&lt;i3&gt;Durée:&lt;/i3&gt; Temp (Minute) &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Skill: Control</seg>
+        <seg>&lt;i5&gt;Skill:&lt;/i5&gt; Control&lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Compétence: Contrôle </seg>
+        <seg>&lt;i5&gt;Compétence:&lt;/i5&gt; Contrôle &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7398,10 +6798,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Cloud Memory} Psi Type: Active </seg>
+        <seg>{Cloud Memory} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Mamoire Brumeuse} Type: Actif </seg>
+        <seg>{Mamoire Brumeuse} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7430,26 +6830,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Deep Scan} Psi Type: Active </seg>
+        <seg>{Deep Scan} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Analyse en Profondeur} Type: Actif </seg>
+        <seg>{Analyse en Profondeur} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Strain Mod: +1 </seg>
+        <seg>&lt;i4&gt;Strain Mod:&lt;/i4&gt; +1 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Mod. de Drain: +1 </seg>
+        <seg>&lt;i4&gt;Mod. de Drain:&lt;/i4&gt; +1 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Skill: Sense</seg>
+        <seg>&lt;i5&gt;Skill:&lt;/i5&gt; Sense&lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Compétence: Divination </seg>
+        <seg>&lt;i5&gt;Compétence:&lt;/i5&gt; Divination &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7502,10 +6902,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Drive Emotion} Psi Type: Active </seg>
+        <seg>{Drive Emotion} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Déclencher une Emotion} Type: Actif </seg>
+        <seg>{Déclencher une Emotion} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7542,18 +6942,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Ego Sense} Psi Type: Active </seg>
+        <seg>{Ego Sense} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Perception Egotique} Type: Actif </seg>
+        <seg>{Perception Egotique} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Range: Close </seg>
+        <seg>&lt;i2&gt;Range:&lt;/i2&gt; Close &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Portée: Proche </seg>
+        <seg>&lt;i2&gt;Portée:&lt;/i2&gt; Proche &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7614,10 +7014,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Empathic Scan} Psi Type: Active </seg>
+        <seg>{Empathic Scan} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Analyse Empathique} Type: Actif </seg>
+        <seg>{Analyse Empathique} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7646,10 +7046,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Implant Memory} Psi Type: Active </seg>
+        <seg>{Implant Memory} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Implantation Mémorielle} Type: Actif </seg>
+        <seg>{Implantation Mémorielle} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7702,10 +7102,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Implant Skill} Psi Type: Active </seg>
+        <seg>{Implant Skill} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Implantation de Compétences} Type: Actif </seg>
+        <seg>{Implantation de Compétences} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7758,10 +7158,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Mimic} Psi Type: Active </seg>
+        <seg>{Mimic} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Imitation} Type: Actif </seg>
+        <seg>{Imitation} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7798,18 +7198,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Mindlink} Psi Type: Active </seg>
+        <seg>{Mindlink} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Lien Mental} Type: Actif </seg>
+        <seg>{Lien Mental} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Strain Mod: +1/target after first </seg>
+        <seg>&lt;i4&gt;Strain Mod:&lt;/i4&gt; +1/target after first &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Mod. de Drain: +1/cible après la première </seg>
+        <seg>&lt;i4&gt;Mod. de Drain:&lt;/i4&gt; +1/cible après la première &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7846,10 +7246,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Omni Awareness} Psi Type: Active </seg>
+        <seg>{Omni Awareness} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Omniscience} Type: Actif </seg>
+        <seg>{Omniscience} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7894,18 +7294,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Penetration} Psi Type: Active </seg>
+        <seg>{Penetration} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Pénétration} Type: Actif </seg>
+        <seg>{Pénétration} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Strain Mod: 1 per AP point </seg>
+        <seg>&lt;i4&gt;Strain Mod:&lt;/i4&gt; 1 per AP point &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Mod. de Drain: 1 par point de PA </seg>
+        <seg>&lt;i4&gt;Mod. de Drain:&lt;/i4&gt; 1 par point de PA &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7942,10 +7342,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Psi Shield} Psi Type: Passive </seg>
+        <seg>{Psi Shield} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Boulcier Psi} Type: Passif </seg>
+        <seg>{Boulcier Psi} &lt;i0&gt;Type:&lt;/i0&gt; Passif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7958,10 +7358,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>If the async is hit by a psi attack, they receive WIL $$ 5 (round up) points of armor, reducing the amount of damage inflicted.</seg>
+        <seg>If the async is hit by a psi attack, they receive WIL $&lt;u0&gt;$ 5 (round up) points of armor, reducing the amount of damage inflicted.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Si l'async est touché par une attaque psi, ils reçoivent VOL $$ 5 (arrondir au supérieur) points d'armure, réduisant le total de dommage infligés.</seg>
+        <seg>Si l'async est touché par une attaque psi, ils reçoivent VOL $&lt;u0&gt;$ 5 (arrondir au supérieur) points d'armure, réduisant le total de dommage infligés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7974,10 +7374,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Psychic Stab} Psi Type: Active </seg>
+        <seg>{Psychic Stab} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Frappe Psyhcique} Type: Actif </seg>
+        <seg>{Frappe Psyhcique} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7990,10 +7390,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Each successful attack inflicts 1d10 + (WIL $$ 10, round up) damage.</seg>
+        <seg>Each successful attack inflicts 1d10 + (WIL $&lt;u0&gt;$ 10, round up) damage.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Chaque attaque réussie inflige 1d10 + (VOL $$ 10, arrondi au supérieur) points de dommage.</seg>
+        <seg>Chaque attaque réussie inflige 1d10 + (VOL $&lt;u0&gt;$ 10, arrondi au supérieur) points de dommage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8006,10 +7406,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Scramble} Psi Type: Passive </seg>
+        <seg>{Scramble} &lt;i0&gt;Psi Type:&lt;/i0&gt; Passive &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Brouillage} Psi : Passif </seg>
+        <seg>{Brouillage} &lt;i0&gt;Psi :&lt;/i0&gt; Passif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8030,10 +7430,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Sense Block} Psi Type: Active </seg>
+        <seg>{Sense Block} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Bloquage Sensoriel} Type: Actif </seg>
+        <seg>{Bloquage Sensoriel} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8054,10 +7454,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Spam} Psi Type: Active </seg>
+        <seg>{Spam} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Spam} Type: Actif </seg>
+        <seg>{Spam} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8078,18 +7478,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Static} Psi Type: Active </seg>
+        <seg>{Static} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Statique} Type: Actif </seg>
+        <seg>{Statique} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Skill: None</seg>
+        <seg>&lt;i5&gt;Skill:&lt;/i5&gt; None&lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Compétence: Aucune</seg>
+        <seg>&lt;i5&gt;Compétence:&lt;/i5&gt; Aucune&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8118,18 +7518,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Subliminal} Psi Type: Active </seg>
+        <seg>{Subliminal} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Subliminal} Type: Actif </seg>
+        <seg>{Subliminal} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Strain Mod: +2 </seg>
+        <seg>&lt;i4&gt;Strain Mod:&lt;/i4&gt; +2 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Mod. de Drain: +2 </seg>
+        <seg>&lt;i4&gt;Mod. de Drain:&lt;/i4&gt; +2 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8174,10 +7574,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Thought Browse} Psi Type: Active </seg>
+        <seg>{Thought Browse} &lt;i0&gt;Psi Type:&lt;/i0&gt; Active &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Parcours des Pensée} Type: Actif </seg>
+        <seg>{Parcours des Pensée} &lt;i0&gt;Type:&lt;/i0&gt; Actif &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8566,10 +7966,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Solarchive Search: “The Human Cognome Project”  </seg>
+        <seg>Solarchive Search: “The Human Cognome Project” &lt;/i0&gt; &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Recherche dans Solarchive : &quot;Le Projet du Cognome Humain&quot;  </seg>
+        <seg>Recherche dans Solarchive : &quot;Le Projet du Cognome Humain&quot; &lt;/i0&gt; &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8830,10 +8230,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{3}{|c|}{Psychosurgery Modifiers} </seg>
+        <seg>{3}{|c|}{&lt;i0&gt;Psychosurgery Modifiers&lt;/i0&gt;} &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{3}{|c|}{Modificateurs de Psychochirurgie} </seg>
+        <seg>{3}{|c|}{&lt;i0&gt;Modificateurs de Psychochirurgie&lt;/i0&gt;} &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8846,10 +8246,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>SV Modifier </seg>
+        <seg>SV Modifier &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Modificateur de VS</seg>
+        <seg>Modificateur de VS&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8886,26 +8286,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Behavioral Control} Timeframe: 1 week </seg>
+        <seg>{Behavioral Control} &lt;i0&gt;Timeframe:&lt;/i0&gt; 1 week &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Contrôle Comportemental} Intervalle: 1 sem. </seg>
+        <seg>{Contrôle Comportemental} &lt;i0&gt;Intervalle:&lt;/i0&gt; 1 sem. &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>PM: Limit/Boost –10; Block/Encourage –20, Expunge/Enforce –30 </seg>
+        <seg>&lt;i1&gt;PM:&lt;/i1&gt; Limit/Boost –10; Block/Encourage –20, Expunge/Enforce –30 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>MP: Limitation/Amplification –10; Bloquage/Incitation –20, Effacement/Forçage–30 </seg>
+        <seg>&lt;i1&gt;MP:&lt;/i1&gt; Limitation/Amplification –10; Bloquage/Incitation –20, Effacement/Forçage–30 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>SV: (1d10 $$ 2, round up) </seg>
+        <seg>&lt;i2&gt;SV:&lt;/i2&gt; (1d10 $&lt;u0&gt;$ 2, round up) &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>VS: (1d10 $$ 2, arrondi au supérieur) </seg>
+        <seg>&lt;i2&gt;VS:&lt;/i2&gt; (1d10 $&lt;u0&gt;$ 2, arrondi au supérieur) &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8958,10 +8358,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>They will find themselves completely incapable of initiating a behavior that is expunged, and if forced into the behavior will suffer a –30 modifier and (1d10 $$ 2, round up) points of mental Stress.</seg>
+        <seg>They will find themselves completely incapable of initiating a behavior that is expunged, and if forced into the behavior will suffer a –30 modifier and (1d10 $&lt;u1&gt;$ 2, round up) points of mental Stress.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Il sera complètement incapable d'initier un comportement qui a été effacé et, si il est forcé dans ce comportement, souffrira d'un modificateur de -30 et recevra (1d10 $ $2, arrondi au supérieur) point de Stress mental.</seg>
+        <seg>Il sera complètement incapable d'initier un comportement qui a été effacé et, si il est forcé dans ce comportement, souffrira d'un modificateur de -30 et recevra (1d10 $&lt;u1&gt; $2, arrondi au supérieur) point de Stress mental.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8974,34 +8374,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>They will have no choice but to engage in enforced behaviors, and will suffer (1d10 $$ 2, round up) points of mental Stress if prevented from doing so.</seg>
+        <seg>They will have no choice but to engage in enforced behaviors, and will suffer (1d10 $&lt;u2&gt;$ 2, round up) points of mental Stress if prevented from doing so.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Ils n'auront aps d'autres choix que sde suivre un comportement forcé, et souffriront de (1d10 $$ 2, arrondi au supérieur) point de Stress mental si ils sont empécher de le faire.</seg>
+        <seg>Ils n'auront aps d'autres choix que sde suivre un comportement forcé, et souffriront de (1d10 $&lt;u2&gt;$ 2, arrondi au supérieur) point de Stress mental si ils sont empécher de le faire.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Behavioral Masking} Timeframe: 1 week </seg>
+        <seg>{Behavioral Masking} &lt;i0&gt;Timeframe:&lt;/i0&gt; 1 week &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Camouflage Comportemental} Intervalle: 1 sem. </seg>
+        <seg>{Camouflage Comportemental} &lt;i0&gt;Intervalle:&lt;/i0&gt; 1 sem. &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>PM: –20 </seg>
+        <seg>&lt;i1&gt;PM:&lt;/i1&gt; –20 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>MP: –20 </seg>
+        <seg>&lt;i1&gt;MP:&lt;/i1&gt; –20 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>SV: 1d10 $$ 2, round up </seg>
+        <seg>&lt;i2&gt;SV:&lt;/i2&gt; 1d10 $&lt;u0&gt;$ 2, round up &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>VS: 1d10 $$ 2, arrondi au supérieur</seg>
+        <seg>&lt;i2&gt;VS:&lt;/i2&gt; 1d10 $&lt;u0&gt;$ 2, arrondi au supérieur&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9038,26 +8438,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Deep Learning} Timeframe: Skill Learning Time $$ 2 </seg>
+        <seg>{Deep Learning} &lt;i0&gt;Timeframe:&lt;/i0&gt; Skill Learning Time $&lt;u0&gt;$ 2 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Apprentissage en Profondeur} Intervalle: Temps d'Apprentissage de la Compétence$$ 2 </seg>
+        <seg>{Apprentissage en Profondeur} &lt;i0&gt;Intervalle:&lt;/i0&gt; Temps d'Apprentissage de la Compétence$&lt;u0&gt;$ 2 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>PM: +20 </seg>
+        <seg>&lt;i1&gt;PM:&lt;/i1&gt; +20 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>MP: +20 </seg>
+        <seg>&lt;i1&gt;MP:&lt;/i1&gt; +20 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>SV: 1 </seg>
+        <seg>&lt;i2&gt;SV:&lt;/i2&gt; 1 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>VS: 1 </seg>
+        <seg>&lt;i2&gt;VS:&lt;/i2&gt; 1 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9070,18 +8470,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Emotional Control} Timeframe: 1 week </seg>
+        <seg>{Emotional Control} &lt;i0&gt;Timeframe:&lt;/i0&gt; 1 week &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Contrôle Émotionnel} Intervalle: 1 sem. </seg>
+        <seg>{Contrôle Émotionnel} &lt;i0&gt;Intervalle:&lt;/i0&gt; 1 sem. &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>SV: (1d10 $$ 2, round up) + 2 </seg>
+        <seg>&lt;i2&gt;SV:&lt;/i2&gt; (1d10 $&lt;u0&gt;$ 2, round up) + 2 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>VS: (1d10 $$ 2, arrondi au supérieur) + 2</seg>
+        <seg>&lt;i2&gt;VS:&lt;/i2&gt; (1d10 $&lt;u0&gt;$ 2, arrondi au supérieur) + 2&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9118,26 +8518,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Interrogation} Timeframe: Variable (gamemaster discretion; 1 week default) </seg>
+        <seg>{Interrogation} &lt;i0&gt;Timeframe:&lt;/i0&gt; Variable (gamemaster discretion; 1 week default) &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Interrogatoire} Intervalle: Variable (à la discrétion du maître de jeu; 1 semaine par défaut) </seg>
+        <seg>{Interrogatoire} &lt;i0&gt;Intervalle:&lt;/i0&gt; Variable (à la discrétion du maître de jeu; 1 semaine par défaut) &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>PM: +30 </seg>
+        <seg>&lt;i1&gt;PM:&lt;/i1&gt; +30 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>MP: +20 </seg>
+        <seg>&lt;i1&gt;MP:&lt;/i1&gt; +20 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>SV: 1d10 </seg>
+        <seg>&lt;i2&gt;SV:&lt;/i2&gt; 1d10 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>VS: 1d10 </seg>
+        <seg>&lt;i2&gt;VS:&lt;/i2&gt; 1d10 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9158,18 +8558,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Memory Editing} Timeframe: 1 week (2 weeks adding/replacing) </seg>
+        <seg>{Memory Editing} &lt;i0&gt;Timeframe:&lt;/i0&gt; 1 week (2 weeks adding/replacing) &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Edition Mémorielle} Intervalle: 1 sem. (2 semaine pour ajouter/remplacer) </seg>
+        <seg>{Edition Mémorielle} &lt;i0&gt;Intervalle:&lt;/i0&gt; 1 sem. (2 semaine pour ajouter/remplacer) &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>PM: –10 (willing) or –30 (forced) </seg>
+        <seg>&lt;i1&gt;PM:&lt;/i1&gt; –10 (willing) or –30 (forced) &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>MP: –10 (volontaire) or –30 (forcé) </seg>
+        <seg>&lt;i1&gt;MP:&lt;/i1&gt; –10 (volontaire) or –30 (forcé) &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9206,26 +8606,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Personality Editing} Timeframe: 1 week </seg>
+        <seg>{Personality Editing} &lt;i0&gt;Timeframe:&lt;/i0&gt; 1 week &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Édition de Personnalité} Intervalle: 1 sem.</seg>
+        <seg>{Édition de Personnalité} &lt;i0&gt;Intervalle:&lt;/i0&gt; 1 sem.&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>PM: Minor –10; Moderate –20, Major –30 </seg>
+        <seg>&lt;i1&gt;PM:&lt;/i1&gt; Minor –10; Moderate –20, Major –30 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>MP: Mineur –10; Modéré –20, Majeur –30 </seg>
+        <seg>&lt;i1&gt;MP:&lt;/i1&gt; Mineur –10; Modéré –20, Majeur –30 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>SV: (1d10 $$ 2, round up) + 3 </seg>
+        <seg>&lt;i2&gt;SV:&lt;/i2&gt; (1d10 $&lt;u0&gt;$ 2, round up) + 3 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>VS: (1d10 $$ 2, arrondi au supérieur) + 3 </seg>
+        <seg>&lt;i2&gt;VS:&lt;/i2&gt; (1d10 $&lt;u0&gt;$ 2, arrondi au supérieur) + 3 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9262,18 +8662,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Psychotorture} Timeframe: Variable </seg>
+        <seg>{Psychotorture} &lt;i0&gt;Timeframe:&lt;/i0&gt; Variable &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Psychotorture} Intervalle: Variable </seg>
+        <seg>{Psychotorture} &lt;i0&gt;Intervalle:&lt;/i0&gt; Variable &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>SV: 1d10 SV per day </seg>
+        <seg>&lt;i2&gt;SV:&lt;/i2&gt; 1d10 SV per day &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>VS: 1d10 de VS par jour</seg>
+        <seg>&lt;i2&gt;VS:&lt;/i2&gt; 1d10 de VS par jour&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9294,26 +8694,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Psychotherapy} TIMEFRAME: Variable </seg>
+        <seg>{Psychotherapy} &lt;i0&gt;TIMEFRAME:&lt;/i0&gt; Variable &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Psychothérapie} Intervalle: Variable </seg>
+        <seg>{Psychothérapie} &lt;i0&gt;Intervalle:&lt;/i0&gt; Variable &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>PM: +0 </seg>
+        <seg>&lt;i1&gt;PM:&lt;/i1&gt; +0 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>MP: +0 </seg>
+        <seg>&lt;i1&gt;MP:&lt;/i1&gt; +0 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>SV: 0 </seg>
+        <seg>&lt;i2&gt;SV:&lt;/i2&gt; 0 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>VS: 0 </seg>
+        <seg>&lt;i2&gt;VS:&lt;/i2&gt; 0 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9334,18 +8734,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Skill Imprints} Timeframe: 1 week per +10 </seg>
+        <seg>{Skill Imprints} &lt;i0&gt;Timeframe:&lt;/i0&gt; 1 week per +10 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Impression de Compétence} intervalle: 1 sem. par +10 </seg>
+        <seg>{Impression de Compétence} &lt;i0&gt;intervalle:&lt;/i0&gt; 1 sem. par +10 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>SV: 1 per +10 </seg>
+        <seg>&lt;i2&gt;SV:&lt;/i2&gt; 1 per +10 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>VS: 1 par +10</seg>
+        <seg>&lt;i2&gt;VS:&lt;/i2&gt; 1 par +10&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9374,18 +8774,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Skill Suppression} Timeframe: 1 day per –10 </seg>
+        <seg>{Skill Suppression} &lt;i0&gt;Timeframe:&lt;/i0&gt; 1 day per –10 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Suppression de Compétence} Intervalle: 1 jour par –10 </seg>
+        <seg>{Suppression de Compétence} &lt;i0&gt;Intervalle:&lt;/i0&gt; 1 jour par –10 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>PM: –10 </seg>
+        <seg>&lt;i1&gt;PM:&lt;/i1&gt; –10 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>MP: –10 </seg>
+        <seg>&lt;i1&gt;MP:&lt;/i1&gt; –10 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9406,18 +8806,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>{Tasping} Timeframe: 1 day </seg>
+        <seg>{Tasping} &lt;i0&gt;Timeframe:&lt;/i0&gt; 1 day &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Excitation} Intervalle: 1 jour </seg>
+        <seg>{Excitation} &lt;i0&gt;Intervalle:&lt;/i0&gt; 1 jour &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>PM: +10 </seg>
+        <seg>&lt;i1&gt;PM:&lt;/i1&gt; +10 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>MP: +10 </seg>
+        <seg>&lt;i1&gt;MP:&lt;/i1&gt; +10 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9462,50 +8862,50 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>$$ begin excerpt $$ </seg>
+        <seg>$&lt;u0&gt;$ begin excerpt $&lt;u0&gt;$ &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>$$ début d'extrait $$ </seg>
+        <seg>$&lt;u0&gt;$ début d'extrait $&lt;u0&gt;$ &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>PSICLONE Project Quarterly Board Meeting </seg>
+        <seg>PSICLONE Project Quarterly Board Meeting &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Projet PSICLONE - Réunion Trimestrielle du Comité</seg>
+        <seg>Projet PSICLONE - Réunion Trimestrielle du Comité&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>2nd Quarter 8 AF </seg>
+        <seg>2nd Quarter 8 AF &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>2° Trimestre 8 AF</seg>
+        <seg>2° Trimestre 8 AF&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>FUTURA Project Conclusion— </seg>
+        <seg>FUTURA Project Conclusion— &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Conclusion du Projet FUTURA— </seg>
+        <seg>Conclusion du Projet FUTURA— &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Executive Summary Report </seg>
+        <seg>Executive Summary Report &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Rapport sommaire</seg>
+        <seg>Rapport sommaire&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Prepared by Dr. Amelia Sheppard	</seg>
+        <seg>Prepared by Dr. Amelia Sheppard	&lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Préparé par le Dr. Amelia Sheppard	</seg>
+        <seg>Préparé par le Dr. Amelia Sheppard	&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9526,10 +8926,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>The project was initially proposed by my mentor, Dr. Antonio Pascal, whose team had proven the feasibility of Accelerated Life Experience Training (ALET) after a series of pilot studies with two small (N $  $ 1000) samples.</seg>
+        <seg>The project was initially proposed by my mentor, Dr. Antonio Pascal, whose team had proven the feasibility of Accelerated Life Experience Training (ALET) after a series of pilot studies with two small (N $ &lt;u0&gt; $ 1000) samples.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Le projet avait été initiallement proposé par mon mentor, le Dr. Antonio Pascal, dont l'équipe a prouvé la faisabilité de l'Apprentissage par Expérience de Vie Accélérée (ÆVA) après une série d'études pilotes sur deux échantillons réduits (N $  $ 1000).</seg>
+        <seg>Le projet avait été initiallement proposé par mon mentor, le Dr. Antonio Pascal, dont l'équipe a prouvé la faisabilité de l'Apprentissage par Expérience de Vie Accélérée (ÆVA) après une série d'études pilotes sur deux échantillons réduits (N $ &lt;u0&gt; $ 1000).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9742,10 +9142,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>$$ end excerpt $$</seg>
+        <seg>$&lt;u0&gt;$ end excerpt $&lt;u0&gt;$</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>$$ fin de l'extrait $$</seg>
+        <seg>$&lt;u0&gt;$ fin de l'extrait $&lt;u0&gt;$</seg>
       </tuv>
     </tu>
     <tu>
@@ -10414,10 +9814,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>A group of players and a place to meet (real life or online!)  One player to act as the gamemaster  The contents of this book  Something for everyone to take notes with (note pads, laptops, whatever!)  Two 10-sided dice per player (or a digital equivalent)  Imagination</seg>
+        <seg>A group of players and a place to meet (real life or online!) &lt;u1&gt; One player to act as the gamemaster &lt;u2&gt; The contents of this book &lt;u3&gt; Something for everyone to take notes with (note pads, laptops, whatever!) &lt;u4&gt; Two 10-sided dice per player (or a digital equivalent) &lt;u5&gt; Imagination</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Un groupe de joueur et un endroit où se rencontrer (dans le monde réel ou en-ligne!)  Un joueur pour tenir le rôle de maître de jeu  Le contenu de ce livre  Quelque chose pour que les personnes puisse prendre des notes (bloc notes, ordinateur portable, peu importe!)  Deux dés à dix-faces (ou un équivalent numérique)  De l'imagination</seg>
+        <seg>Un groupe de joueur et un endroit où se rencontrer (dans le monde réel ou en-ligne!) &lt;u1&gt; Un joueur pour tenir le rôle de maître de jeu &lt;u2&gt; Le contenu de ce livre &lt;u3&gt; Quelque chose pour que les personnes puisse prendre des notes (bloc notes, ordinateur portable, peu importe!) &lt;u4&gt; Deux dés à dix-faces (ou un équivalent numérique) &lt;u5&gt; De l'imagination</seg>
       </tuv>
     </tu>
     <tu>
@@ -11958,18 +11358,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> AF: After the Fall (used for reference dating).</seg>
+        <seg>&lt;u1&gt; AF: After the Fall (used for reference dating).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> AF: (After the Fall) Après la Chute (utilisé comme date de référence).</seg>
+        <seg>&lt;u1&gt; AF: (After the Fall) Après la Chute (utilisé comme date de référence).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> AGI: Artificial General Intelligence.</seg>
+        <seg>&lt;u2&gt; AGI: Artificial General Intelligence.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> IAG: Intelligence Artificielle Généraliste</seg>
+        <seg>&lt;u2&gt; IAG: Intelligence Artificielle Généraliste</seg>
       </tuv>
     </tu>
     <tu>
@@ -11990,10 +11390,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>See also ``seed AI.''  AI: Artificial Intelligence.</seg>
+        <seg>See also ``seed AI.'' &lt;u3&gt; AI: Artificial Intelligence.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Voir aussi &quot;IA germe.&quot;  IA: Intelligence Artificielle.</seg>
+        <seg>Voir aussi &quot;IA germe.&quot; &lt;u3&gt; IA: Intelligence Artificielle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12014,34 +11414,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Anarchist: Someone who believes government is unnecessary, that power corrupts, and that people should control their own lives through self-organized individual and collective action.</seg>
+        <seg>&lt;u4&gt; Anarchist: Someone who believes government is unnecessary, that power corrupts, and that people should control their own lives through self-organized individual and collective action.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Anarchiste: Quelq'un qui croit que le gouvernement n'est pas nécessaire, que le pouvoir corromp, et que les gens doivent contrôller leur propre vie à travers l'auto-organisation individuelle et l'action collective.</seg>
+        <seg>&lt;u4&gt; Anarchiste: Quelq'un qui croit que le gouvernement n'est pas nécessaire, que le pouvoir corromp, et que les gens doivent contrôller leur propre vie à travers l'auto-organisation individuelle et l'action collective.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Arachnoid: A spider-like robotic synthmorph.</seg>
+        <seg>&lt;u5&gt; Arachnoid: A spider-like robotic synthmorph.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Arachnoïde: Une synthmorph robotique ressemblant à une araignée.</seg>
+        <seg>&lt;u5&gt; Arachnoïde: Une synthmorph robotique ressemblant à une araignée.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Argonauts: A faction of techno-progressive scientists that promote responsible and ethical use of technology.</seg>
+        <seg>&lt;u6&gt; Argonauts: A faction of techno-progressive scientists that promote responsible and ethical use of technology.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Argonautes: Une faction de scientifique tecno-progressistes qui font la promotion d'une utilisation responsable et éthique de la technologie.</seg>
+        <seg>&lt;u6&gt; Argonautes: Une faction de scientifique tecno-progressistes qui font la promotion d'une utilisation responsable et éthique de la technologie.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> AR: Augmented Reality.</seg>
+        <seg>&lt;u7&gt; AR: Augmented Reality.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> RA: Réalité Augmentée.</seg>
+        <seg>&lt;u7&gt; RA: Réalité Augmentée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12062,18 +11462,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Async: A person with psi abilities.</seg>
+        <seg>&lt;u8&gt; Async: A person with psi abilities.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Async: Une personne avec des pouvoirs psi.</seg>
+        <seg>&lt;u8&gt; Async: Une personne avec des pouvoirs psi.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> AU: Astronomical unit.</seg>
+        <seg>&lt;u9&gt; AU: Astronomical unit.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> UA: Unité Astronomique</seg>
+        <seg>&lt;u9&gt; UA: Unité Astronomique</seg>
       </tuv>
     </tu>
     <tu>
@@ -12086,66 +11486,66 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Autonomists: The alliance of anarchists, Barsoomians, Extropians, scum, and Titanians.</seg>
+        <seg>&lt;u10&gt; Autonomists: The alliance of anarchists, Barsoomians, Extropians, scum, and Titanians.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Autonomistes: L'alliance des anarchistes, des Barsoomiens, des Extropiens, de la racaille et des Titaniens.</seg>
+        <seg>&lt;u10&gt; Autonomistes: L'alliance des anarchistes, des Barsoomiens, des Extropiens, de la racaille et des Titaniens.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Barsoomian: A rural Martian, typically resentful of hypercorp control.</seg>
+        <seg>&lt;u11&gt; Barsoomian: A rural Martian, typically resentful of hypercorp control.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Barsoomien: Un Martien rural, typiquement irrité par le contrôle des hypercorp.</seg>
+        <seg>&lt;u11&gt; Barsoomien: Un Martien rural, typiquement irrité par le contrôle des hypercorp.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Basilisk Hack: An image or other sensory input that affects the brain's visual cortex and pattern recognition abilities in such a way as to cause a glitch and possibly exploit it and rewrite neural code.</seg>
+        <seg>&lt;u12&gt; Basilisk Hack: An image or other sensory input that affects the brain's visual cortex and pattern recognition abilities in such a way as to cause a glitch and possibly exploit it and rewrite neural code.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Piratage Basilique: Une image ou toute autre entrée sensorielle qui affecte le cortex visuel du cerveau aisni que ses capacités de recognition de motifs d'une manière à provoquer une erreur et de peut-être l'exploiter pour réécrire du code neuronal.</seg>
+        <seg>&lt;u12&gt; Piratage Basilique: Une image ou toute autre entrée sensorielle qui affecte le cortex visuel du cerveau aisni que ses capacités de recognition de motifs d'une manière à provoquer une erreur et de peut-être l'exploiter pour réécrire du code neuronal.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Beehive: A microgravity habitat made from a tunneledout asteroid or moon.</seg>
+        <seg>&lt;u13&gt; Beehive: A microgravity habitat made from a tunneledout asteroid or moon.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Ruche: Un habitat à microgravité créé dans un astéroïde ou une lune évidée.</seg>
+        <seg>&lt;u13&gt; Ruche: Un habitat à microgravité créé dans un astéroïde ou une lune évidée.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> BF: Before the Fall (used for reference dating).</seg>
+        <seg>&lt;u14&gt; BF: Before the Fall (used for reference dating).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> BF: (Before the Fall) Avant la Chute (utilisé comme date de référence).</seg>
+        <seg>&lt;u14&gt; BF: (Before the Fall) Avant la Chute (utilisé comme date de référence).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Bioconservative: An anti-technology movement that argues for strict regulation of nanofabrication, AI, uploading, forking, cognitive enhancements, and other disruptive technologies.</seg>
+        <seg>&lt;u15&gt; Bioconservative: An anti-technology movement that argues for strict regulation of nanofabrication, AI, uploading, forking, cognitive enhancements, and other disruptive technologies.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Bioconservateurs: Un mouvement anti-technologie qui milite pour une régulation stricte de la nanofabrication, des IA, de l'upload, du fork, des améliorations cognitives et de toute autre techonologie perturbatrice.</seg>
+        <seg>&lt;u15&gt; Bioconservateurs: Un mouvement anti-technologie qui milite pour une régulation stricte de la nanofabrication, des IA, de l'upload, du fork, des améliorations cognitives et de toute autre techonologie perturbatrice.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Biomorph: A biological body, whether a flat, splicer, genetically engineered transhuman, or pod.</seg>
+        <seg>&lt;u16&gt; Biomorph: A biological body, whether a flat, splicer, genetically engineered transhuman, or pod.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Biomorph: Un corps bilogique, qu'i ls'agisse d'un plat, d'un splicer, d'un transhumain génétiquement amélioré ou d'un pod.</seg>
+        <seg>&lt;u16&gt; Biomorph: Un corps bilogique, qu'i ls'agisse d'un plat, d'un splicer, d'un transhumain génétiquement amélioré ou d'un pod.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Body Bank: A service for leasing, selling, acquiring, or storing a morph.</seg>
+        <seg>&lt;u17&gt; Body Bank: A service for leasing, selling, acquiring, or storing a morph.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Banque de Corps: Un service pour louer, vendre, acheter  ou stocker une morph.</seg>
+        <seg>&lt;u17&gt; Banque de Corps: Un service pour louer, vendre, acheter  ou stocker une morph.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12166,18 +11566,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Bracewell Probe: A type of autonomous monitoring deep- space probe meant to make contact with alien civilizations.</seg>
+        <seg>&lt;u19&gt; Bracewell Probe: A type of autonomous monitoring deep- space probe meant to make contact with alien civilizations.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Sonde Bracewell: Un type de sonde autonome de surveillance de l'espace profond conçue pour établir le contact avec des civilisations étrangères.</seg>
+        <seg>&lt;u19&gt; Sonde Bracewell: Un type de sonde autonome de surveillance de l'espace profond conçue pour établir le contact avec des civilisations étrangères.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Brinkers: Exiles who live on the fringes of the system, as well as other isolated and well-hidden nooks and crannies.</seg>
+        <seg>&lt;u20&gt; Brinkers: Exiles who live on the fringes of the system, as well as other isolated and well-hidden nooks and crannies.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Brinkeurs: Des éxilés qui vivent aux limites du système, ansi que dans tous les autres coins et recoins bien cachés du système.</seg>
+        <seg>&lt;u20&gt; Brinkeurs: Des éxilés qui vivent aux limites du système, ansi que dans tous les autres coins et recoins bien cachés du système.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12190,58 +11590,58 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Case: A cheap, common, mass-produced synthetic shell.</seg>
+        <seg>&lt;u21&gt; Case: A cheap, common, mass-produced synthetic shell.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Caisse: Une coquille synthétique bon marché, commune et produite en masse.</seg>
+        <seg>&lt;u21&gt; Caisse: Une coquille synthétique bon marché, commune et produite en masse.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Chimeric: Transgenic, containing genetic traits from other species.</seg>
+        <seg>&lt;u22&gt; Chimeric: Transgenic, containing genetic traits from other species.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Chimère: Un transgénique, contenant des traits génétiques d'autre espèces.</seg>
+        <seg>&lt;u22&gt; Chimère: Un transgénique, contenant des traits génétiques d'autre espèces.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Circumjovian: Orbiting Jupiter.</seg>
+        <seg>&lt;u23&gt; Circumjovian: Orbiting Jupiter.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Circumjovien: Orbitant autour de Jupiter.</seg>
+        <seg>&lt;u23&gt; Circumjovien: Orbitant autour de Jupiter.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Circumlunar: Orbiting the Moon.</seg>
+        <seg>&lt;u24&gt; Circumlunar: Orbiting the Moon.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Circumlunaire: Orbitant autour de la Lune.</seg>
+        <seg>&lt;u24&gt; Circumlunaire: Orbitant autour de la Lune.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Circumsolar: Orbiting the Sun.</seg>
+        <seg>&lt;u25&gt; Circumsolar: Orbiting the Sun.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Circumsolaire: Orbitant autour du Soleil.</seg>
+        <seg>&lt;u25&gt; Circumsolaire: Orbitant autour du Soleil.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Cislunar: Between the Earth and the Moon.</seg>
+        <seg>&lt;u26&gt; Cislunar: Between the Earth and the Moon.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Cislunaire: Entre la Terre et la Lune.</seg>
+        <seg>&lt;u26&gt; Cislunaire: Entre la Terre et la Lune.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Clade: A species or group of organisms with common features.</seg>
+        <seg>&lt;u27&gt; Clade: A species or group of organisms with common features.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Clade: Une espèce ou un groupe d'organisme partageant des caractéristique.</seg>
+        <seg>&lt;u27&gt; Clade: Une espèce ou un groupe d'organisme partageant des caractéristique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12254,26 +11654,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Cole Bubble: A habitat made from a hollowed-out asteroid or moon, spun for gravity.</seg>
+        <seg>&lt;u28&gt; Cole Bubble: A habitat made from a hollowed-out asteroid or moon, spun for gravity.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Bulle Cole: Un habitat formé d'un astéroïde ou d'une lune évidée et en rotation pour obtenir une gravité.</seg>
+        <seg>&lt;u28&gt; Bulle Cole: Un habitat formé d'un astéroïde ou d'une lune évidée et en rotation pour obtenir une gravité.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Cornucopia Machine: A general-purpose nanofabricator.</seg>
+        <seg>&lt;u29&gt; Cornucopia Machine: A general-purpose nanofabricator.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Machine d'Abondance: Un nanofabeur a but généraliste.</seg>
+        <seg>&lt;u29&gt; Machine d'Abondance: Un nanofabeur a but généraliste.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Cortical Stack: An implanted memory cell used for ego backup.</seg>
+        <seg>&lt;u30&gt; Cortical Stack: An implanted memory cell used for ego backup.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Pile Corticalle: Une cellulle de mémoire implantée et utilisée pour sauvegarder un ego.</seg>
+        <seg>&lt;u30&gt; Pile Corticalle: Une cellulle de mémoire implantée et utilisée pour sauvegarder un ego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12286,10 +11686,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Cyberbrain: An artificial brain, housing an ego.</seg>
+        <seg>&lt;u31&gt; Cyberbrain: An artificial brain, housing an ego.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Cybercerveau: Un cerveau artificiel, hébergeant un ego.</seg>
+        <seg>&lt;u31&gt; Cybercerveau: Un cerveau artificiel, hébergeant un ego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12302,34 +11702,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Darkcast: Illegal and black market farcasting and egocasting services.</seg>
+        <seg>&lt;u32&gt; Darkcast: Illegal and black market farcasting and egocasting services.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Darkcast: Services de farcast et d'egocast ilégaux et trouvés au marché noir.</seg>
+        <seg>&lt;u32&gt; Darkcast: Services de farcast et d'egocast ilégaux et trouvés au marché noir.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Domain Rules: The rules that govern the reality of a virtual reality simulspace.</seg>
+        <seg>&lt;u33&gt; Domain Rules: The rules that govern the reality of a virtual reality simulspace.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Règles de Domaine: Les règles qui régissent la réalité dans un simulspace de réalité virtuelle.</seg>
+        <seg>&lt;u33&gt; Règles de Domaine: Les règles qui régissent la réalité dans un simulspace de réalité virtuelle.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Drone: A robot controlled through teleoperation (rather than directly via onboard AI).</seg>
+        <seg>&lt;u34&gt; Drone: A robot controlled through teleoperation (rather than directly via onboard AI).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Drône: Un robot conrtrollé par téléopération (plutôt que par des IA embarquées).</seg>
+        <seg>&lt;u34&gt; Drône: Un robot conrtrollé par téléopération (plutôt que par des IA embarquées).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Ecto: Personal mesh devices that are flexible, stretchable, self-cleaning, translucent, and solar-powered.</seg>
+        <seg>&lt;u35&gt; Ecto: Personal mesh devices that are flexible, stretchable, self-cleaning, translucent, and solar-powered.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Ecto: Périphérique de mesh personnel, souple, étirable, auto-nettoyant, translucide et alimenté par énergie solaire.</seg>
+        <seg>&lt;u35&gt; Ecto: Périphérique de mesh personnel, souple, étirable, auto-nettoyant, translucide et alimenté par énergie solaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12342,10 +11742,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Ego: The part of you that switches from body to body.</seg>
+        <seg>&lt;u36&gt; Ego: The part of you that switches from body to body.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Ego: La part de vous qui bascule d'un corps à l'autre.</seg>
+        <seg>&lt;u36&gt; Ego: La part de vous qui bascule d'un corps à l'autre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12358,26 +11758,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Egocasting: Term for sending egos via farcasting.</seg>
+        <seg>&lt;u37&gt; Egocasting: Term for sending egos via farcasting.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Egocaster: Terme pour envoyer un ego par farcasting.</seg>
+        <seg>&lt;u37&gt; Egocaster: Terme pour envoyer un ego par farcasting.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Entoptics: Augmented-reality images that you ``see'' in your head.</seg>
+        <seg>&lt;u38&gt; Entoptics: Augmented-reality images that you ``see'' in your head.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Entoptiques: Images de Réalité Augmentée que vous &quot;voyez&quot; dans votre tête.</seg>
+        <seg>&lt;u38&gt; Entoptiques: Images de Réalité Augmentée que vous &quot;voyez&quot; dans votre tête.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>(``Entoptic'' means ``within the eye.'')  ETI: Extraterrestial intelligence.</seg>
+        <seg>(``Entoptic'' means ``within the eye.'') &lt;u39&gt; ETI: Extraterrestial intelligence.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>(&quot;Entoptique&quot; signifie &quot;à l'intérieur des yeux&quot;)  ETI: Intelligence extra-terrestre.</seg>
+        <seg>(&quot;Entoptique&quot; signifie &quot;à l'intérieur des yeux&quot;) &lt;u39&gt; ETI: Intelligence extra-terrestre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12390,10 +11790,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Exalts: Genetically-enhanced humans (between genefixed and transhumans).</seg>
+        <seg>&lt;u40&gt; Exalts: Genetically-enhanced humans (between genefixed and transhumans).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Exaltés: Humains génétiquement améliorés (entre génétiquement réparés et transhumains).</seg>
+        <seg>&lt;u40&gt; Exaltés: Humains génétiquement améliorés (entre génétiquement réparés et transhumains).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12406,26 +11806,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Exoplanet: A planet in another solar system.</seg>
+        <seg>&lt;u41&gt; Exoplanet: A planet in another solar system.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Exoplanète: Une planète dans un autre système solaire.</seg>
+        <seg>&lt;u41&gt; Exoplanète: Une planète dans un autre système solaire.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Exsurgent: Someone infected by the Exsurgent virus.</seg>
+        <seg>&lt;u42&gt; Exsurgent: Someone infected by the Exsurgent virus.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Exsurgent: Quelqu'un infecté par le virus Exsurgent</seg>
+        <seg>&lt;u42&gt; Exsurgent: Quelqu'un infecté par le virus Exsurgent</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Exsurgent Virus: The multi-vector virus created by an unknown ETI and seeded throughout the galaxy in Bracewell probes.</seg>
+        <seg>&lt;u43&gt; Exsurgent Virus: The multi-vector virus created by an unknown ETI and seeded throughout the galaxy in Bracewell probes.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Virus Exsurgent: Le virus multi-vecteur créé par un ETI inconnu et répandu dans la galaxie dans des sondes Bracewell.</seg>
+        <seg>&lt;u43&gt; Virus Exsurgent: Le virus multi-vecteur créé par un ETI inconnu et répandu dans la galaxie dans des sondes Bracewell.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12438,18 +11838,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Extrasolar: Outside the solar system.</seg>
+        <seg>&lt;u44&gt; Extrasolar: Outside the solar system.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Extrasolaire: Hors du système solaire.</seg>
+        <seg>&lt;u44&gt; Extrasolaire: Hors du système solaire.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Factors: The alien ambassadorial race that deals with transhumanity.</seg>
+        <seg>&lt;u45&gt; Factors: The alien ambassadorial race that deals with transhumanity.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Facteurs: La race étrangère ambassadrice qui fait affaire avec la transhumanité.</seg>
+        <seg>&lt;u45&gt; Facteurs: La race étrangère ambassadrice qui fait affaire avec la transhumanité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12462,50 +11862,50 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> The Fall: The apocalypse; the singularity and wars that nearly brought about the downfall of transhumanity.</seg>
+        <seg>&lt;u46&gt; The Fall: The apocalypse; the singularity and wars that nearly brought about the downfall of transhumanity.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> La Chute: L'apocalypse; la singularité et les guerres qui ont presque amenées l'extinction de l'humanité.</seg>
+        <seg>&lt;u46&gt; La Chute: L'apocalypse; la singularité et les guerres qui ont presque amenées l'extinction de l'humanité.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Farcasting: Intrasolar communication utilizing classical communication technologies (radio, laser, etc.) and quantum teleportation.</seg>
+        <seg>&lt;u47&gt; Farcasting: Intrasolar communication utilizing classical communication technologies (radio, laser, etc.) and quantum teleportation.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Farcasting: Communication intrasolaire utilisant des technologies de communication classiques (radio, laser, etc) et la téléportation quantique. Parfois appelée Hyeprdiff.</seg>
+        <seg>&lt;u47&gt; Farcasting: Communication intrasolaire utilisant des technologies de communication classiques (radio, laser, etc) et la téléportation quantique. Parfois appelée Hyeprdiff.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Farhauler: Long distance space shipper.</seg>
+        <seg>&lt;u48&gt; Farhauler: Long distance space shipper.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Long Porteur: Transport spatiaux de longue distance.</seg>
+        <seg>&lt;u48&gt; Long Porteur: Transport spatiaux de longue distance.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Firewall: The secret cross-faction conspiracy that works to protect transhumanity from ``existential threats'' (risks to transhumanity's continued existence).</seg>
+        <seg>&lt;u49&gt; Firewall: The secret cross-faction conspiracy that works to protect transhumanity from ``existential threats'' (risks to transhumanity's continued existence).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Firewall: La conspiration secrète, multifaction qui travaille à protéger la transhumanité des &quot;risques existentiels&quot; (risques qui menacent l'existence de la transhumanité).</seg>
+        <seg>&lt;u49&gt; Firewall: La conspiration secrète, multifaction qui travaille à protéger la transhumanité des &quot;risques existentiels&quot; (risques qui menacent l'existence de la transhumanité).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Flatlander: Someone born or used to living on a planet or moon with gravity.</seg>
+        <seg>&lt;u50&gt; Flatlander: Someone born or used to living on a planet or moon with gravity.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Bas de plancher: Quelqu'un qui est né ou habitué à vivre sur une planète ou une lune avec une gravité.</seg>
+        <seg>&lt;u50&gt; Bas de plancher: Quelqu'un qui est né ou habitué à vivre sur une planète ou une lune avec une gravité.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Flats: Baseline humans (not genetically modified).</seg>
+        <seg>&lt;u51&gt; Flats: Baseline humans (not genetically modified).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Plats: Humains de base (sans modificatiosn génétique).</seg>
+        <seg>&lt;u51&gt; Plats: Humains de base (sans modificatiosn génétique).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12518,18 +11918,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Flexbot: A shape-changing synthmorph also capable of joining together with other flexbots in a modular fashion to create larger shapes.</seg>
+        <seg>&lt;u52&gt; Flexbot: A shape-changing synthmorph also capable of joining together with other flexbots in a modular fashion to create larger shapes.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Flexbot: Une synthmorph capable de changer de forme ou de rejoindre d'autre trasnformers afin de créer des forms plus grande et modulaires. Aussi appelé Transformers</seg>
+        <seg>&lt;u52&gt; Flexbot: Une synthmorph capable de changer de forme ou de rejoindre d'autre trasnformers afin de créer des forms plus grande et modulaires. Aussi appelé Transformers</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Forking: Copying an ego.</seg>
+        <seg>&lt;u53&gt; Forking: Copying an ego.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Forker: Copier un ego.</seg>
+        <seg>&lt;u53&gt; Forker: Copier un ego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12550,58 +11950,58 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> FTL: Faster-Than-Light.</seg>
+        <seg>&lt;u54&gt; FTL: Faster-Than-Light.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> FTL: Faster-Than-Light. Plus rapide que la lumière.</seg>
+        <seg>&lt;u54&gt; FTL: Faster-Than-Light. Plus rapide que la lumière.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Fury: A transhuman combat morph.</seg>
+        <seg>&lt;u55&gt; Fury: A transhuman combat morph.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Fury: Une morph de combat transhumaine.</seg>
+        <seg>&lt;u55&gt; Fury: Une morph de combat transhumaine.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Gatecrashers: Explorers who take their chances using a Pandora gate to go somewhere previously unexplored.</seg>
+        <seg>&lt;u56&gt; Gatecrashers: Explorers who take their chances using a Pandora gate to go somewhere previously unexplored.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Resquilleurs: Explorateurs qui tentent leur chances en utilisant une Porte de Pandorre pour aller vers un endroit pour l'instant inexploré.</seg>
+        <seg>&lt;u56&gt; Resquilleurs: Explorateurs qui tentent leur chances en utilisant une Porte de Pandorre pour aller vers un endroit pour l'instant inexploré.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Genehacker: Someone who manipulates genetic code to create genetic modifications or even new life.</seg>
+        <seg>&lt;u57&gt; Genehacker: Someone who manipulates genetic code to create genetic modifications or even new life.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Génohacker: Quelqu'un qui manipule le code génétique pour créer des modifications génétiques voire même de nouvelles formes de vie.</seg>
+        <seg>&lt;u57&gt; Génohacker: Quelqu'un qui manipule le code génétique pour créer des modifications génétiques voire même de nouvelles formes de vie.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Ghost: A transhuman combat morph optimized for stealth and infiltration.</seg>
+        <seg>&lt;u58&gt; Ghost: A transhuman combat morph optimized for stealth and infiltration.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Ghost: Une morph de combat transhumaine optimisé pour la furtivisté et  l'infiltration.</seg>
+        <seg>&lt;u58&gt; Ghost: Une morph de combat transhumaine optimisé pour la furtivisté et  l'infiltration.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Ghost-riding: The act of carrying an infomorph in a special implant module inside your head.</seg>
+        <seg>&lt;u59&gt; Ghost-riding: The act of carrying an infomorph in a special implant module inside your head.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Ghost-riding: L'acte de transporter une infomorph dans un implant sépcial à l'intérieur de votre tête.</seg>
+        <seg>&lt;u59&gt; Ghost-riding: L'acte de transporter une infomorph dans un implant sépcial à l'intérieur de votre tête.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Greeks: Trojan asteroids or moons that share the same orbit as a larger planet or moon, but are 60 degrees ahead in the orbit at the L4 Lagrange point.</seg>
+        <seg>&lt;u60&gt; Greeks: Trojan asteroids or moons that share the same orbit as a larger planet or moon, but are 60 degrees ahead in the orbit at the L4 Lagrange point.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Grecs: Astéroîdes ou lunes troyens qui partagent la même orbite qu'une planète ou lune plus grosse, mais qui ont 60 degrés d'avance sur l'orbite, au point de Lagrange L4.</seg>
+        <seg>&lt;u60&gt; Grecs: Astéroîdes ou lunes troyens qui partagent la même orbite qu'une planète ou lune plus grosse, mais qui ont 60 degrés d'avance sur l'orbite, au point de Lagrange L4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12614,66 +12014,66 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>See also ``Trojans.''  Habtech: A habitat technician.</seg>
+        <seg>See also ``Trojans.'' &lt;u61&gt; Habtech: A habitat technician.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Voir aussi à &quot;Troyens.&quot;  Habtech: Un technicien d'habitation.</seg>
+        <seg>Voir aussi à &quot;Troyens.&quot; &lt;u61&gt; Habtech: Un technicien d'habitation.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Heliopause: The point where pressure from the solar wind balances with the interstellar medium (about 100 AU out).</seg>
+        <seg>&lt;u62&gt; Heliopause: The point where pressure from the solar wind balances with the interstellar medium (about 100 AU out).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Héliopause: Le point auquel la pression des vents solaires s'équilibre avec les moyennes interstellaires (aux allentours de 100 AU).</seg>
+        <seg>&lt;u62&gt; Héliopause: Le point auquel la pression des vents solaires s'équilibre avec les moyennes interstellaires (aux allentours de 100 AU).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Hibernoid: A transhuman modified for hibernation, for extensive travel in space.</seg>
+        <seg>&lt;u63&gt; Hibernoid: A transhuman modified for hibernation, for extensive travel in space.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Hibernoïdes: Un transhumain modifié pour l'hibernation, pour des travaux prolongés dans l'espace.</seg>
+        <seg>&lt;u63&gt; Hibernoïdes: Un transhumain modifié pour l'hibernation, pour des travaux prolongés dans l'espace.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Iceteroid: An asteroid made from mostly ice rather than rock or metals.</seg>
+        <seg>&lt;u64&gt; Iceteroid: An asteroid made from mostly ice rather than rock or metals.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Glacetéroïde: Un astéroïde constitué essentiellemnt de glace au lieu de roche et de métal.</seg>
+        <seg>&lt;u64&gt; Glacetéroïde: Un astéroïde constitué essentiellemnt de glace au lieu de roche et de métal.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Iktomi: The name given to the mysterious alien race whose relics have been found beyond the Pandora Gates.</seg>
+        <seg>&lt;u65&gt; Iktomi: The name given to the mysterious alien race whose relics have been found beyond the Pandora Gates.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Iktomi: Le nom donné à la mystérieuse race étrangère dont les reliques ont été retrouvées au delà des Portes de Pandorre.</seg>
+        <seg>&lt;u65&gt; Iktomi: Le nom donné à la mystérieuse race étrangère dont les reliques ont été retrouvées au delà des Portes de Pandorre.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Indentures: Indentured servants who have contracted their labor to a hypercorp or other authority, usually in exchange for a morph.</seg>
+        <seg>&lt;u66&gt; Indentures: Indentured servants who have contracted their labor to a hypercorp or other authority, usually in exchange for a morph.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Contractés: Des esclaves sous contrats synallagmatique qui ont signé pour travailer avec une hypercorp ou une autre autorité, habituellement en échange d'une morph.</seg>
+        <seg>&lt;u66&gt; Contractés: Des esclaves sous contrats synallagmatique qui ont signé pour travailer avec une hypercorp ou une autre autorité, habituellement en échange d'une morph.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Infolife: Artificial general intelligences and seed AIs.</seg>
+        <seg>&lt;u67&gt; Infolife: Artificial general intelligences and seed AIs.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Infovie: Intelligence artificielle généraliste et IAs germe.</seg>
+        <seg>&lt;u67&gt; Infovie: Intelligence artificielle généraliste et IAs germe.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Infomorph: A digitized ego; a virtual body.</seg>
+        <seg>&lt;u68&gt; Infomorph: A digitized ego; a virtual body.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Infomorph: Un égo digitalisé; un corps virtuel.</seg>
+        <seg>&lt;u68&gt; Infomorph: Un égo digitalisé; un corps virtuel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12686,26 +12086,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Infugee: ``Infomorph refugee,'' or someone who left everything behind on Earth during the Fall—even their own body.</seg>
+        <seg>&lt;u69&gt; Infugee: ``Infomorph refugee,'' or someone who left everything behind on Earth during the Fall—even their own body.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Infugié: ``Infomorph refugié,'' ou quelqu'un qui a tout abandonné sur Terre - y compris son corp - pendant la Chute.</seg>
+        <seg>&lt;u69&gt; Infugié: ``Infomorph refugié,'' ou quelqu'un qui a tout abandonné sur Terre - y compris son corp - pendant la Chute.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Isolates: Those who live in isolated communities far outside the system (in the Kuiper Belt and Oort Cloud); aka outsters, fringers.</seg>
+        <seg>&lt;u70&gt; Isolates: Those who live in isolated communities far outside the system (in the Kuiper Belt and Oort Cloud); aka outsters, fringers.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Isolés: Ceux qui vivent dans des communautés isolées loin au-delà des limites du système (dans la Ceinture de Kuiper et le Nuage d'Oort); aussi appelés outsters, limités.</seg>
+        <seg>&lt;u70&gt; Isolés: Ceux qui vivent dans des communautés isolées loin au-delà des limites du système (dans la Ceinture de Kuiper et le Nuage d'Oort); aussi appelés outsters, limités.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Jamming: The act of ``becoming'' a teleoperated drone thanks to XP technology.</seg>
+        <seg>&lt;u71&gt; Jamming: The act of ``becoming'' a teleoperated drone thanks to XP technology.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Saturer: l'acte de &quot;devenir&quot; un drône opéré à distance grâce à la technologie XP.</seg>
+        <seg>&lt;u71&gt; Saturer: l'acte de &quot;devenir&quot; un drône opéré à distance grâce à la technologie XP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12718,18 +12118,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Kuiper Belt: A region of space extending from Neptune's orbit out to about 55 AU, lightly populated with asteroids, comets, and dwarf planets.</seg>
+        <seg>&lt;u72&gt; Kuiper Belt: A region of space extending from Neptune's orbit out to about 55 AU, lightly populated with asteroids, comets, and dwarf planets.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Ceinture de Kuiper: Une région de l'espace partant de l'orbite de Neptune et s'étalant sur envrion 55 UA, légèrement peuplée d'astéroïdes, de comètes et de planètes naines.</seg>
+        <seg>&lt;u72&gt; Ceinture de Kuiper: Une région de l'espace partant de l'orbite de Neptune et s'étalant sur envrion 55 UA, légèrement peuplée d'astéroïdes, de comètes et de planètes naines.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Lagrange Point: One of five areas in respect to a small planetary body orbiting a larger one in which the gravitational forces of those two bodies are neutralized.</seg>
+        <seg>&lt;u73&gt; Lagrange Point: One of five areas in respect to a small planetary body orbiting a larger one in which the gravitational forces of those two bodies are neutralized.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Point de Lagrange: L'une des cinqs zones relative à un petit corps planétaire orbitant autour d'un plus gros dans lesquelles les forces gravitationnelles de ces deux corps sont neutralisées.</seg>
+        <seg>&lt;u73&gt; Point de Lagrange: L'une des cinqs zones relative à un petit corps planétaire orbitant autour d'un plus gros dans lesquelles les forces gravitationnelles de ces deux corps sont neutralisées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12742,18 +12142,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Lifelog: A recording of one's entire life experience, made possible due to near unlimited computer memory.</seg>
+        <seg>&lt;u74&gt; Lifelog: A recording of one's entire life experience, made possible due to near unlimited computer memory.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Lifeblog: L'enregistrement de toute l'expérience de la vie de quelqu'un, rendue possible grâce aux capacités mémoires des ordinateurs quasi-illimitées.</seg>
+        <seg>&lt;u74&gt; Lifeblog: L'enregistrement de toute l'expérience de la vie de quelqu'un, rendue possible grâce aux capacités mémoires des ordinateurs quasi-illimitées.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Lost Generation: In an effort to repopulate post-Fall, a generation of children were reared using forced-growth methods.</seg>
+        <seg>&lt;u75&gt; Lost Generation: In an effort to repopulate post-Fall, a generation of children were reared using forced-growth methods.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Generation Égarée: Dans une tentative de repeupler après la Chute, une génération d'enfant fut élevée en utilisant des techniques de croissance forcée.</seg>
+        <seg>&lt;u75&gt; Generation Égarée: Dans une tentative de repeupler après la Chute, une génération d'enfant fut élevée en utilisant des techniques de croissance forcée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12766,42 +12166,42 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Main Belt: The main asteroid belt, a torus ring orbiting between Mars and Jupiter.</seg>
+        <seg>&lt;u76&gt; Main Belt: The main asteroid belt, a torus ring orbiting between Mars and Jupiter.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Ceinture Principale: La principale ceinture d'astéroïdes, un anneau torique orbitant entre Mars et Jupiter.</seg>
+        <seg>&lt;u76&gt; Ceinture Principale: La principale ceinture d'astéroïdes, un anneau torique orbitant entre Mars et Jupiter.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Meme: A viral idea.</seg>
+        <seg>&lt;u77&gt; Meme: A viral idea.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Meme: Une idée virale.</seg>
+        <seg>&lt;u77&gt; Meme: Une idée virale.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Mentons: Transhumans optimized for mental and cognitive ability.</seg>
+        <seg>&lt;u78&gt; Mentons: Transhumans optimized for mental and cognitive ability.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Mentalistes: Transhumains optimisés pour les compétences mentales et cognitive.</seg>
+        <seg>&lt;u78&gt; Mentalistes: Transhumains optimisés pour les compétences mentales et cognitive.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Mercurials: The non-human sentient elements of the transhuman ``family,'' including AGIs and uplifted animals.</seg>
+        <seg>&lt;u79&gt; Mercurials: The non-human sentient elements of the transhuman ``family,'' including AGIs and uplifted animals.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Mercuriels: Les éléments conscient non-humains de la &quot;famille&quot; transhumaine; incluant les IAG et les animaux éveillés.</seg>
+        <seg>&lt;u79&gt; Mercuriels: Les éléments conscient non-humains de la &quot;famille&quot; transhumaine; incluant les IAG et les animaux éveillés.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Mesh: The omnipresent wireless mesh data network.</seg>
+        <seg>&lt;u80&gt; Mesh: The omnipresent wireless mesh data network.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Mesh: L'omniprésent maillage sans-fil de réseau de données.</seg>
+        <seg>&lt;u80&gt; Mesh: L'omniprésent maillage sans-fil de réseau de données.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12814,34 +12214,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Mesh ID: The unique signature attached to one's mesh activity.</seg>
+        <seg>&lt;u81&gt; Mesh ID: The unique signature attached to one's mesh activity.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Mesh ID: La signature unique attachée à l'activité meshée de quelqu'un.</seg>
+        <seg>&lt;u81&gt; Mesh ID: La signature unique attachée à l'activité meshée de quelqu'un.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Microgravity: Zero-g or near weightless environments.</seg>
+        <seg>&lt;u82&gt; Microgravity: Zero-g or near weightless environments.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Microgravité: Zéro-g ou environnement quasiment sans poids.</seg>
+        <seg>&lt;u82&gt; Microgravité: Zéro-g ou environnement quasiment sans poids.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Mist: The clouds of AR data that sometimes fog up your perception/displays.</seg>
+        <seg>&lt;u83&gt; Mist: The clouds of AR data that sometimes fog up your perception/displays.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Mist: Les nuages de données RA qui brouillent parfois votre perception et vos affichages.</seg>
+        <seg>&lt;u83&gt; Mist: Les nuages de données RA qui brouillent parfois votre perception et vos affichages.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Morph: A physical body.</seg>
+        <seg>&lt;u84&gt; Morph: A physical body.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Morph: Un corps physique.</seg>
+        <seg>&lt;u84&gt; Morph: Un corps physique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12854,106 +12254,106 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Muse: Personal AI helper programs.</seg>
+        <seg>&lt;u85&gt; Muse: Personal AI helper programs.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Muse: IA d'assitant personnel.</seg>
+        <seg>&lt;u85&gt; Muse: IA d'assitant personnel.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Nanobot: A nano-scale machine.</seg>
+        <seg>&lt;u86&gt; Nanobot: A nano-scale machine.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Nanobot: Une machine nanoscopique.</seg>
+        <seg>&lt;u86&gt; Nanobot: Une machine nanoscopique.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Nano-ecology: Pro-tech ecological movement.</seg>
+        <seg>&lt;u87&gt; Nano-ecology: Pro-tech ecological movement.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Nano-écologie: Mouvement écologique pro-technologie.</seg>
+        <seg>&lt;u87&gt; Nano-écologie: Mouvement écologique pro-technologie.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Nanoswarm: A mass of tiny nanobots unleashed into an environment.</seg>
+        <seg>&lt;u88&gt; Nanoswarm: A mass of tiny nanobots unleashed into an environment.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Essaim de nanite: Une masse de petits nanobots libérée dans un environnement.</seg>
+        <seg>&lt;u88&gt; Essaim de nanite: Une masse de petits nanobots libérée dans un environnement.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Neo-Avians: Uplifted ravens and gray parrots.</seg>
+        <seg>&lt;u89&gt; Neo-Avians: Uplifted ravens and gray parrots.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Neo-Aviens: Perroquets gris et corbeaux élevés.</seg>
+        <seg>&lt;u89&gt; Neo-Aviens: Perroquets gris et corbeaux élevés.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Neogenesis: The creation of new life forms via genetic manipulation and biotechnology.</seg>
+        <seg>&lt;u90&gt; Neogenesis: The creation of new life forms via genetic manipulation and biotechnology.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Néogenèse: La création d'une nouvelle forme de vie grâce aux manipulations génétiques et à la biotechnologies.</seg>
+        <seg>&lt;u90&gt; Néogenèse: La création d'une nouvelle forme de vie grâce aux manipulations génétiques et à la biotechnologies.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Neo-Hominids: Uplifted chimpanzees, gorillas, and orangutans.</seg>
+        <seg>&lt;u91&gt; Neo-Hominids: Uplifted chimpanzees, gorillas, and orangutans.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Neo-Hominidés: Chimpanzés, gorilles et orang-outans élevés</seg>
+        <seg>&lt;u91&gt; Neo-Hominidés: Chimpanzés, gorilles et orang-outans élevés</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Neotenics: Transhumans modified to retain a child-like form.</seg>
+        <seg>&lt;u92&gt; Neotenics: Transhumans modified to retain a child-like form.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Néoteniques: Transhumains modifiés pour conserver une forme enfantine.</seg>
+        <seg>&lt;u92&gt; Néoteniques: Transhumains modifiés pour conserver une forme enfantine.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Novacrab: A pod created from genetically-engineered spider crab stock.</seg>
+        <seg>&lt;u93&gt; Novacrab: A pod created from genetically-engineered spider crab stock.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Novacrabe: Un pod créé à partir de crabe araignés génétiquement conçus.</seg>
+        <seg>&lt;u93&gt; Novacrabe: Un pod créé à partir de crabe araignés génétiquement conçus.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Olympian: A transhuman biomorph modified for athleticism and endurance.</seg>
+        <seg>&lt;u94&gt; Olympian: A transhuman biomorph modified for athleticism and endurance.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Olympien: Une biomorph transhumaine modifiée pour l'athéltisme et l'endurance.</seg>
+        <seg>&lt;u94&gt; Olympien: Une biomorph transhumaine modifiée pour l'athéltisme et l'endurance.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> O'Neill Cylinder: A soda-can shaped habitat, spun for gravity.</seg>
+        <seg>&lt;u95&gt; O'Neill Cylinder: A soda-can shaped habitat, spun for gravity.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Cylindre O'Neill: Un habitat en forme de canette, soumis à une rotation pour créer une gravité.</seg>
+        <seg>&lt;u95&gt; Cylindre O'Neill: Un habitat en forme de canette, soumis à une rotation pour créer une gravité.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Oort Cloud: The spherical ``cloud'' of comets that surrounds the solar system out to about one light-year from the sun.</seg>
+        <seg>&lt;u96&gt; Oort Cloud: The spherical ``cloud'' of comets that surrounds the solar system out to about one light-year from the sun.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Nuage d'Oort: Le &quot;nuage&quot; sphérique constitué de comètes qui entoure le système solaire et qui s'étend jusqu'à une année lumière du soleil.</seg>
+        <seg>&lt;u96&gt; Nuage d'Oort: Le &quot;nuage&quot; sphérique constitué de comètes qui entoure le système solaire et qui s'étend jusqu'à une année lumière du soleil.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> PAN: Personal area network.</seg>
+        <seg>&lt;u97&gt; PAN: Personal area network.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> PAN: Personal area network/Réseau personnel.</seg>
+        <seg>&lt;u97&gt; PAN: Personal area network/Réseau personnel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12966,18 +12366,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Pandora Gates: The wormhole gateways left behind by the TITANs.</seg>
+        <seg>&lt;u98&gt; Pandora Gates: The wormhole gateways left behind by the TITANs.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Porte de Pandorre: Les portails de trou-de-ver abandonné par les TITANs.</seg>
+        <seg>&lt;u98&gt; Porte de Pandorre: Les portails de trou-de-ver abandonné par les TITANs.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Pods: Mixed biological-synthetic morphs.</seg>
+        <seg>&lt;u99&gt; Pods: Mixed biological-synthetic morphs.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Pods: Des morphs à la fois biologique et synthétiques.</seg>
+        <seg>&lt;u99&gt; Pods: Des morphs à la fois biologique et synthétiques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12998,10 +12398,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>From ``pod people.''  Posthuman: A human or transhuman individual or species that has been genetically or cognitively modified so extensively as to no longer be human (a step beyond transhuman).</seg>
+        <seg>From ``pod people.'' &lt;u100&gt; Posthuman: A human or transhuman individual or species that has been genetically or cognitively modified so extensively as to no longer be human (a step beyond transhuman).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Posthumain: Un individu, humain ou un transhumain, ou une espèce qui a été génétiquement ou cognitivement modifié à un point qu'il n'est plus réellement humain (un cran au-dessus de transhumain).</seg>
+        <seg>&lt;u100&gt; Posthumain: Un individu, humain ou un transhumain, ou une espèce qui a été génétiquement ou cognitivement modifié à un point qu'il n'est plus réellement humain (un cran au-dessus de transhumain).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13014,10 +12414,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Prometheans: A group of transhuman-friendly seed AIs that were created by the Lifeboat Project (precursors to the argonauts) years before the TITANs became self- aware and that (mostly) avoided Exsurgent infection.</seg>
+        <seg>&lt;u101&gt; Prometheans: A group of transhuman-friendly seed AIs that were created by the Lifeboat Project (precursors to the argonauts) years before the TITANs became self- aware and that (mostly) avoided Exsurgent infection.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Prométhéens: Un groupe d'IAs germes pro-transhumaine créées par le Projet Canot de Sauvetage (précurseurs des argonautes) des années avant que les TITANS ne développent une conscience d'eux et qui ont (presque) évitées l'Infection Exsurgente.</seg>
+        <seg>&lt;u101&gt; Prométhéens: Un groupe d'IAs germes pro-transhumaine créées par le Projet Canot de Sauvetage (précurseurs des argonautes) des années avant que les TITANS ne développent une conscience d'eux et qui ont (presque) évitées l'Infection Exsurgente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13030,42 +12430,42 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Proxies: Members of the Firewall internal structure.</seg>
+        <seg>&lt;u102&gt; Proxies: Members of the Firewall internal structure.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Proxys: Membres de la structure interne de Firewall.</seg>
+        <seg>&lt;u102&gt; Proxys: Membres de la structure interne de Firewall.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Psi: Parapsychological powers acquired due to infection by the Watts-MacLeod strain of Exsurgent virus.</seg>
+        <seg>&lt;u103&gt; Psi: Parapsychological powers acquired due to infection by the Watts-MacLeod strain of Exsurgent virus.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Psi: Pouvoirs parapsychologique développés suite à l'infection par la souche Watts-MacLeod du virus Exsurgent.</seg>
+        <seg>&lt;u103&gt; Psi: Pouvoirs parapsychologique développés suite à l'infection par la souche Watts-MacLeod du virus Exsurgent.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Reaper: A warbot synthmorph.</seg>
+        <seg>&lt;u104&gt; Reaper: A warbot synthmorph.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Reapeur: Une synthmorph de combat.</seg>
+        <seg>&lt;u104&gt; Reapeur: Une synthmorph de combat.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Reclaimers: A transhuman faction that seeks to lift the interdiction and reclaim Earth.</seg>
+        <seg>&lt;u105&gt; Reclaimers: A transhuman faction that seeks to lift the interdiction and reclaim Earth.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Réclamationnistes: Une faction transhumanistes qui cherche à lever l'interdiction et à récupérer la Terre.</seg>
+        <seg>&lt;u105&gt; Réclamationnistes: Une faction transhumanistes qui cherche à lever l'interdiction et à récupérer la Terre.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Redneck: A rural Martian.</seg>
+        <seg>&lt;u106&gt; Redneck: A rural Martian.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Redneck: Un Martien rural.</seg>
+        <seg>&lt;u106&gt; Redneck: Un Martien rural.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13086,18 +12486,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Reinstantiated: Refugees from Earth who escaped only as bodiless infomorphs, but who have since been resleeved.</seg>
+        <seg>&lt;u107&gt; Reinstantiated: Refugees from Earth who escaped only as bodiless infomorphs, but who have since been resleeved.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Reinstantiés: Réfugiés de la Terre qui se sont échappées sous la forme d'infomorph sans corps, mais qui ont depuis été réincarné.</seg>
+        <seg>&lt;u107&gt; Reinstantiés: Réfugiés de la Terre qui se sont échappées sous la forme d'infomorph sans corps, mais qui ont depuis été réincarné.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Resleeving: Changing bodies, or being downloaded into a new one.</seg>
+        <seg>&lt;u108&gt; Resleeving: Changing bodies, or being downloaded into a new one.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Se Réincarner: Changer de corps, ou être téléchargé dans un nouveau corps.</seg>
+        <seg>&lt;u108&gt; Se Réincarner: Changer de corps, ou être téléchargé dans un nouveau corps.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13110,26 +12510,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Rusters: Biomorphs optimized for life on Mars.</seg>
+        <seg>&lt;u109&gt; Rusters: Biomorphs optimized for life on Mars.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Rusteur: Biomorph optimisée pour la vie sur Mars.</seg>
+        <seg>&lt;u109&gt; Rusteur: Biomorph optimisée pour la vie sur Mars.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Scorching: Hostile programs that can damage or affect cyberbrains.</seg>
+        <seg>&lt;u110&gt; Scorching: Hostile programs that can damage or affect cyberbrains.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Scorcheur: Programme hostile qui peut endommager ou affecter un cybercerveau.</seg>
+        <seg>&lt;u110&gt; Scorcheur: Programme hostile qui peut endommager ou affecter un cybercerveau.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Scum: The nomadic faction of space punks/gypsies that travel from station to station in heavily-modified barges or swarms of ships.</seg>
+        <seg>&lt;u111&gt; Scum: The nomadic faction of space punks/gypsies that travel from station to station in heavily-modified barges or swarms of ships.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Racaille: La faction nomade de punks/gitans de l'espace qui voyagent de stations en stations dans des barges lourdement modifiées ou dans des nuées de vaisseaux.</seg>
+        <seg>&lt;u111&gt; Racaille: La faction nomade de punks/gitans de l'espace qui voyagent de stations en stations dans des barges lourdement modifiées ou dans des nuées de vaisseaux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13142,26 +12542,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Seed AI: An AGI that is capable of recursive self-improvement, allowing it to reach god-like levels of intelligence.</seg>
+        <seg>&lt;u112&gt; Seed AI: An AGI that is capable of recursive self-improvement, allowing it to reach god-like levels of intelligence.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> IA germe: Une IAG capable d'auto-apprentissage récursif, lui permettant d'atteindre des niveaux d'intelligences similaire à ceux des dieux.</seg>
+        <seg>&lt;u112&gt; IA germe: Une IAG capable d'auto-apprentissage récursif, lui permettant d'atteindre des niveaux d'intelligences similaire à ceux des dieux.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Sentinels: Agents of Firewall.</seg>
+        <seg>&lt;u113&gt; Sentinels: Agents of Firewall.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Sentinelles: Agents de Firewall</seg>
+        <seg>&lt;u113&gt; Sentinelles: Agents de Firewall</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Shell: A synthetic physical morph.</seg>
+        <seg>&lt;u114&gt; Shell: A synthetic physical morph.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Coquille: Une morph physique synthétique.</seg>
+        <seg>&lt;u114&gt; Coquille: Une morph physique synthétique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13174,26 +12574,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Simulmorph: The avatar you use in VR simulspace programs.</seg>
+        <seg>&lt;u115&gt; Simulmorph: The avatar you use in VR simulspace programs.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Simulmorph: L'avatar que vous utilisez dans les simulspace RV.</seg>
+        <seg>&lt;u115&gt; Simulmorph: L'avatar que vous utilisez dans les simulspace RV.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Simulspace: Full-immersion virtual reality environments.</seg>
+        <seg>&lt;u116&gt; Simulspace: Full-immersion virtual reality environments.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Simulspace: Environnement de réalité virtuelle permettant une immersion sensorielle complète.</seg>
+        <seg>&lt;u116&gt; Simulspace: Environnement de réalité virtuelle permettant une immersion sensorielle complète.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Singularity: A point of rapid, exponential, and recursive technological progress, beyond which the future becomes impossible to predict.</seg>
+        <seg>&lt;u117&gt; Singularity: A point of rapid, exponential, and recursive technological progress, beyond which the future becomes impossible to predict.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Singularité: Un point de progrés technologique rapide, exponentiel et récursif, au-delà duquel le futur devient impossible à prévoir.</seg>
+        <seg>&lt;u117&gt; Singularité: Un point de progrés technologique rapide, exponentiel et récursif, au-delà duquel le futur devient impossible à prévoir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13206,18 +12606,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Singularity Seeker: People who pursue relics and evidence of the TITANs or other possible avenues to super-intelligence, either to learn more about it or to become part of a super-intelligence themselves.</seg>
+        <seg>&lt;u118&gt; Singularity Seeker: People who pursue relics and evidence of the TITANs or other possible avenues to super-intelligence, either to learn more about it or to become part of a super-intelligence themselves.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Adepte de la Singularité: Des personnes qui cherchent des reliques et des preuves que les TITANs ou d'autres super-intelligences, soit pour en apprendre plus sur eux ou pour devenir une super-intelligence.</seg>
+        <seg>&lt;u118&gt; Adepte de la Singularité: Des personnes qui cherchent des reliques et des preuves que les TITANs ou d'autres super-intelligences, soit pour en apprendre plus sur eux ou pour devenir une super-intelligence.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Skin: A biological physical morph.</seg>
+        <seg>&lt;u119&gt; Skin: A biological physical morph.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Peau: Une morph physique biologique.</seg>
+        <seg>&lt;u119&gt; Peau: Une morph physique biologique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13230,34 +12630,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Skinning: Changing your perceived environment via augmented reality programming.</seg>
+        <seg>&lt;u120&gt; Skinning: Changing your perceived environment via augmented reality programming.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Habiller: Modifier son environnement perçu par la réalité augmenté grâce à des programmes.</seg>
+        <seg>&lt;u120&gt; Habiller: Modifier son environnement perçu par la réalité augmenté grâce à des programmes.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Sleight: A psi power.</seg>
+        <seg>&lt;u121&gt; Sleight: A psi power.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Exploit Psi: Un pouvoir psi.</seg>
+        <seg>&lt;u121&gt; Exploit Psi: Un pouvoir psi.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Slitheroid: A snake-like robotic synthmorph.</seg>
+        <seg>&lt;u122&gt; Slitheroid: A snake-like robotic synthmorph.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Slitheroïde: Une synthmorph robotique en forme de serpent.</seg>
+        <seg>&lt;u122&gt; Slitheroïde: Une synthmorph robotique en forme de serpent.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Smart Animals: Partially-uplifted animal species (including dogs, cats, rats, and pigs).</seg>
+        <seg>&lt;u123&gt; Smart Animals: Partially-uplifted animal species (including dogs, cats, rats, and pigs).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Animaux Intelligents: Espèces animales partiellement élevées (incluant chiens, chats, rats et cochons).</seg>
+        <seg>&lt;u123&gt; Animaux Intelligents: Espèces animales partiellement élevées (incluant chiens, chats, rats et cochons).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13270,18 +12670,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Spime: Meshed, self-aware, location-aware devices.</seg>
+        <seg>&lt;u124&gt; Spime: Meshed, self-aware, location-aware devices.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Spimes: Périphériques meshé, conscient et localisés.</seg>
+        <seg>&lt;u124&gt; Spimes: Périphériques meshé, conscient et localisés.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Splicers: Humans that are genetically modified to eliminate genetic diseases and some other traits.</seg>
+        <seg>&lt;u125&gt; Splicers: Humans that are genetically modified to eliminate genetic diseases and some other traits.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Spliceurs: Humains qui sont génétiquement modifiés pour éliminer les maladies génétiques et quelques autres aspects.</seg>
+        <seg>&lt;u125&gt; Spliceurs: Humains qui sont génétiquement modifiés pour éliminer les maladies génétiques et quelques autres aspects.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13294,26 +12694,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Swarmanoid: A synthetic morph composed from a swarm of tiny insect-sized robots.</seg>
+        <seg>&lt;u126&gt; Swarmanoid: A synthetic morph composed from a swarm of tiny insect-sized robots.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Swarmanoïde: Une morph synthétique composé d'un essaim de robots de la taille d'un insecte.</seg>
+        <seg>&lt;u126&gt; Swarmanoïde: Une morph synthétique composé d'un essaim de robots de la taille d'un insecte.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Sylphs: Transhuman biomorphs with exotic good looks.</seg>
+        <seg>&lt;u127&gt; Sylphs: Transhuman biomorphs with exotic good looks.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Sylphes: Biomorph transhumaine d'une exotique beauté </seg>
+        <seg>&lt;u127&gt; Sylphes: Biomorph transhumaine d'une exotique beauté </seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Synthmorph: Synthetic morphs.</seg>
+        <seg>&lt;u128&gt; Synthmorph: Synthetic morphs.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Synthmorph: Morphs syntéhtiques.</seg>
+        <seg>&lt;u128&gt; Synthmorph: Morphs syntéhtiques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13326,10 +12726,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Synths: A specific type of synthmorph.</seg>
+        <seg>&lt;u129&gt; Synths: A specific type of synthmorph.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Synths: Un type spécifique de synthmorph.</seg>
+        <seg>&lt;u129&gt; Synths: Un type spécifique de synthmorph.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13342,26 +12742,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Teleoperation: Remote control.</seg>
+        <seg>&lt;u130&gt; Teleoperation: Remote control.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Téléopération: Contrôle à distance.</seg>
+        <seg>&lt;u130&gt; Téléopération: Contrôle à distance.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Titanian: Someone from Titan, a moon of Saturn.</seg>
+        <seg>&lt;u131&gt; Titanian: Someone from Titan, a moon of Saturn.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Titanien: Quelqu'un qui vient de Titan, l'une des lunes de Saturne.</seg>
+        <seg>&lt;u131&gt; Titanien: Quelqu'un qui vient de Titan, l'une des lunes de Saturne.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> TITANs: The human-created, recursively-improving, military seed AIs that underwent a hard-takeoff singularity and prompted the Fall.</seg>
+        <seg>&lt;u132&gt; TITANs: The human-created, recursively-improving, military seed AIs that underwent a hard-takeoff singularity and prompted the Fall.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> TITANs: Les IAs germes créées par l'homme, capable d'apprentissage récursifs qui ont subit un décollage abrupte de la singularité et qui ont déclenchés la Chute.</seg>
+        <seg>&lt;u132&gt; TITANs: Les IAs germes créées par l'homme, capable d'apprentissage récursifs qui ont subit un décollage abrupte de la singularité et qui ont déclenchés la Chute.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13374,34 +12774,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Torus: A donut-shaped habitat, spun for gravity.</seg>
+        <seg>&lt;u133&gt; Torus: A donut-shaped habitat, spun for gravity.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Tore: Un habitat en forme de donut, soumit à une rotation pour générer de la gravité.</seg>
+        <seg>&lt;u133&gt; Tore: Un habitat en forme de donut, soumit à une rotation pour générer de la gravité.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Transgenic: Containing genetic traits from other species.</seg>
+        <seg>&lt;u134&gt; Transgenic: Containing genetic traits from other species.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Transgénique: Qui contient des traits génétiques d'autres espèces.</seg>
+        <seg>&lt;u134&gt; Transgénique: Qui contient des traits génétiques d'autres espèces.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Transhuman: An extensively modified human.</seg>
+        <seg>&lt;u135&gt; Transhuman: An extensively modified human.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Transhumain: Un humain largement modifié.</seg>
+        <seg>&lt;u135&gt; Transhumain: Un humain largement modifié.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Trojans: Asteroids or moons that share the same orbit as a larger planet or moon, but follow about 60 degrees ahead or behind at the L4 and L5 Lagrange points.</seg>
+        <seg>&lt;u136&gt; Trojans: Asteroids or moons that share the same orbit as a larger planet or moon, but follow about 60 degrees ahead or behind at the L4 and L5 Lagrange points.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Troyens: Astéroïdes ou lunes qui partagent la même orbite qu'une autre planète ou lune, mais qui la suit avec 60° de décalage, à l'avant ou à l'arrière au poinst de Lagrange L4 ou L5.</seg>
+        <seg>&lt;u136&gt; Troyens: Astéroïdes ou lunes qui partagent la même orbite qu'une autre planète ou lune, mais qui la suit avec 60° de décalage, à l'avant ou à l'arrière au poinst de Lagrange L4 ou L5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13414,34 +12814,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>See also ``Greeks.''  Uplifting: Genetically transforming an animal species to sapience.</seg>
+        <seg>See also ``Greeks.'' &lt;u137&gt; Uplifting: Genetically transforming an animal species to sapience.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Voir aussi &quot;Grecs.&quot;  Élever: Élever à la conscience un animal en le transformant génétiquement.</seg>
+        <seg>Voir aussi &quot;Grecs.&quot; &lt;u137&gt; Élever: Élever à la conscience un animal en le transformant génétiquement.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Vacworker: Space laborer.</seg>
+        <seg>&lt;u138&gt; Vacworker: Space laborer.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Travailleur du Vide: Ouvrier de l'espace.</seg>
+        <seg>&lt;u138&gt; Travailleur du Vide: Ouvrier de l'espace.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Vapor: A failed mind emulation or crippled fork/infomorph (from vaporware).</seg>
+        <seg>&lt;u139&gt; Vapor: A failed mind emulation or crippled fork/infomorph (from vaporware).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Vapor: Une émulation cognitive ratée ou un fork/une infomorph criblé de défaut (dérivé de vaporware).</seg>
+        <seg>&lt;u139&gt; Vapor: Une émulation cognitive ratée ou un fork/une infomorph criblé de défaut (dérivé de vaporware).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> VPNs: Virtual private networks.</seg>
+        <seg>&lt;u140&gt; VPNs: Virtual private networks.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> VPNs: Virtual private networks/Réseaux Privés Virtuels</seg>
+        <seg>&lt;u140&gt; VPNs: Virtual private networks/Réseaux Privés Virtuels</seg>
       </tuv>
     </tu>
     <tu>
@@ -13454,10 +12854,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> VR: Virtual Reality.</seg>
+        <seg>&lt;u141&gt; VR: Virtual Reality.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> RV: Réalité Virtuelle.</seg>
+        <seg>&lt;u141&gt; RV: Réalité Virtuelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13470,26 +12870,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> X-Caster: Someone who transmits/sells XP recordings of their experiences.</seg>
+        <seg>&lt;u142&gt; X-Caster: Someone who transmits/sells XP recordings of their experiences.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> X-Diffeur: Quelqu'un qui transmet et vends des enregistrement XP de leurs propres expérience (dérivé de X-Diffuseurs).</seg>
+        <seg>&lt;u142&gt; X-Diffeur: Quelqu'un qui transmet et vends des enregistrement XP de leurs propres expérience (dérivé de X-Diffuseurs).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Xenomorph: Alien life form.</seg>
+        <seg>&lt;u143&gt; Xenomorph: Alien life form.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Xénomorph: Forme de vie étrangères.</seg>
+        <seg>&lt;u143&gt; Xénomorph: Forme de vie étrangères.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Xer: As in ``X-er''—someone who is addicted or obsessed with XP.</seg>
+        <seg>&lt;u144&gt; Xer: As in ``X-er''—someone who is addicted or obsessed with XP.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Xé: Comme dans &quot;X-é&quot; - quelqu'un qui est accros ou obsédé par les XP.</seg>
+        <seg>&lt;u144&gt; Xé: Comme dans &quot;X-é&quot; - quelqu'un qui est accros ou obsédé par les XP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13502,10 +12902,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> XP: Experience Playback.</seg>
+        <seg>&lt;u145&gt; XP: Experience Playback.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> XP: Experience Playback/Lecture d'expérience.</seg>
+        <seg>&lt;u145&gt; XP: Experience Playback/Lecture d'expérience.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13526,10 +12926,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> X-Risk: Existential risk.</seg>
+        <seg>&lt;u146&gt; X-Risk: Existential risk.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Risque X: Risque existentiel.</seg>
+        <seg>&lt;u146&gt; Risque X: Risque existentiel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13542,10 +12942,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg> Zeroes: People without wireless mesh access.</seg>
+        <seg>&lt;u147&gt; Zeroes: People without wireless mesh access.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg> Zéros: Personnes sans accès sans-fil au mesh.</seg>
+        <seg>&lt;u147&gt; Zéros: Personnes sans accès sans-fil au mesh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20206,10 +19606,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>The mesh, as it exists in Eclipse Phase, is only possible thanks to major developments made in computer and communication technologies and nanofabrication.</seg>
+        <seg>The mesh, as it exists in &lt;i0&gt;Eclipse Phase,&lt;/i0&gt; is only possible thanks to major developments made in computer and communication technologies and nanofabrication.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>La Mesh, telle qu'elle existe dansEclipse Phase , n'est possible qu'avec les avancées majeurs en informatique, communication et nanofabrication.</seg>
+        <seg>La Mesh, telle qu'elle existe dans&lt;i0&gt;Eclipse Phase&lt;/i0&gt; , n'est possible qu'avec les avancées majeurs en informatique, communication et nanofabrication.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20246,10 +19646,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Data storage technology has advanced to such high levels that even an individual user's surplus storage capacity can maintain an amount of information easily surpassing the entire 20th-century internet.</seg>
+        <seg>Data storage technology has advanced to such high levels that even an individual user's &lt;i0&gt;surplus &lt;/i0&gt;storage capacity can maintain an amount of information easily surpassing the entire 20th-century internet.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Les technologies de stockage d'informations sont si évoluées, que n'importe quel surplus de capacité de stockage personnelle dépasse largement celle de tout l'Internet du 20eme siècle.</seg>
+        <seg>Les technologies de stockage d'informations sont si évoluées, que n'importe quel &lt;i0&gt;surplus&lt;/i0&gt; de capacité de stockage personnelle dépasse largement celle de tout l'Internet du 20eme siècle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20326,18 +19726,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>In fact, given the sheer amount of data available, finding the information or media you're looking for takes considerably longer than downloading it.</seg>
+        <seg>In fact, given the sheer amount of data available, &lt;i0&gt;finding &lt;/i0&gt;the information or media you're looking for takes considerably longer than downloading it.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>En fait, étant donné l'énorme quantité de données disponibles, trouver  l'information ou les médias que vous cherchez prend beaucoup plus de temps que de les télécharger.</seg>
+        <seg>En fait, étant donné l'énorme quantité de données disponibles, &lt;i0&gt;trouver &lt;/i0&gt; l'information ou les médias que vous cherchez prend beaucoup plus de temps que de les télécharger.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>The mesh is also never down.</seg>
+        <seg>The mesh is also &lt;i1&gt;never &lt;/i1&gt;down.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>La Mesh n'est jamais  indisponible.</seg>
+        <seg>La Mesh n'est &lt;i1&gt;jamais &lt;/i1&gt; indisponible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20422,10 +19822,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Solarchive Search: ECTO(-LINK) </seg>
+        <seg>Solarchive Search: ECTO(-LINK)&lt;/i0&gt; &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Recherche dans Solarchive : ECTO(-link) </seg>
+        <seg>Recherche dans Solarchive : ECTO(-link)&lt;/i0&gt; &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20518,10 +19918,10 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Thought-to-communication emulations (so called transducing) enables the user to control the implant just by thinking and to communicate without vocalizing.</seg>
+        <seg>Thought-to-communication emulations (so called &lt;i0&gt;transducing&lt;/i0&gt;) enables the user to control the implant just by thinking and to communicate without vocalizing.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>L'émulation de la communication par la pensée (dite  transduction  ) permet à l'utilisateur de contrôler l'implant par la pensée et de communiquer sans vocalisation.</seg>
+        <seg>L'émulation de la communication par la pensée (dite &lt;i0&gt; transduction &lt;/i0&gt; ) permet à l'utilisateur de contrôler l'implant par la pensée et de communiquer sans vocalisation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20942,7 +20342,7 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Those supercomputers that habitats do allow are â€œhard networksâ€� that control a habitatâ€™s most crucial systems like orbit maintenance thrusters, life support, communications, power, or cutting-edge hypercorp RD projects.</seg>
+        <seg>Those supercomputers that habitats do allow are â€œhard networksâ€� that control a habitatâ€™s most crucial systems like orbit maintenance thrusters, life support, communications, power, or cutting-edge hypercorp R&lt;u0&gt;D projects.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Ces supercalculateurs que les habitats qui le permettent, contrôlent les systèmes les plus cruciaux des habitats, comme les propulseurs d'entretien en orbite, les systèmes de survie, les communications, l'énergie, ou les projets R&amp;D de pointe des hypercorp.</seg>

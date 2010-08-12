@@ -3662,6 +3662,606 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Aptitude Maximums}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Maximum d'Aptitude}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every morph has an aptitude maximum, sometimes modified by traits.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque morph possède un maximum d'aptitude, quelquefois modifié par les traits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This maximum represents the highest value at which the character may use that aptitude while inhabiting that morph, reflecting an inherent limitation in some morphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce maximum représente la plus haute valeur à laquelle un personnage peu utiliser une aptitude pendant qu'elle habite cette morph, reflétant une limitation inhérente à certaines morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a character's aptitude exceeds the aptitude maximum of their morph, they must use it at the maximum value for the duration of the time they remain in that morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'aptitude d'un personnage dépasse le maximum de leur morph, ils doivent l'utiliser à la valeur maximale pendant la durée de leur incarnation dans cette morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This may also affect the skills linked to that aptitude, which must be modified appropriately.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela peut égalment affecter les compétences liées à cetteaptitude, qui doivent êtremodifiée de manière appropriée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some implants, gear, psi, and other factors may modify a character's natural aptitudes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains implants, équipements, exploit psi ou d'autres facteurs peuvent modifier les aptitudes naturelles d'un personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These augmented values may exceed a morph's aptitude maximums, as they represent external factors boosting the morph's ability.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme elles représentent des facteurs externe améliorant les capacités de la morph, ces valeur augmentées peuvent dépasser le maximum d'aptitude de celle-ci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No aptitude, however, augmented or not, may ever exceed a value of 40.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant,aucune aptitude, augmentée ou non, ne peut dépasser la valeur de 40.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Innate ability only takes a person so far—after that point, actual skill is what counts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les capacités innées n'amènent une personne qu'à ce niveau - pour aller au-delà, les réelles compétences sont ce qui fait la différence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Eva has a Cognition aptitude of 25.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Eva a une aptitude Cognition de 25.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She is unfortunately forced to sleeve into a flat morph with an aptitude maximum of 20.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle est malheureusement forcées de s'incarner dans une morph flat qui possède unmaximum d'aptitude de 20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For the duration of the period she inhabits that morph, her Cognition is reduced to 20, which also impacts all of her COG-linked skills, reducing them by 5.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour la durée de la période pendant laquelle elle habite cette morph, sa Cognition st réduite à 20, ce qui impacte également toutes ses compétences liées à la COG, les réduisant de 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Things characters use</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les choses qu'utilisent les personnages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the advanced technological setting of Eclipse Phase, characters don't get by on their wits and morphs alone; they take advantage of their credit and reputation to acquire gear and implants and use their social networks to gather information.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans le cadre technologiquement avancé d'Eclipse Phase, les personnages ne s'en sortent pas uniquement sur leur astuce et leurs morphs; ils utilisent leurs crédit et leur réputation pour acquérir de l'équipement et des implants et leurs réseaux sociaux pour rassembler leurs informations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some characters also have the capability to use mental powers known as psi.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains personnages ont aussi la capacité d'utiliser leurs pouvoirs mentaux appelés psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Identity}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Identité}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In an age of ubiquitous computing and omnipresent surveillance, privacy is a thing of the past—who you are and what you do is easily accessed online.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A une époque d'informatique ubiquitaire et de surveillance omniprésente, la vie privée est un concept qui appartient au passé - qui vous êtes et ce que vous faites et facilement accessible en ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters in Eclipse Phase, however, are often involved in secretive or less-than-legal activities, so the way to keep the bloggers, news, paparazzi, and law off your back is to make extensive use of fake IDs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages dans Eclipse Phase, sont cependant régulièrement impliqué dans des activités secrètes et para-légales, et la seule façon de garder les blogueurs, les infos, les paparazzi et la loi à l'écart est de faire un usage extensif des fausses ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While Firewall often provides covers for its sentinel agents, it doesn't hurt to keep a few extra personas in reserve, in case matters ever go out the airlock in a hurry.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que Firewall fournisse des couvertures à ses sentinelles, cela ne fait pas de mal de garder une ou deux personna en réserve, au cas où il devienne nécessaire d'abandonner le navire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thankfully, the patchwork allegiances of city-state habitats and faction stations means that identities aren't too difficult to fake, and the ability to switch morphs makes it even easier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Heureusement, le pacthwork d'allégeances des habitats cités-état et des stations de faction signifie que les identités ne sont pas trop dures à fausser, et la possibilité de changer de morph rend la tâche encore plus facile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On the other hand, anyone with a copy of your biometrics or geneprint is going to have an edge tracking you down or finding any forensic traces you leave behind (for more on ID, see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'un autre côté, quiconque est enpossession d'unecopie de vosdonnéesbiométriques ou de votre empreinte génétique aura un avantage pour vous pister ou pour trouver toute trace que vous auriez pu laisser derrière vous (pourplus d'information sur les ID, voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Social networks}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Réseaux sociaux}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Social networks represent people the character knows and social groups with which they interact.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les réseaux sociaux représentent les personnes que connaît le personnageet les groupes sociaux avec lesquel il interagît.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These contacts, friends, and acquaintances are not just maintained in person, but also through heavy Mesh contact.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces contacts, amis et acquointances ne sont pas seulement entretenus en personne, mais aussi par unusage important des contacts par le Mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Social software allows people to stay updated on what the people they know are doing, where they are, and what they are interested in, right up to the minute.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les logiciels sociaux permettent aux gens de rester au courant de ce que font leurs connaissances,où ils sont et ce qui les intéresse de manière instantanée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Social networks also incorporate the online projects of individual members, whether it's a mesh-site loaded with a band member's songs, a personal archive of stored media, a decade of blog entries reviewing the best places to score cheap electronics, or a depository of research papers and studies someone has worked on or finds interesting.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Réseaux sociaux incroporent également les projets en-ligne des membres, qu'il s'agisse d'un site sur le mesh chargé de chanson du groupe dumembre, d'une archive personnel de média archivés,d'une décennie de billets de blog recensant lesendroits où truver de l'électronique bon marché ou un dépot de publication de recherche et d'études sur lesquels quelqu'un à travailler ou qu'il a trouvé intéressant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In game play, social networks are quite useful to characters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En jeu, les réseaux sociaux sont particulièrement utiles aux personnages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their friends list is an essential resource—a pool of people you can actively poll for ideas, troll for news, listen to for the latest rumors, buy or sell gear from, hit up for expert advice, and even ask for favors.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leur liste d'amis est une ressource essentielle - une réserve de personnes que vous pouvez utiliser activement pour trouver des idées, troller des sujets d'actualités, écouter les dernières rumeurs, acheter ou vendre du matériel, récupérer des conseils d'experts et même demander des faveurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While a character's social networks are nebulous and constantly shifting, the use of them is not.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que les réseaux sociaux d'un personnage sont nébuleux et en changement permanent, leur utilisation ne change pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character takes advantage of their social networks via the Networking (Field) skill (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage utilise ses réseaux sociaux via la compétence Networking(Field) (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The exact use of this skill is covered under Reputation and Social Networks, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'utilisation exacte de cette compétence est couverte sous le chapitre Réputation et Résaux Sociaux, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Fall devastated the global economies and currencies of the past.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Chute a dévasté l'économie globale et les systèmes monétaires du passé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the years of reconsolidation that followed, the hypercorps and governments inaugurated a new system-wide electronic monetary system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les annéesqui de reconsolidation qui ont suivis, les hypercorps et les gouvernements ont inaugurés un nouveau système monétaire électronique à l'échelle du système solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Called credit, this currency is backed by all of the large capitalist-oriented factions and is used to trade for goods and services as well for other financial transactions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appelé credit, cette monnaie est supportée par toutes les principales factions orientées vers le capitalisme et est utilisé pour échanger des marchandises et des services aussi bien que pour d'autres transactions financières.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Credit is mainly transferred electronically, though certified credit chips are also common (and favored for their anonymity).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le credit est principalement transféré électroniquement, bien que des puces de crédits certifiées qont également fréquemment utilisées (et préférées pour leur anonymat).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hardcopy bills are even used in some habitats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des factures papiers sont même utilisées dans certains habitats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending on your background or faction, your character may be given an amount of credit at the start of the game.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fonction de votre historique et de votre faction, votre personnage peut recevoir une somme de crédit au début du jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>During game play, your character must earn credit the old-fashioned way: by earning or stealing it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pendant le jeu, votre personnage peut gagner du credit à l'ancienne: en le gagnant ou en le volant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Capitalism is no longer the only economy in town.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le capitalism n'est plus le seul système économique en ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The development of nanofabricators allowed for the existence of post-scarcity economies, a fact eagerly taken advantage of by anarchist factions and others.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le développement des nanofabers a rendu possible l'existence d'une économie post-pénurie, un fait largement exploité par les factions anarchistes et d'autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When anyone can make anything, concepts like property and wealth become irrelevant.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorque n'importe qui peut fabriquer n'importe quoi, des concepts tels que la propriété ou la richesse deviennent hors sujet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The advent of functional gift and communist economies, among other alternative economic models, means that in such systems you can acquire any goods or services you need via free exchange, reciprocity, or barter—presuming you are a contributing member of such a system and respected by your peers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'avènement d'économie fonctionnelles basées sur le communisme et le don,parmi d'autres économies alternatives,signifie que dans de tels système vous pouvez acquérir tout bien ou tout service dont vous avez besoin via l'échange libre, la réciprocité ou le troc - en partant du fait que vous êtes un membre contributeur d'un tel système et que vous êtes respectés par vos pairs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, art, creativity, innovation, and various forms of cultural expression have a much higher worth than they do in capitalist economies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, l'art, la créativité, l'innovation et différentes forme d'expression culturelle ont une valeur bienplus élevée que dans une économie capitaliste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In alternative economies, money is often meaningless, but reputation matters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les économies alternatives, la monnaie n'a souvent aucun sens, c'est la réputation qui fait sens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your reputation score represents your social capital—how esteemed you are to your peers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Votre score de réputation représente votre capital social - à quel point vous êtes estimés par vos pairs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rep can be increased by positively influencing, contributing to, or helping individuals or groups, and it can be decreased through antisocial behavior.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La rep peut-être augmentée en influençant positivement, en contribuant ou en aidant des individus ou des groupes, et elle peut-être diminuée par un comportement antisocial. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In anarchist habitats, your likelihood of obtaining things that you need is entirely based on how you are viewed by others.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les habitats anarchistes, votre capacité à obtenir les choses dont vous avez besoin est entièrement basé sur la manière dont vous êtes vus par d'autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Reputation is easily measured by one of several online social networks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La réputation est facilement mesurée par l'un des nombreux réseaux sociaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your actions are rewarded or punished by those with whom you interact, who can ping your Rep score with positive or negative feedback.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vos actions sont récompensées ou punies par ceux avec qui vous interagissez, qui pingent votre score de Rep avec un retour positif ou négatif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These networks are used by all of the factions, as reputation can affect your social activities in capitalist economies as well.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces réseaux sont utilisées par toutes les factions, car la réputation peut également affecter vos activités sociales dans une économie capitaliste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The primary reputation networks include:</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les principaux réseaux réputationnels incluent:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The @-list:&lt;/i0&gt; the Circle-A list for anarchists, Bar- soomians, Extropians, scum, and Titanians, noted as @-rep.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La liste @:&lt;/i0&gt; la liste Arobase est utilisée par les anarchistes, les Barsoomiens, les Extropiens, la racaille et les Titaniens, notée comme @-rep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u1&gt; &lt;i1&gt;CivicNet:&lt;/i1&gt; used by the Jovian Republic, Lunar- Lagrange Alliance, Morningstar Constellation, Planetary Consortium, and many hypercorps, referred to as c-rep.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u1&gt; &lt;i1&gt;CivicNet:&lt;/i1&gt; utilisée par la République Jovienne, l'Alliance Lunaire-Lagrange, la Constellation Morningstar, le Consortium Planétaire et beaucoup d'hypercorp et est référencé comme c-rep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u2&gt; &lt;i2&gt;EcoWave:&lt;/i2&gt; used by nano-ecologists, preservation- ists, and reclaimers, referred to as e-rep.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u2&gt; &lt;i2&gt;EcoWave:&lt;/i2&gt; utilisé par les nano-écologistes, les préservationnistes et les réclamationnistes, est référencé comme e-rep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u3&gt; &lt;i3&gt;Fame:&lt;/i3&gt; the seen-and-be-seen network used by socialites, artists, glitterati, and media, referred to as f-rep.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u3&gt; &lt;i3&gt;Fame:&lt;/i3&gt; le réseau pour voir et être vus utilisés par les élites, les artistes, les célébrités et les médias, référencé comme f-rep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u4&gt; &lt;i4&gt;Guanxi:&lt;/i4&gt; used by the triads and numerous crimi- nal entities, referred to as g-rep.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u4&gt; &lt;i4&gt;Guanxi:&lt;/i4&gt; utilisé par les triades et de nombreuses entités criminelles, référencé en tant que g-rep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u5&gt; &lt;i5&gt;The Eye:&lt;/i5&gt; used by Firewall, noted as i-rep.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u5&gt; &lt;i5&gt;L'Œil:&lt;/i5&gt; utilisé par Firewall, référencé comme i-rep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u6&gt; &lt;i6&gt;RNA:&lt;/i6&gt; Research Network Affiliation, used by ar- gonauts, technologists, scientists, and researchers, referred to as r-rep.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u3&gt; &lt;i3&gt;RRA:&lt;/i3&gt; Réseau de Recherche Affilié, utilisé par les argonautes, les technologistes, les scientifiques et les chercheurs, référencé comme r-rep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Reputation is rated from 0-99.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Réputation est notée de 0 à 99.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending on your background and faction, you may start with a Rep score in one or more networks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fonction de votre historique et de votre faction, vous pouvez démarrer avecun score de Rep dans un réseau ou plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This can be bolstered through spending customization points during character creation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils peuvent être amélioré par des points de personnalisations pendant la création du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>During game play, your Rep scores will depend entirely on your character's actions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pendant le jeu, votre score de Rep dépendra entièrement des actions de votre personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For more information, see Reputation and Social Networks, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour plus d'information, voir Réputations et Réseaux Sociaux, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that each Rep score is tied to a particular identity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que chaque score de Rep est lié à une identité particulière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Gear}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Matériel}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gear is all of the equipment your character owns and keeps on their person, from weapons and armor to clothing and electronics.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le matériel regroupe tout l'équipement que votre personnage possède et qu'il garde sur eux,depuis les armes et les armures à l'habillement et à l'électronique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You buy gear for your character with customization points during character creation (see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous achetez votre équipement avec les points de personnalisation pendant la création de personnage (voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>136) and in the game with Credit or Rep.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>136) et pendant le jeu avec du Credit ou de la Rep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Certain restricted, illegal, or hard-to-find items may require special efforts to obtain (see Acquiring Gear, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains objets restreints, illégaux ou difficile à trouver peuvent nécessiter des efforts particulier pour les obtenirs (voir Acquérir du Matériel, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you have access to a nanofabricator, you may be able to simply build gear, presuming you have the proper blueprints (see Nanofabrication, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous avez accès à un nanofabeur, vous pouvez simplement construire du matériel, si vous possédez le plan adéquat (voir Nanofabrication, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For a complete listing of equipment options, see the Gear chapter, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour un listing complet d'options d'équipement, voir le chapitre Matériel, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even among the remaining capitalist economies, prices can vary drastically.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même parmi les restes de l'économie capitaliste, les prix peuvent varier drastiquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To represent this, all gear falls into a cost category.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour représenter ce fait, tout le matériel tombe dans une catégorie de prix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each category defines a range of costs, so the gamemaster can adjust the prices of individual items as appropriate to the situation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque catégorie définit une gamme de prix, pour que le maître de jeu puisse ajuster le prix de chaque élément de manière appropriée à la situation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each category also lists an average price for that category, which is used during character generation and any time the gamemaster wants to keep costs simple.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque catégorie liste également le prix moyen pour cette catégorie, qui est utilisé pour la création de personnage et à n'importe quel moment où le maître de jeu désire garder la gestion des prix de manière simplifiée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Mind Hacks</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
