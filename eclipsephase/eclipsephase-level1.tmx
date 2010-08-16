@@ -4262,6 +4262,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>See the Gear Costs table on p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voir la table des Coûts du Matériel à la p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Implants include cybernetic, bionic, genetech, and nanoware enhancements to your character's morph (or mechanical enhancements in the case of a synthetic shell).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les implants incluent les améliorations cybernétique et bionique, la génétech et le nanoware (ou les améliorations mécaniques dans le cas des coquilles synthétiques) installées dans la morph de votre personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Mind Hacks</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
