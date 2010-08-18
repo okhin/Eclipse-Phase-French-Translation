@@ -14,6 +14,966 @@
   <body>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A time of eclipse</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une époque d'éclipse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This chapter provides a complete overview of the Eclipse Phase universe.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce chapitre fournit un aperçu complet de l'univers d'Eclipse Phase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It starts with a history, goes into detail on the setting, covers factions, and then wraps up with a system gazetteer.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il démarre avec un historique, explore en détail le cadre de jeu, détaille les factions et termine avec une gazette du système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A people's history of an unfortunate universe</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'histoire populaire d'un univers malheureux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The following is a transcript of a recovered au- diofile recovered after the catastrophic decompression event on Walther-Pembroke Station.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le texte suivant est une transcription d'un fichier audio récupéré après la décompression catastrophique de la Station Walther-Pembroke.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The audiofile is believed to have been created by Donovan Astrides and to be a summation of his unpublished work A People's History of an Unfortunate Universe.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le fichier audio est attribué à Donovan Astrides et semble être un résumé de son ouvrage inédit: Une Histoire Populaire d'un Univers Malchanceux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Sounds of scratching on the microphone, creaking of furniture, the noise of a woman clearing her throat]</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Bruits de grattements sur le microphone, craquements de mobilier, bruit d'une femme se raclant la gorge]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quoi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Indistinct murmuring]</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Murmures indistinct]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fuck you.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vas te faire foutre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I do this how the fuck I want, though it was nice of you to put me in this nice young woman's body.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Je fait ça de la putain de façon que je veux, même si c'est sympa de ta part de me coller dans ce sympathique corps féminin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Sounds of hands running along fabric]</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Bruits de mains lissant du tissu]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Does my vulgarity shock you, corporate lackey?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ma vulgarité te choque, laquais corporatiste?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No matter, I'm sure you can edit it out for your proles.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Je m'en fout, je suis s ûr que tu pourra éditez ça pour tes prolos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now—you asked about my book?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bon - qu'est-ce que tu m'as demandé déjà?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Is it a history book you ask?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si mon livre était un livre d'histoire?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No. It is an anti-history book.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Non, c'est un livre d'anti-histoire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I shall tell you about the future.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Je vais te parler du futur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Mumbling, questioning tone]</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Murmures, ton interrogatif]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What does it hold?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce qu'il contient?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The future, you mean?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tu veux connaître le futur?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Indistinct “Yes.”]</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[&quot;Oui&quot; indistinct.]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No. I don't think you care about the future.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Non, je ne penses pas que tu te préoccupes du futur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What you really want to know is: will you get the future you want?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce que tu veux vraiment savoir c'est: aurez-vous le futur que vous voulez?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>And that is an easy question to answer.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Et c'est une question à laquelle il est facile de répondre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No. No, you will not get the future you want.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Non. Non, tu n'aura pas le futur que tu veux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Because you are stupid enough to ask this stupid question about the future.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Simplement parce que tu es suffisament stupide pour poser cette question idiote à propos du futur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Silent pause]</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Pause silencieuse]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I remember reading a scan of an old real print comic once.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Je me souvient avoir lu un scan d'une impression d'un comic un jour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character in it was railing against the imaginary people of his imaginary world, taking them to task about their dissatisfaction with the future they lived in.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage vitupérait contre les habitants imaginaires de son monde imaginaire, les forçant à agir contre les insatisfaction du futur dans lequel ils vivaient.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>But it was really aimed at the stupid people who wanted their stupid little futures and who were too stupid to see that the future is now.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mais c'était en fait ciblé vers les personnes stupides qui voulaient leur petit futur médiocre et qui étaient trop bête pour voir que ce futur était le présent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It's always now.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est toujours le cas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Except it isn't anymore.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sauf que ça ne l'est plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The TITANs changed that.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les TITANs ont changés ça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The future is now yesterday, and last week, and ten years ago.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le futur est maintenant hier, la semaine dernière ou bien il y a dix ans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Especially ten years ago.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plus particulièrement il y a dix ans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>But the future is also back on poor old Earth—it's a legacy of where we've been and what has come before.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mais le futur remonte aussi à la bonne vieille Terre - c'est un héritage de là où nous étions et de ce qui était avant nous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do they teach you history on Venus, in your sealed compounds and resort aerostats?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous apprennent-ils l'histoire sur Vénus, dans vos comporatiments scellés et vos aérostats de loisirs?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No, don't open your mouth, I could really care less what they teach you.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Non, n'ouvres pas votre bouche, je me moque de ce qu'il vous enseigne comme de ma première morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For it is most certainly lies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il s'agît trés probablement de mensonges.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I've lived in the inner system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>J'ai vécu dans le système intérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I know the rules and the deceits told in the name of civil order and “national security.”</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Je connaît les règles et les tromperies énoncés au nom de l'ordre civil et de la &quot;sécurité nationale.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even at the onset of the 21st century, nations were starting to go into decline.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même au début du 21ème siècle, les nations avaient commencées à décliner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It just took everyone a while to realize they were obsolete.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ça à juste pris un peu de temps pour que tout le monde s'aperçoive qu'elles étaient obsolètes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you remember the great nations of the world?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tu te rappelez les grandes nations du monde?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Are you old enough to remember how they sat around and debated whether the major climate shifts they were creating were even real?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Es-tuy suffisament vieux pour te rappeler comment ils se sont assit autour de la table pour débattre si les changements climatiques majeurs qu'ils avaient créés étaient réel?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even when many of them agreed that something needed to be done, none of them stood up to do it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même lorsque la plupart d'entre eux étaient d'acord sur le fait qu'il fallait faire quelque chose, aucun d'entre eux ne s'est porté volontaire pour le faire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The leaders of the world carried on with business as usual, secure in their privilege, as droughts ravaged Africa and Central Asia, Europe froze, and severe weather wreaked havoc everywhere.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les dirigeants du monde on continué à gérer leurs affaire comme d'habitude, renforçant leurs privilèges alors que la sécheresse ravageait l'Afrique et l'ASie Centrale, et que des incidents météorologiques graves amenaient la destruction partout ailleurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>People across the globe were feeling the pinch of starvation or rampant epidemics, but the leading nations were more concerned about the refugees pouring over their borders and polluting their lily white paradises with their customs and languages and willingness to work for a pittance just to survive.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Partout dans le monde, les gens commençaient à subir les affres de la faim ou à être décimées par des épidémies rampantes, mais les nations dominantes étaient plus préoccupées par les réfugiées qui débordaient les frontières et polluaient leur petit paradis personnel avec leurs coutumes, leurs langues et leurs volonté à travailler pour une misère juste pour survivre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The wars over oil and energy were only worsened by wars over the weather and water that followed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les guerres du pétrole et de l'énergie n'ont été surpassée en horreur que par les guerres pour le contrôle de l'eau et du climat qui suivirent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unstable regimes rose and fell or were pushed over the edge, all in pursuit of precious liquids.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des régimes instables grandirent et chutèrent ou furent mis à bas, juste pour obtenir plus du précieux liquide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The great nation states transformed into fortresses, steeled against the twin threats of the barbarians threatening them on the outside and the masses of their poor and dispossessed internally, all of them wanting to come in only for a little drink.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les grandes nations états se transformères en forteresse, se cuirassant contre la menace jumelle des barbares les menaçants de l'extérieur et les masses des pauvres et des dépossédés les menaçant de l'intérieur, les deux ne voulant simplement qu'un peu d'eau à boire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You know, I've actually heard some conservatives refer to that period as a golden age, a peak time for the corporations and the rich.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tu sait, j'ai réellement entendu des conservateurs se référer à cette période comme à l'âge d'or, l'apogée des corporations et des riches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It's certainly true that it was a golden age for repression—and profits.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est une certitude, c'était l'âge d'or de la répression - et des profits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you were in that lucky fraction of a percent of the population who could afford it, it was certainly a good time, but for the majority of humanity it was a time of horrors.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous étiez dans cette fraction de la population  suffisament chanceuse pour pouvoir se l'offrir, c'était très certainement une bonne époque, masi pour la majorité de l'humanité c'était une époque d'horreur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Global inequality was larger than ever before.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les inégalités globales étaient plus importantes que jamais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Robots were taking jobs away from human hands.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les robots retiraient le boulot des mains de l'humanité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This was a time of radicalization for many.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce fût une époque de radicalisation pour beaucoup de gens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Failing governments no longer supplied people's basic needs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les gouvernements en déroutent ne fournissaient plsu les besoins basiques des populations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The globalized poor turned to local tribes, fundamentalist groups, political radicals, and criminal networks for the means to survive.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le pauvre globalisé se tourna vers les tribus locales, les groupes fondamentalistes, les politiques radicaux et les réseaux criminels pour trouver des moyens de survivre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insurgent groups flourished, but they depended on the black market to survive, and soon their leaders were more concerned with making money than making change.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des groupes insurrectionnistes fleurirent, mais ils dépendaient du marché noir pour survivre, et bientôt leurs chefs étaient plus occupés à gagner de l'argent qu'à changer les choses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The nation states, as always, resorted to repression.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les nations états en vinrent, comme d'habitude, à la répression.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Civil liberties were restricted and surveillance increased.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les libertés civiles furent restreintes et la surveillance augmenta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Automated weapons systems were deployed first against guerrillas and terror cells, and then against agitators and demonstrators.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des systèmes d'arme automatisés furent déployés d'abord contre les unités de guerillas et les cellulles terrorristes, puis contre les agitateurs et les manifestants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I remember the first time I saw those police drones, at a demonstration in support of a worker's strike in Long Beach.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Je me rappelle la première fois que j'ai vu des drônes de police. C'était dans une manifestation en soutien à une grève des travailleurs à Long Beach.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The drones ordered us to disperse once, only once, before they opened fire with their “nonlethal” weapons.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les drônes nous ont ordonnés de nous déployer une fois, une seule fois, avant d'ouvrir le feu avec leurs armes &quot;non léthale&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nonlethal my ass.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Non léthale, mon cul oui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Three people died that day and dozens were injured.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Trois personnes sont mortes ce jour là et des douzains furent blessées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The mainstream media ignored it even if the bloggers didn't.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les médias de masses l'ont ignoré, même si les bloggeurs en ont parlé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Meanwhile, the privileged elites continued to prosper.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pendant ce temps, les élitées privilégiiées continuaient de prospérer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Longevity treatments expanded lifespans—for those who could afford it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les traitements de longévité augmentèrent l'espérance de vie - pour ceux qui pouvaient se les offrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major crackdowns swept up off-brand pharma and bootleg procedures by pioneering biochemists, even while worldwide life expectancies dropped for the first time in decades.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des répressions massives balayèrent les progrès en pharma hors-labo et des procédures pionnères mise au point par des biochimistes aventureux, alors même que l'espérance de vie mondiale chuta pour la première fois depuis des décenniées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Why extend the lives of so many poor people, when expert systems as smart as any human could be built in a fraction of the time it would take to educate an actual person, and robotics and drone technologies allowed menial jobs to be turned over to uncomplaining and unpaid labor.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pourquoi étendre la vie de tant de gens, quand des systèmes experts aussi intelligent que n'importe quel humain peuvent être construits en une fraction du temps nécessaire à éduquer une personne alros que la robotique et les drones permirent de réaliser les tâches subalternes par un ouvrier qui n'est pas payé et qui ne s'en plaint pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>And the rich had their high-pricetag designer chimeric pets to keep them company anyway.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les riches avaient leurs animaux chimériques conçus par des designer hors de prix pour leur tenir compagnie de toutes façon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Not all of the upper classes were wallowing in opulence while the planet around them starved and drowned.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toutes les classes supérieures en se vautraient pas dans l'opulence pendant que la planète autour d'eux s'affamait et sombrait.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few were looking ahead at the changes on the horizon, scheming how to stake their claim.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques uns étaient à la recherche du changement, réfléchissant à la manière d'obtenir gain de cause.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some of these worked to expand their dominion, building a space elevator in sub-Saharan Africa and sending robotic probes out to map the solar system in detail.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains d'entre eux cherchaient à étendre leur territoire, construisant un ascensseur spatial dans l'Afrique Sud-Saharienne et en envoyant des sondes robotisées dans le système solaire pour le cartographier en détail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They even founded the first stations on Mars and Luna then, more than fifty years before the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils fondèrent même les premières stations sur Mars et sur la Lune, plsu de cinquante ans avant la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ecopocalypse wasn't going away, however, no matter how much those in power tried to ignore it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'écopocalypse ne semblait pas s'arréter cependant, peu importe à quel point les dirigeants du monde essayaient de l'ignorer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Severe winters and draughts continued to pound at us.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les hivers rudes et la sécheresse continuaient à nous tomber dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rising ocean levels devastated coastlines worldwide with massive flooding.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La montée des océans dévasta le littoral au niveau mondial avec des inondations massives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few last-ditch efforts to undertake mega-scale geoengineering projects created as many problems as they fixed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques effort désespérés pour mettre en place de gigantesque s projets de géoingénierie créèrent autant de problème qu'ils n'en solvèrent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These were viewed with cynicism anyway, as some were thinly-disguised test runs for terraforming techniques being prepared for off-world deployment.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils furent  cependant perçus cyniquement, car certains de ces efforts étaient des tentatives à peine déguisées de technique de terraformation en préparation de la colonisation extra-terrestre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It often seemed as though the eyes of the fortunate were no longer focused on the world around them, but rather on the heavens above them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela donnait l'impression que les yeux des fortunés n'étaient plus tournés sur le monde qui les entouraient, mais sur les cieux au-dessus d'eux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The completion of the first space elevator and the first mass driver on our moon kicked off a new space race and the competition was on to stake claims around the solar system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La réalisation du premier ascensseur spatial et de la première navette régulière vers notre lune lança une nouvelle course spatiale et la compétition pour revendiquer des droits dans le système solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All this new expansion was powered by the first mass-produced efficient fusion power plants and the establishment of Helium-3 mining enterprises.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toute cette expension fût alimentée par la production de masse des premières centrales à fusion efficaces et par la fondation d'entreprise de minage de l'Helium-3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Back on Earth, though, the hammer finally fell.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sur Terre cependant, l'épée de damocles finît par tomber sur l'humanité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insurgents adopted fifth generation warfare techniques, sharing open source methods of resistance, utilizing swarming attacks on critical systempunkts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les insurgés adoptèrent des techniques de guerillas de cinquième génération, partageant des méthodes de résistances open source, utilisant des attaques massives sur des infrastructures critiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>People crushed under years of oppression rose up in these opportunities and smashed at the state and corporate apparatus that had held them down.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les gens écrasés par des années d'oppressions profitèrent de ces opportunités et démolirent l'appareil étatique et corporatiste qui les avait opprimés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nation after nation fell to insurgencies manned by those who had fought in thousands of little wars over fuel, ponds, and bread crusts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les nations sombrèrent les unes après les autres dans des révolutions menées par ceux qui ont combattus lors des milleirs de guerre pour du carburants, des étandues d'eau et des croûtes de pains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most states fought back by becoming more totalitarian and repressive, but the tide of rebellion spread off world as a series of outposts and stations declared themselves in sympathy with their earthbound compatriots and announced a manifesto for a more humanistic approach to solar expansion.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>la plupart des états répliquèrent en devenant encore plus totalitaire et répressifs, mais le courant de rébellion se répandit en dehors du monde alors qu'une série d'avan-postes et de statiosn se déclarèrent en soutien de ces compatriotes terriens et publièrent un manifeste pour une apporche plus humaniste de l'expansion solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even numerous scientists and engineers, who had previously worked as pawns in corporate expansions, adopted a technoprogressive stance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De nombreux scientifiques et chercheurs, qui travaillaient précédemment comme pions dans l'expension corporatiste, adoptèrent même une attitude technoprogressiste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>That's how the argonauts were born, you know, taking their name from a previous group of scientists who advised the US government and Pentagon on science and policy called the Jasons.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est ainsi que nacquit le mouvement des argonautes tu sait, en tirant leur nom d'un groupe de scientifique qui conseillait le gouvernement US et le Pentagon dans le domaine de la science et de la politique appellés les Jasons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Faced with reprisals from their corporate masters, a number of argonauts defected from the hypercorps, in some cases taking key resources and research with them, while others went underground.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Devant faire face à des représailles de leurs anciens maître corporatiste, bon nombre d'argonautes quittèrent les hypercorps, emmenant leurs ressources et leurs recherches avec eux dans certains cas, tandis que d'autres choisirent d'entrer en clandestinité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is when the hypercorps really took off, though, those shark-like bastards.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce fut cependant le moment où les connarde de requins d'hypercorps décollèrent réllement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They let the nation-states and lumbering multinationals of old take the brunt of the global rage and assault.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils laissèrent les nation-états et les vieilles multinationales subir l'assaut de la colère globale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They took advantage of the chaos to slip free of the old moral and ethical restraints on human experimentation and from the legal purview of the nationalities that had birthed them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils tirèrent avantages du chaos pour s'affranchir des vieilles contraintes morlaes et éthiques sur l'expérimentation humaine et du point de vue légal des nation qui les avaient données naissance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They embraced the opportunities of numerous new technologies and the drive into space.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils embrassèrent les opportunités des nombreuses nouvelles technologies et les lancèrent dans l'espace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It was their research labs that cooked up the first sentient artificial intelligences, the first genegineered human clones, and the first true uplifts, chimps and dolphins brought into awareness as corporate experiments and slaves.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce sont leurs laboratoire de recherches qui ont créé la première intelligence artificielle consciente, le premier clone humain conçu génétiquement et le premier vrai élevé, des chimpanzés et des dauphins amenés à la conscience en tant qu'expérimentation et esclave corporatiste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As the last of the old states became increasingly desperate to cling to their power and land, the hypercorps extended a helping hand.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que les derniers des vieux état s'accrochaient désespéremment à leur pouvoirs et à leurs terres, les hypercoprs leur tendirent la main.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They offered debt bondage terms to those who were willing to sign over their rights and humanity for a trip off world, to work as indentured servants on corporate colonies and stations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle offrirent la servitude pour dette à ceux qui voulaient abandonner leurs droits et leur humanité pour un voyage extra-terrestre et pour travailler en tant qu'engagé dans les colonnies et stations corporatistes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hundreds of thousands took the offer as an alternative to the crushing poverty and chaos on Earth.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des centaines de milliers de personnes acceptèrent l'offre comme une alternative à la pauvreté et au chaos sur Terre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The business of resource exploitation exploded across the solar system, as stations were established as far out as the Kuiper Belt.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'exploitation de ressource fut un domaine qui explosa à travers tout le système solaire, alors que des statiosn furent établies jusqu'à la Ceinture de Kuiper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Voices that spoke of respecting biodiversity and natural ecologies were ignored as the hypercorps toiled to reshape various planets and moons to their will.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les voix qui s'élevèrent pour le respect de la biodiversité et des écologies naturelles furent ignorées alors que les hypercorps peinaient à transformer diverses planètes et lunes à leur volonté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This was the state of things until about 20 years before the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voilà les choses telles qu'elles étaient à peu près 20 ans avant la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though many of the old oppressor states had been struck down, new ones arose, and the various global insurgencies oscillated between making radical changes and falling into the same old tribal warfare traps.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même si nombre des veieux étants oppressuers avaient été détruits, de nouveaux émergeaient, et les différentes insurrectiosn globales oscillaient entre effectuer des changements radicaux et tomber dans le piège de la guerre tribale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Reactionary religious and political forces on Earth also railed against the hypercorps' agenda, resulting in some terrorist attacks and sabotage strikes, and culminating in a failed attempt to disable the space elevator by an Islamist suicide cell.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des forces réligieuses réactionnaires et politiques sur Terre ont également ralé contre les plans des hypercorps, amenant à des attaques terroristes et des grèves de sabotages qui ont eu pour point culminant une tentative de sabotage de l'ascensseur spatial par une cellulle Islamiste suicidaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The hypercorps were quick to retaliate, ordering an orbital bombardment using high-density objects against the headquarters and compounds of several key opposition leaders.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les hypercorps furent promptes à répliquer, déclenchant un bombardement orbital en utilisant des objets à forte densités contre les quartiers généraux et les éléments de plusieurs personnes clefs de l'opposition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though effective in decapitating several terrorist networks, the mass destruction sparked outrage against the hypercorps, creating a deeper rift between Earth and off-world interests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que la destruction massive fut efficace pour décapiter les réseaux terroristes, elle déclencha une vague d'indignation intense contre les hypercoprs, créant un fossé encore plus grand entre la Terre et les colonies extra-terrestre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The hypercorps remained out of reach, however, though they were not completely immune from Earth's troubles.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les hypercorps restèrent hors d'atteintes bien que n'étant pas complètement immunisées des troubles terriens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The workers and colonists brought from Earth transported many of their ethnic, political, and socio-tribal grudges with them, leading to several outbreaks of violence in habitats and orbital stations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les travailleurs et les colons amenés de Terre embarquèrent avec eux beaucoup de leur troubles ethnique, politique et sociaux, menant àplusieurs explosions de violence dans les habitats et les stations orbitales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some also harbored allegiances opposed to hypercorp interests, illustrated by isolated acts of preservationist sabotage and religious terrorist attacks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains hébergèrent des groupes opposées aux intérêts hypercorporatistes, s'illustrant par des actes isolés de sabotage préservationnistes et d'attaque terroriste religieuse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Various criminal networks also came along for the ride, expanding their black markets and vice trades wherever humans went.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Différents réseaux criminels entrèrent aussi dans la course, étendant leurs marchés noirs et le commerce du vice partout où l'homme allait.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As the hypercorps expanded, so too did their political opponents: the anarchists, socialists, argonauts and others who worked diligently to establish their own independent presence, mostly in the outer system, further from hypercorp reach.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les opposants aux hypercoprs se développèrent au même rythme que ces dernières: anarchistes, socialistes, argonautes et d'autres œuvrèrent avec diligence pour établir leurs propre présence indépendante, essentiellement dans le système extérieur, hors de portée des hypercorps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The hypercorps even contributed to this growth by sending their criminals and undesirable elements into exile beyond Mars.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les hypercrops contribuèrent à cette croissance en envoyant leurs criminels et autres éléments indésirables en exil au-delà de Mars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Both sides invested heavily in research and new technologies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les deux camps investirent massivement dans a recherche et les nouvelles technologies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Advances in biotech, nanotech, AI, and cognitive science were now moving so rapidly that major breakthroughs were made on a yearly basis.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les avancées en biotech, nanotech, dans le domaine des IA et en science cognitive arrivaient à présent à un rythme si rapide que des découvertes majeures étaient faites sur une base annuelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Developments in one field created a recursive boost in the others, creating a feedback loop that spawned immense technological improvements.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le développement dans un domaine créait un gain récursif dans un autre, créant une boucle de retour qui engendra d'immense améliorations technologiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Off-world, genetic modifications were widely adopted, and new transhuman adaptations became a common sight.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Hors-terre, les modifications génétiques furent largement adoptées, et les nouvelles adaptations transhumaines devinrent communes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>We even created new synthetic life forms that were part biological and part robotic.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nous avons même créé de nouvelles formes de vie synthétique à la foid biologique et robotique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
