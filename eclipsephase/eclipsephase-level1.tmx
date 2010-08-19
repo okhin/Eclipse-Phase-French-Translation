@@ -2254,6 +2254,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>End Transcript</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Fin de la Transcription</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
