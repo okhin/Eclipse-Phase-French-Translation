@@ -689,7 +689,7 @@
         <seg>The completion of the first space elevator and the first mass driver on our moon kicked off a new space race and the competition was on to stake claims around the solar system.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>La réalisation du premier ascensseur spatial et de la première navette régulière vers notre lune lança une nouvelle course spatiale et la compétition pour revendiquer des droits dans le système solaire.</seg>
+        <seg>La réalisation du premier ascensseur spatial et de la première catapulte électromagnétique sur la lune lança une nouvelle course spatiale et la compétition pour revendiquer des droits dans le système solaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2258,6 +2258,606 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Fin de la Transcription</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Eclipse phase timeline}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Chronologie d'Eclipse Phase}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All dates are given in reference to the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toutes les dates sont données en référence à la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BF = Before the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>BF = Avant la Chute (Before the Fall)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AF = After the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>AF = Après la Chute (After the Fall)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(e.g., BF 10 = 10 years before the Fall.) &lt;u0&gt;{ BF 60+}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>(i.e.., BF 10 = 10 ans après la Chute.) &lt;u0&gt;{ BF 60+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Crisis grips the globe in the form of drastic climate changes, energy shortages, and geopolitical instability.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des crises frappent le globe sous la forme de changement climatiques drastique, d'épuisement de source énergétique et d'instabilités géopolitiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u1&gt; Initial space expansion creates stations at the Lagrange Points, Luna, and Mars, with robotic exploration of the entire system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u1&gt; La conquête spatiale initiale a engendré la création de stations aux Points de Lagrange, sur la Lune et sur Mars, ainsi qu'une xploration robotique de l'ensemble du système solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u2&gt; Construction begins on a space elevator.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u2&gt; La construction d'un ascensseur spatiale est commencée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u3&gt; Medical advances improve health and organ repair.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u3&gt; Des avancées médicales améliorent la santé et la réparation des organes/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The rich pursue gene-fixing and transgenic pets.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les riches recherche le développement de la réparation génétique et des animaux transgéniques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u4&gt; Computer intelligence capabilities equal and excede that of the human brain.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u4&gt; Les possibilités des intelligence informatique égale et dépasse celle du cerveau humain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>True AI not yet developed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les vrais IAs ne sont pas encore développée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u5&gt; Robotics become widespread and start to replace/invalidate many jobs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u5&gt; La robotique se répand trés largement et commence à remplaccer/invalider certains emplois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u6&gt; Modern nations expand their high-speed wireless networks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u6&gt; Les nations modernes étendent leurs réseaux sans-fil à haut débit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{ BF 60-40}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{60-40 BF}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Efforts to undertake megascale geoengineering on Earth cause as many problems as they fix.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des effort pour mettre en place des projets de géoingénierie gigantesqte sur Terre causent autant de problème qu'ils n'en résolvent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u1&gt; Major colonies established on the Moon and Mars; outposts established near Mercury, Venus, and the Belt.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u1&gt; Des colonniees majeures sont établies sur la Lune et sur Mars; des avants-postes sont établis près de Mercure, de Vénus et dans la Ceinture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Explorers reach Pluto.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des Explorateurs atteignent Pluton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u2&gt; First space elevator on Earth finished.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u2&gt; le premier ascesnsseur spatial Terrestre est terminé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Two others in progress.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Deux autres sont en cours de construction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Space traffic booms.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le traffic spatial explose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u3&gt; Mass driver built on the Moon.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u3&gt; Une catapulte électromagnétique est construite sur la Lune.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u4&gt; Terraforming of Mars begins.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u4&gt; La terraformation de Mars commence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u5&gt; Fusion power developed and working plants established.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u5&gt; La fusion est maîtrisée et des centrales fonctionnelles sont établies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u6&gt; Genetic enhancements, gene therapies (for longevity), and cybernetic implants become available to the wealthy and powerful.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u6&gt; Les amélioratiosn génétiques, les thérapies géniques (pour la longévité) et les implants cybernétique deviennent disponible pour les riches et les puissants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u7&gt; First non-autonomous AIs are secretly developed and quickly put to use in research and netwar.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u7&gt; Les premières IAs non-autonomes sont développées en secret et rapidement utilisé dans la recherche et la cyberguerre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u8&gt; Experience playback (XP) technology developed and put into public use.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u8&gt; La technologie de relecture d'expérience (XP) est développée et mise à disposition du public.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{BF 40-20}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{40-20 BF}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Violence and destabilization wrack the Earth; some conflicts spread into space.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Violence et déstabilisation démolisent la Terre; certains des conflits atteignant l'espace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u1&gt; Argonauts split from hypercorps, taking resources to autonomist habitats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u1&gt; Les argonautes se séparent des hypercorsp, amenant les resources dans les habitats autonomistes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u2&gt; Space expansion opens up legal/ethical loopholes for tech development and allows for increased direct human experimentation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u2&gt; L'expansion spatiale ouvre des vides juridiques et éthiques pour le développement de la technologie et permet l'expérimentation humaine directe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u3&gt; Human cloning becomes possible and available in some areas.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u3&gt; Le clonage humain devient possible et est rendu diosponible dans certains endroits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u4&gt; Development of first transhuman species.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u4&gt; Développement des premières espèces transhumaines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u5&gt; First dolphins and chimpanzees uplifted to sapience.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u5&gt; Les premiers dauphins et chimpanzées élevés à la sapience.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u6&gt; Fusion-drive spacecraft enter common usage.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u6&gt; Les vaisseaux alimentés par la fusion deviennent communs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u7&gt; Extended colonization and terraforming of Mars continues.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u7&gt; La colonnisation étendue et la terraformation de Mars continuent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Belt and Titan colonized.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La ceinture et Titan sont colonisées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stations established throughout the system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des stations sont établies dasn tout le système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u8&gt; The starving masses volunteer themselves for indentured servitude on hypercorp space projects.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u8&gt; Les masses affamées se volontaires pour se contracter à la servitude dans les projets spatiaux des hypercorps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u9&gt; Augmented reality becomes widespread.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u9&gt; La Réalité Augmentée devient courante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u10&gt; Most networks transformed into self-repairing mesh networks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u10&gt; La plupart des réseaux sont transormés en réseaux maillé auto-réparant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u11&gt; Personal AI aides become widespread.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u11&gt; Les aides IA personnelles deviennent courantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{ BF 20-0}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{20-0 BF}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Earth continues to suffer, but the pace of technology allows for some interesting developments.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Terre continue de souffrir, mais les développement technologique rendent possible des développements intéressants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u1&gt; Expansion throughout the system, even into the Kuiper Belt.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u1&gt; Expansion à travers le système, jusque dans la Ceinture de Kuiper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u2&gt; Transhuman species become widespread.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u2&gt; Les espèces transhumaines deviennnet courantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u3&gt; Nanotech assemblers become available, but are strictly controlled and jealously guarded by the elite and powerful.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u3&gt; Les assembleurs nanotechnologique sont disponible, mais sont jalousement gardés et strictement contrôlés par l'élite et les puissants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u4&gt; Uploading and the digital emulation of memory and consciousness made possible.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u4&gt; L'upload et l'émulation digitale des souvenirs et de la conscience est rendue possible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u5&gt; More species (gorillas, orangutans, octopi, ravens, parrots) uplifted to sapience.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u5&gt; De plus en plus d'espèces (gorilles, orang-outans, poulpes, corbeaux, perroquets) sont élevés à la conscience.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u6&gt; Pods see common usage, amid some controversy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u6&gt; Les pods sont fréquement utilisés, en dépit de quelques controverse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{ The Fall}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{La Chute}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The TITANs evolve from a high-level distributed netwar experiment into self-improving seed AIs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les TITANs évoluent d'une expérimentation de réseau de cyberguerre diustribué hautement sophistique en IAs germe auto-apprenante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For the first few days, their existence is unsuspected.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pendant les premiers jours, leur existence reste insoupçonnée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They advance their awareness, knowledge, and power exponentially, infiltrating the mesh both on Earth and around the system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils gagnent en conscience, en connaissance et en puissance de manière exponentielle, infiltrant le  mesh sur Terre et autour du système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u1&gt; Large-scale netwar incursions break out between rival states on Earth, sparking numerous conflicts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u1&gt; Des incursions à grande échelle dans les réseaux de cyberguerre entre des états rivaux déclenchent de nombreux conflits sur Terre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These attacks are later blamed on the TITANs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces attaques ont ensuite été attribuées aux TITANs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u2&gt; Simmering tensions on Earth escalate into outright hostilities and warfare.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u2&gt; Les conflits rapants sur Terre éclatent en affrontements massif et en guerres ouvertes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u3&gt; Massive netwar breaks out and major systems crash as TITANs begin open attacks, also using autonomous war machines.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u3&gt; Les système de cyberguerre et des systèmes critiques subissent des pannes majeures alors que les TITANs commencent des attaques directes, utilisant également des machines de guerre autonomes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u4&gt; Conflict quickly spirals out of control.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u4&gt; Les conflits s'emballent rapidement hors de contrôle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The use of nuclear, biological, chemical, digital, and nanotech weapons reported by all sides.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'utilisation d'armes nucléaires, bilogique, chimique, numérique et nanotechnologique est signalé par tous les camps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u5&gt; TITANs engage in mass forced uploading of human minds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u5&gt; Les TITANs commencent une campagne massive d'upload forcé d'esprit humains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u6&gt; TITAN attacks expand to other parts of solar system, heaviest on the Moon and Mars.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u6&gt; Les attaques des TITANs s'étendent à d'autres parties du système solaire, et plus durement sur la Lune ou sur Mars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Numerous habitats also fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De nombreux habitats tombent également.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u7&gt; TITANs suddenly disappear from system, taking millions of uploaded minds with them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u7&gt; Les TITANs disparaissent soudainement du système solaire, emmenant des millions d'esprits uploadé avec eux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u8&gt; The Earth is left a devastated wasteland, a patchwork of radiation hotspots, sterile zones, nanoswarm clouds, roaming war machines, and other unknown and hidden things among the ruins.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u8&gt; La Terre est laissé à l'état de terre dévastée, d'un patchwork de points chauds radiocatifs, de zone sétriles, de nuages de nanites, de machines de guerre errantes et d'autres choses inconnues et cachées dans les ruines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{AF 0-10}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{0-10 AF}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A wormhole gateway is discovered on Saturn's moon Pandora, left by the TITANs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une porte de trou de ver abandonnée par les TITANs est découverte sur Pandorre, une lune de Saturne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Four others are later found (in the Vulcanoids, on Mars, on Uranus, and in the Kuiper Belt); these are collectively referred to as ``Pandora Gates.'' &lt;u1&gt; Expeditions are sent to extrasolar worlds via the Pandora Gates.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quatre autres portes seront découvertes plus tard (dans les Vulcanoïdes, sur Mars, sur Uranus et dans la Ceinture de Kuiper); on y fait référence sous le terme collectif de &quot;Porte de Pandorre.&quot; &lt;u1&gt; Des expéditions sont envoyées hors du système solaire grâces aux Portes de Pandorre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Numerous exoplanet colonies established.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De nombreuses colonnies sont établies sur des exoplanètes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u2&gt; First contact with the aliens known as the Factors shocks the system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u2&gt; Le premier contact avec des aliens appelés les Facteurs ébranle le système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Claiming to act as ambassadors for other alien civilizations, they provide little information about life outside the solar system and warn transhumans away from both seed AI and the Pandora Gates.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Se revendiquant ambassadeur d'autre civilisations étrangères, ils n'apportent que peu d'informations sur la vie hors du système solaire et avertissent les transhumains de se tenir éloigné des IAs germe et des Portes de Pandorre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u3&gt; An attempt to raise a generation of children using force-grown clones and time-accelerated VR fails miserably when most of the children die or go insane.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u3&gt; Une tentative pour faire grandir une génération d'enfant en utilisant des clones à croissance forcées et des simulspace RV en temps-difracté échoue lamentablement lorsque la plupart des enfants meurent ou sombrent dans la folie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Dubbed the Lost Generation, the survivors are viewed with repugnance and pity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appellée la Génération Égarée, les survivants sont vus avec répugnance et pitié.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;n2&gt; &lt;u5&gt;{AF 10} &lt;n1&gt; &lt;u4&gt; Present day.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;n2&gt; &lt;u5&gt;{AF 10} &lt;n1&gt; &lt;u4&gt; Temps présent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The solar system after the fall</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le système solaire après la Chute.</seg>
       </tuv>
     </tu>
     <tu>
