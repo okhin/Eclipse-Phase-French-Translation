@@ -2862,6 +2862,542 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Before the Fall, the solar system had a population of approximately eight billion, with all but five million of these people living on Earth.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Avant la Chute, le système solaire avait une population d'environ huit milliards de personnes qui, à l'exception de cinq millions d'entre eux, vivaient sur Terre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Fall wiped out almost ninety-five percent of transhumanity, and today the population of the solar system is slightly less than half a billion, with almost all of these transhumans living off the Earth.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Chute a détruit près de quatre vingt quinze pourcent de la transhumanité, et la population actuelle est un peu inférieurer à un demi milliard d'habitants, l'immense majorité de ces transhumains n'étant plus sur Terre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The lifestyles of these people were almost unimaginable thirty years earlier—the vast majority are immortals living in sealed habitats on hostile alien planets or in sealed space colonies, the largest of which hold more than a million inhabitants and are many kilometers long.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le style de vie de ces personnes était quasiment inimaginable trente ans plus tôt - la vaste majorité d'entre eux sont des immortels vivant dans des habitats étanche sur des planètes extraterrestre hostile ou dans des habitats spatiaux confinés, le plus grand d'entre eux abritant plus d'un million de personne et couvrant plusieurs kilomètres de long.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this vastly changed setting with its vastly changed inhabitants, the core concerns of humanity remain much the same.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce contexte immensément changé avec ses habitants immensément transformés, les préoccupatiosn principales de l'humanité restent plus ou moins les mêmes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>People seek both material abundance and social status, and they wrap themselves in various public and private ceremonies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les gens cherchent l'abondance matérielle et le statut social, et se drappent dans diverses cérémonies privées et publiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Like generations of humans before them, transhumans separate themselves into different cultures and subcultures, all of which enjoy a wide variety of physical and virtual entertainments.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme des générations d'humains avavnt eux, les transhumains se séparent en différentes cultures et sous-culture, toutes profitant d'une large gamme de loisirs physiques et virtuels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Politics and economics remain vitally important and as always, those who are wealthy, powerful, and famous have a large degree of control over the lives of those who are poor, relatively powerless, and unknown.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La politique et l'économie restent vitaux et, comme toujours, ceux qu sont riches, puissant et célèbre ont un degré de contrôle sur les vies de ceux qui sont pauvres, relativement impuissant et inconnus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transhumanity</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Transhumanité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Humanity as a concept has been replaced with transhumanity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'humanité est un concept qui a été remplacé par la transhumanité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most people now alive left Earth as infomorphs and were subsequently resleeved into new morphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>la plupart des gens vivants ont abandonnés la Terre à l'état d'infomorph et ont été ensuite réincarnés dans de nouvelles morphs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bodies are things that can be modified and replaced, much as someone can alter or exchange a suit of clothing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les corps dont des choses qui peuvent être modifiés et remplacés, de la même manière que l'on peut modifier ou changer ses vêtements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Identity is centered in the mind, which can exist as a disembodied infomorph living in virtual worlds or dwelling in a vast array of strange and exotic morphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'identité est centrée sur l'esprit qui peut exiser en tant qu'infomorph désincarnée vivant dans des mondes virtuels ou habitant une vaste gamme de morphs étranges et exotiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While there are bioconservatives who resist these many changes to identity and physicality, they are very much in the minority.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien qu'il y ait des bioconservateurs qui résistent à ces nombreux changements identitaire et physique, ils restent une trés petite minorité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To most people, transhumanity has also been expanded in scope to factor in non-human persons such as AGIs and uplifts, though the rights and status of these sentients is sometimes contested.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour la plupart des gens, la transhumanité s'est également étendu pour inclure des personnes non-humaines telles que les IAG et les élevés, bien que les droits et le status de ces conscients soit quelquefois contesté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As transhumans continue to absorb the ramifications of this new way of life, they face a new crop of problems and issues.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que les transumains continuent d'absorber les ramifications de cette nouvelle façon de vivre, ils font face à un nouveau lot de problèmes et d'ennuis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Two of the largest and most important are the increase in inequality and the splintering and separation of transhumanity into many different clades.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Deux des plsus importants problème sont l'augmentation des inégalités et l'éparpillement et la séparation de la transhumanité en différentes cliques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Inequality}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Inégalité}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The technologies first developed in the decade before the Fall and refined in the decade after its end have transformed humanity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>le stechnologies qui ont d'abord étés développés pendant la décennie précédant la Chute et développées après ont transformée l'humanité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In all but the most backwards, impoverished, and repressive regions of the solar system, the vast majority of humanity is smarter, healthier, and richer than any humans have ever been.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Globalement, à l'exception des zones du système solaire les plus reculées, pauvres et répressives, la vaste majorité de l'humanité est plus intelligente, en meilleure santé et plsu riche que les humains ne l'ont jamais étés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additionally, individuals can improve their minds and their bodies in almost any fashion their imaginations can dream up.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De plus, les individus peuvent améliorer leur esprits et leurs corps de toutes les manières auxquelles ils peuvent penser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Those who can afford the right augmentations can think faster, never forget anything they have ever learned, become mathematical savants, and heal from injuries many times faster than an unmodified human.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ceux qui peuvent s'offir les bonnes augmentations peuvent penser plsu vite, ne jamais oublier ce qu'ils ont apprit, devenir des expert en maths et guérir des blessures beaucoup plus rapidement qu'un humain non modifié.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When resleeving is combined with implants, transhumans can gain even more amazing capabilities—but these benefits are far from free.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque la réincarnation est combinée avec des implants, les transhumains peuvent accéder à des possibilités encore plus étonnantes - mais ces bénéfices sont loin d'êtres gratuits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>During the first decade after the Fall, most of the surviving population was relatively poor.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pendant la première décennie après la Chute, la plupart des survivants étaient relativement pauvres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many were grateful to have any morph at all.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beuacoup étaient reconnaissant d'avoir eu une simple morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While the economic situation has improved, significant inequalities remain and seem unlikely to change.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que la situation économique s'est améliorée, des inégalités significatives restent et ne semblent pas prþe de changer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hundreds of millions of people must make do with very basic splicers (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des centaines de millions de personnes doivent faire avec les basiques splicers (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>139), worker pods (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>139),pods ouvrier (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>142), cases (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>142), boîtiers (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>143), or synths (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>143) ou synthétiques (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>143), while a few million are wealthy enough to have custom-designed morphs created for them, complete with all the augmentations they desire.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>143), alors qu'un petit millions sont suffisament riches pour avoir des morphs sur mesure créées spécialement pour eux, complétée avec toutes les augmentations qu'ils veulent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These same members of the elite live in luxurious villas and mansions, and in a few cases privately-owned asteroids, while most other people must make do with a few hundred cubic meters of dwelling space.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces mêmes membres de l'élite vivent dasn des villas et des manoirs de luxe voire, dans certains cas, des astéroïdes privés, alors que la plupart des gens doivent habiter dans une centaine de mètres cubes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, while inequities of living space are ancient, the issue of economic inequality producing inequities of physical and mental capacities is both relatively new and considerably more problematic.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant et alors que les inégalités de l'espace vital sont ancienne, les problèmes des inégalités économique produisent des inégalités des capacités physiques et mentales esont à la fois relativement récents et considérablement plsu problématiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In regions using the old and transitional economies (see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les réiosn qui utilisent l'ancienne économie ou une économie de transition (voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>61), differences between the rich and the poor are expressed in terms of money.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>61), les différences entre les riches et les pauvres s'expriment en terme d'argent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In habitats using the new economy (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les habitast utilisant une nouvelle économie (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>62), wealth is meaningless and status and opportunity are denoted with reputation scores.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>62), la richesse n'a pas de sens et le statut et l'opportunité sont not notés avec des scores de réputation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In all three economies, some people have more than others, and because of this, technology allows the better off to be better than the people around them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les trois modèles économiques, des personnes en possèdent plus que d'autres, et à cause de ça, la technologie permet aux plus forts d'être encore plsu fort que lesgens autour d'eux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Skillware lets people buy knowledge and expertise, while multi-tasking and mental speed implants allow individuals to get more done at once.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les logiciels de compétence permettent aux personnes d'acheter connaissance et expertise, alors que le multi-tâche et les implants améliorant la vitesse de réflexion permettent aux individus d'accomplir plus de choses à la fois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Someone fortunate enough to acquire large numbers of such augmentations is capable of significantly more than someone who lacks them, and so can do even more to increase their money or rep, thus serving to further perpetuate inequality.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelqu'un de suffisamement fortuné peut acquérir un grand nombre de ces augmentations et, de manière significative, est capable de faire plsu de choses que quelqu'un qui ne dispose pas de ces facilités, ils peuvent donc augmenter encore plus leurs capitaux ou leur réputation, ces ugmentations permettant de propager les inégalités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This problem is less serious in the reputation-based economies of the outer system, however, as it significantly easier to build reputation through hard work and dedication, as opposed to the rigidly-controlled monetary economies of the inner system and the Jovian Republic, where class stratification is institutionalized and upward mobility is largely a myth.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce problèùe est moins grave dans les sytèmes économiques réputationnels du système extérieur car il est beaucoup plus simple de se construire une réputation grâce à un travail acharné, contrairement aux systèmes économiques rigides contrôlés par l'argent du système intérieur et de la République jovienne, où la stratification en classe est institutionnalisée et où l'ascenssion sociale est essentiellement un mythe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As many supporters of the status quo are fond of pointing out, even the “have-nots” are smarter and healthier than any previous generation of humans and carry as much potential immortality as the wealthiest member of the elite.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme beaucoup d'adpetes du status quo aiment à le montrer, même les &quot;dépossédés&quot; sont plsu intelligent et en meilleure santé que n'importe quel humain de la génération précédente et dispose du même poteentiel d'immortalité que les membres de l'élite les plus riches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is equally true, however, that in many ways the divisions between rich and the poor are significantly greater than they have ever been, especially in the inner system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il est également vrai que de bien des manièrs la frontière entre les riches et les pauvres est significativement plsu importante que ce qu'elle n'a jamais été, plsu particulièrement dans le système intérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the past, the members of the elite might be somewhat healthier and better fed than the have-nots, but both rich and poor still lived in relatively similar and fundamentally human bodies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par le passé, les membres de l'élite pouvaient être en meilleure santé et mieux nourris que les pauvres, mais les riches et les pauvres vivaient dans des corps humains fondamentalement identiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now, the very nature of humanity has been called into question.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Maintenant, la nature même de l'humanité est remise en question.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The least fortunate can be forced to inhabit bodies designed specifically for the pleasure of those wealthier than them or even denied any body and forced to live as infomorphs until they can find some way to acquire a new morph—typically by selling their services to the highest bidder.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les moins fortunés peuvent être forcés d'habiter ds corps conçus spécifiquement pour le plaisir des plus riches qu'eux ou se voir refuser un corps et obligés de vivre en tant qu'infomorphs jusqu'à ce qu'ils puissent trouver une manière d'acquérir une nouvelle morph - typiquement en vendant leurs services au plsu offrant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Meanwhile, the well-off can customize their bodies and their minds, enabling them to accomplish far more and to be considerably more impressive and charismatic than anyone lacking their advantages.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans le même temps, les bien nés peuvent personnaliser leu corps et leur esprit, les rendants capables d'accomplir bien plus et d'être considérablement plus impressionant et charismatique que quiconque ne dispose pas de leur avantage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These inequalities may seem insurmountable, but some anarchistic groups and even some entire habitats have dedicated themselves to reducing inequities by producing low cost (and occasionally highly unreliable) versions of many of the more impressive morphs and augmentations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces inégalités peuvent sembler insurmontbal, mais certains groupuscules anarchistes et mêmr des habitats entiers se sont dédiés entièrement à la réduction des inégalités en produisant des versions à bas coûts (et parfois absolument pas fiable) de bon nombre des morphs et augmentations les plus impressionantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Clades and separation}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Cliques et séparations}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In many habitats, hyper-augmented elites rule a mass of humanity that is stuck using low-end morphs and minimal augmentations, or even infomorphs living in rented morphs, but this is not the only option found in the solar system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans de nombreux habitats, les élites hyper-augmentées dirigent la masse de l'humanité qui est forcée à utiliser des morphs bas de gamme et des augmentations minimales, ou même à l'état d'infomorph vivant dasn des morphs louées, mais ce n'est pa las eule option dans le système solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transhumanity has splintered into a wide variety of subcultures, some of which are based upon an individual's choice of morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La trasnhumanité s'est fragmentée en une vaste gamme de sous-culture, certaines étant basées sur le choix de morph des individus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some of this separation is due to the necessity of inhabiting difficult environments.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une partie de ces sépration est due à la nécessité d'habiter dans des environnements difficile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>From aquanauts living in Europa's aquatic environment or rusters on Mars to the fact that zero-g habitats are relatively inexpensive and are best inhabited by microgravity-adapted morphs like bouncers, many unusual environments require those living in them to choose from a very limited range of morphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des aquanautes vivant dans l'environnement principalement aquatique d'Europe aux rusters de Mars en passant par le fait que les habitats en zéro-g sont relativement courant et sont abités en général par des morphs adaptées aux micro-gravité comme les bouncers, beaucoup d'environnements inhabituels nécessitent que ceux qui y vivent doivent choisir dans une gamme de morph limitées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sometimes, though, this separation is ideological in nature, such as the rise of groups like the ultimates (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des fois, cependant, cette séparation est idéologique par nature, telles que l'évènement de groupes comme les ultimes (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>82) or some of the separatist uplift communities that seek to define their own space separate from human cultures.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>82) ou quelques unes des communautés d'élevés spérationnistes qui cherchent à définir leur propre espace, séparé des cultures humaines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are dozens of specialist morphs and an even greater number of habitats or other settlements that are inhabited largely or exclusively by individuals using a single type of morph or a limited number of specialist morphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a des douzaines de morphs spécialisées et un nombre encore plus grand d'habitats ou d'autres établissements qui sont habités majoritairement ou exclusivement par des individus utilisant un seul type de morph ou un nombre limité de morph spécialisées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the asteroid belt and in the rings and smaller moons of Saturn, there are more than one hundred habitats that do not rotate, with all portions in zero or near-zero gravity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans la ceinture d'astéroïdes et sur le splus petites lunes et dans les anneaux de Staurne, il y a plus du'ne centaine d'habitat qui ne tournent pas et dont toutes les parties sont en gravité zéro ou proche de la gravité zéro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The inhabitants typically use bouncer or novacrab morphs, along with a small number of synthetic morphs and other pods.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Typiquement, les habitants utilisent les morphs bouncer ou de novacrabe, en même temps qu'un petit nombre de morphs synthétique et d'autres pods.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There is also a vast number of other habitats that are segregated in various other ways, including ones where all permanent residents are uplifts inhabiting one of the various transgenic morphs, like the octomorph or neo-avian morphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a également un grand nombre d'autres habitats qui imposent des ségrégations de différentes manières, incluant ceux dans lesquels les résidents sont des élevés habitants l'une des nombreuses morphs transgénique, telles que l'octomorph ou les morphs néo-aviaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other habitats are only open to residents with various enhanced morphs like exalts or mentons.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres habitats ne sont ouvert qu'aux résidents possédant certaines morphs améliorées telles que les mentons et les exaltés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are even habitats where all residents must inhabit morphs that are all clones of one another.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a même des habitats où tous les résidents doivent habiter des morphs qui sont toutes des clones d'une autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In almost all of these habitats, residents are free to add whatever augmentations they wish to their morphs, but some habitats forbid residents from changing their morph's external appearance, and individuals who violate this rule are forced to leave the habitat if they refuse to reverse these changes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans la plupart de ces habitats, les résidents sont libre d'ajouter les augmentations qu'ils veulent à leur morph, mais certains habitats interdisent aux résidents de changer l'apparence externe de leur morph, et les individus qui violent cette règle sont forcés de quitter l'habitat si ils refusent d'annuler ces changements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some habitats do away with the necessity of both life support and gravity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains habitats ne se préoccupent même plus du support vital et de la gravité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In these locations, all residents are infomorphs who either inhabit their own synth bodies or, in a few very eccentric cases, where all of the inhabitants are infomorphs who spend most of their existence in the habitat's central computers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ces endroits, tous les habitantssnt des infomorphs qui habitent soit dans leur propre corps synthétique soit, dans certains cas excentriques, tous les habitants sont des infomoprhs qui passent la plupart de leur existence dans les ordinateurs centraux de l'habitat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When they need to interact with the physical world, these infomorphs are free to use one of the many synthmorphs that the habitat owns and that the residents share among themselves.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsqu'ils ont besoin d'interagir avec le monde physique, ces infomorphs sont libres d'utiliser l'une des nombreuses synthmorphs que possède l'habitat et que les habitants se partagent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Although considered quite eccentric to many and horrifying to bioconservatives, habitats inhabited solely by synthmorphs or infomorphs are among the least expensive to build and maintain and are a low-cost way for groups of infomorph refugees from Earth to gain independence.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que considérés comme excentrique par beaucoup et avec horreur pour les bioconservateurs, des habitats habités uniquement par des synthmorphs ou des infomorphs sont parmi les moins cher à construire et à maintenir et sont une manière pour les groupes d'infugies d'obtenir l'indépendance à moindre coût.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Because individuals who choose this way of life have often spent a decade or more as infomorphs, this option often seems both familiar and in many ways more comfortable than inhabiting a living morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme les individus qui choisissent ce mode de vie ont souvent passé des décennies ou plus en temps qu'infomorph, cette option semble à la fois familière et plus confortables par de nombreux aspect que d'habiter une morph biologique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As Earth becomes more distant in transhumanity's collective memory, its traditions and social norms hold less sway and people feel more free to create and use new bodies and new ways of life to go along with them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que la Terre devient de plus en plus distante dans la mémoire collective de la transhumanité, ses traditions et normes sociales ont moins d'impact ey les gens se sentent plus libre de créer et d'utiliser de nouveaux corps et de nouveaux modes de vie pour aller avec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
