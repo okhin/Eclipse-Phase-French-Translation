@@ -5366,6 +5366,726 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Going beyond the known}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Aller au delà du connu}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>One of the oddest experiences for gatecrashers and others who explore unusual environments such as the ruins of Earth is the unavailability of data.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'une des expérience les plus étranges pour les resquilleurs et ceux qui explorent des environnements inhabituels telles que les ruines de la Terre est l'absence de données.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They look at an alien plant or a TITAN-mutated person, and their search returns various error messages meaning that there is either no data at all on the subject or that the only data is purely speculative and should be regarded as dangerously unreliable.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils regardent une planète étrangère ou une personne mutée par les TITANs, et leur recherche leur renvoie différents messages d'erreurs signalant qu'il n'y a soit pas de donnée du tout sur le sujet ou que les seules données sont purement spéculative et doivent être considérées comme dangereusemtn pas fiable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This can be especially troubling when the subject in question is a small creature that has just landed on the person's shoulder and the individual wants to know if it's harmless or deadly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela peut-être particulièrement génant lorsque le sujet en question est une petite créature qui vient de se poser sur l'épaule de la personne et qu'il veut savoir si elle est mortelle ou inoffensive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most people who are less than sixty years old have never been in an environment where they could not gain basic information about everything around them at a glance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des gens qui ont moins de soixante ans n'ont jamais été dans un environnemetn où ils ne peuvent pas obtenir d'informations de base sur un sujet en un instant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Learning to overcome the shock of not knowing anything at all about something is one of the first and most crucial skills all gatecrashers must learn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Apprendre à dépasser le choc de ne rien savoir à propos de quelque chose est l'une des premières compétences que tout les resquilleurs doivent apprendre, et probablement la plus cruciale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most individuals have a dedicated AI that serves as their media agent.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des individus ont une IA dédiée qui leur sert d'agent de média.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Commonly known as a muse, this AI has been a lifelong companion for most people less than seventy years old.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Communément appellée muse, ces IA sont des compagnons de toute une vie pour la majorité des personnes de moins de soixante dix ans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Muses learn their owners' tastes, habits, and preferences, and do their best to make life and technology use as easy as possible.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les muses apprenenet les goûts, les habitudes et les préfrences de leur propriétaire, et elles font de leur mieux pour leur simplifier vie et l'utilisation de la technologie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Muses can be alarm clocks, data retrieval gophers, appointment schedulers, accountants, and many other functions often limited only by their owners' imaginations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les muses peuvent être des réveils, des fouines de récupération de données; des planificateurs de rendez-vous et des quantités d'autres fonctionnalités généralemetn limitée uniquement par l'imagination de leur propriétaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some of their tasks do not even need to be assigned them—muses are skilled at figuring out people's needs and acting on them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il n'est même pas nécessaire de leur assigner toutes leurs tâches - les muses savent anticiper les besoin des gens et agir en fonction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, the muse's scheduling function may tell it when its user needs to be up in the morning, and it will act as an alarm clock without any additional instructions from the user.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, la fonction de planification d'une muse peut lui signaler lorsque leur utilisateur doit être réveillé le matin et elle agira comme un réveil sans instructions additionelle de l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a muse is uncertain about its owner's preferences, it asks, but after working with a user for a few decades muses rarely need to do this.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si une muse n'est pas certaines des préférences de son propriétaire, elle demande, mais après avoir travaillé avec l'utilisateur pendant quelques décennies, les muses ont rarement besoin de le faire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most people keep multiple back-ups of their muse, because the loss of a muse can be almost as traumatic as the death of a loved one.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup de gens conservent de nombreuses sauvegardes de leur muse, car la perte de celle-ci peut être aussi traumatisante que la mort d'une personne aimée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Using a generic muse who must be informed about all aspects of a user's individual preferences and fed a constant stream of instructions helps people appreciate the value of their own personal muse agent.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Utiliser une muse générique qui doit être informée de tous les aspect des préférences individuelles de l'utilisateur et alimentée avec un flux constant d'instruction permet aux personnes d'apprécier la valeur de leur propre muse personnelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Muses generally learn the basics of a new user's preferences in a month or two, but during that learning period the user tends to be irritable and forgetful, since the tasks they generally trust their muse to do automatically are not being taken care of.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les muses apprenent généralement les préférences basique d'un nouvel utilisateur en un mois ou deux, mais pendant cette phase d'apprentissage l'utilisateur a tendance à être irritable et distrait, puisque les tâches habituellement traitées automatiquement par leur muse ne sont pas faites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Attitudes towards AGIs}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Attitude envers les IAGs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The vast majority of transhumanity blames the Fall on rogue seed AIs (self-improving artificial intelligences).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La vaste majorité de la transhumanité accusent des IAs germe (intelligence artificielle auto-améliorantes) renégates d'être responsable de la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a result, any AIs that are not crippled or somehow limited from improving themselves—including the AGIs (artificial general intelligences) that were common and growing in number before the Fall—are completely illegal in many habitats, or at least heavily regulated.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De fait, toute IA qui n'est pas handicapée ou d'une manière ou d'une autre limitée dans ses capacités d'auto améliorations - incluant les IAGs (intelligence artificielle généraliste) qui étaient communes et en nombre croissant avant la Cute - sont complètement illégale dans de nombreux habitats, ou du moins lourdement régulées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Fall ended only slightly more than a decade ago, and many transhumans consider AGIs and the TITANs that murdered their homeworld to be one and the same.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Chute s'est terminé il y a à peine plus d'une décennie, et beaucoup de transhumains considèrent les IAGs et les TITANs qui ont assassiné leur monde natal comem étant une seule et même chose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In addition to strict anti-AGI laws, there have been occasional riots and mass panics surrounding facilities still performing AGI research, which has pushed most such research into isolated settlements.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En plus des lois anti-IAGs extrêmement strcitces, il y a occasionnellement eu des émeutes et des paniques massives autour de labortaoire effectuant toujours des recherches sur les IAGs, qui ont forcé la plupart de ces recherches à s'installer dans des abris isolés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nevertheless, there are still people passionately devoted to AGIs; some see them as the next step in posthuman evolution, others value all sentience, and still others actually worship them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Néanmoins, il y a toujours des personnes dévoués avec passion aux IAGs; certains les voient comme la prochaine étape de l'évolution posthumaine, d'autres apprécient tout les sensibilités et d'autres les vénèrent comme des dieux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, AGI supporters have learned to keep their opinions private in mixed company, lest they be branded an agent of the TITANs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les partisans des IAG ont cependant appris à garder leurs opinions pour eux, à moins de se retrouver marqués comme un agent des TITANs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In some spots, mostly in the more anarchistic outer system, attitudes towards AGIs are more relaxed and AGIs may even be openly welcomed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A quelques endroits, principalement dans les zones les plus anarchistes du système extérieur, les comportements vis à vis des AGIs sont plus détendus et elles peuvent même être ouvertement accueillies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These places recognize that AGIs are not the same threat posed by seed AIs and it is unfair to punish one for the actions of the other.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces encroits reconnaissent que les IAGs ne posent pas les mêmems menaces que les IAs germe et qu'il n'est pas juste de punir les uns pour les actions des autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Naturally, these places are havens for the AGIs active in transhuman society, who otherwise must disguise their true natures.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Naturellement, ces endroits sont des refuges pour les IAGs actives dans la société transhumaine, qui doivent sinon dissimuler leur nature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the tightly-controlled inner system, the hypercorps and the Planetary Consortium foster anti-AGI sentiments both as safety measures and as protection against possible competitors.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans le système intérieur étroitement surveillé, les hypercorp et le Consortium Planétaire encourage  les sentiments anti-IAGs à la fois comme mesure de sécurité et comme protection contre de possibles compétiteurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This latter point is one of the things that makes them attractive to some people in the outer system; they understand the great advantages their factions gain ... assuming, that is, that those AGIs share your goals and ideals.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce dernier point est l'une des choses qui les rends attractives pour certaines personnes dans le système extérieur; ils comprennent l'avantage conséquent que gagne leur faction ... en supposant, bien entendu, que ces IAGs partagent leur buts et intérêts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Attitudes towards mental alterations}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Attitude vis à vis des altérations mentales}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the post-Fall solar system, technology can alter people's minds; controversy about many of these alterations remains.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans le système solaire post-Chute, la technologie peut altérer l'esprit des gens; des controverses à propos de ces altératiosn persistent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Few people have trouble with the idea of creating short-term forks using the multi-tasking augmentation or some similar process that insures the forks will be re-integrated within a few hours.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Peu de personnes ont des problèmes avec l'idée de créer des forks à court-terme utilisant une augmentation de multi-tâche ou des processuss similaires qui assurent que les forks seront réintégrés en quelques heures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, the idea of long-term forks, and especially of allowing forks to gain access to their own separate morphs, troubles many people.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, l'idée de fork à long-terme, et plus particulièrement d'autoriser les forks à avoir accès à leur propres morphs séparée, perturbe beaucoup de gens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since there are not enough morphs to go around in the first place, providing morphs to a fork strikes many people as selfish and wasteful.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Puisqu'il n'y a pas assez de morph pour que tout le monde en profite, fournir des morphs à un fork marque les gens comme étant égoïstes et gaspilleurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a result, on the rare occasion that people sleeve one of their forks, they typically provide it with a synthmorph to avoid the social stigma associated with using more than one body at a time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En conséquence, pour les rares cas où les personne incarnent un de leurs forks, ils lui fournissent typiquement une synthmorph pour éviter le stigmate social associé au fait d'utilsier plusieurs corps à la fois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Forks that exist for more than a few hours inspire discomfort in many people because the forks begin to diverge slightly in personality.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les forks qui existent pour plus de quelques heures rendent les gens mal à l'aise car ils commencent à diverger légèrement de leur personnalité d'origine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most people find the idea of two different and distinct versions of themselves to be somewhat disturbing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup de personnes trouvent quelque peu dérangeante l'idée d'avoir deux versions différentes et distinctes d'eux même.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While there are habitats (mostly in the outer system) where forking is a regular part of daily life and forks often exist independently for a day or two, most visitors find such habitats distasteful and bizarre.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien qu'il y ait des habitats (essentiellement dans le système extérieur) où forker est une part importante de la vie quotidienne et où les forks existent souvent indépendamment pour un jour ou deux, la plupart des visiteurs trouvent ce genr d'habitats désagréable et bizarre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, while voluntary forking is still regarded as somewhat odd, involuntary uses of this and the associated mental technologies are so horrifying that they form the basis of much lurid crime fiction.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependat et alors que le fork volontaire est toujours perçu comme quelque chose d'étrange, les utilisations involontaire et les technologies mentales associées sont tellement horrible qu'elles forment la base de la littérature criminelle la plus atroce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Someone being unknowingly mind-napped and having an involuntary—and often secret—fork created is something that people regard with abject terror, despite it being quite rare.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelqu'un connu pour avoir étét involontairement mind-nappé et qui possède un fork involontaire - et souvent secret -est quelque chose que les gens considèrent avec une terreur abjecte, même si cela reste relativement rare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Similarly, while mental surgery to correct psychiatric problems or as punishment for various serious crimes is frightening and disturbing in its own right, illegal brain hacking draws horror and disgust from almost everyone in the solar system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, alors que la chirurgie mentale utilisée pour corriger des problèmes psychiatrique ou comme punition de divers crimes graves reste effrayante et dérangeante mais communément accepté, le piratage cognitif illégal déclenche horreur et dégoüt de presque tout le monde dans le système solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Penalties for involuntary forking and mind hacking are exceptionally high.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les condamnations pour le fork forcé et le piratage cognitif sont exceptionnellement élevées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In many habitats, they are among the few crimes punishable by death (including the destruction of all backups and forks).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans de nombreux habitats, il font partis des rares crimes qui amènent à une condmanation à mrot (incluant la destruction de tous les forks et suavegardes connus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Travel}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Voyage}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Travel between habitats and other transhuman colonies is both exceedingly easy and fairly costly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le voyage entre les habitats et d'autres colonnie transhumaine est à la fois excessivement facile et extrêmement cher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Longrange egocasting is expensive, as is acquiring a morph at the destination.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'egocasting à longue portée est cher, de même que l'acquisition d'une nouvelle morph a destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Travelers have developed various ways around this obstacle; for example, if someone only needs to visit another habitat for a few days and is visiting primarily to engage in real-time communication, they often choose to remain an infomorph for the duration of their visit and to communicate via AR, thus saving all resleeving expenses.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les voyageurs ont développé différente façon pour contourner cette obstacle; par exemple, si quelqu'un n'a besoin de visiter un habitat que pour quelques jours et qu'il el fait essentiellement pour commencr des conversations en temps réel, il choisira souvent de rester en infomorph pour la durée de la visite et de communiquer par RA, s'économisant ainsi les dépenses de la réincarnation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For visitors who require a morph but will not be staying long, most habitats offer the option of renting a generic splicer or synthmorph or, for a slightly higher cost, a generic exalt morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour les visiteurs qui ont besoin d'une morph mais qui ne resterons pas longtemps, beaucoup d'habtitas proposent l'option de louer une morph générique type splicer, une synthmorph ou, pour un prix un peu plus élevé, une morph générique exalt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Habitats or worlds with unusual requirements, like Mars, Europa, or the various zero-g habitats offer ruster, aquanaut, or bouncer morphs instead of splicers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les habitats ou les mondes avec des prérequis inhabituel, tels que mars, Europe ou les différents habitats en zéro-g, offrent des morphs ruster, aquanautes ou bouncer au lieu des splicers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These morphs can be used for up to a week without much difficulty, and using one for up to a month is usually possible with sufficient negotiation and payment.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces morphs peuvent être utilisée pendant une semaine sans trop de difficulté, et en profiter pou un mois complet est généralement possible avec suffisament de négociations et de paiement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Meanwhile, the traveler's previous morph is kept in medical stasis back in their home habitat, waiting for their ego to return.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pendant ce temps, la morph précédente du voyageur est gardée en stase médicale dasn son habitat d'origine, attendant que l'ego revienne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Another technique is morph trading by people from different habitats who know each other and who are traveling at the same time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une autre technique est d'échanegr sa morph avec quelqu'un d'un autre habitat que l'on connaît et qui voyage pendant ce temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few people do this with strangers they meet on the mesh, but vids and other entertainments are filled with tales of people having their morphs or their identity stolen.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De rares personnes le font avec des étrangers rencontrés sur le mesh, mais les vids et d'autres divertissements sont pleins de légendes de personne ayant zeu leur morph ou leur identité volé de cette façon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few of these horror stories are based on actual accounts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques une de ces histoire d'horreur sont basées sur des faits réels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Very few people are willing to let anyone they do not know and trust use their body, and many people simply will not lend out their morph to anyone at all.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Très peu de gens sont prêt à laisser n'importe quel inconnu utiliser leur corps, et beaucoup de gens ne préterons jamais leur morph à quiconque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some people, however, are willing, for a fee, to act as a living “taxi” for a visiting infomorph, carrying it around with them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques personnes sont cependant volontaire, contre rémunération, à servir de &quot;taxi&quot; vivant pour une infomorph de passage, les emmenant avec eux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In these cases the “ghostriding” infomorph is not permitted to control their host's morph directly and is simply a passenger along for the ride, issuing directions and communicating with their transporters electronically.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, l'informorph &quot;ghost-rider&quot; n'as pas l'autorisation de contrôler la morph de leur hôte directement et est simplement un passager embarqué pour la balade, donnant les directives et communiquant avec leurs chauffeurs électroniquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Travelers who wish to either immigrate to a new habitat or visit one for several months or longer must acquire their own morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les voyageurs qui veulent soit immigré vers un nouvel habitats ou en visiter un pour plusieurs mois ou plus doivent acquérir leur propre morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Usually, they reduce the cost of acquiring a new morph by selling their previous morph to a body bank.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Habituellement, ils réduisent le coût de l'acquisition d'une nouvelle morp en vendant l'ancienne à une banque de corps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alternately, some individuals sleeved in expensive custom-designed morphs who are traveling relatively short distances will rent a generic shell for several weeks and arrange to have their old morph shipped to them on a fairly rapid freighter.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alternativement, certains individus incarné dans des morphs trés chères et conçues sur mesure et qui voyagent sur des distances relativement courte louent une coque générique pendant quelques semaines et s'arrange pour que leur vieille morph leur soit expédiée par un transport rapide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Doing this is rarely more than a moderate expense, which makes it less expensive than the costs of buying or replacing high-end custom modified morphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Procéder ainsi est rarement au delà d'une dépense modérée, ce qui rend la procédure moins chère que l'achat ou le remplacement d'une morph haut-de-gamme et sur-mesure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Privacy}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Vie privée}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Privacy is a prized possession for most inhabitants of the solar system, but it is so rare that for many people it might as well be a foreign concept.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La vie privée est un bien hors de prix pour la plupart de shabitants du système solaire, mais il est tellement rare que pour beaucoup de personne c'est un concept étranger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the 20th and early 21st century, privacy consisted of two concepts that are now completely separate—the ability to remain unnoticed or anonymous and the ability to avoid unwanted intrusion.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pendant le 20° et au début du 21° siècle, la vie privée consistait de deux concepts actuellement complètement séparés - la possibilité de rester anonyme ou de ne pas se faire remarquer et la possibilité d'éviter les intrusions non désirées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The first is largely absent from the lives of most people in the present day.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le premier est largement absent de la vie des gens d'aujourd'hui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Anyone who uploads anything to a non-private portion of the mesh understands that anyone who wishes to do so can gain access to it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quiconque qui uploade quelquechose depuis une partie non-privée du mesh comprend que tout le monde qui voudrait faire pareil a les moyens de le faire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, anyone who spends time in a public place understands that anyone can learn where they went, what they did, and what they said due to the ubiquity of meshed, sensor-enabled devices.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, quiconque qui passe du temps dans un lieu public comprend que n'importe qui peut savoir où ils sont allés, ce qu'ils ont fait et ce qu'ils ont dit en raison de l'ubiquité des périphériques meshés possédant des capteurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a result, everyone's public life, both on the mesh and in person, can be transformed into an easily searchable database.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La vie publique de tout un chacun, à la fois sur le mesh et en personne, est devenue une base de donnée facilement analysable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Almost everyone keeps such a record of their own lives, commonly known as a lifelog.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A peu près tout le monde conserve un tel enregistrement de leur propre vie, communément appelé un lifelog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most people allow their lifelogs to be public, understanding that anonymity is now an archaic concept.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des personnes rendent leur lifelog public, comprenant que l'anonymat est maintenant un concept archaïque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Solarchive search: incapacitating inputs&lt;/i0&gt; During the Fall, the attacking TITANs used a variety of AR and online intrusions that interfered with or even incapacitated their targets.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Recherche solarchive: entrées incapacitantes &lt;/i0&gt; pendant la Chute, les TITANs ont utilisé toute une variété d'intrusions RA et en-ligne qui ont interféré avec ou ont incapacité leur cibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The most basic of these were deceptive AR illusions made to convince people that their physical environment was very different from what it actually was.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les plus basiques étaient des illusions RA faites pour convaincre les gens que leur environnement physique était trés différent de ce qu'il était réellement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This fooled people into attacking their fellows or simply instigated mass panic.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela a trompé les victimes et les a fait attaquer les leurs ou a plus simplement déclenché des paniques massives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More advanced versions targeted the empathic elements of AR, triggering fear or other emotional responses.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des versions plus avancés ont ciblés les éléments empathiques de la RA, déclenchant la peur ou d'autres réponses émotionnelles/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Still others blasted their targets with overbearing sensory input, so strong that it bypassed filters and inflicted neurological damage.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres encore ont anéantis leur cible avec des entrées sensorielles insupportables, tellement puissantes qu'elles ont dépassés les filtres et infligés des dégâts neurologiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Despite rumors and fears of socalled “basilisk hacks”—visual or other sensory-input attacks that allegedly subverted transhuman minds by exploiting the way brains processed such data—no credible reports have been verified.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En dépit des rumeurs et des peurs des exploits baptisés &quot;exploit basiliques&quot; - des attaques basés sur la vue ou d'autres entrées sensorielles qui auraient subvertis les transhumains en exploitant la manière dont le cerveau traduit ces données - aucun rapport crédible n'a pu être vérifié.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While the interiors of private dwellings remain free from continuous surveillance, almost all habitats have emergency sensors in every building providing a full record of events to emergency service workers and AIs in case of problems such as dangerous chemical leak, a sufficiently large fire, an explosion, loss of air pressure, or some other equally dramatic and potentially dangerous event.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que l'intérieur des habitations privées reste libre de la surveillance continue, presque tous les habitats ont des capteurs d'urgence dans chaque bâtriment leur fournissant un enregistrement complet des évènements aux services d'urgences en cas de problèmes tels que des fuites de produits chimiques dangereux, un incendit suffisament grand, une explosion, une dépression atmosphérique ou d'autres évènement potentiellement danegreux et dramatiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Both the events of the Fall and the fact that almost all of humanity now lives in habitats surrounded by hostile environments mean that such sensors are standard fare.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les évènement de la Chute et le fait que pratiquement toute l'humanité vit maintenant dans des habitats entouré par un environnement hostile font que de tels capteurs sont un standard universel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few habitats do not allow emergency sensors in private dwellings, but most people regard these habitats as potential death traps.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques habitats n'autorisent pas les cpateurs d'urgence dans les domiciles privés, mais la plupart des personnes le sconsidèrent comme des pièges mortels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These emergency sensors do not record anything other than the absence of potential dangers if they are not triggered by specific events.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces capteurs d'urgence n'enregistrent rien d'autre que l'absence de danger potentiel tant qu'ils ne sont pas déclanchés par des évènements spécifiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This limitation allows individuals privacy within their own residences—as long as they are certain no one has planted a secret recording device in their home.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette limitation permet aux individus de préserver leur vie privée dans leur propre résidence - tant qu'ils sont certains que personne n'a introduit un périphérique d'enregistrement dans leur maison.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ultimately, remaining unobserved is a matter of both care and trust, and everyone understands that most of the time everything they do will be part of the vast public record.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au final, demeurer non observé est une question à la fois d'attention et de confiance, et tout le monde comprend que la plupart du temps, tout ce qu'ils font fera parti d'un vaste enregistrement public.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In vivid contrast, the freedom to avoid unwanted intrusion is carefully prized by the inhabitants of the post-Fall era.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière fortement contrasté, la liberté d'éviter les intrusions indésirées est attentivement prisées par les habitants de l'époque post-Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unwanted personal or data intrusion into someone's private dwelling or personal electronic files is a crime in most habitats and a serious crime in many.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les intrusions personnelles ou de données non désirées dans le domicile privé d'une personne ou d'un de ses fichiers électronique privé esst un crime dans la plupart des habitats et un crime sévère dans une bonne partie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Also, while both the mesh and augmented reality are filled with all manner of AI-mediated adware, most of it has evolved to be relatively benign and to provide non-intrusive suggestions about goods, information, and services that are likely to be of legitimate interest to the targeted person.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Et alors que le mesh et la réalité augmentée sont emplis d'adware gérée par des IA, la plupart d'entre eux sont devenus relativement bénins et fournissent des suggestions non intrusive pour des biens, de l'information et des services qui ont des chances d'intéresser la personne ciblée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An individual's muse filters out unwanted advertising.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La muse d'un individu filtre les publicités non désirées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While it is certainly possible to create advertising that can hack through any muse's filters, doing so is usually illegal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors qu'il est certainement possible de créer des publicictés qui peuvent se frayer un chemin à travers les filtres des muses, cette pratique est habituellement illégale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unwanted AR intrusions are similarly limited.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les intrsuions RA non désirée sont limités de manière similaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>During the early days of AR technology, there were serious problems with users being overwhelmed with unrequested and distracting input—as many said, the mist got very thick indeed, so both law and custom changed to prevent such invasions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pendant les premiers jours de la technologie RA, il y a eu de grave problèmes avec des utilisateurs surchargés par des entrées non demandée et déconcentrante - comme beaucoup le disent, la brume était en effet trés épaisse, les lois et les coutumes ont dnc changées pour pévenir de telles invasions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Today, most people expect to only experience data that they are looking for or that they might be interested in, and that any data they are not interested in will quickly vanish.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aujourd'hui, beaucoup de personne s'attende à ne rencontrer que les données qu'ils recherchent ou qui pourrait le sineresser; et que toutes les données qui ne les intéressent pas s'évanouissent rapidement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Being surrounded by a large amount of unwanted AR data is not just annoying and distracting, it is also deeply frightening, because it means that there is a serious problem with either the habitat's mesh or the person's electronics—it could even mean that the entire habitat is under direct attack by infowar weapons.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Être cerné par une énorme quantité de donnée RA non désirée est bien plus qu'une gène et une distraction, c'est également profondément effrayant, car cela signifie qu'il y a un sérieux problème soit avec le mesh de l'habitat soit avec l'électronique de la personne - cela peut même signifier que tout l'habitat subit une attaque directe d'arme de cyberguerre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
