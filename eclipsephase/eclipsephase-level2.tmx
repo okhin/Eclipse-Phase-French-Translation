@@ -6086,6 +6086,590 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Low-tech existence}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Vivre en Low-Tech}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than ninety-five percent of humanity inhabits artificially created morphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plus que quatre-vingt quinze pourcent de l'humanité habite des morphs créée artificiellement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most of them also possess basic implants, and the vast majority of the rest wear ectos with retina displays and other simple peripherals that allow the user to fully perceive and interact with the vast network of information around them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart possède également des implants basiques, et la vaste majorité du reste porte des ectos avec des affichages rétiniens et d'autre périphériques simple permettant à l'utiulisateur de percevoir et d'interagir pleinement avec le vaste réseau d'information qui les entoure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, slightly less than four percent of the remaining population inhabit flats or splicer morphs without basic implants and also lack access to ectos and other basic technologies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, un peu moins de quatre pourcent de la population restante habite des morphs splicers ou plates sans implants basique et manquent également d'accès aux ectos et aux autres technologie de base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since an ecto is both a relatively trivial expense and a piece of equipment vital to existence in the solar system, the only individuals who lack such technologies stand on the very lowest rungs of the social ladder.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Étant donné qu'un ecto est à la fois une dépense triviale et un équipement vital pour vivre dans le système solaire, les rares individus qui n'ont pas cette technologie restent tout en bas de l'échelel sociale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few are the poorest members of the most marginal habitats, but most are slaves or the next best thing to them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques uns sont les habitants les plus pauvres des habitats les plus marginals, mais beaucoup sont des esclaves ou à peine mieux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The lowest social classes in the Jovian Republic lack personal infotech access and so do the lowest class of people indentured to the hypercorps and the Planetary Consortium, particularly on Luna and Mars.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La classe sociale la plus basse dans la République jovienne n'as pas accès à l'infotech personnelle de même que les classes les plus basses parmi les contractés aux hypercorps et le Consortium Planétaire sur la Lune et sur Mars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These individuals are either indentured criminals or people sufficiently lacking in useful skills that they are assigned mindless physical tasks that cannot be more efficiently performed by AIs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces individus sont soit des criminels contractés ou des personnes qui manquent de compétences utile et qui sont assignés à des tâches physiques basique qui ne peuvent être faites plus efficacement par des IAs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The lack of mesh access makes these unfortunate “zeroes” into mental and social cripples, unable to perceive the vast wealth of AR that most people take for granted.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le manque d'accès au mesh transforme ces pauvres &quot;zéros&quot; en handicapés mentaux et sociaux, incapable de percevoir la vaste richesse de la RA que la plupart des gens considèrent comme acquise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are also unable to communicate with anyone beyond the range of their voice or to access almost all information, including traffic signals and shop displays.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils sont également incapable de communiquer avec quelqu'un hors de portée vocale ou d'accéder à toute information , incluant les la signalisation routière ou les affichages des boutiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When necessary, the managers and overseers in charge of groups of zeroes allow them access to handheld meshbrowsers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque c'est nécessaire, les chefs d'équipes et superviseurs responsables d'un groupe de éros leur permet d'accéder à des navigateurs mesh monitorés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These devices resemble the handheld terminals common in the early 21st century and have limited functionality, typically forbidding communication and restricting mesh research to carefully filtered topics.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces appareils ressemblent aux terminaux portables communs au début du 21° siècle et ont des fonctionnalités limitées, telles que l'interdiction de la communication et la restriction des recherches sur le mesh à des sujets précautionneusement filtrés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Because of their inability to access AR or the mesh, zeroes are almost completely isolated from everyone else, meaning they are also unable to organize effectively or to otherwise cause trouble for the people who control them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Enr aison de leur incapacité d'accéder eu mesh ou à la RA, les zéros sont presque complètement isolés du reste du monde, ils sont donc également incapable de s'organiser efficacement ou d'être à la source de problème pour les personnes qui les contrôlent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In much of the outer system, the existence of zeroes is considered one of the greatest crimes against transhumanity perpetrated by the Planetary Consortium and the Jovian Republic.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'essentiel du système extérieur considère l'existance des zéros comme l'un des plus grand crimes contre la transhumanité perpétré par le Consortium Planétaire et par la République Jovienne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Life, death and morphs}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Vie, mort et morph}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While death is no longer a certainty for transhumanity, it remains a possibility.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que la mort n'est plus une fatalité pour la transhumanité, un risque demeure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>During the decade preceding the Fall, most of humanity was growing used to the idea that immortality was in their grasp.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pendant la décennie précédant la Chutre, la plupart de la transhumanité grandissait avec l'idée que l'immortalité etait à leur portée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Then, in just a few short years, the TITANs wiped out more than ninety percent of us.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Puis, juste en quelques années, les TITANs ont anéanti plus de quatre-vingt dix pourcent d'entre nous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Faced with the horror of so much needless death, efforts to insure the lives of surviving humans became a top priority.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Face à l'horreur de tant de morts inutiles, les efforts faits pour assurer la vie des humains survivants est devenue la priorité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now, the technology of immortality—uploading, cortical stacks, and other related wonders—is commonplace.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Maintenant, la technologie de l'immortalité - l'upload, les piles corticales et d'autre merveilles associées - est commune.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Today, most of the residents of the solar system have adjusted to this fact (except for the most extreme bioconservatives); everyone expects both to live forever and to have their friends, loved ones, and enemies do the same.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aujourd'hui, la plupart des résidents du système solaire se sont adapté à cette existence (à l'exception des biocnservateurs extrêmistes); tout le monde s'attend à vivre éternellement et à avoir des amis, des amants et des ennemis qui fassent de même.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While death is rare, though, it is still possible.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, même si la mort est rare, elle reste possible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Severe accidents can destroy someone's cortical stack as well as their brain, and egos can also be wiped away in punishment for sufficiently heinous crimes—though the process of execution is considerably more difficult than it had been a few decades earlier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un accident grave peut détruire la pile corticale de quelqu'un ainsi que leur cerveau, et des egos peuvent être effacés pour des crimes suffisament graves - bien que le processus d'exécution soit considérablement plus difficile qu'il ne l'avait été quelques décennies plus tôt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For most people (with the exception of those too poor to afford a new morph), non-permanent death is an annoyance equivalent to events that most people in the late 20th century regarded as moderate misfortunes, like a bad stomach flu or a broken arm.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour la plupart des gens (à l'exception de ceux qui sont trop pauvres pour s'acheter une nouvelle morph), la mort non-permanente est une gène équivalente à ce que la plupart des personnes du 20° siècles considéraient comme une gène modérée, telle qu'une mauvaise grippe intestinale ou un bras cassé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In almost all habitats, if anyone is responsible for someone's temporary death, either accidentally or on purpose, they are also responsible for paying for the person's resleeving in an identical morph, especially if that person does not have some form of resleeving insurance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans presque tout les habitats, si quelqu'un est responsable de la mort temporaire d'une personne, que ce soit par accident ou prémédité, ils sont également responables de dédommager la réincarnation e la vitcime dans une morph identique, particullièrement si elle ne possède pas une quelconque assurance de réincarnation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>People who have temporarily died can expect to receive visits from everyone they are at all close to after their resleeving, as well as a host of e-cards and perhaps a few gifts from their acquaintances and colleagues, all expressing sympathy at their death and welcoming them back to the world of the physically embodied.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnes qui sont mort temporairement peuvent s'attendre à recevoir des visites de tout ceux qui sont suffisament proche après leur réincarnation, aussi bien qu'une quantité impressionante de cartes électronique et probablement quelques cadeaux de leurs contacts et collègues, tous manifestant leur compassion dans la mort et les félicitants pour leur retour dans le monde des incarnés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Exchanging such “life gifts” is an accepted part of belonging to many professions such as emergency service workers, where members regularly risk temporary death.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'échange de ces &quot;cadeaux de vie&quot; est une part accepté de l'appartenance à certains corps professionels tels que les employés des services d'urgence, dans lesquels les membres risquent régulièrement la mort temporaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Deliberately choosing to change morphs or to temporarily become an infomorph is treated differently.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Choisirent délibérément de changer de morphs ou de devenir temporairement une infomorph est traité différement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>People typically spend at least a day or two between deciding to change morphs and actually doing so.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnes mettent générallement un jour ou deux entre le moment où ils décident de changer de morphs et le moment où ils passent à l'acte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>During this time, it is considered polite for someone to inform everyone they know well or work with about their upcoming resleeving.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pendant ce temps, il est considéré comme poli d'informer de sa prochaine réincarnation toutes les personnes qu'ils connaissent bien ou avec qui ils travaillent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Along with personal visits, as well as calls and e-cards detailing the time of the upcoming event, the person who is resleeving is expected to include an image of what their new morph will look like, so people they know will be able to easily recognize them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Avec les visites personnelles, les appels ou les cartes électroniques précisant la date de l'évènement à venir, on attend de la personne qui se réincarne qu'elle fournisse une image de ce à quoi ressemblera leur nouvelle morph, afn que les personnes qu'elle connaît puissent facilement la reconnaître.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, it is considered gauche for someone who is upgrading to a better morph to include details about their new morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il est cependant maladroit pour quelqu'un qui qui se met à hour vers une meilleure morph d'inclure les détails à propos de cette morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Within a few days of resleeving, a “resleeving party” is typically held to introduce everyone they know to their new morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Après quelques jours de réincarnation, un&quot; fête de réincarnation&quot; est générallement organisée pour présenter les personnes qu'elle connaît à leur nouvelle morphs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending upon how well-off, well-known, and social the individual is, these parties range from lavish affairs held in hotel ballrooms to small intimate gatherings in the person's home.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fonction du niveau d'aisance, de célébréité et de sociabilisation de l'individu, ces fêtes vont des réceptions somptueusestenues dans les salles de bal des hôtel aux petites rassemblement plus intimes chez la personne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Permanent death is treated very differently.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La mort permanente est gérée de manière extrêmement différente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Because it is both relatively rare and no longer expected, the old funerary rituals surrounding death have faded and new traditions have grown in their place.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme il est relativement rare et plus réellement attendue, les anciens rituels funéraires entourant la mort se sont effacées et de nouvelles traditions ont prit leur place.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since every death reminds many people of the billions who permanently died during the Fall, most of the few funerals that are held honor both the person who just died as well as the victims of the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Puisque chaque mort rappelle à beaucoup de personne la perte des milliards d'humains qui sont mort à jamais pendant la Chute, la plupart des rares funérailles sont tenues à la fois en l'honneur de la personne qui vient juste de mourir aussi bien que des victimes de la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Entertainment and media}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Divertissement et média}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A substantial amount of media survives the Fall of Earth, and a significant number of modern transhumans make their living creating new songs, stories, reports, or other media.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un nombre substantiem de media ont survécu à la Chute de la Terre et un nombre significatif des transhumains modernes vivent en créant des chansons, des histoires, des reportages ou d'autres media.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All of this is easily and swiftly accessible through any basic implant, ecto, or (on very rare occasions) archaic handheld terminal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toutes ces choses sont accessible facilement et rapidement grâce à des implants basiques, des extos ou (en de rares occasions) par des terminaux mobiles archaïques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, most of this media is not to the taste of any particular individual, and vast amounts of it are mediocre.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, la plupart de ces medias ne sont pas au goüt de tout le monde, et la vaste majorité de ces créations sont médiocres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a result, most humans keep two layers of evaluation between them and anything they might consider exposing themselves to.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Du coup, beaucoup d'humains gardent deux niveaux d'évaluations entre eux et ce à quoi ils pourraient considérer être exposés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The first layer is based on popularity and critical reviews.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>le premier niveau est basé sur la popularité et les critiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every piece of media has a rating, often weighted by the opinions of critics with high rep scores who comment on their virtues and faults.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque élément de média à une notation, souvent pondérée par l'opinion des critiques qui possèdent un score de rep élevé qui commentent les vertues et les défauts de l'élément.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specialized AIs also evaluate the responses of consumers, so individuals can use reviewers they trust or they can seek out media that is either widely or specifically popular in their particular demographic and subcultural niche.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des IAs spécialisées évaluent également la réponse des consommateurs, afin que les individus puisse utiliser des critiques qu'ils connaissent ou pour qu'ils puissent trouver du media qui est soit largement soit spécifiquement populaire dans leur niche démogaphique et culturelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The second filter layer is the individual's muse.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le second niveau est celui de la muse de chaque individu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Muses learn their owner's tastes and moods and automatically search out and recommend various sorts of media.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les muses apprennent les goûts et humeurs de leurs propriétaires et cherchent automatiquement des medias et recommandent diverses sources de media.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Individuals can do everything from asking their muse to select something they will enjoy, to asking for a something that will challenge their opinions, to looking at all current events news that will be of interest to them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les individus peuvent faire ce qu'ils veulent de demander à leur muse de choisir quelque chose qu'ils aimeront, à demander quelque chose qui défieras leurs opinions, en passant par récupérer toutes les nouvelles récentes qui seront d'un intérêt quelconque pour eux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Muses use their understanding of their user's preferences, mixed with ratings and reviews, to make their decisions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les muses utilisent leur compréhension des préférences de leur utilisateur, mélangé avec les notations et les critiques, afin de faire leur choix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Individuals can even set their muses to edit all media so that they better fit with the person's interests and preferences.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les individus peuvent même configurer leur muses pour éditer tous les medias afin qu'ils correspondent mieux à leurs intérêts et préférence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the most extreme cases, this process can twist and edit news so that it bears no relation to real events.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les cas les plus extrêmes, ce processus peut déformer et éditer des informations jusqu'au point où elles n'ont plus de relation avec des évènements réels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This same process is used to make the characters and dialog in novels and vids more appealing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le même procédé est utilisé pour rendre les dialogues entre personnages dans les romans et les vids un peu plus interessants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More commonly, the muses merely edit out aspects of a news story or article in which the individual is not interested.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière plus courante, les muses éditent plus simplement des aspects d'un article ou d'une histoire qui n'intéresse pas l'individu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ratings, reviews, and muses allow individuals to avoid media overload, but they also reinforce subcultural barriers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les notations, les critiques et les muses permettent aux individus d'éviter la surcharge médiatique, mais cela renforce également leur barrère sous-culturelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A great many people only seek out media and news that reinforces their existing opinions and beliefs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une grande majorité de gens ne cherchent que des medias et des infos qui renforcent leurs opinions et croyance existantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Xenophobic individuals who distrust all non-humans, from uplifted octopi to the Factors, regularly view news stories and AR dramas about evil aliens and devious uplifted animals who commit heinous crimes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les individus xénophobes qui ne font pas confiance aux non-humains, des poulpes élevés ou Facteurs, voient réglulièrement des informations et des drames RA à propos de méchant étrangers et d'animaux élevés déviants qui commettent des crimes violents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Similarly, individuals who are only interested in their own habitat have all external news altered by their muses so that it refers only to the effects outside events will have on their station.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, les individus qui ne sont interessés que par leur propre habitat reçoivent toutes les informations altérées par leur muses afin qu'elles ne fassent références qu'aux évènement extérieurs à leur station qui pourraient influer l'intérieur de celle-ci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In a very real sense, individuals from radically different subcultures and demographics inhabit completely different worlds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière très pragmatique, des individus issus de sous-culture et de démographie radicalement différentes habitent des mondes complètement différents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The one force that works against this separation is the fact that many people wish to follow the lives and opinions of those with the highest reputation scores.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'une des forces qui travaille contre cette séparation est le fait que beaucoup de personne veulent suivre la vie et l'opinion de ceux qui possèdent un score de réputation élevé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In many cases, a large portion of these individual's high rep scores comes from their interest in and willingness to interact with (or at least acknowledge) a wide variety of different sources of information.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans de nombreux cas, une grande portion de ces scores de rep élevé vient de leur intérêt et de leur volonté à interagir avec (ou au moins prendre en compte) une grande variété de sources d'informations différentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a result, listening to opinions by a high-rep celebrity can expose people to information that they might never encounter otherwise.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De fait, écouter l'opignon d'une célébrités avec une grosse rep peut exposer les gens à des informations qu'ils pourraient n'avoir jamais rencontrer autrement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Also, in many habitats, AIs responsible for media distribution tag some news as being sufficiently important that it should be immune to filtering by muses.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De plus, et dans beaucoup d'habitat, les IAs responsable de la distribution des media marquent certaines information comme suffisament importante pour ignorer le filtrage des muses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This tagging is a regular and expected occurrence in some habitats, while in others it is reserved for only the most important and potentially life-saving information.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cet étiquettage a une apparoition régulière et attendue dans certains habitats, alors que dans d'autre, elel est réservée pour les information les plus importantes et qui peuvent sauver des vies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bypassing muses for any less important reason in these stations is considered a gross invasion of privacy or even a crime.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Outrepasser les muses pour une raison moins importante dans ces stations est considéré comme une invasion flagrante de la vie privée, voire même un crime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Lost lore}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Savoir perdu}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The accumulated knowledge and media of Earth, spanning the history of human intelligence, is a vast and impressive amount.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'accumulation des médias et des connaissance de la Terre, couvrant toute l'histoire de l'intelligence humanie, représante un total de donne gigantesque et impressionant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even before the Fall, many orbital settlements had acquired complete records of all previous human lore and creativity, including copies of every book, painting, song, film, TV program, console game, newspaper, and magazine article that had ever been translated into digital format, as well as backups of Earth's entire internet archives.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même avant la Chute, beaucoup d'abri orbitaux avaient récuéprés un enregistrement complet de toute la connaissance et la créativité humaine pécédente, incluant des copies de tout les livres, tabeleaux, chansons, film, programme TV, jeu vidéo, journal et article de magasine qui ait jamais été traduit dans un format digital, ainsi que les sauveagrde de toute sles archives de l'internet Terrestre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Numerous destructive programs unleashed during the Fall corrupted much of this information, however, in some cases permanently wiping it from existence.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De nombreux programmes destrcutcifs libérés pendant la Chute ont cependant corrompus la plupart de ces informations et en ont effacés à jamais une partie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This means that what remains of Earth's archived history and data is patchy and incomplete.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce qui siginife que ce qu'il reste des archives historique de la Terre est inégal et incomplet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Much survives, but some treasures have been lost.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup a survécu, mais quelques trésors ont étés perdus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In particular, media from the era of the Fall itself is particularly hard to come by, given the consistent attacks the TITANs were making on information systems.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En particulier, les medias de l'époque de la Chute en elle-même sont particuliè-rement difficiles à dénicher, étant donné les attaques constantes que menaient les TITANs sur les systèmes d'informations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Proprietary data that was withheld from the public domain behind electronic gates on Earth is even more likely to have been lost, except for a few hypercorps that managed to transfer their Earth-bound data off-world in time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les données propriétaires qui ont étés écarétes du domaine public derrières des portes électroniques sur Terre sont encore plsu sujettes à disparition, à l'exception de quelques hypercorps qui ont réussi a transférer leur données liée à la Terre vers des serveurs hors-monde dans les temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Retrieving lost data is a lucrative task for scavengers and archeologists, though looting the dangerous confines of Earth or derelict habitats destroyed during the Fall is a risky proposition.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Retrouver des données perdues est une tâche lucratives poru les récupérateurs et les archéologistes, bien que fouiller les confins de la Terre les plsu dangereux ou les habitats détriuts pendant la Chute est une proposition risquée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
