@@ -7022,6 +7022,1054 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{AR games}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Jeux RA}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Augmented reality (AR) games involve players interacting both with events in the physical world and with augmented reality imagery that recasts the people and objects the players see.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les jeux en Réalité AUgmentée (RA) impliquent les joueurs dans des interactions avec le monde physique et l'imagerie en réalité augmentée qui redessine les personnes ou les objets qu'ils perçoivent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, instead of seeing another player in a splicer morph and ordinary clothing, a player of an AR game might see a horrific rotting zombie, a bizarre alien life form, or a well-armed soldier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au lieu de voir un autre joueur dans unje morph splicer et ordinairement vétue, un joueur d'un jeu RA pourrait, par exemple, voir un zombie pourrissant horifique, une forme de vie étrangère bizarre ou un soldat sur-armé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These games tend to be locally focused within a particular habitat or city as they allow players to interact when they are within physical proximity, but some games link habitats within the same cultural region.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces jeux ont tendance à être ciblé localement à l'intérieur d'un habitat ou d'une vilel partiuclière car ils permettent aux joueurs d'interagir entre eux lorsqu'ils sont proches, mais certains jeu relient les habitats d'une même région culturelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The nature and intensity of these games varies widely.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La nature et l'intensité de ces jeux varient grandement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some are long-term games involving people imagining that they are deep cover spies or some other exciting and unique role.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains sont ds jeux à long-terme impliquant des personnes imaginant qu'ils sont des espions sous couverture ou n'importe quel autre rôle unique et excitant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Players may pretend to be anything from time travelers attempting to prevent some horrible disaster to covert agents attempting to uncover plots by TITAN-infected people on their habitat—who happen to be camouflaged as snack designers, personal assistants, etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les joueurs peuvent prétendre être n'importe quoi depuis des voyageurs temporels qui tentent d'empêcher un désastre horrible jusqu'à être des agents tentant de dévoiler les plans des personne infectés par les TITANs dans leur habitat - qui s'avèrent être camouflés en concepteurs inflitrés, en assistants personnels, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>During their daily lives, players exchange messages with each other as well as with the people running and maintaining the game.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lors de leur vie quotidienne, les joueurs échange des messages les uns avec els autres ainsi qu'avec les personens qui animent et maintiennent le jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some of these long-term AR games have gone on for many years, with the oldest being almost twenty years old.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains des jeux RA à long-terme sont actifs depuis plusieurs années, les plus anciens durent depuis presque vingt ans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Short-term AR games, on the other hand, last between several hours and several days.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les jeux RA à court-terme, d'un autre côté, durent entre plusieurs heures et plusieurs jours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The people running these games typically rent out a hotel or a park and various public buildings for the duration.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages faisant fonctionner ces jeux louent générallement un hôtel ou un parc et différents immeubles pendant la durée de la partie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These games are almost always highly dramatic and consist of everything from the players having to deal with a massive zombie attack or alien invasion to them participating in some simulation of an event on Earth, like the storming of the Bastille during the French Revolution.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces jeux sont presque tous extrêmement dramatique et vont d'une invasion massive de zombie ou d'aliens que les joueurs doivent gérer à la participation à une simulation d'un évènement sur Terre, telle que la prise de la Bastille pendant la Révolution Française.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While such AR games can be considerably less detailed than VR worlds or vidgames, many players value the “realism” of being physically present during the game.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que ces jeux RA peuvent être considérabelemtn moins détaillés que les mondes RV ou les jeuxvids, beaucoup de jeouurs accordent de l'importance au &quot;réalisme&quot; ou au fait d'être présent physiquement pendant la partie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since participants in AR games take actions in the real world, including actions that could be disruptive or even dangerous, designers of AR games take great care to prevent problems.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme les participants aux jeux RA agissent dans le monde réel, incluant des actions qui peuvent être disruptive voire dangereuse, les concepteurs des jeux RA prennent grand soin de prévoir ce type de problèmes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In some early AR games, most of which took place more than twenty years before the Fall, players were occasionally seriously injured.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans certains jeux RA réceants, la plupart de ceux qui se déroulent plus de vingt ans avant la Chute, des joueurs ont été occasionnellement grièvement blessés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few unscrupulous AR game designers used their game as a cover for an actual robbery or act of terrorism that was abetted by unwitting players who thought their actions were simply part of a game.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques concepteurs de jeux RA sans scrupules ont utilisés leurs jeux comme couverture pour un braquage réel ou un acte d terrorisme qui ont étés commis par des joueurs involontaires qui pensaient que leurs actions faisaient partie du jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since that time, law enforcement observation drones have kept careful track of people playing AR games.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Depuis cette époque, des drones d'observations des forces de l'ordre gardent une trace des personens particiapnt aux jeux RA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In almost all habitats, people running AR games must register their games with local law enforcement or face serious fines.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans presque tous les habitats, les personnes désirant organiser un jeu RA doivent enregistrer leur jeu auprès des forces de l'ordre local ou payer des amendes élevées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{VR worlds}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Univers RV}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Virtual reality (VR) worlds are entertainments that involve the creation of a large and highly immersive simulated environment—a simulspace—where many major characters are played by transhumans or other sentient beings.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les univers en Réalité Virtuelle (RV) sont des divertissements qui impliquent la création d'un vaste environnement simulé et immersif - un simulspace - dans lequel la plupart des personnages principaux sont joués par des transhumains ou d'autres être conscients.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unlike vids or vidgames, simulspaces are specifically designed for a large number of participants.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Contrairement aux vids ou aux jeuxvids, les simulspaces sont conçus spécifiquement pour un grand nombre de participants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>VR worlds consist of everything from duplicates of various eras of Earth history to elaborate and strange fantasy worlds with magic, dragons, and similar wonders.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les univers RV vont des versions dupliquées de différentes époques de l'histoire Terrestre aux mondes étranges et fantastiques emplis de magie, de dragons et d'autres merveilels similaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All manner of alien worlds or settings based on oddities like time travel are also common.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout type de monde étrange ou de cadre basés sur des bizarreries qomme le voyage temporel sont également communs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As is the case with vids, the most popular simulspaces are those set on Earth some time before the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme c'est le cas avec les vids, les simulspaces les plus populaires sont ceux qui prennent pour cadre la Terre peu de temps avant la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>VR worlds can have from dozens to tens of thousands of participants.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les univers RV peuvent ont généralement un nombre de participants allant d'une douzaine à plusierus dizaines de milliers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For the best experience, many users prefer to access simulspaces through hardwired server connections as they offer better quality and less disruptions than accessing wirelessly via the mesh.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour une meilleure expérience, beaucoup d'utilisateurs préfèrent accéder aux simulspace via des connexions filaires aux serveurs car elles permettent d'avoir une meilleure qualité et de réduire les interruptions que l'accès sans-fil au mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since people immersed in virtual reality are cut off from their bodies and often thrash around, most users ensconce their morphs in a tank or special couch for the duration.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme les personnes immergée en réalité virtuelles sont déonnectées de leur corps et les abandonne dans un coin, la plupart des utilisateurs engoncent leur morphs dans un réservoir ou un lit spécial pendant la durée de la connexion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>VR parlors typically offer private hardwired pods for participants to physically jack in.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les salons RV offrent typiquement quelques pods cablés pour permettre aux participants de se brancher physiquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many habitats also have hardwired systems used just for this purpose, so users can experience VR from the comfort of their own dwellings.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup d'habitats ont également des systèmes cablés utilisé uniquement dans ce but, afin que les utilisateurs puissent vivre une expérience RV depuis le confort de leurs appartements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Due to distance and communication lags between habitats, even the most popular online simulspaces run each habitat as a separate realm, limiting interaction with users in other habitats/realms.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En raison de la distance et des décalages de communication, même les simulsapce en ligne les plus populaires font tourner chaque habitat dans un royaume dédié, limitant les interactions entre les utilisateurs d'habitats différents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The popularity of VR worlds like Gilded Empire, set in England in the 1880s, means that someone moving from one habitat or world to another could continue playing in the same game, albeit with a new set of players.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La popularité d'univers RV tells que l'Empire Doré, qui prend place dans l'Angleterre de 1880, implique que quelqu'un qui se déplacerait d'un habitat ou monde à un autre peut continuer à jouer au même jeu, même si c'est avec un nouveau groupe de joueurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>One of the other unusual features of VR settings is that a large number of infomorphs, including many infomorph refugees, play these games.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'une des caractéristiques inhabituelle des cadres RV est qu&quot;un grand nombre d'infomorphs, incluant des infugiés, jouent à ces jeux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a result, while even most novice players can learn to easily tell the difference between a character played by an AI and one played by an actual person, there is no way to know if the person playing a character has a physical body or not.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En conséquence, alors que même les joueurs débutant peuvent différencier facilement un personnage joué par une IA d'un autre joué par une personne, il n'y a aucun moyen de savoir si la personne qui joue ce personnage possède un corps physique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Physical entertainment}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Divertissements physique}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In addition to a vast array of electronic and electronically-mediated entertainments, people also still enjoy a wide variety of physical sports, ranging from soccer to new sports like low-g air races, where the participants strap on wings and engage in tests of speed and acrobatics.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En plus d'une large gamme de divertissement électronique, les gens peuvent toujours profiter de toute une variété de sports physique, allant du football à de nouveaux sports telles que les courses en faible gravité, où les participants s'attachent sur des ailes et se lancent dans des tests de vitesse et d'acrobaties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In addition, the ability to both heal any injury in a healing vat and to remove a cortical stack from a dead or dying body and place it in a new morph has given rise to a new variety of extreme sports.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La capacité à la fois à soigner toute blessure dans une cuve de soin et de supprimer une pile cortical d'un corps morts ou en train de mourir et de la placer dans dans une nouvelle morph a permis l'ascenssion d'une toute nouvelle sorte de sports extrème.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Starting a decade before the Fall, various individuals began realizing that, barring unlikely circumstances, they could not die unless they wanted to.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En commençant une décennie avant la Chute, différents individus commencèrent à réaliser que, à moins de circonstances exceptionnelles, ils ne pouvaient pas mourir à moins de le vouloir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This set off a brief trend in extreme sports and even a few wealthy suicide hobbyists, who repeatedly killed off their current morph in a variety of unusual ways.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela a déclenché une mode passagère pour les sports extrêmes ainsi que quelque riches hobbyiste du suicide, qui tuaient de manière répétée leur morph de manière inhabituelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Fall and the permanent death of more than ninety percent of humanity greatly reduced the interest in playing with death for many years.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Chute et la mort permanente de plus de quatre vingt dix pourcents de la population a grandement réduit l'intérêt de jouer avec la mort pendant quelques années.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Killing yourself just to experience death is considered at least mildly distasteful, and many believe such actions belittle the mass deaths of the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Se tuer juste pour ressentir la mort est considéré comme étant au moins de mauvais goït, et beaucoup de personnes croient que de telles actions ridiculisent la masse de morts de la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though interest in risking death in the line of entertainment has been growing, deliberate suicide remains an eccentric and dubiously regarded hobby.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que l'intérêt de risquer la mort dans le cadre d'un loisir soit un intérêt croissant, le suicide délibéré reste un hobby excentrique et douteux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In some subcultures, dueling has been a popular fad for almost a decade.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans certaines sous-culture, le duel a été remis au goût du jour depusi presque une décennie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Swords, knives, and pistols firing single-shot soft lead bullets are all popular choices, because none of these weapons poses any threat to a cortical stack and most do not instantly kill someone hit by them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les couteaux, épées et les pistolets tirant une seule balle de plom sont tous des choix populaires, car aucune de ces armes ne pose de menace sérieuse aux piles corticale et la plupart ne tuent pas instanténament une personne blessée par elles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, there are other more exotic options, including aerial duels with microlights fitted with blades on their wings.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a cependant des options plus exotiques, incluant les duels aériens avec des ultralégers équipés de lames sur leus ailes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On rare occasions, duels take place in space, with the participants wearing non-armored vacuum suits.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans de rares cas, les duels se déroulent dans l'espace, les participants étant équipés de combi spatiale non-protégées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Certain criminal groups make money with underground dueling circuits, pitting biomorphs against robots against uplifts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains groupes criminels font de l'argent avec des circuits de duels illégaux, faisant s'affronter biomorphs, robots et élevés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The seedier circuits engage in distasteful pit fights featuring illegally-acquired backups sleeved into non-sentient animals, often outfitted with lethal cybernetics.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les circuits les plus minables organisent des combats d'arènes répugnant mettant en scène des backups illégalement acquis et incarnés dans des animaux non conscients, souvent équippé de cybernétique léthale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Such creatures are typically quite mad.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De telles créatures sont généralement relativement cinglées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In addition, dangerous non-combative sports are also popular.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De nombreux sports dangereux non-combatif sont également très populaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The highest levels of competitive rock climbing on Mars are regularly done with no safety equipment.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les plus hauts niveaux de compétitions d'escalade sur Mars sont régulièrement organisés sans équipement de sécurité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are similar climbing competitions in many habitats using artificially constructed climbing walls as well as regular free-running competitions through almost every city and habitat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a des compétitions d'escalade similaire dans beaucoup d'habitats en utilisant aussi bien des murs d'escalade artificiels que des comptéitions d'escalade libre à travers à peu près n'improte quelle ville ou habitats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Also, there is an entire class of sports, including both diving and parachuting, where perfection of form is seen as a far more important goal than avoiding injury or even death.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a aussi toute une catégorie de sport, incluant le plongeon et le parachute, dans laquelle la perfection d'exécution est vue comme un but bien plus important qu'éviter d'être blessé ou tué.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a result, current high dive records for morphs not specially modified to survive high impacts are held by individuals who required either time in a healing vat or resleeving immediately after their successful breaking of a previous record.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En conséquence, les records actuels de plongeon pour les morphs non modifiés spécifiquement pour résister aux impacts sont tenus par des individus qui soit doivent passer du temps en cuve de soin soit doivent se réincarner immédiatement après avoir battu le précédent record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Politics and power</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pouvoir et politiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Politics is just as important in the colonies spread throughout the solar system as it was back on Earth, but it is also radically different.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La politique est tout aussi importante dans les colonies éparpillée dans le système solaire qu'elle ne l'était autrefois sur Terre, mais elle est également radicalement différente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each habitat or cluster of stations is a separate political entity, and many of these habitats are fiercely independent.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque habitat, ou groupe de station, est une entité politqiue séparée, et beaucoup de ces habitats sont violemment indépendant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The only locations where large political entities can exist are on the marginally habitable worlds of Mars and Europa, and the population of Europa is significantly smaller than that of many of the largest pre-Fall cities on Earth.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le seul endroit où de grandes entitées politiques peuvent exister sont les mondes partiellement habitables de Mars et d'Europe, la population d'Europe étant significativement plus petite que celle de nombreuses cités pré-Chute sur Terre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{The inner system}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Le système intérieur}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though nations no longer exist, they have been replaced by new political-economic entities that may well have been on the road to dominance even if the Fall had not occurred: the hypercorps.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que les nations n'existent plus, elles ont été remplacés par de nouvelles entités économico-politique qui sont bien engagée sur la voie de la domination, même si la Chute ne s'était pas produite: les hypercorps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While there are a many independent habitats and settlements in the inner system, it is largely dominated by the hypercorps.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors qu'il y a de nombreux habitats et abris indépendants dans le système intérieur, il reste largement dominé par les hypercorps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To reduce conflict between themselves and promote the survival of transhumanity, some of the hypercorps have formed an alliance known as the Planetary Consortium.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour réduuire les confits entre  eux et promouyvoir la survie de la transhumanité, quelques hypercrops ont formé une alliance connues sous le nom de Consortium Planétaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This alliance governs most of Mars and is in charge of the ongoing Martian terraforming project.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette alliance gouverne la plupart de Mars et s'occupe du projet actuel de terraformation de Mars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It also controls several dozen other habitats and many Lunar bases, mostly ones that are in some way involved with the massive Martian terraforming effort.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il contrœle également plpusieurs douzaine d'habitats et beaucoup de bases Lunaire, princiaplement ceux qui sont impliqués d'une manière ou d'une autre dans l'effort massif de terraformation de Mars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since Mars is home to more than forty percent of the surviving transhuman population, most of the human population lives under the rule of the hypercorps or the Planetary Consortium.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Puisque Mars est devenue le foyer de plus de quarante pourcent de la population transhumaine survivante, la plupart de la population humaine vit sous le règne des hypercorps du Consortium Planétaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the aftermath of the Fall, the hypercorps established three important goals: rebuilding the solar system, protecting themselves from any further attacks (either by the TITANs or any other threats), and growing in both wealth and power.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Juste après la Chute, les hypercorps établirent trois objectifs importants: reconstruire le système solaire, se protéger de toute autre attaque (par les TITANs ou par n'importe quoi d'autre), et croitre en richesse et en pouvoir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>By extension, the second goal means they also help protect the people living in the habitats and settlements against any repeat of the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par extension, elur deuxième objectif implique qu'ils protègent également les personnes vivant dans les habitats et les abris contre toute répétition de la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The hypercorps and the Planetary Consortium are exceedingly skilled at attaining all of these goals.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les hypercrops et le Consortium Planétaire sont excessivement compétent pour atteindre ces objectifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since popular rebellion and widespread dissent are not helpful in the least in attaining these goals, the hypercorps are also adept at making certain the inhabitants of the habitats and planetary settlements they control are safe, relatively content, and, ideally, unable to cause serious problems.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Depuis que la révolte populaire et les dissenssion générale n'aident pas à atteindre ces objctifs, les hypercorps sont également adeptes à rendre certain les habitants des habitats et abris qu'elles contrôllent qu'ils sont en sécurité, relativement content et, idéalement, incapabel de causer le moindre problème grave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As the largest and most well organized entities in the solar system, the hypercorps, and especially the Planetary Consortium, are in an excellent position to protect the people living in their habitats and settlements.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En tant qu'entité la plus grosse et le mieux organisée dans le système solaire, les hypercorps, et particulièrement, le Consortium Planétaire, sont en excellente position pour protéger les personnes qui vivent dans leurs habitats et abris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, this protection comes at the price of freedom.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette protection vient cependant au prix de la liberté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Living in habitats that use transitional economies (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vivant dans des habitats qui ont une économie transitionnelle (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>61), the inhabitants of hypercorp-controlled settlements are relatively well off and need not fear starvation or serious want.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>61), Les habitants des abris contrôllées par les hypercorps sont relativement bien portant et ne craignent ni la famine, ni la satisfaction de leurs envies les plus sérieuses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Also, the hypercorps strongly oppose bioconservatism, and so anyone who can afford various augmentations or morphs is free to obtain them, as long as none of these augmentations or morphs is equipped with weaponry that can be used to harm the habitat or large numbers of its inhabitants.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les hypercorps s'opposent également fortement au bioconservatisme, et donc quiconque peut s'offrir diverses augmentations ou morphs est libre de les obtenir, tant que ces augmentations ou morphs ne sont pas équipées de système d'arme pouvant être utilisés pour enommager l'habitat ou blesser une grande partie de ses habitants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In return for safety and relative prosperity, however, inhabitants give up any ability to voice more than token criticisms of the hypercorps of the Planetary Consortium.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En échange de la sécurité et d'une prospérité relative, les habitants abandonnent cependant leur capacité à critiquer sérieusment les hypercorps du Consortium Planétaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{The power of the hypercorps and the planetary consortium}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{La puissance des hypercorps et du consortium planétaire}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The hypercorps and associated Planetary Consortium are the only major non-local political entities in the solar system (with the possible exception of the Autonomist Alliance, which is more of a mutual aid pact than a unified political entity).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les hypercorps et le Consortium Planétaire associé sont la seule entités politique majeure et globale dans le système solaire (avec l'exception possible de l'Alliance Autonomiste, qui est plus un pacte d'asssitance mutuelle qu'une entité politique unifiée).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All of the other political entities are based in a single specific location.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toutes les autres entités politiques sont basées sur une localisation spécifique unique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The various hypercorps transcend location, however.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les différentes hypercrops transcendent cependant la localisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They have offices and branches all over the solar system, serving the needs of people from Pluto to Mercury and all places in between.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils ont des bureaux et es branches dans tout el système, répondant aux besoins des gens de Pluton à Mercure, et dans tout les lieux entre les deux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While most hypercorps have large manufacturing and processing installations on Mercury or Venus, making use of the abundant energy of the first and the complex chemistry of the second, much of the work performed by all of the hypercorps involves developing new technologies and new cornucopia machine templates, both of which can be done in any place that has meshbrowsing access.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que la plupart des hypercorps ont de grosse installation de traitement et de fabrication sur Mercure et sur Vénus, transformant les quantités abondantes d'énergies de la premièreet de la chimie complexe de la seconde, la plupart du travailr éalisé par toutes els hypercorps implique le dévleoppement de nouvelles technologies et de nouveau patron pour les machines d'abondances, les deux pouvant être réalisé à n'importe quel endroit disposant d'un accès au mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In addition to bases on Mercury, Venus, and other equally resource-rich locations, all hypercorps maintain dedicated research and manufacturing stations scattered throughout the solar system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En plus des bases sur Mercure, vénus et d'autres lieux riches en ressources, toutes le shypercorps entretiennent des stations dédiées à la recherche et à la fabrication éparpillées partout dans le système solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Well-known facilities include Starware's vast shipyards, the largest of which are located on Luna and the asteroid Vesta, and Omnicor's huge antimatter factory orbiting Mercury.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les usines bien connues incluent les gigantesques chantiers navaux de Starware, les plus grands d'entre eux étant localisés sur la Lune et sur l'astéroïde Vesta, et les énormes usines d'antimatière d'Omnicor orbitent autour de Mercure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are many other lesser-known facilities, including the automated mines that the mysterious Zrbny Group maintains in the main asteroid belt and Saturn's rings, and the qubit factory Nimbus maintains in Mars orbit.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a de nombreux autres usines moins connues, incluant des mines automatisées que le mystérieux Group Zrbny maintient dans le principale ceinture d'astéroïde et dans les anneaux de Saturne, et l'usine de qubits Nimbus maintenue en orbit autour de Mars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In addition, there is an even larger number of secure and often secret research installations, some of which are so well hidden that they are normally only accessible via highly secure egocaster connections.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a même un nombre encore plus grand d'installations de recherche sécurisée et souvent secrète, certaines d'entre elles étant tellement bien cachées qu'elles ne sont normalement accessible que par des connexions d'egocast hautement sécurisées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All manner of mysterious and often highly dangerous research occurs in such locations, ranging from experiments with the relics of the TITANs to attempts to create self-replicating nanotechnology or artificial miniature black holes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout type de recherche mystérieuse et hautement dangereuses ont lieu dans de tels endroits, allant des expérimentations avec les reliques des TITANs aux tentatives de crééer de la nanotechnologie auto-réplicante ou des trous noirs miniatures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Vids and vidgames are filled with stories both of exotic disasters in such research stations and of heroic thieves stealing amazing wonders from them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les vids et jeuxvids sont remplis d'histoire de désastrres étranges dans de telles stations de recherche ou d'éhroïques voleurs leur dérobants des mystères surprenants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While the reality of secret corporate research bases is normally far more prosaic, sometimes wonders are created—and there have been occasional disasters, often involving TITAN relics.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que la réalité de telles bases de recherche corporatiste est normallement baucoup plus prosaïque, des choses exceptionnelels sont parfois créées - et ont été des désastres occasionnels, impliquant souvent des reliques des TITANs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some corporate headquarters are similarly secure and secret, including the corporate headquarters of the fabled Zrbny Group.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques quartiers généraux corporatistes sont sécurisé et agrdés secret de manière similaire, incluant le siège du légendaire Groupe Zrbny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are a wealth of rumors and stories about such locations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a énormément de rumeurs et d'histoire à propos de tels endroits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Intrepid spies, thieves, and reporters regularly attempt to gain access to these facilities, generally without success.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des espions intrépides, des voleurs et des reporters tentent régulièrement d'obtenir un accès à ces installations, généralement sans succès.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many such attempts, especially by would-be thieves and spies, end with distinctly negative consequences, including the thieves' temporary (and on some occasions permanent) death.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup de ces tentatives, particulièrement celles faites par des apprentis voleurs et espions, se soldent par des conséquences particulièrement négative, incluant la mort temporaire (et parfois permanente) du voleur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hypercorps also own and manage a number of habitats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les hypercorps possèdent et gèrent également beaucoup d'habitats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many are primarily homes for hypercorp employees, but in many of them at least half of the population are simply ordinary residents of the solar system who simply happen to live there.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup d'entre eux sont le foyer principal des employés hypercorps, mais au moins la moitié de la population d'une grande part de ces habitats sont des résidents ordinaires dus ystèlme solaire qui habitent simplement là.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though far less regulated than hypercorp research or manufacturing facilities, these colonies are also subject to greater regulation and security than some of the autonomist-controlled habitats on the edges of the solar system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que moins réglementés que les installations de recherche et de fabrication, ces colonnies sont également sujettes à plus de réglementation et de sécurité que certains des habitats controllés par les autonomistes aux limites du système solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These stations are exceptionally safe places to live.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces stations sont des endroits dans lesquelles la vie est extrêmement sécurisée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Residents have access to all of the latest products produced by the ruling hypercorp and its corporate allies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les résidents ont accès à tous les derniers produits fabriqués par l'hypercorp gouvernante et ses alliés corporatistes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The hypercorp habitats all either possess their own security companies or have some form of defense contract with a private security company, typically Direct Action or Medusan Shield, who agree to protect the inhabitants against potential threats by agents of the TITANs, fanatical saboteurs, or other threats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les habitats hypercorps possèdent tous soit leurs propre companies de sécurité ou possède uen forme de contrat de défense avec une société de sécurité privée, typiquement Action Directe ou le Bouclier de Méduse, qui acceptent de protéger les habitants contre les menaces potentielles des agents des TITANs, des saboteurs fanatiques et des autres menaces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These same security forces also protect the hypercorps from any threats to their interests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces mêmes forces de sécurité protègent également contre les menaces envers leurs intérêts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In most of these habitats, residents have fairly open freedom of expression and biological self-determination.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans la plupart de ces habitats, les résident ont la liberté d'expression et d'auto-détermination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, all potential threats to the hypercorp and its personnel, ranging from attempted sabotage to simple civil disobedience, are dealt with quite harshly, with serious offences resulting in forced indenture and occasionally forced mental editing (see Psychosurgery, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, toutes les menaces potentielles contre l'hypercorp et son personnel, allant d'une tentative de sabotage à la simple désobéissance civile, reçoivent une réponse brutale, les infractions majeures ayant pour résultat la contraction forcée et parfois l'édition mentale forcée (voir Psychochirurgie p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Almost all of these habitats use a transitional economy (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pratiquement ctout ces habitats utilisent une économie transitionnelle (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>61) and most residents have a high standard of living to compensate for the limits on their behavior.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>61) et la plupart des résidents ont un niveau de vie élevé en compensation des limites comportementales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many inhabitants of the more independent colonies in the belt or the outer system complain about the repressive nature of the hypercorp-controlled habitats, but inhabitants of these habitats prefer the safety and security found there to the intimidating freedom of the outer system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup d'habitants de colonnies plus indépendantes dans la ceinture ou dans le système extérieur se plaignent de la nature répressive des habitats contrôllés par les hypercorps, mais les habitants de ces habitats préfèrent la sureté et la sécurité qu'ils ont à l'intimidante liberté du système extérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To help reduce dissent, residents of settlements and habitats controlled by the Planetary Consortium as well as those controlled by hypercorps can vote on a wide variety of issues.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour aider à réduire la dissenssion, les résidents des abris et des habitats contrôllés par le Consortium Planétaire aussi bien que ceux contrôllés par les hypercorps peuvent voter sur un large panel de problème.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The results of these votes, however, are only binding on issues that are not considered “matters of habitat survival,” “corporate policy,” or “security-related issues,” which effectively includes any issue related to the security, profits, and productivity of the hypercorps involved.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le résulatat de ces votes reste cependant liés aux sujets qui ne sont pas considérés comme &quot;problématique de survie de l'habitat&quot;, &quot;politique corporatiste&quot; ou &quot;problème liés à la sécurité,&quot; qui incluent effectivement tous les sujets liés à la sécurité, au profit et à la productivité des hypercorps impliquées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Votes on these issues are used in a purely advisory fashion, meaning that they are utterly ignored when the result of the vote is at odds with the hypercorps' agendas.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les votes sur ces problèmes sont utilisés dans un but de conseil, signifiant qu'ils sont simplement ignorés quand le résultat de ces votes ne correspond pas aux plans des hypercorps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While residents of these settlements and habitats can vote about adding a new holiday to honor some important figure or the location and design of a new park, laws regulating indentures, habitat security, law-enforcement, or other important concerns remain under the control of the hypercorps.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que les résidents de ces abris peuvent voter sur l'ajout d'un nouveau jour férié en honeur d'un personnage important ou de l'emplacement et de la conception d'un nouveau parc, les lois réglementants la contraction, la sécurité des habitats, les forces de l'ordre ou d'autre éléments important restent sous le contrôle des hypercorps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This does not mean, however, that the results of elections are completely disregarded.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela ne signifie pas que le résultat de ces élections est complètement ignoré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If more than two-thirds of the population strongly supports a particular issue, the Consortium or the hypercorp controlling the habitat usually finds ways to modify their current policies to address these concerns without harming their own interests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si plus de deux tiers de la population supportent fortement un sujet particulier, le Consortium ou l'hypercorp contrôllant l'habitat trouve égnéralement un moyen de modifier leur politique actuelle pour répondre à ces inquiétudes sans blesser leurs propres intérêts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In contrast, if only a small number of residents are upset by certain policies, then these wishes are ignored and habitat security forces keep an eye out for possible civil disobedience or other forms of resistance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par opposition, si une petite part des résidents sont contrariés par certaines réglementation, alors leurs souhaits sont ignorés et les forces de sécurité de l'habitat gardent un œil ouvert pour toute désobéissance civile ou d'autre formes de résistance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In addition to these dedicated installations and hypercorp-controlled habitats, many hypercorps maintain offices in stations and planetary settlements.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En plus de ces installations dédiés et de ces habitats contrôlés par des hypercorp, beaucoup d'hypercrop ont des bureau dans d'autres statiosn et abris planétaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Almost every habitat has a Nimbus office with a farcaster and, in the case of larger habitats, QE communicator facilities for instantaneous communication.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Presqque tous les habitats ont un bureau de Nimbus équipé d'un farcasteur et, dans le cas des habitats les plus gros, des communicateurs QE pour les communicatiosn instantannées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Both facilities are open to anyone who can pay Nimbus's fees.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les deux installatiosn sont ouvertes à quiconque accepte de payer le prix fixé par Nimbus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ecologene, Skinaesthesia, and several other hypercorps also have offices on most habitats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Écologène, Skinaesthesia et d'autre hypercorp ont également des bureaux dans beaucoup d'habitats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every habitat interested in interacting with the rest of transhumanity has at least one automated Experia media node.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque habitat désirant inetragir avec le reste de la transhumanité possède au moins un noeud média automatisé d'Expéria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In smaller habitats, these offices are unobtrusive and managed by limited AIs or indentured infomorphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les plus petits habitats, ces bureaux sont discrets et gérés par des IAs limités ou des infomorphs contractées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The existence of these offices, however, is vitally necessary for the continued happiness and existence of transhumanity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'existenc de ces bureaux est cependant une nécessité vitale pour le bnoheur permanent et l'existance de la transhumanité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most hypercorps also maintain a number of employees in every large habitat and most of the smaller ones.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup d'hypercorps emploient des personens dans tout les plus grands habitats et dans la plupart des plus petits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Due to the large number of remaining infomorph refugees, most Experia media nodes are managed by indentured infomorphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En raison du grand nombre d'infugiés restant, la plupart des noeud de medai Experia sont gérés par des infomorphs contractées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These infomorphs monitor the local news-finding AIs and keeps track of any important or interesting developments.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces infomorphs supervisent les IAs de recherche de nouvelles locales et gardent une trace de tout développement intéressant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They also serve as on-site reporters for any important events that might occur.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elles servent aussi de reporters sur site pour tout évènement important qui pourrait arriver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While postings in small habitats are often rather dull, the infomorph usually has a contract guaranteeing them a morph of their choice and resleeving in the habitat of their choice in return for a term of service, which typically ranges from three to five years.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme se retrouver posté dans les petits habitats est plutôt ennuyeux, les infomorphs ont habituellement un contrat leur guarantissant une morph de leur choix et la réincarnation dans l'habitat de leur choix en échange d'une période de service, qui dure de trois à cinq ans en général.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Similarly, all but the smallest habitats have Medusan Shield or Direct Action offices, where individuals can hire both security consultants and bodyguards ranging from simple AIs to highly trained mercenaries in fully-equipped fury morphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, tout mes habitats, à l'exception de splus petits, ont des bureaux du Bouclier de Meduse ou d'Action Directe, dans lesquels les individus peuvent engager des consultants en sécurité et des guardes du corps, allant de la simple IA aux mercenaires hautement entraînés dans des morphs fury entièrement équipée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These mercenaries live on the station and often hire short-term contractors to help with especially large or difficult assignments.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces mercenaires vivent sur la station et louent régulièrement des contractanst à court terme pour les aider avec des assignations particulièrement longue ou difficile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Skilled mercenaries may eventually be hired full-time by Medusan Shield or Direct Action, but since contractors are usually given the most dangerous and thankless parts of any assignment, many soon lose interest in hypercorp contract work.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des mercenaires compétents peuvent éventuellement être embauché à plein temps par le Bouclier de Méduse ou Action Directe, mais comme les contractants reçoivent générallement les assignations les plus dangereuses et ingrates, beaucoup d'entre eux perdent tout intérêt dans le travail contractés auprès des hypercorps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other employees working out of local hypercorp offices range from ecosystem designers to for-hire scientists and technicians to personal financial advisors to the wealthy and powerful.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres employées travaillant hors des bureaux locaux des hypercorps incluent les concepteurs d'écosystèmes aux scientifiques à louer en passant par les conseillers financiers personnels pour les plus riches et les plus pusisants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In important habitats and planetary settlements, as much as twenty percent of the population consists of hypercorp employees or private contractors who are hired on a short-term basis when the local workload exceeds the capacity of the regular staff.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les habitats important et les abris planétaires, à peu près vingt pourcent de la population consiste en des employés hypercorps ou comme contractant privés qui sont loués sur de sbases à court-terme lorsque la chareg de travail dépasse la capacité du staff habituel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These hypercorp employees are in the unique position of having dual loyalties—to their habitat and to their hypercorp.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces employés hypercrops sont dans la position unique d'avoir une loyauté double - à leur habitat et à leur hypercrop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Despite what hypercorp propaganda preaches, the two interests do not always overlap.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En dépit de ce que prèche la propagande hyeprcorp, les deux intérêts ne se recoupent pas nécessairement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Because of the delays involved in normal communication, local heads of hypercorp offices usually have a great deal of autonomy, since asking for instructions from their superiors on another habitat or installation requires either dealing with a time-lag or using expensive qubits for instant QE communication.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En raison des délais nécessaires aux communications normales, les chefs des antennes locales du'ne hypercorp ont généralement beaucoup d'autonomie, puisque demander des instructions à leur supérieur sur un autre habitat ou dans une autre installation nécessite soit de faire avec un décalage temporel ou d'utilsier les qubits trés cher nécessaire aux communications QE instantanées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a result, except for the most important or difficult problems, local directors deal with all local matters on their own, reporting any unusual or potentially problematic decisions afterwards.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En conséquence, à l'exception des problèmes les plus graves ou le splus difficiles, les directeurs locaux décident seuls des sujets principaux, signalant toute décision ihnabituel ou potentiellement problématique aprsè coup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
