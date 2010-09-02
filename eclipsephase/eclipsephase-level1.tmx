@@ -8070,6 +8070,502 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{The outer system}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Le système extérieur}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Out beyond the orbit of Mars, the influence of the hypercorps and the Planetary Consortium is far more limited.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au delà de l'orbite Martienne, l'influence des hypercorps et du Consortium Planétaire est bien plus limitée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>With the exception of the rigidly authoritarian Jovian Republic, the inhabitants of the outer system have considerably more freedom than those living in the inner system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À l'exception du gouvernement rigidement autoritaire de la République Jovienne, les habitants du système extérieur ont bien plus de liberté que ceux qui vivent dans l'intérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, even out here the struggle between the desire for freedom and the longing for safety form an important part of the political discourse.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, mais là-bas la lutte entre le désir d'être libre et les attentes sécuritaires forment une part importante du discours politique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{The libertarian and utopian legacies}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{L'héritage des utopiens et des libertaires}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Various forms of anarchism and similar libertarian ideologies were quite common among the first transhumans who settled space in the two decades before the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Diverses formes d'anarchisme et d'idéologies libertaire similaires sont relativement commune parmi les premiers ranshumains qui ont colonisé l'espace deux décennie avant la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many settlements in the outer system have inherited this legacy of freedom.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup d'abris dans le système extérieur ont bénéficié de cet héritage de liberté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The new frontier opened by space colonization presented a fantastic opportunity for those with a strong desire to avoid the authoritarianism of the hypercorp-controlled inner system and Earth to pursue social organizations more based in equality and collective action, or even to simply experiment with new social models.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les nouvelles frontières ouvertes par la clonisation spatiale présentèrent une opportunité fantastique pour ceux qui avaitn une envie forte d'éviter l'autoritarisme du système interne et de la Terre contrôlés par les hypercop afin de développer des organisations sociales plus basés sur l'égalité et l'action collective, ou même de simplement expérimenter de nouveaux modèles sociaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Out beyond the belt, hypercorp influence was weak and preoccupied, giving resourceful colonists a chance to explore their interests unmolested.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au delà de la ceinture, l'influence hypercorporatiste était faible et préoccupante, donnait aux colons pleins de ressources  une chance d'explorer leurs intérêts sans contrainte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The more radical of these elements grew out of or maintained ties to progressive, radical, and left-wing social movements and insurgencies on Earth, drawing support where they could.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les éléments les plus radicaux ont grandit dans ou maintenus des liens avec les mouvements progressistes, radicaux et socialistes ainsi qu'avec les insurgés sur Terre, demandant du soutien où ils pouvaient.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Others simply stole hypercorp resources from the inner system, smuggling them to their secret projects.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres volèrent simplement les ressources des hypercorps du système interne, les acheminant vers leurs projets secrets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In a few cases, entire ships or stations mutinied, refusing corporate orders and pursuing their own path.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans certains cas, des vaisseaux ou des stations netières se mutinèrent, refusant les ordres corporatistes et poursuivant leur propre chemin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It was rarely feasible for the hypercorps to pursue and punish such subversion.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il était rarement faisable pour les hypercorps de poursuivre et de punir de telles subversion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even among these libertines, differences existed, so that those adhering to similar socio-political tendencies tended to group together.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même parmis ces libertaires, des différences existaient, et ceux qui adhèraient à des tendences sociao-politiques similaires ont eu tendance à se regrouper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Over time these have developed into four rough groupings: the anarchists of Locus, the techno-socialists of Titan, the anarchocapitalists and mutualists of Extropia, and the nomadic free-for-all societies of the individualist scum.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au fil du temps ils ont développés quatre groupes principaes: les anarchistes de Locus, les techno-socialistes de Titan, les anarchocapitalistes et mutualistes d'Extropia et les sociétés nomades et libre des racailles individualistes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These factions form a loose alliance, a united front against the hypercorps and Jovian Republic—or as they call it, the Jovian Junta—and a pact for mutual aid and support, known as the Autonomist Alliance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces factions forment une alliance souple, un front unis contre les hypercorps et la République Jovienne - ou, comme ils l'appelle, la Junte Jovienne - et un pacte d'aide et de soutien mutuel, appelé l'Alliance Autonomiste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Among the more libertine habitats, the centuriesold doctrine of “From each according to their ability, to each according to their need” is a living and vital philosophy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Parmi les habitats les plus libertaire, la doctrine vieille de plusieurs siècles &quot;De chacun selon ses moyens à chacun selon ses besoins&quot; est une philosophie de vie et vitale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ready availability of cornucopia machines ensures that no one wants, and the use of reputation systems encourages people to be active participants towards the common good.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La disponibilité effective des machines d'abondances assure la disparition du besoin, et l'utilisation d'un système de réputation encourage les gens à être des participants actif du bien commun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Equitable access to morphs and augmentations is also available for residents, though the demand from so many infomorphs in need of a body means that infugees must contribute and build up social capital.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'accès équitable au morphs et aux augmentations est également disponible pour les résidents, bien que la demande de tant d'informophs à la recherche d'un corps signifie que les infugiés doivent contribuer et construire un capital social.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, even for an infomorph, egocasting across the solar system is expensive, and the Planetary Consortium produces large amounts of propaganda about the dangers of these habitats to discourage infugees from considering escape.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, même pour une infomorph, egocaster à travers el système solaire est cher, et le Consortium Planétaire produits énormément de propagande sur les dangers de ces habitats et décourage les infugiés d'envisager l'évasion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many autonomists consider themselves to be engaged in an ideological conflict with the inner system, a memetic cold war that sometimes extends to physical actions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup d'autonomistes se considèrent engagés dans un conflit idéologique avec le système intérieur, une guerre froide qui résulte parfois en des actiosn physiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some willingly pursue campaigns of sabotage and subversion against hypercorp and other authoritarian affairs, such as smuggling cornucopia machines into habitats where such machines are strictly regulated, like among the Jovian Republic.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains participent activement à des campagnes de sabotages et à des actiosn subversive contre les hypercorps et d'autres puissance autoritaire, telles que la contrebande de machine d'abondance dans les habitats où de telels amchines sont strictement régulées comme ceux de la République Jovienne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The hypercorps and their allies occasionally strike back, though open conflict is rare.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les hyeprcorps et leurs alliées répliquent occasionnellement, bien que le conflit ouvert soit rare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even though the inner system and Jovian Republic could field enough military might to subdue the autonomist factions, an uneasy detente exists.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même si le systèle inrérieur et la République Jovienne peuvent déployer suffisament de puissance militaire pour asservir les factiosn autonomistes, une détente génée existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rumors abound that the anarchists have some sort of card in their pocket that keeps their opponents at bay, perhaps even some threat of mutually-assured destruction.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les rumeurs sur le fait que les anarchistes auraient des cartes en mains qui gardent leurs adversaires à distance abondent, peut-être même des menaces de destruction mutuelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Concerns over security and potential future attacks by the TITANs also impact matters in the outer system, but most people resist attempts to seriously restrict their personal freedoms in any manner not directly related to maintaining their safety.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les préoccupations vis à vis de la sécurité et des futures attaques potentielles des TITANs impactent également la politique dans le sytème extérieur, mais la plupart des personnes résistent aux tentatives de restreindre leurs libertés personnellesd'une manière qui n'est directement en lien avec leur sécurité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Inhabitants of the outer system still remember how the old governments' demands of adherence to bioconservativism and allegiance to distant and often unresponsive leaders did nothing to prevent the Fall from happening, and that memory fuels their mistrust of those states.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les habitants des systèmes extérieurs se souviennent toujours des demandes de soutien au bioconservatisme des anciens gouvermnements et les allégeances à des chefs distants et qui ne réagissent pas et qui n'ont rien fait pour prévenir la Chute, et ces souvenirs alimentent leur manque de confiance dans ces états.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Those powers were undone by failing to deliver what they promised—when they could not provide the security that they claimed their authoritarian measures would bring, the seeds of their defeat in the outer system were planted.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces puissances ont étés défaites en échouant à faire ce qu'ils avaient promis - lorsqu'ils ne pouvaient pas apporter la sécurité qu'ils prétendaient amener par leur mesures autoritaires, les germes de la défaite dans les ssytèmes extérieurs ont été semées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Space for experimentation}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{L'espace pour expérimenter}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Both social and political experimentation are common in many of the smaller habitats of the outer system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les expérimentations sociale et politique sont communes dans beaucoup des petits habitats du système extérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Because collective decision-making is fairly easy in stations with populations of less than ten thousand, direct democracy is a common method of government.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La prise de décision collective est relativement simple dans les statsions avec une populations de moins de dix mille personne, la démocratie directe est donc une méthode de gouvernement commune.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A number of ideologically-based habitats have used this ease of making collective decisions as a way to get all members to agree to some unusual forms of government.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Grand nombre d'habitats basés sur une idéologie ont utilisé cette simplicité à prendre des décisions comme méthode pour mettre tout le monde d'accord pour une forme de houvernement inhabituelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The individual variants that have been tried are too numerous to list, though they generally fit into a few general categories.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les variantes individuelles qui ont été essayées sont trop nombreuses pour être listées, bein qu'elles tombent généralement dans une catégorie plus large.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few relatively small habitats employ limited forms of authoritarianism.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques habitats relativement petits utilisent des formes limitées d'autoritarisme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some have a single leader who has great power, but who is (ideally) kept from abuse or excess through the use of limits such as a list of constitutionally-guaranteed rights or the ability of a relatively small number of people to call an election or a vote of confidence.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains ont un chef unique qui a beaucoup de pouvoir, mais qui est (idéalement) tenu à l'égard des abus ou des excès par l'utilisation de limites telles qu'une liste de droits constitutionnels ou la capacité pour un nombre relativement réduit de personne à demander une élection ou un vote de confiance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some colonies using this model have elected dictators who serve for a limited term, while others are ruled by a single charismatic leader who transforms their habitat into a cult of personality.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines colonies utilisant ce modèle ont élus des dicateurs qui reçoivent un mandat limité dans le temps, alors que d'autre sont régies par un seul chef charismatique qui transforment leur habitat en un culte de leur personnalité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other habitats choose their leaders by random lot, with every adult who can pass a relatively easy competency test being eligible to be the colony's leader for a period that usually ranges from six months to five years.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres habitats choisissent lerus chefs en le tirant au hasard, tout les adultes qui réussissent un test relativement simple de compétence sont éligible pour être le chef de la colonnie pour une période de six mois à cinq ans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few habitats are governed by powerful specialized AIs, which in very few cases are actually hyper-intelligent AGIs or even seed AIs that the colony has secretly created.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un petit nombre d'habitats sont gouvernés par de puissantes IAs spécialisés, qui sont dans de rares cas de réelles AGIs hyper-intelligente ou même des IAs germes qua la colonnie a créée en secret.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Several colonies populated by purely informorph or synthmorph inhabitants use special high-bandwidth connections to give their members access each other's surface thoughts and emotional reactions, allowing them to hold vast democratic political meetings where everyone present can feel the general emotional reactions of all of the other members as easily as they can feel their own.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plusieurs colonnie peuplée uniquement par des infomorphs ou des habitants en synthmorphs usent des connexions à forte bande passante spécialisée pour donner à leur membre l'accès aux pensées de surface et aux réactions émotionnelles des autres, leur permettant de tenir de vaste débat politique dans lesquels tout ceux qui sont présents peuvent sentir les réactions émotionnelle générales de tous les autres membres aussi simplement qu'ils peuvent ressentir les leurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are a vast number of different types of government, many of which have never existed before, moving (and sometimes fumbling) ahead in the outer system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a une grande quantité de types de gouvernement différent, beaucoup d'entre eux n'ont jamais existé auparavant, avançant (et parfois trébuchant) bien en avance dans le système solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some work far better than others, allowing successful colonies to thrive and making much of the outer system a vast and complex political laboratory.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains marchent beaucoup mieux que d'autres, permettant aux colonie de survivre avec réussite et de tranformer la plus gardne aprtie du système extérieur un laboratoire politique vaste et complexe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Keeping the peace</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Maintenir la paix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each habitat is responsible for dealing with its internal affairs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque habitat est responsable de la gestion de ses affaires internes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a result, standards of justice vary widely from the oppressive police state of the Jovian Junta to the free market judicial courts of the Extropians in the belt to the community justice policies of the anarchists out beyond Saturn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En conséquence, les standards de justice varient grandement de l'tat policier oppressif de la Junte Jovienne au trbiunaux judiciaire du marché libre des Extropiens dans la ceinture en passant par les politiques de justice communautaire des anarchistes au-delà de Saturne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Travelers are strongly encouraged to check up on the legalities and policies of stations they are visiting so as to avoid unfortunate incidents, though muses are generally quite good about maintaining awareness of local conditions so that they can warn their users before straying into gray or illegal territory.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les voyageurs sont trés foretement encouragés à se mettre au courant des lois en vigueurs sur les statsions qu'ils vont visiter afin d'éviter des incidents malheureux, bien que les muses sont générallement plutôt bonne pour se tenir au courant des conditions locales afin qu'elles puissent prévenir leurs utilisateurs avant de pénétrer dans les zones grises ou illégales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the inner system, standards of justice and law enforcement tend to be uniform and very familiar to the majority of the population that lived on Earth prior to the Fall, where most nations had relatively similar standards of justice.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans le système intérieur, les standards de justice et de maintien de l'ordre tendent à être uniformisée et relativement familier à la majorité des populations qui ont vécues sur Terre avant la Chute, là où la plupart des nations avaient des standards de justice relativement similaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Across the entire solar system, certain similar standards can be found.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A travers tout le système solaire, certains standards identiques peuvent être trouvés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though local laws may differ, there is widespread respect for the idea that punishments for religious or ideologicallybased laws only apply to residents.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>bien que les lois locales puissent différer, il y a un respect répandu que l'idée de punition pour les lois religieuse ou basées sur les idéologies ne s'appliquent qu'aux résidents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Visitors who violate such restrictions or other minor laws are simply deported to their home and forbidden to return.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les visteurs qui violent de telles restrictions ou d'autres lois mineures sont généralement déportés chez eux et sont interdits de revenir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Standards of evidence for criminal investigations are also common.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des standards de preuves pour les enquètes criminelles sont également communs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Modern forensic technology makes collecting and analyzing DNA and other trace evidence an exceptionally swift and easy process.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les technologies d'analyse médico-légales rendent la collecte et l'analyse de l'ADN et d'autres traces sont un procédé extrêmement rapide et facile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, with almost all habitats having what amounts to total surveillance of all public places, any potential offenses committed there can be carefully analyzed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, avec la plupart des habitats ayant une surveillance totale de tous les lieux publics, tous les délits potentiels commis là peuvent être minutieusement analysées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Standards of privacy vary widely from one habitat to another, so during emergencies or crime investigations, law enforcement officials may or may not have total access to detailed recordings of the events in any portion of the habitat including recordings from sensors in private dwellings.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les standards de vie privée varie grandement d'un habitat à l'autre, donc pendant les urgences et les enquètes criminelles, les agents des forces de l'ordre peuvent avoir ou pas un accès total à des enregsitrements des évènemesnt dans toute partie de l'habitat incluant les enregistrement des capteurs dans les résidences privées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In some stations, law enforcement officials can compel everyone who might have been present during an alleged crime to provide downloads of their sensory experiences from the time of the crime.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans quelques stations, les agents des forces de l'ordre peuvent contraindre toute personne qui pourrait avoir été présente pendant un crime à fournir des copies de leurs expériences sensorielles à l'heure du crime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While individuals can edit their memories, discrepancies between various people's sensory recordings are just another form of evidence.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que les individus peuvent éditer leurs souvenirs, des différences entre les entrées sensorielles de diverses personne sont juste une autre forme de preuve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Requiring sensory downloads from witnesses and suspects is common practice in habitats controlled by the Planetary Consortium, the Jovian Republic, and most hypercorps.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Exiger des téléchzrgement sensoriels des témoins et des suspects est une pratique habituelle dans les habitats contrôlés par le Consortium Planétaire, la République Jovienne et la plupart des hypercorps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, in most habitats in the outer system, law enforcement officials have no access to such records and can only compel sensory recordings from people who have been charged with serious crimes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mains dans la plupart des habitats du système extérieur, les agents des forces de l'ordre n'ont pas accè à de tels enregistrements et ne peuvent contraindre que les personnes qui ont déjà été accusée de crime grave à leur transmettre les enregistrementes sensoriels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The power of modern forensics is such that a sufficiently careful examination of people and places can often determine the nature of a crime and the perpetrator(s) with relative ease.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La force des sciences médico-légale moderne est telle qu'un examin suffisament détaillé des personnes et des lieux peut souvent déterminer la nature d'un crime et le(s) auteur(s) relativement facilement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Decisions of innocence or guilt rarely rely upon suppositions, circumstantial evidence, eyewitness testimony or any of the other notoriously unreliable forms of evidence common in past centuries.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Déterminer l'innocence ou la culapbilité dépend rarement sur des suppositions, des preuves circonstancielles, des témoignages de témoins occulaire ou d'autres formes d preuves notoirement pas fiable et commune lors des siècles passés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The best way for someone to avoid being convicted of a crime is to either prevent anyone from learning about the crime or to make certain that no one suspects them as the perpetrator.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La meilleure façon pour quelqu'un d'éviter d'être accusé d'un crime est soit de faire en sorte que personne n'apprenne le crime ou de s'assurer que personne en le suspecte comme acteur du crime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once someone guilty of a crime becomes a suspect, there is a very significant chance that law enforcement officers will be able to uncover reliable evidence connecting them to the crime.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois que le coupable d'un crime devient un suspect, il y a une chance significative que le agents des forces de l'ordre soient capable de découvrir une preuve fiable le connectant au crime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, if there is no obvious evidence connecting a specific suspect to a crime, the criminal has a greater chance of escaping discovery.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, si il n'existe pas de preuve évidente connectant un suspect spécifique à un crime, le criminel à une plus grande chance de ne pas être découvert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
