@@ -8566,6 +8566,1054 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Law enforcement}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Police}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Law enforcement in the solar system consists of a vast patchwork of separate jurisdictions, occasionally united by various treaties.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les forces de police du système solaire sont constitué d'un vaste patchwork de juridictions séparées, occasionnellement unies par différent traités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most habitats have signed the Treaty of Uniform Security that requires either extradition or on-site trial of criminals who are accused of especially serious crimes such as attempted habitat destruction, use of incapacitating infoware (including basilisk hack attacks), or any attempt to aid the agents of the TITANs in taking over or destroying a habitat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des habitats ont signé le Traité de Sécurité Uniformisé qui requiert soit l'extradition soit un procès sur place de criminels accusé de crime grave et bien spécifiques tels que la tentative de destruction d'un habitat, l'utilisation d'infoware incapacitant (incluant les attaques basées sur les exploit basilique) ou toute tentative d'aider les agents des TITANs à prendre le contrôle ou à détruire un habitat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only the Jovian Junta and a few especially antisocial or anarchic habitats have not signed this treaty, but many habitats in the outer system maintain the right to try offenders accused by other habitats rather than extraditing them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Seuls la République Jovienne et quelque habiotats particulièrement antisociaux ou anarchique n'ont pas signé ce traité, mais la plupart des habitats du système extérieur maintiennent le droit de juger eux-mêmes les personnes accusées par d'autres habitats plutôt que des les extrader.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In addition, most habitats require a significant amount of evidence before they are willing to extradite one of their residents.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De plus, la plupart des habitats demandent une quantité significative de preuve avant qu'ils n'acceptent d'extrader l'un de leurs résidents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Outside the Treaty of Uniform Security, there is nothing remotely resembling a uniform code of justice and no widely recognized police force.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au delà du Traité de Sécurité Uniformisé, il n'existe rien ressemblant de près ou de loin à un code pénal uniformisé ou à une force de police largement reconnue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Instead, each habitat or cluster maintains their own code of laws and law enforcement officers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque habitat ou groupe d'habitat préfère maintenir son propre code de loi et ses propres agents des forces de l'ordre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In most areas, law enforcement is a respected and honorable profession paid for by the government, but in a few, the only options are private security agencies that only protect individuals who subscribe to their services.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans la plupart des zones, la police est une profession respectée et honorable payée par le gouvernement, mais dans quelques endroits, les seules options sont les agences de sécurité privée qui ne protègent que les individus qui souscrivent leurs services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Among the anarchists and scum, residents are largely responsible for their own protection, which means they may be constantly armed when in public (depending on local conditions).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Parmi les anarchistes et la racaille, les résidents sont trés largement responsables de leur propre proptection, ce qui signifie qu'ils doivent être constament armés lorsqu'ils sont en public (en fonction de la situation locale).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending on the stations, the most someone who is the victim of a crime can do may be to go after their attacker or post a bounty.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fonction des stations, la seule chose que peut faire quelqu'un qui serait victime d'un crime est de traquer on agresseur ou de poser une prime sur sa tête.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In others, mechanisms exist for community or collective problem-solving that often involve assembling an ad-hoc grouping of peers to assess the situation, offer non-biased judgment, and sometimes pursue collective action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans d'autres, des mécanismes existent pour résoudre les problèmes de manière communautaire ou collective qui impliquent souvent de constituer un groupe adéquat de pairs pour évaluer la situation, offrir un jugement non biaisé et parfois poursuivre une action collective.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The only widely-accepted law enforcement officers that attempt to maintain jurisdiction across the solar system are bonded investigators and security consultants from companies such as Medusan Shield or Direct Action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les seuls agents des forces de l'ordre largement acceptés et qui tentent de maintenir une juridiction à travers le système solaire sont les enquèteurs privés et les consultants en sécurité des sociétés telles que el Bouclier de Méduse ou Action Directe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Both organizations have contracts with various hypercorps and inner system stations to provide security.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les deux organisations ont des contrats avec différentes hypercorps et stations du système solaire intérieur pour leur fournir de la sécurité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, in the outer system and in other regions not controlled (directly or indirectly) by the hypercorps, the status of these officers is far more tenuous.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans le système extérieur et d'autres régions non contrôllées (directement ou indirectement) par les hypercorps, le statut de ces agents est cependant bien plus fragile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In habitats that do not have security contracts with their organization, the best these agents can do is act as bounty hunters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les habitats qui n'ont pas de contrats de sécurité avec leurs organsiation, le mieux que peuvent faire ces agents est d'agir en tant que chasseur de prime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Due to extensive stories of excesses in the inner system, many colonies frown on freelance bounty hunters—often referred to as ego hunters—and may ban them entirely.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En raison des nombreuses histoire à propos des excès dans le système intérieur, beaucoup de colonnies rechigne à utiliser des chasseurs de primes indépendant - souvent appelés chasseur d'égo - et peuvent aller jusqu'à les bannir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Others allow agents from licensed security hypercorps to act as ego hunters, but forbid them from extraditing or otherwise restraining or punishing the criminals they are pursuing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres autorisent les agents des hypercorps de sécurité autorisées à agir comme chasseur d'égo, mais leur interdisent d'extrader ou de restreindre et punir les criminels qu'ils pourchassent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Instead, agents are required to turn over evidence so that the habitat's own judicial system may hold a trial, in which case a convicted person may be remanded to the agent's custody.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À la place, les agents doivent fournir les preuves pour que le système juridique de l'habitat puisse établir un procès, aauquel cas une personne accusée peut-être mis en détention provisoire sous la garde de l'agent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Law enforcement officers experience similar difficulties attempting to apprehend a suspect who has fled to another habitat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les agents des forces de police rencontre des difficultés similaires lorsqu'il tentent d'apréhender un suspect qui s'est enfui dans un autre habitat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Closely allied habitats in the outer system usually allow full or at least limited legal powers to visiting law enforcement officers from their allies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des habitats alliés dans le système extérieur accorde généralement un pouvoir légal complet ou limité aux agents des forces de l'ordre en visite et à leurs alliés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are also various small private security organizations that work closely with local law enforcement offices to provide inter-habitat security between habitats that are not closely allied.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il existe aussi diverses organisation de sécurité privée qui travail en lien étroit avec les forces de l'ordre locales pour fournir une sécurité inter-habitat entre divers habitats qui ne sont aps forcément des alliés proches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The members of these organizations attempt to maintain sufficiently high rep to earn the respect of all the habitats with which they work.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les membres de ces organisations tentent de maintenir une rep suffisament élevée pour gagner le respect de tout les habitats avec lesquels ils travaillent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They act as both bounty hunters and unbiased investigators in situations that involve the laws of several habitats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils agissent à la fois comme chasseur de prime et comme enquèteurs neutre dans les situatiosn qui implique les lois de plusieurs habitats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All of these security companies are located in the outer system, and none has jurisdiction extending beyond a relatively limited location, like the middle belt or the Saturn system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toutes ces entreprises de sécurité sont localisées dans le système extérieur, et aucune n'a de juridiction étendue au-delà d'une localisation relativement limitée, comme le milieu de la ceinturne ou le système Saturnien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any such organizations that attempt to grow larger come into direct competition with Medusan Shield and Direct Action and are subsequently either bought out or undercut and discredited by one or both of these organizations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toutes organisation de ce type qui essaye de se développer entre en compétition directe avec le Bouclier de Méduse ou Action Directe et sont en conséquence achetées ou sapée et discréditée par l'une des deux organisations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are also several private bounty hunters and private investigators, some of whom are highly reliable.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a aussi plusieurs chasseurs de prime et enquèteurs privés, certains d'entre eux étant extrêmement fiable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Others are known for their extreme moral and ethical flexibility, especially if the pay is sufficiently high.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres sont connus pour leur éthique et leur sens moral extrêmement flexibles, particulièrement si la paie est suffisament élevée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On some of the autonomist stations and scum ships, these private contractors can be hired to simply go on board and abduct or execute a resident as long as this person has a low enough rep.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans certaines des stations autonomistes et des vaisseaux de la racaille, ces contractants privés peuvent être engagés pour simplement embarquer et enelver ou exécuter un résident du moment que cette personne à une rep suffisament basse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Attempting to abduct or kill a respected member of the community, however, rapidly earns the ire of the entire habitat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>tenter d'enelevr ou de tuer un membre respecté de la communauté attire cependant rapidement l'ire de tout l'habitat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The various small-scale or private security organizations from the outer system can sometimes pursue subjects to habitats controlled by the various hypercorps or the Planetary Consortium.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les diverses petites organisation de sécurité privées du système extéireur peuvent parfois poursuivre un sujets dans des habitats contrôllées par els différentes hypercorps ou le Consortium Planétaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Doing so requires background checks, security screenings, and often moderately large payments.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela nécessite une vérification des antécadents, des contrôle de sécurité et souvent un paiement relativement élevé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Punishment}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Punition}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Among the autonomist colonies, forced exile or repaying the victim with an equitable amount of goods or labor are the principle punishments for all but the most heinous crimes (such as attempted mass murder, habitat destruction, attempting to create seed AIs or similarly extreme actions).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Parmi les colonnies autonomistes, l'exil forcé ou le remboursement de la victime avec un montant équitable de marchandise ou de travail sont les principales condamnation à l'exception des crimes le splus odieux (tels que la  tentative de meurtre en masse, la destruction d'habitat, la tentative de création d'IAs germe ou d'autres actiosn extrème similaire).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the collectivist anarchist habitats, antisocial behavior typically involves expulsion or penalizing reputation, though solutions that involve making amends are often pursued over standard punishments.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les habitats anarchistes et collectivistes, les comportements antisociaux impliquent égénrallement l'expulsion ou une pénalité réputationnelle, bein que des solutions impliquant le système d'amendes sont souvent utilisés pour des punitions standards.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the other end of the spectrum, people convicted of more serious crimes in the most violent and lawless habitats are executed and all of their known backups destroyed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À l'autre extrémité du spectre, les personnes accusées de crimes encore plus sérieux dans les habitats les plus violents et sans lois sont exécutées et leurs sauvegardes connues sont détruites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In many others, exceedingly serious crimes are usually dealt with by giving the criminal a choice of forced uploading into a humanely outfitted but closed computer or mandatory personality modification—assuming that someone has not simply killed the criminal before they were brought to justice (such killings are generally treated as matters of self-defense).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans beaucoup d'autres, les crimes excessivement grave sont généralement résolu en donnant au criminel le choix d'un upload forcé dans un ordinateur fermé mais ressmeblant à un humain ou l'obligation de subir des modifications de personnalitées - en partant du principe que le criminel n'ait pas été simplement tué avant d'être traduit en justice (de tels meurtres sont généralement considérés comme de l'autodéfense).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mandatory personality modifications are generally limited to the absolute minimum necessary to prevent the individual from repeating similar crimes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les modification de personnalité obligatoire sont généralement limitées à l'absolu minimum nécessaire à prévenir la personne de répéter des crimes similaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the other extreme, punishments in hypercorpcontrolled habitats and settlements controlled by the Planetary Consortium range from fines paid in either money or labor to periods of involuntary indentured servitude ranging from several months to many years.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De l'autre côté, les punitions dans les abris et habitats hypercorps ou controllés par le Copnsortium Planétaire sont généralement des amendes payées soit en monnaie ou en période de travail en tant que contractés forcés allant de quelques mois à plusieurs années.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Violent crimes, especially ones threatening either important hypercorp employees or the habitat as a whole, also result in mandatory personality modification.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les crimes violent, particulièrement ceux qui menacent soit un employé important d'une hypercorp ou un habitat, amènent générallement à des modification de personnalité importante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Such modifications often include the creation of a strong sense of loyalty and obedience to the hypercorp.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De telles modifications incluent souvent la création d'unprofond sentiment de loyauté et d'obéissance à l'hypercorp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Punishments are even more draconic in the Jovian Republic, where permanent execution and the destruction of all backups is the most common punishment for serious crimes against the leaders or large groups of the populace.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les punitions sont ancore plus draconique dans la République Jovienne, où l'exécution permanente et la destrcution de toutes les sauvegardes est la punition la plus commune pour les crimes commis contre les chefs ou d'important groupes de population.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since the rulers of the Republic are strong bioconservatives, personality editing and forced uploading are rarely used.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Puique les chefs de la République sont des bioconservateurs convaincu, l'édition de personnalité et l'upload forcé ne sont que rarement utilisés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Forced indenture is very common, however, as are more standard forms of imprisonment.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'esclavage est trés commun cependant, ainsi que les formes plus classique d'emprisonnement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Republic is one of the last places in the solar system that has physical prisons.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La République est l'un des derniers endroits dans le système solaire qui ait des prisons physiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The vast majority of other habitats fall somewhere between these extremes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La grande majorité des autres habitats sont quelque aprt entre ces deux extrêmes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Punishments for non-violent crimes consist of enforced repayment, where the offender must work off a debt to their victim or victims or face more serious punishments.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les punitions pour les crimes non-violents consitent en des remboursements obligatoires, l'offenseur devant travailler à rembourser sa dette à la ou aux victime(s) ou faire face à des punitions plus sérieuses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Instead of enforced indenture, offenders usually must only work between five and twenty hours a week for their victims and only need to do so until the crime has been suitably repaid.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au lieu des la contraction forcée, les offenseurs doivent travailler entre cinq et vingt heures par semaine pour leurs victimes et n'ont besoin de le faire que jusqu'à ce que le crime ait été convenablement réparé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The typical repayment is between two and three times the value of the good or service taken from the victim.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le remboursement typique équivaut à deux ou trois fois la valeur de la marchandise ou du service prit à la victime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The economy</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'économie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Leaving aside the struggles of bands of primitives to survive on the ruins of Earth, all of humanity has at least some access to the wonders of nanotechnology.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mis à part les luttes des bandes de primitives pour la survie sur les ruines de la Terre, toute l'humanité a accès à certaines des merveilels de la nanotechnologie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This access is highly variable and the economic benefits it produces can be divided into three broad categories—the old economy, the transitional economy, and the new economy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cet accès est extrèmement variable et les bénéfices économiques qu'il génère peut-être divisé en trois grandes catégories - la vieille économie, l'économie transitionnelle et la nouvelel économie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{The old economy}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{La vieille économie}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The old economy is essentially the same sort of industrial consumer capitalism that has been in place since the late 19th century, a system centered on manufacturers who create material goods and sell them to consumers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La vieille économie est essentiellement le même type d'économie que le capitalisme industriel de consommation qui était en place depuis la fin du 19° siècle, un système centré sur les fabricants qui créent des biens matériels et qui les vendent aux consommateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Modern manufacturers now make their goods in cornucopia machines instead of factories, but the essential pattern is the same one that has existed for over two hundred years.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les fabricants modernes fabriquent maintenant leurs marchandises dans des machines d'abondance au lieu d'usines, mais le fonctionnement est le même que celui qui existait les deux siècles précédents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Due to the high level of inefficiency and unfairness in this economic system, poverty is relatively common.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En raison du haut niveau d'inefficacité et d'injustice de ce système économique, la puavreté est extrêmement commune.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The poorest individuals often face hunger, homelessness, lack of medical care, and similarly dire problems.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les individus les plus paiuvres souffrent de la faim, du manque de soin médicaux n'ont aps de domicile fixe et d'autres terribles problèmes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ordinary members of this society never have direct access to cornucopia machines.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les membres ordinaires de cette société n'on jamais un accès direct aux machines d'abondance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Instead, they purchase their goods from corporations, governments, or wealthy individuals who control them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils doivent acheter leurs marchandises aux corporations, aux gouvernements ou aux individus les plus riches qui les contrôllent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some old economy societies have planned economies, where the corporations or the state determine what options the citizens may choose or occasionally what goods they must have.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines société de la vieille économie ont des économies planifiées, dans lesquelles, les corporations ou l'état détermine quelles options seront proposées aux citoyens ou quelles sont les marchandises qu'ils doivent avoir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Others claim to have a free market, where citizens have more options, but the residents must still pay to obtain goods that are essentially free for the corporations or government to produce.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres prétendent avoir un marché libre, où les citoyens ont plusieurs options, mais les résidents doivent toujours payer pour obtenir les biens essentiels qui ne coûtent rien à produire aux corporations et aux gouvernements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the present day, almost no one willingly lives in old economy societies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aujourd'hui, presque personne ne désire vivre dans des sociétés régies par la vieille économie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Very few individuals even visit such societies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Seul de très rares individus vont visiter ces sociétés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The oppressive Jovian Republic holds most of the remaining old economy societies in the solar system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le régime oppressif de la République Jovienne possède la plupart des reste des sociétés en ancienne économie du système solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The few other surviving examples are totalitarian regimes where the wealthy elite maintain absolute control of all cornucopia machines and private ownership of one is a very serious crime.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les quelques exemples survivant sont des régimes totalitaires où une élite riche garde un contrôle absolu sur toutes les machines d'abondance et en posséder une à titre privé est un crime extrêmement grave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since cornucopia machines can be used to create more cornucopia machines, maintaining strict control over them requires constant vigilance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme les machines d'abondance peuvent être utilisée pour créer d'autres machines d'abondance, les maintenir sous un contôle stricte nécessite une vigilance constante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Residents of old economy societies tend to look at residents of transitional and new economy societies with envy, while residents of habitats that use both transitional and new economies look upon residents of old economy habitats with a mixture of horror and pity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les résidents des sociétés basées sur la vieille économie ont tendance à considérer les résidents des sociétés avec une économie transitionnelle ou une nouvelle économie avec envie, alors que les résidents des habitats qui bénéficient d'une économie transitionnelle ou nouvelle les considèrent avec un mélange d'horreur et de pitié.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since the Fall, almost a third of the remaining old economy-based habitats have transformed into transitional or new economies by various means, often involving violent revolution.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Depuis la Chute, presque un tiers des habitats basés sur la vieille économie restant ont été transformés leur système économique pour une économie transitionnelle ou nouvelle, souvent par le biais de révolution violente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most social scientists predict that unless there are further catastrophes, all but the most repressive old economy societies are almost certain to transform to transitional economies within twenty to thirty years.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des scientifiques sociaux prédisent aue, à moins d'autres catastrophes, toutes les soéciétés de la vieille économie, à l'exce&quot;ption des plus rpéressives, sont quasiment certaines de se transformer en économie transitionnelle d'ici vingt à trente ans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Old economy societies are unique in that money is the society's only acceptable means of exchange.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les sociétés de la vieille économie sont unique car la monnaie et le seul moyen d'échange acceptable dans ces sociétés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While reputation networks exist, they are informal and serve as an unsanctioned means of exchanging favors.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que les réseaux de réputations existent, ils restent informels et servent comme un moyen non autorisé d'échanger des faveurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{The transitional economy}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{L'économie transitionnelle}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The transitional economy is a far more stable and easily maintained system than the old economy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'économie traditionnelle est un système bien plsus table et facile à maintenir que la vieille économie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transitional economies blend old and new economies, and habitats using this system feature both private ownership of cornucopia machines as well as public fabbers and makers that are freely accessible.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les économies transitionnelles mélange la nouvelle et la vieille économie, et les habitats utilisant ce système bénéficient à al fois de la propriété privée de machines d'abondance ainsi que de faiseurs publics qui sont libre d'accès.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These public machines are strictly limited in the goods they can produce.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces machines publiques sont strictement limitée dans les biens qu'elles peuvent produire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In addition, the raw materials for various complex goods are also strictly regulated.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De plus, les matériaux brutes de divers biens particuloèrement complexe sont également strictement régulés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mars, Venus, and Luna are all examples of transitional economies, as is most of the rest of the inner system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mars, vénus et la Lune sont tous des exemples d'économies transitionnelle, comem la plupart du système intérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For the inhabitants of a transitional economy, creating food, non-smart clothing, furniture, and most other simple, non-formatible objects is a trivial matter.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour les habitants de l'économie transitionnelle, créer de la nourriture, des habits non-intelligents, des meubles et d'autres objets simples et non-intelligent est une probélamtique triviale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, the public nanofabrication machines can only create objects that either contain no electronics at all or contain only simple circuits that report on the object's condition and location.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, les nanofabeurs publics ne peuvent créer que des objets qui soit ne contiennent pas du tout d'électroniques ou soit ne sont composés que de circuits simples qui informe de l'état et de la localisation de l'objet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manufacturing any of these items requires little more than the machine and a supply of carbon, hydrogen, oxygen, nitrogen, silicon, iron, aluminum, and tiny amounts of various trace materials.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Créer n'importe lequel de ces éléments ne nécessite pas grand chose de plus que la machine et un stock de carbone, d'hydrogène, d'oxygène, de nitrogène, de silicone, de fer, d'aluminium et de toutes petites quantités d'autres divers matériaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All of these materials are sufficiently abundant that acquiring them is easy and inexpensive.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>tout ces matériaux sont suffisament abondants pour permettre que leuur acquisition soit simple et bon marché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Using the elements that are freely available to all tax-paying citizens, nanofabbers can produce a vast array of goods like exquisite suits of silk clothing, tables with the appearance of finely polished ebony and mahogany, beautiful colored glass goblets, or painted porcelain tea cups.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Utilisant les éléments qui sont librement disponible à tous les citoyens payant leurs impôts, les nanofabeurs peuvent produire une large gamme de marchandises comme d'exquis costumes en soie, des tables avec l'aspect de l'ébène et de l'acajou finement polis, des gobelets en  verre joiemnt colorés ou des tasses en porcelaine peinte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They can also create a gourmet dinner and a set of fine plates and cutlery on which to eat the meal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils peuvent aussi créer un diner de gourmet et un ensemble d'assietets et de couverts fins avec lesquels manger le repas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To pay for the small amounts of energy and resources needed to create these goods, all inhabitants pay a small tax.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour payer la petite quantité d'énergie et de ressources nécessaires pour créer ces marchandises, toust les habitants doivent payer une petite taxe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once the usage tax has been paid, food, clothing, furniture, and similar goods are all free.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois que la taxe d'utilisation a été payée, la nourriture, les vêtements et les biens similaires sont tous gratuits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Raw materials, old, worn-out or unwanted goods, and various waste products are recycled into new goods.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les matériaux bruts, les biens dépassés et de seconde-main et non-désirés ainsi que divers déchets sont recyclés en nouveaux biens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Residents of transitional economies need never experience hunger or any of the many other sorts of deprivation that much of humanity faced before the mid-21st century.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les réisdents de l'économie traditionnelle ne sont jamais affamés de même qu'il ne subissent l'une des privations que la plupart de l'humanité subissait avant le milieu du 21° siècle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additionally, basic medical care is free in almost all transitional economy societies, to help insure that the populace is healthy, content, and productive.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De plus, les soisn médicaux de bases sont gratuits dans la plupart des sociétés en économies traditionnelle, pour favoriser l'assurance que la population est en bonne santé, heureuse et productive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While many goods are freely available, there are also goods that residents must purchase from corporations, their government, or other producers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que la plupart des biens sont disponible gratuitement, il y a aussi des biens que les résidents doivent acheter aux xorporations, à leurs gouvernement ou à d'autres producteurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Smart clothing and smart furniture that can change shape, color, and pattern, depending upon the user's wishes, cannot be manufactured in any of the personal nanofabricators.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les vêtements et les meubles intelligents qui peuvent changer de forme, de couleur et de motif, en fonction des souhaits de l'utilisateur, ne peuvent pas être fabriqués dans les nanofabeurs personnels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any goods made from highly durable composite materials, batteries, electrically-powered devices including all augmentations, and all nanotechnology must be acquired in the same fashion.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout bien fabriqué à partir de matériau composite solide, les batteries, les appareils alimentés électriquement incluant toutes les augmentations ainsi que toute la nanotechnologie doivent être acquis de la même manière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These goods are considerably less common as they require access to an unrestricted nanofabricator and exotic raw materials.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces biens sont considérabelement moins communs car ils nécessitent l'accès à des nanofabeurs débridés ainsi qu'à des matériau bruts exotiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transitional economies tend to be relatively safe places, since inhabitants cannot manufacture weapons more dangerous than knives, clubs, or similar primitive armaments.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les économies transitionnelle tendent à être des endroits relativement sûr, puisque les habitants ne peuvent pas fabriquer d'armes plus dangereuses qu'un couteau, une masse ou d'autres armes primitives similaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Everything from firearms to plasma weapons requires restricted cornucopia machines and exotic materials to manufacture.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toute arme plus sophistique, des armes à feu au fusil à plasma, nécessitent des machines d'abondances et des matériau exotiques pour être fabriqués.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The proliferation of these items is strictly controlled.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La prolifération de ces objets est strictement contrôlée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some habitats in the outer system have transitional economies because residents prefer the safety that comes from centralizing control of potentially dangerous technologies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains habitats du système extérieur ont des économies traditionnelles car leurs habitants préfèrent la sécurité qui vient avec le contrôle centralisé des technologie potentiellement dangereuses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other habitats have transitional economies by default, because they have limited stocks of many of the more rare elements required for manufacturing various complex modern technologies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres habitats ont des économies transitionnels par défaut, car ils n'ont qu'un stock limité de certains des matériau les plus rares recquis pour la fabrication de différ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Regardless of the reason, outsiders from new economy habitants often see them as somewhat poor and deprived, while many residents of transitional economies consider new economy societies both exceptionally wealthy and somewhat frightening.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Peu importe les raisons, les habitants extérieurs et issus de la nouvelle économie les considèrent comme des pauvres, alors que beaucoup de résidents de la transtion économique considèrent les sociétés de la nouvelle économies cdomme étant exceptionnellement riche et quelque peu effrayante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Despite these differences in perception, both economic societies have a great deal in common.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>End épit de ces différences de perception, les deux sociétés économiques ont beaucoup de choses en communs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Food, clothing, and similar goods are easily available to all residents.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La nourriture, l'habillement et les biens similaires sont facilement disponible pour tous les résidents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An individual's status, taste, wealth, and reputation are measured by the kinds of clothing, food, and furnishings they possess.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le status, les goûts, la richesse et la réputation d'un individus sont évalués par le type de vêtements, de nourriture et de meubles qu'il possède.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While there are a vast number of templates for different styles of food and consumer goods, forward-thinking designers develop new designs every month and use copy protection on these designs to keep them from being pirated for at least a month or two (and often longer).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien qu'il y ait un grand nombre de modèle pour déifférent type de nourriture et de bien de conosmmation, les concepteurs avant-gardistes développenet de nouveaux modèles tous les mois et utilisent des système de protection de la copie sur ces modèles pour éviter qu'ils ne soient piratés pendant au moins un mois ou deux (et parfois plus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a result, for the first few months after their release, the only people who can gain access to new designs in clothing, tableware, food, or similar goods are those who pay a premium to the designer to download the templates that allow their cornucopia machine to manufacture the item.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En conséquence, pendant les premiers mois après leur sortie, les seules personnes qui peuvent avoir accès à de nouveaux modèles de vêtements, de vaisselle, de nourriture ou d'autre biens similaires sont ceux qui payent une prime au concepteur pour télécharger le modèle qui permettra à leur machine d'abondance de fabriquer l'objet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since one way of defining a transitional economy is a system where both reputation and money are in widespread use, most have developed ways to accommodate both forms of payment.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Puisque l'une des manières de définir une économie transitionnelle est un système dans laquelle la réputation et l'argent sont utilisés largement et simultanément, la plupart des systèmes ont développés une manière de payer avec les deux méthodes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While residents primarily use money for purchasing goods, purchasing cornucopia machine templates involves rep, especially among residents who regularly visit new economy societies or have significant contacts there.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que les résidentns utilisent l'argent principalement pour acheter des marchandises, se produrer des modèles pour les machines d'abondance nécessite de la rep, prticulièrement parmi les résident qui visitent régulièrement des sociétés avec des économies nouvelles ou qui y ont un nombre de contact significatifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{The new economy}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{La nouvelle économie}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slightly less than forty percent of the human population lives under some version of what social scientists refer to as the new economy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un peu moins de quarante pourcent de la population humaine vie dans l'une des versions de ce que les scientifiques sociaux nomme la nouvelle économie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the outer system, alternative economies are becoming increasingly rare.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans le système extérieurs, les économies alternatives deviennent de plus en plus rare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>New economies are much better than old or transitional economies at supporting a decentralized populace, which has led to more than half of all habitats and settlements adopting this model.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les nouvelles économies sont bien meilleure que les vieilles économies ou l'économie transitionnelle pour pour stabiliser une population décentralisée, ce qui a amené plus de la moitié de tous les habitats et abris à adopter ce modèle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In new economy societies, individuals can freely manufacture and use almost anything they want, assuming they can acquire the correct templates and raw materials.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les sociétés de la nouvelle économie, les individus peuvent fabriquer et utiliser librement à peu près tout ce qu'ils veulent, du moment qu'ils ont récupérés les bons plans et les matériaux de bases.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a result, the residents' need for food, clothing, medical care, information access, and other basic needs are all easily met.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De fait, les besoins en nourriture, en habillement, en soins médicaux, en accès à l'information et les autres besoins basique des résidentts sont tous facilement satisfaits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, there are still items of value that individuals work very hard to obtain.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a cependant toujous des objets qui nécessitent un travail intense des indivdus qui souhaitent les obtenirs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though these are commonly described as “post scarcity” societies, some types of scarcity remain very real.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien qu'elles soient définit comme sociétés &quot;post pénurie&quot;, certains type de pénurie reste extrêmement réels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In most new economy habitats, common goods are freely available to all residents—or at least to all residents who meet certain criteria.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans la plupart des habitats de la nouvelle économie, les biens communs sont dispnible sgratuitement pour tous les résident - ou au moins pour tous les résidents qui répondent à certains critères.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These criteria usually take one of two forms: citizenship or public works.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces critères prennent généralement une des deux formes suivantes: citoyenneté ou travaux publics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In wealthy and prestigious habitats, free access to all common goods is offered to residents who have official citizenship.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les habitats riches et prestigieux, l'accès libre à tout les biens courants est offert au résidentqui ont une la cotoyenneté officielle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Citizenship can be earned in a variety of ways, but the most common involves either being considered a strategic asset due to some singular expertise, performing an exceedingly valuable service to the habitat, or working for the habitat for some period of time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La citoyenneté peut être obtenue de diverse façonmais la plus courante implique d'être soit considéré comme un investissement stratégique en raison d'une expertise particulière, soir de rendre un service extrêmement précieux à l'habitat ou de travailler pendant une certaine période de temps pour l'habitat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once an individual is a citizen, the energy, living space, and raw materials they use in the course of their daily lives are all freely available.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>une fois qu'un individu est un citoyen, l'énergie, l'espace vital et les matériaux bruts qu'ils utilisent dans le cadre de leur vie quotidienne sont disponible librement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In many collectivized habitats, residents are expected to pull their weight by contributing to ongoing public works in the habitat, typically requiring between four and eight hours every week.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans beaucoup d'habitat collectivisés, on attend des résidents qu'ils prennent à leur charge une contribution aux travaux d'intérêt publics dans l'habaitat, nécessitant typiquement entre quatre et huit heures par semaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending on the nature of the colony, this work may be selected by the government, the collective syndicates that oversee the management of resources, or by a high rep individual who controls access to large amounts of energy and raw materials.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>en fonction de la nature de la colonnie, ce travail peut-être choisit par le gouvernement, le syndicat collectif qui s'occupe de la gestion es ressource ou par un individu possédant une grosse rep et qui contrôle l'accès à de grande quantité d'énergie et de matériau de base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unless someone has especially valuable skills, this labor is often dull but safe work that can be done more easily by humans than AIs, such as checking the habitat for flaws and performing maintenance tasks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À moins que quelqu'un ne possède des compétences particulièrement importantes, ce travail est souvent ennuyeux mais sûr qui peut être accomplit plus facilement par des humains que par des IAs, come par exemple chercher les failles de l'habitats et accomplir les tâches de maintenance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Assuming an individual has acquired citizenship or put in their share of work for the collective wellbeing of the station, they will have access to a supply of energy and raw materials that allows them to use their cornucopia machines to manufacture what they need.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En partant du principe qu'un individu ait acquis la citoyenneté ou ait fait sa part de travail pour le bien être collectif de la station, il aura accès à un stock d'énergie et de matériau brut qui lui permettra d'utiliser sa machine d'abondance pour fabriquer ce dont il a besoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Visitors are generally also allowed access, though anyone staying long is expected to contribute to the habitat if they don't want to see their reputation slashed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les visiteurs bénéficient générallement d'un accès aux fabeurs, mais on attend généralement des visiteurs longue durée qu'ils participent à l'habitat si ils ne veulent pas voir leur réputation s'effondrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Restricting dangerous technologies}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Restreindre les technologies dangereuses}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most societies in Eclipse Phase see good reason to restrict access to some dangerous goods, especially military hardware.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des sociétés d'Eclipse Phase ont de bonnes raisons pour restreindre l'accès à certains biens dangereux, et particulièrement le matériel militaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Few people living in a sealed habitat surrounded by hard vacuum enjoy the idea of easy access to biowar plagues or devices that can make large holes in their habitat's outer hull.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Peu de personne vivant en habitat scellé et entouré par le vide spatial apprécient l'idée que l'accès à des infections de guerre biologiques ou à des appareils pouvant créer de grands trous dans la coque extérieure de l'habitat soit facilité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though such incidents are quite rare, the memories of horrors like the recent BransonVesta disaster are still quite fresh.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que de tels incidents soient relativement rares, les souvenirs d'horreurs comme le récent désastre BransonVesta reste toujours frais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In that incident, a radical bioconservative cult manufactured several plasma bombs and accidentally destroyed the entire habitat when their attack on the local government caused a cascading blowout, cracking the spinning habitat in half.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans cet incident, un culte biconservatif radical a fabriqué plusieurs bombes à plasma et a accidentellement détruit tout l'habitat lorsque leur attaque sur le gouvernement local à causer une explosion en chaîne, cassant l'habitant tournant en deux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 50,000 residents had to be resleeved, and 400 permanently died when their backups and cortical stacks were destroyed in the explosions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plus de 50 000 résidents ont du être réincarnés, et 400 sont définitivement morts lorsque leur sauvegarde et leur pile corticale ont été détruits dans l'explosion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a result, standard procedure is to restrict access and heavily encrypt templates needed to create military-grade weapons and similar dangers, though sufficiently dedicated individuals can eventually decrypt or reverse-engineer such designs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les procédures standard sont de restreindre l'accès et de chiffrer trés lourdement les plans nécessaire à la création d'arme de guerre et d'autres dangers similaires, bien que des individus suffisament motivés puissent éventuellemnt déchiffer ou rétro-ingénieurer de tels schémas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even nanofabricators in anarchist habitats may be blocked from creating such things or at the very least will alert the local public mesh if anyone instructs them to do so.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même les nanofabeurs des habitats anarchistes peuvent être bloqué dans la création de ce genre de chose ou au moins alerter le mesh public local si quelqu'un lui demande de le faire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Habitats that possess almost no other laws regarding possession of various objects and devices usually have laws against weapons that can do serious harm to the habitat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les habitats qui ne possèdent presqu'aucune loi vis à vis de la possession de différents objet et appareils ont habituellement des lois contre les armes qui peuvent sérieusement endommager l'habitat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
       </tuv>
       <tuv xml:lang="fr-FR">

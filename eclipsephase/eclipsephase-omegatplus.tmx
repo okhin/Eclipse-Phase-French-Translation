@@ -8566,6 +8566,286 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Law enforcement}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Police}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Law enforcement in the solar system consists of a vast patchwork of separate jurisdictions, occasionally united by various treaties.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les forces de police du système solaire sont constitué d'un vaste patchwork de juridictions séparées, occasionnellement unies par différent traités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most habitats have signed the Treaty of Uniform Security that requires either extradition or on-site trial of criminals who are accused of especially serious crimes such as attempted habitat destruction, use of incapacitating infoware (including basilisk hack attacks), or any attempt to aid the agents of the TITANs in taking over or destroying a habitat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des habitats ont signé le Traité de Sécurité Uniformisé qui requiert soit l'extradition soit un procès sur place de criminels accusé de crime grave et bien spécifiques tels que la tentative de destruction d'un habitat, l'utilisation d'infoware incapacitant (incluant les attaques basées sur les exploit basilique) ou toute tentative d'aider les agents des TITANs à prendre le contrôle ou à détruire un habitat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only the Jovian Junta and a few especially antisocial or anarchic habitats have not signed this treaty, but many habitats in the outer system maintain the right to try offenders accused by other habitats rather than extraditing them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Seuls la République Jovienne et quelque habiotats particulièrement antisociaux ou anarchique n'ont pas signé ce traité, mais la plupart des habitats du système extérieur maintiennent le droit de juger eux-mêmes les personnes accusées par d'autres habitats plutôt que des les extrader.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In addition, most habitats require a significant amount of evidence before they are willing to extradite one of their residents.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De plus, la plupart des habitats demandent une quantité significative de preuve avant qu'ils n'acceptent d'extrader l'un de leurs résidents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Outside the Treaty of Uniform Security, there is nothing remotely resembling a uniform code of justice and no widely recognized police force.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au delà du Traité de Sécurité Uniformisé, il n'existe rien ressemblant de près ou de loin à un code pénal uniformisé ou à une force de police largement reconnue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Instead, each habitat or cluster maintains their own code of laws and law enforcement officers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque habitat ou groupe d'habitat préfère maintenir son propre code de loi et ses propres agents des forces de l'ordre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In most areas, law enforcement is a respected and honorable profession paid for by the government, but in a few, the only options are private security agencies that only protect individuals who subscribe to their services.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans la plupart des zones, la police est une profession respectée et honorable payée par le gouvernement, mais dans quelques endroits, les seules options sont les agences de sécurité privée qui ne protègent que les individus qui souscrivent leurs services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Among the anarchists and scum, residents are largely responsible for their own protection, which means they may be constantly armed when in public (depending on local conditions).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Parmi les anarchistes et la racaille, les résidents sont trés largement responsables de leur propre proptection, ce qui signifie qu'ils doivent être constament armés lorsqu'ils sont en public (en fonction de la situation locale).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending on the stations, the most someone who is the victim of a crime can do may be to go after their attacker or post a bounty.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fonction des stations, la seule chose que peut faire quelqu'un qui serait victime d'un crime est de traquer on agresseur ou de poser une prime sur sa tête.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In others, mechanisms exist for community or collective problem-solving that often involve assembling an ad-hoc grouping of peers to assess the situation, offer non-biased judgment, and sometimes pursue collective action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans d'autres, des mécanismes existent pour résoudre les problèmes de manière communautaire ou collective qui impliquent souvent de constituer un groupe adéquat de pairs pour évaluer la situation, offrir un jugement non biaisé et parfois poursuivre une action collective.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The only widely-accepted law enforcement officers that attempt to maintain jurisdiction across the solar system are bonded investigators and security consultants from companies such as Medusan Shield or Direct Action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les seuls agents des forces de l'ordre largement acceptés et qui tentent de maintenir une juridiction à travers le système solaire sont les enquèteurs privés et les consultants en sécurité des sociétés telles que el Bouclier de Méduse ou Action Directe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Both organizations have contracts with various hypercorps and inner system stations to provide security.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les deux organisations ont des contrats avec différentes hypercorps et stations du système solaire intérieur pour leur fournir de la sécurité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, in the outer system and in other regions not controlled (directly or indirectly) by the hypercorps, the status of these officers is far more tenuous.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans le système extérieur et d'autres régions non contrôllées (directement ou indirectement) par les hypercorps, le statut de ces agents est cependant bien plus fragile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In habitats that do not have security contracts with their organization, the best these agents can do is act as bounty hunters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les habitats qui n'ont pas de contrats de sécurité avec leurs organsiation, le mieux que peuvent faire ces agents est d'agir en tant que chasseur de prime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Due to extensive stories of excesses in the inner system, many colonies frown on freelance bounty hunters—often referred to as ego hunters—and may ban them entirely.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En raison des nombreuses histoire à propos des excès dans le système intérieur, beaucoup de colonnies rechigne à utiliser des chasseurs de primes indépendant - souvent appelés chasseur d'égo - et peuvent aller jusqu'à les bannir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Others allow agents from licensed security hypercorps to act as ego hunters, but forbid them from extraditing or otherwise restraining or punishing the criminals they are pursuing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres autorisent les agents des hypercorps de sécurité autorisées à agir comme chasseur d'égo, mais leur interdisent d'extrader ou de restreindre et punir les criminels qu'ils pourchassent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Instead, agents are required to turn over evidence so that the habitat's own judicial system may hold a trial, in which case a convicted person may be remanded to the agent's custody.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À la place, les agents doivent fournir les preuves pour que le système juridique de l'habitat puisse établir un procès, aauquel cas une personne accusée peut-être mis en détention provisoire sous la garde de l'agent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Law enforcement officers experience similar difficulties attempting to apprehend a suspect who has fled to another habitat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les agents des forces de police rencontre des difficultés similaires lorsqu'il tentent d'apréhender un suspect qui s'est enfui dans un autre habitat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Closely allied habitats in the outer system usually allow full or at least limited legal powers to visiting law enforcement officers from their allies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des habitats alliés dans le système extérieur accorde généralement un pouvoir légal complet ou limité aux agents des forces de l'ordre en visite et à leurs alliés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are also various small private security organizations that work closely with local law enforcement offices to provide inter-habitat security between habitats that are not closely allied.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il existe aussi diverses organisation de sécurité privée qui travail en lien étroit avec les forces de l'ordre locales pour fournir une sécurité inter-habitat entre divers habitats qui ne sont aps forcément des alliés proches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The members of these organizations attempt to maintain sufficiently high rep to earn the respect of all the habitats with which they work.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les membres de ces organisations tentent de maintenir une rep suffisament élevée pour gagner le respect de tout les habitats avec lesquels ils travaillent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They act as both bounty hunters and unbiased investigators in situations that involve the laws of several habitats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils agissent à la fois comme chasseur de prime et comme enquèteurs neutre dans les situatiosn qui implique les lois de plusieurs habitats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All of these security companies are located in the outer system, and none has jurisdiction extending beyond a relatively limited location, like the middle belt or the Saturn system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toutes ces entreprises de sécurité sont localisées dans le système extérieur, et aucune n'a de juridiction étendue au-delà d'une localisation relativement limitée, comme le milieu de la ceinturne ou le système Saturnien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any such organizations that attempt to grow larger come into direct competition with Medusan Shield and Direct Action and are subsequently either bought out or undercut and discredited by one or both of these organizations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toutes organisation de ce type qui essaye de se développer entre en compétition directe avec le Bouclier de Méduse ou Action Directe et sont en conséquence achetées ou sapée et discréditée par l'une des deux organisations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are also several private bounty hunters and private investigators, some of whom are highly reliable.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a aussi plusieurs chasseurs de prime et enquèteurs privés, certains d'entre eux étant extrêmement fiable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Others are known for their extreme moral and ethical flexibility, especially if the pay is sufficiently high.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres sont connus pour leur éthique et leur sens moral extrêmement flexibles, particulièrement si la paie est suffisament élevée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On some of the autonomist stations and scum ships, these private contractors can be hired to simply go on board and abduct or execute a resident as long as this person has a low enough rep.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans certaines des stations autonomistes et des vaisseaux de la racaille, ces contractants privés peuvent être engagés pour simplement embarquer et enelver ou exécuter un résident du moment que cette personne à une rep suffisament basse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Attempting to abduct or kill a respected member of the community, however, rapidly earns the ire of the entire habitat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>tenter d'enelevr ou de tuer un membre respecté de la communauté attire cependant rapidement l'ire de tout l'habitat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The various small-scale or private security organizations from the outer system can sometimes pursue subjects to habitats controlled by the various hypercorps or the Planetary Consortium.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les diverses petites organisation de sécurité privées du système extéireur peuvent parfois poursuivre un sujets dans des habitats contrôllées par els différentes hypercorps ou le Consortium Planétaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Doing so requires background checks, security screenings, and often moderately large payments.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela nécessite une vérification des antécadents, des contrôle de sécurité et souvent un paiement relativement élevé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Punishment}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Punition}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Among the autonomist colonies, forced exile or repaying the victim with an equitable amount of goods or labor are the principle punishments for all but the most heinous crimes (such as attempted mass murder, habitat destruction, attempting to create seed AIs or similarly extreme actions).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Parmi les colonnies autonomistes, l'exil forcé ou le remboursement de la victime avec un montant équitable de marchandise ou de travail sont les principales condamnation à l'exception des crimes le splus odieux (tels que la  tentative de meurtre en masse, la destruction d'habitat, la tentative de création d'IAs germe ou d'autres actiosn extrème similaire).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the collectivist anarchist habitats, antisocial behavior typically involves expulsion or penalizing reputation, though solutions that involve making amends are often pursued over standard punishments.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les habitats anarchistes et collectivistes, les comportements antisociaux impliquent égénrallement l'expulsion ou une pénalité réputationnelle, bein que des solutions impliquant le système d'amendes sont souvent utilisés pour des punitions standards.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the other end of the spectrum, people convicted of more serious crimes in the most violent and lawless habitats are executed and all of their known backups destroyed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À l'autre extrémité du spectre, les personnes accusées de crimes encore plus sérieux dans les habitats les plus violents et sans lois sont exécutées et leurs sauvegardes connues sont détruites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
