@@ -1,32 +1,32 @@
-Mesures du projet
+Project Metrics
 
 Total
     Segments:   18753
-        Mots:  262346
-  Caractères: 1402947 : - espaces
-  Caractères: 1622165 : + espaces
+       Words:  262346
+  Characters: 1402947 : -spaces
+  Characters: 1622165 : +spaces
 
-Restants
-    Segments:   14707
-        Mots:  196277
-  Caractères: 1035169 : - espaces
-  Caractères: 1216783 : + espaces
+Remaining
+    Segments:   14675
+       Words:  195873
+  Characters: 1033167 : -spaces
+  Characters: 1214396 : +spaces
 
-Uniques
-    Segments:   16205
-        Mots:  258736
-  Caractères: 1379105 : - espaces
-  Caractères: 1603697 : + espaces
+Unique
+    Segments:   16204
+       Words:  258735
+  Characters: 1379090 : -spaces
+  Characters: 1603686 : +spaces
 
-Restants uniques
-    Segments:   12357
-        Mots:  193203
-  Caractères: 1036354 : - espaces
-  Caractères: 1201894 : + espaces
+Unique Remaining
+    Segments:   12325
+       Words:  192803
+  Characters: 1034117 : -spaces
+  Characters: 1199522 : +spaces
 
-Mesures des documents
+Documents Metrics
 
-    TM      MR      TCSE    CRSE    TC      CR     Document
+    TW      RW      TCNS    RCNS    TC      RC     Document
      581     581    3451    3451    3979    3979 - 0-credits.tex
     8100       1   38376      40   45753      40 - 1-lack.tex
    20340   20340  104177  104177  123063  123063 - 10-accelerated-future.tex
@@ -35,19 +35,19 @@ Mesures des documents
        1       1       6       6       6       6 - 13-tables.tex
        1       1      10      10      10      10 - 14-references.tex
     9090      14   48592      69   57179      71 - 2-synopsis.tex
-   61776   36099  334423  198756  393103  232926 - 3-eclipse.tex
-    9902      68   49182     356   58478     358 - 4-mechanics.tex
+   61776   35981  334423  198035  393103  232095 - 3-eclipse.tex
+    9902      93   49182     492   58478     526 - 4-mechanics.tex
    16622   16621   85947   85930  101263  101246 - 5-character-creation.tex
     8618    8615   46366   46339   54224   54195 - 6-skills.tex
    21717   21710  109826  109778  129634  129583 - 7-action-combat.tex
-   11891     340   62399    1533   73548    1844 - 8-mind-hacks.tex
+   11891      29   62399     116   73548     120 - 8-mind-hacks.tex
    22333   20544  119673  109090  140610  128329 - 9-mesh.tex
       64      32     378     219     415     233 - ep.tex
 
-Légende
-    TM: Total des mots
-    MR: Mots restants
-  TCSE: Total des caractères : - espaces
-  CRSE: Caractères restants : - espaces
-    TC: Total des caractères
-    CR: Caractères restants
+  Key
+    TW: Total Words
+    RW: Remaining Words
+  TCNS: Total Characters : -spaces
+  RCNS: Remaining Characters : -spaces
+    TC: Total Characters
+    RC: Remaining Characters
