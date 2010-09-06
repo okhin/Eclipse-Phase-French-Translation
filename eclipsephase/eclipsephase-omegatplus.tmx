@@ -10398,6 +10398,486 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>With Earth now uninhabitable, transhumanity survives in a variety of off-world habitats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Terre étant devenue inhabitable, la transhumanité survit donc dans une variété d'habitat hors monde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are two major types of these habitats: settlements on planets or large moons, such as those on Luna, Mars, Venus, Europa, or Titan, and space habitats that are built on or near an asteroid or other useful source of raw materials.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a deux types majeurs de ces habitats: les abris sur des planètes ou sur les grosse lunes, telles que ceux sur la Lune, Mars, Vénus, Europe ou Titan, et les habitats spatiaux qui sont construit sur ou proche d'un astéroïde ou d'autre source de matériaux bruts utiles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most of these space habitats spin themselves to provide gravity, with Earth and Mars gravity being the two most common choices.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart de ces habitats spatiaux tournent sur eux même pour fournir une gravité, la gravité Terreste et Martienne étant les deux chois les plus courants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are also a large number of zero-g or microgravity habitats, consisting of either non-spinning habitats or stations built into small asteroids or moons.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a aussi quantité d'habitats en zéro-g ou en microgravité, sui qont soit des habitats ne tournant pas ou des stations construites dans de petits astéroïdes ou de petites lunes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Planetary settlements}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Abris planétaire}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Martian and Lunar city-states and other planetary settlements contain environments most familiar to refugees from Earth.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les cités états de Mars et de la Lune et d'autres abris planétaires contiennent des environnements familier aux réfugiés de la Terre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This similarity is one reason that two-thirds of all infomorph refugees live on Mars, Luna, or Titan.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La similitude est l'une des raisons pour laquelle deux tiers de toutes les infomorphs vivent sur Mars, la Lune ou Titan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The exact type of settlements depends on the planet or moon on which they are located, with some being far more similar to Earth cities than others.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le type exact d'abri dépends de la planète ou de la Lune sur laquelle ils sont situés, certains étant bien plus similaire aux villes Terrestres que d'autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most Lunar settlements, like those on Ganymede, Mercury, Titan, and Callisto, consist of a network of subsurface tunnels and chambers excavated with plasma drills.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des abris Lunaires, comme ceux de ganymède, Mercure, Titan et Callisto sotn un réseau de tunnels et de chambres sous la surface et excavées avec des foreuses à plasma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These tunnel settlements differ slightly from one world to the next.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces abris tunneliers diffèrent légèrement d'un monde à l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In most of these tunnel cities, the floors of all open areas and many dwellings are composed of geneticallymodified grass designed for both comfort and durability, with light panels covering the ceiling providing bright full-spectrum lighting.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans la plupart de ces cités tunnel, les murs de toutes les zones ouvertes et de beaucoup de résidence sont cosntitués d'herber génétiquement conçue pour le confort et la longévité, avec des panneaux lumineux couvrant le plafon et founissant une lumièrebrillante dans tout le spectre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few of these buried cities further enhance their natural appearance with the addition of trees and, in some cases, specially engineered ecosystems, in both public areas and private dwellings.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques unes de ces cités enterrées renforcent encore plus leur apparence naturelle en ajoutant des arbres et, dans quelques cas, des écosystèmes spécifiquement conçus, à la fois dans les espaces publics et dans les résidences privées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few of these urban tunnel forests and jungles are home to numerous flowering vines and bright tropical butterflies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques uns de ces forêts et jungles des tunnels urbains sotn le foyer de nombreuses vignes florissante et de jolis papillons tropicaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In a small number of settlements on both Titan and Luna, colonies of small monkeys and parrots with metabolisms and habits modified for modern ideas of cleanliness and sanitation thrive, giving some of these tunnel cities the feel of a buried jungle.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans un petit nombre d'abri sur Titan et sur la Lune, des colonies de petits singes et de perroquest dont le métabolisme et les habitudes ont été modifiées selon les standard actuels de propreté et d'hygiène, donannt à certains de ces cités tunnel l'impression d'être une jungle dense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All of the older or more prosperous tunnel cities also contain large open areas that are typically between one and twenty hectares, with ceilings at least ten meters high.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toutes les cités tunnels les plus vieilles et propsères contiennent également de large zone ouvertes qui couvrent entre un et vingt hectares chacune, et dont le plafond est au moins à dix mètres du sol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some are parks, others are public plazas, but all offer the residents of the tunnel cities a chance to experience open spaces.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines de cs zones sont des aprcs, d'autres des places publiques, mais toutes permettent aux résidents des cités tunnels d'avoir une chance de faire l'expérience des espaces ouverts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Also, with the exception of Mercury, all of these tunnel cities are on moons where gravity is no more than one-sixth of a g.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Également, avec l'exception de Mercure, toutes ces cités tunnel sont sur des lunes où la gravité est rarement supérieure à un sixième de g.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some of these open spaces are constructed with roofs between thirty and one hundred meters high and are designed so that residents can use them for flying by strapping on a pair of specially-designed wings.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains de ces espaces ouverts sont construits avec des plafonds à une hauteur de trente à cent mètre et sont conçus pour que les résidents puissent les utiliser pour voler attacher à une apire d'ailes spécialement conçues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The cloud cities of Venus are among the most unusual habitats in the solar system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les cités nuageuses de vénus sont parmi les habitats les plus inhabituels dans le système solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their exotic nature is enhanced by the chance to observe the many recently introduced floating and flying life forms modified to live in the clouds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leur nature exotioque est renforcée par la possibilité d'observer les formes de vies volante et flottante nouvellement introduites et modifiée pour vivre dans les nuages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though located almost fifty kilometers above the most deadly environment in the solar system, life in these cloud cities is among the most Earth-like anywhere in the solar system, with gravity, temperatures, and atmospheric pressure all being very near normal Earth levels.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que situés presque cinquante kilomètres au-dessus des environnement les plus mortels du système solaire, la vie dans ces cités nuageuses est parmi celles qui ressemble le plus à la vie sur Terre  dans le système solaire, avec une gravité, des températures et une rpession atmosphériques trés proche des niveaux normaux sur Terre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>By contrast, the settlements on Mars look the most like the cities of lost Earth, built on the surface rather than underground or in the skies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par contraste, les habitats de Mars ressemblent le plus aux cités la terre perdue, construites sur la surface plutôt que sous-terre ou dans les cieux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some of the more recent settlements are designed for use by inhabitants in ruster morphs or synthmorphs and feature no life support.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains des abris les plus récents sotn conçus pour être utilisé par des habitants en morph rusters ou en synthmorph et n'ont donc pas de système de survie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Older Martian cities and other settlements are typically covered with low domes of flexible polycarbonate and filled with a completely breathable, if somewhat low pressure, atmosphere.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les plus vieilles cits Martienne et d'autres abris sont typiquement recouvert par des domes bas de polycarbonates flexible et remplis d'une atmopshère complètelent respirable, même si parfois en pression légèrement basse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some, however, are collections of sealed skyscrapers, connected by skywalks and tunnels.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains sont, cependant, un assemblage de gratte-ciels scellés, connectés par des passerelles et des tunnels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If current terraforming efforts continue on schedule, the last sealed Martian cities will be opened to a Martian atmosphere breathable by all morphs within sixty years.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si les efforts actuels de terraformation continuent selon le planning, les dernières cités scellées Martiennes seront ouvertes à une atmosphère Martienne respirable par toutes les morphs d'ici soixante ans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The most unusual planetary settlements are the ocean cities of Europa.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les abris planétaires lesplus étranges sont les cités océaniques d'Europe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These are among the most exotic locations in the entire solar system and are quite disorienting for individuals not used to underwater cities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils font parti des endroits les plus exotiques de tout le système solaire et sont quelque peu désorientant pour les personnes qui ne sont pas habitués aux cités sous-marines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>From a distance, most appear to be complex Christmas tree ornaments hanging down one hundred meters or more below the ice crust above.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De loin, la plupart semblent être des décorations de sapins de Noël complexe pendues cent mètre ou plus sous le niveau de la couche de glace au-dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few are built deeper, plunging under the icy surface near the various hydrothermal vents that host the native Europan life clusters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques uns sont construits encore plus profondément, plongeant sous la surface de glace près des différents courants hydrothermiques qui héberge les groupes de vie natives d'Europe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many of the residents of the Europan cities find them familiar because they previously lived in one of the underwater cities on Earth and so were used to both the conditions and to living in an aquatic-adapted body.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup des habitants des cités d'Europe les trouvent familières car ils ont généralement vécus dans l'une des cités sous-marines sur Terre et sont donc habitués à la fois aux conditions et à la vie dans un corps adapté au milieu aquatique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Europan cities all contain sealed buildings with normal atmosphere, both because some activities work best in air instead of water and because the cities often host visitors without gills.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les cités Européenne contiennent toutes des bâtiments scellés avec une atmosphère normale, à la fois parceque certaines activités sotn plsu facile à faire à l'air libre et parceque les cités acceuillent souvent des visiteurs sans branchies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, these regions make up only ten percent or so of most of these cities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces régions ne constituent cependant qu'environ dix pourcent de la plupart de ces cités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The remainder looks vaguely similar to many zero-g habitats, except that the structures are considerably sturdier and are located underwater.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le reste à l'air vaguement smiliaire à beaucoup d'habitat en zéro-g, excepté le fait que els structures sont considérablement plus robuste et localisées sous l'eau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Buildings are designed to be accessible in all three dimensions, so going from one floor to another usually involves swimming out a large opening in the wall and down a level.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les bâtiments sont conçus pour être accessible en trois dimensions, passer d'un niveau à l'autre implique généralement de nager à travers une grande ouverture dans le mur et de descendre d'un niveau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In almost all of these aquatic cities, large fusion generators heat the surrounding water, so that the entire city exists in a region of water that is far warmer than the surrounding frigid Europan sea.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans presque toutes les cités aquatiues, de grands générateurs à fusions chauffent l'eau environnante, afin que toute la ville existe dans une région d'eau qui est bien plus chaude que la mer frigide d'Europe environnante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Space habitats}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Habitats spatiaux}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>With the exception of the private habitats of the wealthy and powerful described below, the vast majority of space habitats hold between twenty-five hundred and one million inhabitants.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A l'exception des habitats privés des plus riches et puissants décrit plus bas, la vaste majorité des habitats spatiaux hébergent une population de deux milles cinq cent à un million d'habitants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Almost two-thirds of these habitats were built during the first seven years after the Fall, when huge portions of the system's surviving infrastructure were used to create habitats suitable for hundreds of millions of infugees.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Presque deux tiers de ces habitats ont été construit pendant les septs premières années après la Chute, lorsque de gigantesque portions des infrastructure du système ayant survécu ont été utilisées pour créer des habitats convenable pour les centaines de millions d'infugiés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>During this era, several thousand torus habitats and cluster colonies were created throughout the solar system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pendant cette époque, plusieurs centaines d'habitats toriques et de colonies en grappes ont été créées à travers le système solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many of these habitats were created by automated mining machinery that had been repurposed to create colonies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup de ces habitats ont été créés par des machines de minages automatiques qui ont été reprogrammée pour créer des colonnies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Due to the limitations of these automated mining rigs, most these habitats were small, holding between one thousand and one hundred thousand inhabitants.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En raison des limitations de ces plateformes de minage automatiques, la plupart de ces habitats sont petits, abritant entre mille et cent mille habitants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Twenty percent of the system's inhabitants live in such habitats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vingt pourcent des habitants du système vivent dans de tels habitats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>During the past decade, various small organizations, cults, and subcultures have left the larger habitats they lived in and created their own small habitats, few of which were designed to hold more than ten thousand residents.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pendant la dernière décennie, différentes petites organisations, cultes et sous-cultures ont quittés les habitats les plus grands dans lesquels ils vivaient pour créer leur propre petits habitats, peu d'entre eux ayant été conçus pour héberger plus de dix milles résidents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The development of the new nanotech Hamilton cylinders has lead to a new interest in large habitats and in habitats that can easily expand in size to accommodate an increasing population.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le développement des nouveaux cylindres Hamilton nanotechnologique a relancé l'intérêt dans les grands habaitats et dans les habitats pouvant rapidement augmenter leur taille pour faire face à une population croissante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The expense and difficulty involved in expanding existing habitats or building new ones is one of the principle reasons that more than forty million infomorph refugees still do not posses morphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le coûts et les difficultés générés par l'extension d'habitats existant ou par la construction de nouveaux habitats est l'une des principales raisons qui fait que plus de quarante millions d'infugiés ne possèdent toujours pas de morphs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Although none of the existing Hamilton cylinders has finished growing, they are both highly regarded by their residents.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même si aucun des cylindres Hamilton n'a finit de grandir, ils sont regardé avec considérations par leurs résidents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This same technology is also likely to produce a low-cost method for creating small habitats, where the creators merely need to seed an asteroid with the appropriate advanced nanotech generators and wait a few months.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La même technologie est également capable de produire une méthode de création de petits habitats à bas coût, pour lesquels les créateurs ont juste à planter le générateur nanotechlogique approprié dans un astéroïde et d'attendre quelques mois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Scum barges}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Barge de la racaille}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the opposite extreme from the Hamilton cylinders are the infamous scum barges.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les infâmes barges de la racaille se situent à l'extrême opposé des cylindres Hamilton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most are spacecraft built before or during the Fall that were used to help with the early stages of the evacuation, ferrying people away from the doomed Earth.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup d'enre elles sont des vaisseaux construits avant ou pendant la Chute et qui était utilisés pour aider pendant els premières étapes de l'évacuation, convoyant les gens loin de la Terre mourante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many of these refugee ships were unable to find anywhere to unload their human cargo, becoming a sort of permanent traveling refugee camp, sometimes succumbing to mutinies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup de ces vaisseaux de réfugiés ont été incapables de touver un endroit où déhcarger leur cargaison humaine, devenant ainsi une sorte de camp de réfugié itinérant, succombant parfois à la mutinerie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They eventually joined up with pre-existing scum ships and swarms, adopting their nomadic, freewheeling, anarchistic lifestyle.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils ont parfois rejopint des vaisseaux et des nuées de racailles pré-existant, adoptant leur mode de vie nomade, en roue-libre et anarchique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In contrast to egocasting or the faster and more efficient fusion drive ships, so-called scum barges offer a floating city alternative to space travel.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>par opposition à l'égocast ou aux vaisseaux à fusion plus rapide et plus efficace, les prétendues barges de la racaille offrent une alternative aux voyages spatiaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These ships function as roving black markets and carnivals of the bizarre—lawless zones where anyone can find whatever they want or need for the right rep or price.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces vaisseaux fonctionnent comme des marchés noirs errants et des festivals du bizarre - des zones de non-droit où n'importe qui peut trouver ce qu'il veut ou ce dont il a besoin pour le bon niveau de rep ou le bon prix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most scum barges have fusion-powered plasma drives and hold between two hundred and five thousand inhabitants.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des barges ont des moteurs alimentés par la fusion au plasma et abritent de deux cents à cinq milles habitants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The worst barges are exceptionally overcrowded, with aging life-support systems struggling to maintain a breathable (but still foul-smelling) atmosphere under the strain of too many passengers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les pires barges sont exceptionnellement bondées, avec des systèmes de survie vieillissant se démenant pour maintenir une atmosphère repsirable (mais toujours malodorante) sous la pression de pasagers trop nombreux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The larger and more prosperous scum barges are often fitted with various modern conveniences, including large cornucopia machines and vast stores of pirated manufacturing templates.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les barges les plus grandes et les plus prospères sont souvent équippés de différentes commodités moderne, incluant de grande machine d'abondance et de gigantesque boutiques de plans de fabrication piratés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some are thriving utopianist enclaves, while others are mobile dens of smugglers and thieves that would have been destroyed long ago except for the fact that large and powerful organizations find their existence occasionally useful.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines sont des enclaves utopistes prospère, alros que d'autres sont des nids modibles de contrebandiers et de voleurs qui auraient été détruit il y a longtemps si ce n'est que des organisations suffisament grande et puissante trouvent leur existence ocasionellement utile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Living conditions on the scum barges range from overcrowded refugee camps to thriving, egalitarian, but non-wealthy anarchist enclaves, to relatively modern habitats outfitted in barbaric splendor by highly successful organized crime gangs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les conditions de vie sur les barges vont des camps de réfugiés bondées aux enclaves anarchistes et égalitaire florissante mais non riches en passant par des habitats relativement modernes équipées dans toute leur splendeur barabre par des gangs criminels organisées et ayant réussit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
