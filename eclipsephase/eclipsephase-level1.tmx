@@ -11286,6 +11286,182 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The hypercorps are their evolutionary descendants: slimmer, faster, meaner, and more flexible, eagerly embracing the possibilities of new technologies and never afraid to toss the old aside to take advantage of the new.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les hypercorps sont leur descendant évolué: plus mince, plus rapide, plus agresisve et plus souple, embrassant avidement les possibilité des nouvelles technologies et jamais effrayé d'abandonner les plus vieille pour profiter des plus récentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It was the hypercorps that drove humanity's expansion into space and who continue to push the technological envelope, guiding transhumanity towards new horizons—always with profit as their driving goal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce sont les hypercorps qui ont propulsé l'expansion de l'humanité dans l'espace et qui continuent de repousser les limites de la technologie, guidant la transhumanité vers de nouveaux horizons - en ayant toujours le profit comme but conducteur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most hypercorps are decentralized, non-assetbased legal entities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des hypercorps sont ds entités légal décentralisées non basées sur les actifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Complete automation, advanced robotics, morph technology, and cornucopia machines allow the hypercorps to abstain from mass employment for labor or production services.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'automatisation complète, la robotique avancée, la technologie des morphs et les machines d'abondances permettent aux hypercorps de s'affranchir de l'embauche massive pour la main d'œuvre ou les services de productions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The need for physical labor has mostly been reduced to tasks associated with habitat construction or deep space mining.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le besoin de travail physique a été réduit aux tâches associées à la construction d'hébaitat ou à l'exploitation minière spatiale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Infomorphs and AIs are heavily employed (or more accurately, owned) as drone operators or virtual workers, and many administrative tasks are performed online via augmented reality, virtual private networks, and simulspace nodes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les informophs et les IAs sont massivement employées (plus précisément, possédée) comme opérateur de drône ou travailleurs virtuels, et beaucoup des tâches administratives sont faites en ligne par la réalité augmentée, les réseaux privés virtuels et les nœuds de simulspace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some hypercorps are in fact entirely “virtual,” with no physical assets and each employee acting as a mobile office.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines hypercrops sont en fait entièrement &quot;virtuelle,&quot; sans actifs physique et chaque employé est considéré comme un bureau mobile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few major hypercorps literally consist of only a dozen transhuman personnel.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques hypercorps majeures ne sont littéralement composées que d'une douzaine d'employés transhumains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though some hypercorps are massive and diversified, most specialize in particular fields or services.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même si certaines hyeprcorps sont massive et diversifiée, la plupart se spécialisent dans un domaine ou un service particulier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This results in both an intricate system of partnerships to develop, produce, and market products and services and a large-scale tendency to internally contract special services from other hypercorps.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela donne un système complexe de paretnarait pour développer, produire et vendre des produits et des service et une forte tendance à contracter en interne des servcies particuliers d'autres hypercorps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many hypercorps also pool their resources and talent into cooperative research initiatives, project centers, or shared habitats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup d'hypercorps regroupenet égelement leurs ressources et leurs talent dans des initiatives de recherche coopérative, des centres de projets et des habitats partagés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most hypercorps are traditional capitalist in outlook, though many have adopted alternative business philosophies and management models.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart d'entre elles sont dans une perspective capitaliste traditionnelle, même si beaucoup ont adoptés des philosophies des affaires et des modèles de gestion alternatifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This might include basing decisions on internal forecast market trends, groupthink consensus models, or ditching management entirely in favor of staff polling/voting initiatives that statistically fare better.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela peut inclure de la prise de décision basé sur des prévision de marché, des modèles de consensus de groupe ou d'abandonner complètement le management pour laisser le personnel voter pour des initaitives qui sont statistqieuemnts bien meilleure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few are anarcho-capitalist companies originating from Extropian enclaves, though these often suffer from a bias when making deals with inner system powers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques unes sont des sociétés anarcho-capitaliste originaire des enclaves Extropiennes, bien qu'elles souffrent souvent d'un biais lorsqu'elle concluent des accords avec les puissances du système intérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The solar system boasts thousands of hypercorps; a few of the more prominent and interesting are noted below.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le système solaire grouille de milliers d'hypercorps; quelques une des plus proéminentes et intéressante sont détaillées ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Industries: Cognitive Science, Mental Implants, Psychosurgery, Nootropics</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Industries pricnipales: Science Cognitive, Implants Mentaux, Psychochirurgie, Nootropiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Stations: Thought (Venus orbit), Phobos (Mars moon)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations Principales: Pensée (orbite Vénusienne), Phobos (lune de Mars)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A pioneer in the field of cognitive science, Cognite (pronounced cog-neet) drives forward the cutting edge of research into understanding the transhuman mind.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un pionier dans le domaine des scince cognitive, Cognite (prononcer cogue-nite) est à la pointe de la recherche dans la compréhension de l'esprit transhumain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most well-known for their mental augmentations and the original menton morph design, Cognite also specializes in psychosurgery and nootropics.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plus connue pour ses augmentations mentales et la conception origniale des morphs menton, Cognite est également un spécialiste en psychochirurgie et dans les nootropiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their elitist and aloof image was not aided by their scandalous involvement with the projects to raise accelerated growth children that became known as the Lost generation (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leur image élitiste et distante n'as pas été améliorée par leur implication scandaleuse dans le projet qui a chercher à élever des enfants en croissance accélérée qui sont devenus la génération Égarée (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>233), nor rumors that they engage in research involving TITAN-influenced incapacitating input attacks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>233), ni par les rumeurs selon lesquelles ils seraient engagés dans des recherche impliquant des attaques sensorielle incapacitantes influencées par les TITANs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nevertheless they remain a key member in the Planetary Consortium.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils demeurent néanmoins un membre vlef du Consortium Planétaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
