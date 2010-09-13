@@ -7,22 +7,22 @@ Total
   Caractères: 1622165 : + espaces
 
 Restants
-    Segments:   15310
-        Mots:  210879
-  Caractères: 1112877 : - espaces
-  Caractères: 1308485 : + espaces
+    Segments:   15284
+        Mots:  210597
+  Caractères: 1111613 : - espaces
+  Caractères: 1306952 : + espaces
 
 Uniques
-    Segments:   16205
-        Mots:  258736
-  Caractères: 1379105 : - espaces
-  Caractères: 1603697 : + espaces
+    Segments:   16204
+        Mots:  258735
+  Caractères: 1379090 : - espaces
+  Caractères: 1603686 : + espaces
 
 Restants uniques
-    Segments:   12960
-        Mots:  207805
-  Caractères: 1114083 : - espaces
-  Caractères: 1293596 : + espaces
+    Segments:   12934
+        Mots:  207527
+  Caractères: 1112584 : - espaces
+  Caractères: 1292078 : + espaces
 
 Mesures des documents
 
@@ -35,12 +35,12 @@ Mesures des documents
        1       1       6       6       6       6 - 13-tables.tex
        1       1      10      10      10      10 - 14-references.tex
     9090      14   48592      69   57179      71 - 2-synopsis.tex
-   61776   50701  334423  276464  393103  324628 - 3-eclipse.tex
-    9902      68   49182     356   58478     358 - 4-mechanics.tex
+   61776   50705  334423  276481  393103  324651 - 3-eclipse.tex
+    9902      93   49182     492   58478     526 - 4-mechanics.tex
    16622   16621   85947   85930  101263  101246 - 5-character-creation.tex
     8618    8615   46366   46339   54224   54195 - 6-skills.tex
    21717   21710  109826  109778  129634  129583 - 7-action-combat.tex
-   11891     340   62399    1533   73548    1844 - 8-mind-hacks.tex
+   11891      29   62399     116   73548     120 - 8-mind-hacks.tex
    22333   20544  119673  109090  140610  128329 - 9-mesh.tex
       64      32     378     219     415     233 - ep.tex
 
