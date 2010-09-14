@@ -11409,7 +11409,7 @@
         <seg>Major Industries: Cognitive Science, Mental Implants, Psychosurgery, Nootropics</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Industries pricnipales: Science Cognitive, Implants Mentaux, Psychochirurgie, Nootropiques.</seg>
+        <seg>Industries principales: Science Cognitive, Implants Mentaux, Psychochirurgie, Nootropiques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11458,6 +11458,534 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Ils demeurent néanmoins un membre vlef du Consortium Planétaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>From: &lt;Encrypted&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>From: &lt;Chiffré&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I'm enclosing some data I recently acquired from an inside source regarding a so-called “Project Psiclone”— some type of black budget research initiative pursued by Cognite, possibly with involvement from other Planetary Consortium interests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Je joint quelques données que j'ai acquis récemment auprès d'une source interne en lien avec le projet baptisé &quot;Projet Psiclone&quot; - uen sorte de recherche financée par la caisse noire de Cognite, probablement avec l'implication d'autres intérêts du Consortium Planétaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their work seems to focus strongly on the Watts-Macleod strain of the Exsurgent virus—with some alarming results.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>leru travail semblese concentrer fortement sur la souche Watts-MacLéod du virus Exsurgent - avec quelques résultats alarmants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Industries: Courier Services, Shipping,Logistics</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Industries principales: Services de Courrier, Expédition, Logistique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Stations: Nectar (Luna), Olympus (Mars)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principales: Nectar (Lune), Olympus (Mars)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Comet Express specializes in delivery services, interstellar logistics, supply chains, and shipping.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comet Express se spécialise dans les services de livraisons, la logistique interstellaire, la chose d'approvisionnement et l'expédition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They maintain a presence on almost every transhuman habitat in the solar system, often via local subcontractors.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils maintiennent une présence dans presque tous les habitats transhumains du système solaire, souvent via des sous-traitant locaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Despite the wonders of nanofabrication, many resources must still be imported.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En dépit des merveilles de la nanofabrications, beaucoup de ressources doivent toujours être importées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ComEx focuses on managing supply and trade routes and making sure physical shipments reach their destinations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>ComEx se concentre sur la gestion des approvisionnement et des routes de commerce et s'assure que toutes les expéditions physiques arrivent à leur destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For that purpose, ComEx maintains orbital hubs equipped with slingshot accelerators at strategic waypoints throughout the system and a fleet of cargo vessels and courier drones.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce but, ComEx maintient des plateformes orbitale équippées de fronde d'accélération a des points stratégiques du système solaire ainsi que d'une flotte de vaisseaux cargos et de drone coursiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For reasons unknown to the public, ComEx is viewed with hostility by the Jovian Republic, who have standing orders to shoot down ComEx vessels.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour des raisons inconnues du public, ComEx est perçue hostilement par la République Jovienne, qui a donné l'ordre d'abattre tous les vaisseaux ComEx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Direct Action}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Action Directe}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Industries: Security Services, Military Contracting</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Industries principales: Services de sécurité, Contrats militaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Stations: Hexagon (Earth-Luna L5)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principale: Hexagone (L5 Terre-Lune)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Descended from the remnants of several pre-Fall national military forces and private military contractors, this hypercorp made a name for itself in the period immediately following the Fall, where they helped manage refugee populations among various habitats and vessels while shattering any sign of unrest immediately and with full force.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Descendant des rstes de plusieurs forces militaires nationales pré-Chute et de sous-traitants militaire privés, cette hypercorp s'est forgé sa réputation pendant la période immédiatement après la Chute, lorsqu'ils ont aidés à gérer les populations de réfugiés dans de nombreux habitats et vaisseaux tout en réduisant au immédiatement silence tout signe de mutinerie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Direct Action today is known for its highly-efficient shock troops and superior combat morphs, providing security and public police services to self-governing habitats or hypercorp installations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Action Directe est aujourdh'ui connue pour ses troupes de chocs extrêmement efficace ainsi que pour ses morphs de combat supérieures, fournissant la sécurité et des services de sécurité publique aux habitats auto-gouvernants ou aux installations hypercorps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shifting political alliances between habitat clusters, corporate rivalry, and the constant fear of TITAN agents cater to Direct Action's paranoia-inducing marketing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les shangements d'alliance politique entre des groupes d'habitats, la rivalité coropratiste et la peur constante des agents des TITAN permets de favoriser la communication d'Action Directe induisant la paranoïa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The corporation maintains several habitats as physical training facilities and armament depots.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La corporation maintiens plusierus habitats comme installations d'entraînements physiques et comem dépôt d'armement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Industries: Environmental Systems, Genetics</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Insdustries principales: Systèmes environnementaux, Génétique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Stations: McClintock (Mars orbit)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principales: McClintock (orbite Martienne)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ecologene specializes in living systems, environmental genetics (with a specialty in insects), smart animals, bio-architecture, and environmental nanotech.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ecologene se spécialise dans les systèmes vivants, la génétique environnementale (avec une spécialisation en insectes), les animaux intelligent, la bio architecture et la nanotech environnementale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They design and maintain the ecosystems inside numerous habitats and tunnel colonies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils conçoivent et maintiennent les écosystèmes à l'intérieur de nombreux habiatats et de colonnies tunnels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>One of Ecologene's notable projects is building and maintaining a massive genetics archive of all life forms, though this endeavor was nearly crippled by the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'un des projets notable d'Ecologene est la construction et le maintiens d'archive génétiques massive de toute les formes de vie, bien que ce projet ai été fortement handicapé par la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For unknown reasons, Ecologene seems to be favored by the Factors.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour des raisons incpnnues, Ecoloene semble avoir les faveurs des Facteurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some speculate that Ecologene has some sort of blackmail material in hand, while others believe Ecologene is trading away transhumanity's genetic secrets in exchange for a few xeno-tech gifts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains spéculent qu'Ecologene possèe un moyen de pression, alors que d'autres croient qu'Ecologene échange des secrets géénétique transhumain contre quelques cadeaux de xéno-tech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Industries: Uploading, AIs, Electronics, Software</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Industries principales: Upload, IAs, Electronique, Logiciel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Stations: Starwell (Main Belt)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principales: Starwell (Ceinture Principale)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Often regarded as the personal technocratic pulpit of the infamous media mogul Morgan Sterling, Exotech emerged from the Fall almost unscathed, any significant losses absorbed by corporate assets in peripheral market segments, while ruthlessly buying out troubled competitors or think tanks unable to adapt to the transitioning economy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Souvent considéré comme la pupille technocratique personnelle de l'infame magant des médias Morgan Sterling, Exotech a émergé de la Chute quasiment indemne, toute les pertes significative ont été absorbées par des actifs corporatistes dans les segments périphériques du marché, tout en  se livrant à d'impitoyables rachats de compétiteurs en difficulté ou de thinks tanks incapable de s'adapter à l'économie transitionnelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nowadays, Exotech remains a predominant designer of high-end electronics, AIs, and mesh presence software systems.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De nos jours, Exotech reste un concepteur dominant dans le domaine de l'électronique haut de gamme, des IAs et de systèmes logiciels pour le mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ExoTech also continues to pursue an uncompromising progressive agenda with its research in mind emulation, uploading, and resleeving, as well as infomorph ego simulation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>ExoTech continue également de poursuivre un plan sans compromis avec ses recherches en émulations cognitives, en upload et en réincarantion, ainsi que dans le domaine de la simulation d'ego infomorph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rumors persist that ExoTech continues to carry out research and even production of AGIs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des rumeurs sur le fait qu'ExoTech supporte des recherche sur les AGIs et en produirait persistent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Industries: Media (AR, VR, XP), News, Entertainment, Memetics</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Industries principales: Média (RA, RV, XP), Informations, Divertissements, Mémétique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Stations: Elysium (Mars)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Station principale: Elysium (Mars)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Living up to its name, Experia dominates the solar system's news, media, and entertainment market segments, generating controversy not only with its publicly expressed pro-AI stance or inviting an AGI to its board of directors, but also by proficient use of hyperviral marketing and sophisticated XP-programming.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A la hauteur de son nom, Experia domine le marché du système solaire dans les segments de l'information, des médias et du divertissement, générant la controverse non seulement par sa position pro-IA publiquement exprimée et en ayant invité des AGIs à son directoire, mais également par un usage prolifique du marketing hyeprviral et des techniques sophistiquée de programmation d'XP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Another core segment is the production of educational XP and infomorph or AI tutors, some of the latter regularly ascending to pop-culture icon status.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un autre segment clef est la production d'XP éducatives et de tuteurs infomorphs ou IAs, certains de ces derniers accédant régulièrement au status d'icône de la culture pop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Experia is the Planetary Consortium's prime authority on designing and deploying customized viral memes, developed to counter anything posing a threat to the Consortium's interests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Experia est l'autorité principale du Consortium Planétaire en dans le domaine de la conception et du déploiement de mêmes viraux personnalisés, développés pour contrer tout ce qui pourrait être une menace pour les intérêts du Consortium.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The corp has automated nodes and VR centers on many habitats throughout the solar system, and it contracts thousands of freelance lifeloggers as live, roving, citizen journalistas.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La corpo a automatisé des nœuds et des centres RV sur beaucoup d'habitats à travers le système solaire, et elle engage des milliers de lifeloggeur indépendant en tant que journlistes citoyens, errants et en direct.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Claims by some infomorphs that Experia has illegally subjected indentured infomorphs to never-ending simulation experiments for forecasting and intelligence analysis purposes remain unsubstantiated.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des accusations de certaines infomorph selon lesquelles Experia aurait illégalement assujetti des infomorphs contractés à des simulation expérimentales sans-fin pour l'analyse et l'intelligence prévisionnelle restent infondées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Industries: Mining, Energy, Biotech, Industrial Manufacturing</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Industries principales: Exploitation minière, Énergie, Biotechnologie, Fabrication industrielle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Stations: New Dazhai (Mars)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principales: New Dazhai (Mars)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The industrial giant Fa Jing is a powerhouse in the mining and energy production markets and also boasts a remarkable presence in the fields of biotech and industrial equipment manufacturing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le géant industriel Fa Jing est un élément central dans le marché de l'exploitation minière et de la production énergétique et se vante également d'une présence remarquable dans les domaines de la biotechnologie et de la fabrication d'équipements industriels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The former megacorp has quickly adapted to the new economic environments and reputation-based systems, thanks partly to its dedication to network building and sharing social responsibility, epitomized in concepts like dàtóng and guanxi.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'ancienne mégacorporation s'est rapidement adaptée aux environnements de la nouvelle économie et aux systèmes basés sur la réputation, en partie grâce à son implication dans le développement de réseau et dans le partage des responsabilités sociales, incarné dans des concepts tels que le dàtóng et le guanxi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Often considered insular and close-minded, its internal communal and protective mindset is a strong contrast to its manipulating and monopolist business attitude.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Souvent considéré comme insulaire et obtus, son état d'esprit interne communautaire et porctectionniste est en contraste élevé vis à vis des son attitude monopolistique et manipulatrice dans le domaine des affaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fa Jing is engaged in mining operations throughout the asteroid belt and the Trojans and maintains significant corporate assets on Mars.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Fa Jing est engagé dans des opérations d'extractions dans toute la ceinture d'astéroïde et dans les Troyens, et maintiens des actifs corporatistes sur Mars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>War crimes To: Meshleaks Newswire</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Crimes de guerre To: Meshleaks Newswire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>From: &lt;mesh ID does not exist&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>From: &lt;mesh ID inexistant&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You asked for it: verifiable evidence proving Direct Action's war crimes during the Fall &lt;link failure&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tu as demandé, les voilà: des preuves vérifiables prouvant les crimes de guerre d'Action Directe pendant la Chute &lt;lien manquant&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Go ahead, take it public.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vas-y, rends les publiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Planetary Consortium elites will find you, kill you, and erase your backups.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'élite du Consortium Planétaire te trouvera, te tuera et effacera tes sauvegardes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Go ahead.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vas y.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Test them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cherches les.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Gatekeeper Corporation}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Corporation Gatekeeper}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Industries: Gatecrashing, Research, XP Media, Exoplanet Colonization</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Industries principale: Resquille, Recherche, Média XP, Colonisations d'Exoplanètes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Stations: Gateway (Pandora)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principales: Gateway (Pandorre)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Initially born from the merger of several scientific institutions and their corporate financiers, this hypercorp made a name for itself overnight when it announced the successful decoding of the wormhole gateway discovered on Saturn's moon Pandora.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Créée initiallement de la fusion de plusieurs institutions scientifiques et de leurs financiers corporatistes, cette hypercorp s'est fait une répuattion très rapidement lorsqu'elle a annoncé le décodage réussi des portes de trou de vers découvertes sur la lune de Saturne Pandorre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Under the leadership of the eccentric but charismatic xenoarcheologist Xander Rabin, the consortium funds gatecrasher explorations through the Pandora gate, paying a small share of the revenue to the explorers but otherwise retaining all-encompassing rights on any discoveries made—as well as the marketing and distribution of the highly popular gatecrasher XP recordings.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sous le commandement du xénoarchéologiste excentrique mais charismatique Xander Rabin, le consortium a financé des équipes de resquillerus pour explorer via la porte de Pandorre, payant une petite part des revenus aux explorateurs mais se gardant tous les droits sur toutes les découvertes faites - aussi bien que la commercialisation et la distribution des enregistrements XP très populaires des resquilleurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aside from scheduled explorations, the consortium offers high-risk gatecrasher scouting and discovery trips for the bold or desperate, selected through a random lottery system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En plus des explorations planifiées, le consortium propose des voyages à haut risque de resquille et d'exploration pour les plsu braves et les plus désespérés, choisis via un système de tirage au sort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Go-Nin Group}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Groupe Go-Nin}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Industries: Banking, Agritech, Robotics, and Services</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Industries principales: Banque, Agritechnologie, Robotique et Services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Stations: Tsukomo (Luna)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations majeures: Tsukomo (Lune)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Considered a relic of Earth's capitalist market economy, the Go-nin Group is a traditional Japanese keiretsu, a conglomerate of companies with interwoven relationships and shareholdings, horizontally integrated across several industries (and sometimes vertically-integrated within a business sector as well), and centered around the long-lived Tamahashi enterprise consultancy firm.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Considéré comme une relique de l'économie de marché capitaliste de la Terre, le groupe Go-nin est un keiretsu Japonias traditionnel, un conglomérat d'entreprise ayant des relations entremélés et un partage de part, intégrées horizontallement à travers plusieurs industries (et parfois intégrées verticallement dans un secteur d'affaire), et centrées autour la vieille firme de consultant entrepreunarial Tamahashi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tamahashi evolved from an influential corporate lobby to a diversified bank holding major equity in the group's partners; it now controls the group's assets and directs the partnership's overall business strategy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tamahashi a évolué d'un lobby corporatiste influent en un portefeuille bancaire diversifié réparti équitablement parmi les partenaires du groupe; il contrôle maintenant les actifs du groupe et dirige la stratégie commerciale globale du partenariat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Through its member corps, the Go-nin Group has a sizable presence throughout the entire system and—without dominating a specific industry—own significant market share in fields such as banking, agritech, robotics, and services.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À travers ses corporations membres, le Groupe Go-Nin a une présence importante dans tout le système et - sans dominer un marché spécifique - possède des aprts de marché significative dans des domaines tels que la banque, l'agritechnologie, la robotique et les services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any difficulties in adapting to evolving economic models due to its rigid structure are compensated by unscrupulous exploitative behavior and a bottom-line attitude, earning the group the reputation as the most ruthless hypercorp of the inner system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toutes les difficultés rencontrées en s'adaptant à un système économique évolutif en raison de sa structure rigide sont compensées par un comportement d'exploitation sans-scrupule et une attitude bas de gamme, donnant au groupe la réputation de l'hyeprcopr la plus impitoyable du système intérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Go-nin currently controls a Pandora Gate on Eris (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Go-nin contrôle actuellement une Porte de Pandorre sur Éris (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>109), secured by a contingent of ultimate mercenaries.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>109), protégée par un contingent de mercenaires ultimates.</seg>
       </tuv>
     </tu>
     <tu>
