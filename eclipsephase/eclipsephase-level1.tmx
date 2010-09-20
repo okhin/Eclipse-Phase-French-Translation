@@ -11990,6 +11990,782 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Major Industries: Miltech, Security, Military Contracting</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Industries principales: Technologies militaire, Sécurité, Contrats militaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Stations: Extropia</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principale: Extropia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gorgon is one of the most significant Extropian success stories.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Gorgon est l'une des réussites Extropienne les plus importante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Based out of the anarcho-capitalist freehold, Gorgon has become a major name in the design and manufacture of weapons, vehicles, sensors, and other defense technologies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Basé dans la place forte anarcho-capitaliste, Gorgon est devenue l'un des acteur principal dans la conception et la fabrication d'arme, de véhicule, de capteurs et d'autres technologies défensives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their product range includes personal weapon systems, spacecraft armaments, and habitat defense systems.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leur gamme de produit inclue les systèmes d'armement personnels, l'armement des vaisseaux et les systèmes de défenses des habitats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While prominent in the inner system, Gorgon is also one of the main arms suppliers to autonomist and brinker stations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout en étant proéminente dans le système intérieur, Gorgon est aussi l'un des principaux fournisseurs d'armes des stations autonomistes et isolationnistes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their subsidiary Medusan Shield offers private security services in direct competition to Direct Action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leur filliale Medusan Shield propose des services de sécurité privés en compétition directe avec Action Directe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While DirAct is known for its expertly trained soldiers, Medusan Shield is known for their elite cadre of highly trained and aesthetically enhanced female combat morphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors qu'Action Directe est connue pour le niveau d'expertise de ses soldats, Medusan Shield est connus pour leurs cadres d'élites composé de morph femelle extrêmement entraînées et esthétiquement améliorée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is suspected that several prominent assassinations have been the work of agents contracted through Medusan Shield.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>On suppose que plusieurs assassinat important ont été le travail d'agents sous contrats de Medusan Shield.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Industries: Electronics, Mesh Systems, Farcasting, Communications</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Industries principales: Électronique, Système Meshés, Farcast, Communication</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Stations: Octavia (Venus)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principales: Octavia (Vénus)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nimbus produces key components for mesh infrastructure, from spime microradio and sensor systems to ectos, servers, and laser links.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nimbus produit les composants clef de l'infrastructure meshée, des microradios spimes et systèmes sensoriels aux ectos, serveurs et connexions laser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nimbus also dominates the network of farcaster links throughout the system, due to several breakthroughs in this technology (some claim that Nimbus purchased these advances from the Factors).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nimbus domine également le réseau de liens farcast à travers tout le système, grâce à plusieurs percées faites dans cette technologie (certains prétendent que Nimbus a acheter ces percées aux Facteurs).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rumors that Nimbus controls a secret Pandora Gate or that they engage in illicit ego-smuggling (or even that they are secretly transferring stolen egos to experimental exoplanet colonies) regularly circulate through the mesh, but remain unconfirmed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des rumeurs sur le fait que Nimbus controllerrait une porte de Pandorre secrète ou qu'il serait engager dans de la contrebande d'ego illicite (ou même qu'ils transfèrent secrètement des égos vers des colonies expérimentales sur des exoplanète) ciruclent régulièrement sur le mesh, mais restent infondées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Industries: Nanofabrication, Chemicals, Energy, Anti-Matter</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Industries principales: Nanofabrication, Chimie, Énergie, Anti-Matière</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Stations: Monolith-3 (Mercury), Feynman (Luna)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principales: Monolith-3 (Mercure), Feynman (Lune)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A descendant of the pre-Fall megacorporate giant Monolith Industries, Omnicor specializes in the fields of nanotech design and fabrication, chemical refining, alternative fuel, and antimatter research.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Omincor est un descendant du géant mégacorporatiste pré-Chute Monolith Industries, spécialisé dans les domaines de la conception et la nanotechnologique, le rafinage de produit chimique, les carburants alternatifs et la recherche en anti-matière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Omnicor managed to secure research-oriented key assets from its twin rival Starware in a violent conflict during the Fall, leading to an ongoing enmity that might be better termed a corporate war.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Omnicor s'est arrangé pour sécuriser ses actifs de recherche clefs hors de portée de son jumeau rival Starware lors d'un violent conflit pendant la Chute, qui a mené à une animosité continue qui ne se règlera probablement que par une guerre copropratiste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Despite its progressive technological outlook, Omnicor retains a conservative corporate structure with strict internal regulations and controls as a defense against Starware's repeated infiltration and sabotage attempts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En dépit de son apaprence de progressiste technologique, Omnicor conserve une structure corporatiste conservative doté de règles internes et de contrôle trés stricts  comme défense contre les tentatives répétées d'infiltration et de sabotage faites par Starware.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Among the hypercorp's major assets are an antimatter research facility orbiting Mercury.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>parmi les principaux actifs de l'hypercorp, on trouve une installation de recheche en antimatière orbitant autour de Mercure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Union busting</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Activités antisyndicales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Surveillance has confirmed it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La surveillance l'a confirmé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The bio-sleeved workers at our secure Didenko facility are indeed communicating with outside autonomist interests and discussing militant free union organizing tactics and even a wildcat strike.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les travailleurs bio-incarné de notre installation sécurisé Didenko sont effectivement en train de communiquer avec des intérêts autonomistes extérieurs et discutent des tactqiues pour organiser un syndicat militant et libre, et prévoient une grève sauvage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their primary complaints concern the 30-hour workdays and mandatory drug regimens enforced to keep the staff at our required levels of productivity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leur plainte principale concerne la journée de 30 heures et les régimes de drogues obligatoires nécessaire pour garder le personnel à notre niveau de productivité requis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>We recommend the immediate insertion of a counterinsurgency squad and implementation of standard union-busting protocols, including but not limited to loyalty testing, chemical pacification, tactical psychosurgery, selective excision of leadership nodes, memetic counterstrikes, and replacing the workforce with modified backups.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nous recommandons l'insertion immédiate d'une escouade de contre-insurection et d'implémenter les protocols antisyndicaux standards, incluant, mais non limité aux moyens habituels tels que, les tests de loyauté, la pacification chimique, la psychochirurgie tactique, l'excision sélective des nœuds meneurs, des frappes mémétiques et le remplacement de la fore de travail par des sauvegardes modifiées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The entire op eration will take place using a purported mission to root out a Starware infiltration as cover.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'ensmeble de l'opération sera déployée en utilisant une prétendue mission pour débusquer une infiltration de Starware.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Industries: Exoplanet Colonization, Mining, Research</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Industries principales: Colonisation d'Exoplanètes, Exploitation Minière, Recherche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Stations: Ma'adim Vallis (Mars)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principales: Ma'adim Vallis (Mars)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pathfinder is one of the first hypercorps to dive into galactic expansion, claiming new territories beyond the Pandora gates and establishing numerous colonies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pathfinder est l'une des premières hypercorp à avoir plongé dans l'expansion galactique, s'abrogeant de nouveaux territoires au delà des Portes de Pandorre et y établissant un grand nombre de colonies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Taking advantage of desperate infugees and gatecrashers, Pathfinder offers transportation to an exoplanet and a new morph in exchange for indentured labor.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Profitant d'infugiés désespérés et des resquilleurs, Pathfinder offre le transport vers une exoplanète et une nouvelle morph en échange de travail contracté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The corp has established several off-world mining and resource exploitation projects, much to the chagrin of preservationists.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La corpo a établi plusieurs projets d'exploitation de ressources et d'extractions hors-monde, causant la consternation des préservationnistes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though Pathfinder has but a small presence in the solar system, it is a frequent target of eco-terrorist attacks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que Pathfinder ait une faible présence dans le système solaire, elle est une cible fréquente des attaques des éco-terroristes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Prosperity Group}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Groupe de Prospérité}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Industries: Agriculture, Aquaculture, Pharmaceuticals</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Insdustries principales: Agriculture, Aquaculture, Pharmacopée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Stations: Ceres, Lu Xing (Mars)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principales: Ceres, Lu Xing (Mars)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Prosperity Group ascended into the hypercorp ranks before the Fall, meeting the high demand many new stations had for microgravity agritech, aquaculture, hydroponics, and other sources of food.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le Groupe de Propérité a atteint les rangs des hypercorps avant la Chute, répondant à la demande élevée de beaucoup de nouvelles stations pour de l'agritechnologie, de l'aquaculture, des fermes hydroponiques et d'autres sources de cultures en microgravité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Expanding into pharmaceuticals as well, Prosperity is considered the lead supplier for the poor man's food and drugs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En s'étendant dans le domaine de la pharmacopée, le Groupe est considéré comme l'und es fournisseurs principaux de nourriture et de médicaments pour les pauvres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their cultured faux-meats and proteinenriched nutrition additives are in high demand.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leur culture de fausse-viande et leurs additifs nutritionnels enrichis en protéines sont extrêmement demandés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This corp earned some sympathy when it lost an entire habitat to some sort of resurgent TITAN outbreak a few years after the Fall, though some have suggested this was just a cover story to hide an unfortunate accident resulting from experimental drug testing on an unwitting populace.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette corpo a gagné de la sympathie lorsqu'elle perdit un habitat entier suite à une sorte d'invasion de TITAN résurgents quelques années après la Chute, même si certains ont suggérés qu'il s'agissait juste d'une couverture pour cacher un accident malheureux suite à l'expérimentation d'une nouvelle drogue testée sur une population non volontaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Skinaethesia}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Skinaesthesia}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Industries: Genetics, Cloning, Biotech</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Industries principales: Génétique, Clonage, Biotechnologie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Stations: Ptah (Mars)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Station principale: Ptah (Mars)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As the leading designer of biomorphs, Skinaethesia enjoys system wide popularity and respect for its sophisticated products, especially high-end customized models.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En tant que leader dans la conception des biomoprhs, Skinaesthesia est renommée et respectée dans tout le système solaire pour ses produits sophistiqués dans tout le système, et plsu spécifiquement pour ses modèles personnalisé haut-de-gamme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Best known for its breakthroughs in genetic engineering and enhancements, the hypercorp's interest in sophisticated combat morphs or stylized pleasure pods are lesser known facts and often sold through a network of seemingly unaffiliated shell corporations or local distributors.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plus connu pour ses découvertes en conception et en amélioration génétique, les intérêts de l'hypercorp pour des morphs de combat sophistiquées ou des pods de plaisir stylés sont moins connus et ces produits sont souvents vendus grâce à un réseau d'écrans de fumée corporatiste ou de distributeurs locaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Skinaesthesia focuses on emphasizing environmental adaptations and useful cybernetic enhancements, increasing transhumanity's chances for survival and further prosperity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Skinaesthesia se concentre sur la mise en avant des adaptations environnementales et des améliorations cybernétiques utilitaires, augmentant les chances de survie et la propsérité de la transhumanité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Experimental morphs are sometimes offered to desperate infugees for field testing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des morphs expérimentales sont parfois offertes à des infugiés désespérés pour les tester sur le terrain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Skinthetic is also a lead designer of morphs, but with a much sleazier reputation and not just because of their anarcho-capitalist roots.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Skinthetic est aussi un des concepteurs de morphs renommé, mais avec une réputation plus sordide et pas seulement en raison de ses racines anarcho-capitaliste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializing in extensive and often radical bio-modifications, the hypercorp pushes the envelope in exotic pod and biomorph designs under the mantle of morphological freedom.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En se spécialisant dans les bio-modifications étendues et souvent radicales, l'hypercorp repousse les limites des conceptions des pods et biomorphs exotiques en vertu de la liberté morphologique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bioconservatives have condemned the corporation's business practices and ethics and have even leveled accusations that Skinthetic is experimenting with xenogenetic materials acquired from the Factors.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les bioconservatuers ont condamné les pratiques et l'éthiques de la corporation et ont accusés Skintehtic de mener des expériences avec des matériaux xénogénétiques acquis auprès des Facteurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Skinthetic's cavalier attitude actually makes them popular in many parts of the outer system, and they are know as the biotech corp to go to if you want something weird.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'attitude cavalière de Skinthetic les rends cependant extrêmement populaire dans de nombreuses zones du système extérieur, et ils sont connus pour être l'hypercorp à aller voir si vous voulez quelque chose de bizarre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Industries: Banking, Insurance, Investments, Futures Markets, Info Brokerage</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Industries principales: Banque, Assurance, Investissements, Prospection Marketing, Courtage d'Information</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Stations: None</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principale: None</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Solaris is the solar system's leading banking and financial investment hypercorp, dealing in insurances, info-brokerage, and high-risk investments on cultural and social experimental speculation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Solaris est l'hypercorp qui domine le marché des banques et de l'investissement financier, gérant les assurances, le courtage d'information et les investissement spéculatifs à haut risque sur les expérimentations culturelle et sociale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A member of the Planetary Consortium, Solaris advises many habitats on regulating their transitional economies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En tant que membre du Consortium Planétaire, Solaris conseille beaucoup d'habitats sur la régultaion de leurs économies transitionnelles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Solaris has no offices or physical assets; each banker is a mobile virtual office.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Solairs n'a ni bureau ni actifs physique; chaque banquier est un bureau virtuel mobile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Solaris is rumored to maintain a secret base where the corporation runs simulations on the development of the entire solar system's macro-economy, constantly adjusting its own strategies based on the dynamics of this big blueprint.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des ruemrus court sur le fait que Solaris maintiendrait une abse secrète dans laqeulle la corporation lancerait des simulations sur le développement de la amcro-économie du système solaire, ajustant constament ses propres stratégies basées sur la dynamique du schéma global.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fueling these rumors, Solaris is known to hire “independent consultants” to tip the balance in politically or economically profitable high-risk investments.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alimentant ces rumeurs, Solairs est connue pour engager des &quot;consultants inédpendants&quot; pour faire pencher la balance dans des investissement à haut-risque politiquement ou économiquement profitables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Industries: Uplifts, Pharming, Pharmaceuticals, Genetics</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Insdustries principales: Élevés, Médiculture, Pharmacopée, Génétique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Stations: Clever Hands (Luna)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations majeures: Clever Hands (Lune)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Somatek is a leader in the art and science of uplifting animal species, pioneering several major brea throughs in cognitive enhancement and genetic modification.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Somatek est le leader dans le domaine de la science et de l'art d'élever des espèces animales, accomplissant quelques percés innovantes dans les modifications génétique et les amélioratiosn cognitives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The hypercorp also engages in extensive animal pharming—producing and extracting pharmaceuticals from transgenic critters—and markets numerous products and services related to smart animals and chimerical creatures.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'hypercorp est également engagée dans la médiculture animale extensive - produisant des extrayant des médicaments de créatures transgéniques - et commercialise de nombreux produits et services liés aux animaux intelligents et aux créatures chimériques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Despite the educational and training programs it offers to uplifts and the fact that much of its workforce consists of uplifts, Somatek is controversial among mercurials who disapprove of their methods (which often involve strict controls on uplift reproduction), the lack of input uplifts are given in their modifications and development, and the focus on anthropocentric mind-sets “enforced” on uplifts.)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En dépit des programmes d'apprentissage et d'entraînement qu'elle offre aux élevés et du fait que la plupart de sa force de travail est composées d'élevés, Somatek est un sujet de controverse chez les mercuriens qui désapprouve leurs méthodes (qui implqiuent souvent un contrôle strict de la reproduction des élevés), le manque de liberté dont les élevés bénéficie dans leur développement et leurs modifications, et l'anthropocentrisme des état d'esprit &quot;forcés&quot; dans les élevés).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>SOLARCHIVE SEARCH: ZBRNY LIMITED + CONSPIRACY</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>RECHERCHE SOLARCHIVE: ZBRNY LIMITED + CONSPIRATION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The secretive Zbrny Group is the center of many recurring conspiracy theories and horror tales.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le trés secret Groupe Zbrny est au centre de nombreuse théorie du complot récurrentes et de légendes horrifique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though varying in detail and plausibility, most rumors claim that an outside attack on the former Eastern European hypercorp’s asteroid mining and processing stations caused a major blackout and complete shut-down of life support systems over an extended period of time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que les détails et la plausibilité varient, la plupart des rumerus prétendent qu'une attaque extérieure sur les stations de minage et de traitement de l'ancienne hypercorp d'Europe de l'Est a causée une panne critique et l'extinction des système de support de vie pendant une période de temps relativement longue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending on the source, the attack itself is claimed to have been caused by the TITANs or a powerful underworld syndicate CEO Krystof Zbrny was indebted to.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fonction de la source, l'attaque en elle-même est censée avoir étée menée par les TITANs ou un des syndicats de la pègre auprès duquel le PDG Krystof Zbrny avait une dette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Barely acknowledging the system failures, Zbrny headquarters ordered all non-affected stations to be abandoned, the personnel either laid off or transferred to the affected stations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ne prenant pas en compte les pannes système, le siège de Zbrny ordonna que toutes les stations non affectée soient abandonnées, le personnel étant soit licencis, soit transféré à des stations affectées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since then, no one has seen or communicated with any employees of the mysterious hypercorp—negotiations with outsiders are conducted exclusively via a spokesperson AGI.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Depuis, plus personne n'a vu ou n'a communiqué avec l'un des employé de l'hypercorp mystérieuse - les négociations avec l'extérieur sont menées exclusivement via une IAG porte-parole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To this day, Zbrny drones continue to mine asteroids for minerals and ores, supplying the company’s processing stations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A ce jour, les drônes de Zbrny continuent de miner les astéroïdes afin d'en extraire les minéraux, alimentant les stations de traitement de l'entreprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>According to rumors, an attempt by brinker pirates to board a Zrbny outpost resulted in the station’s self-destruction.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'après les rumeurs, une tentative d'abordée un avant poste de Zbrny par des pirates de la bordure a amené à l'auto-destruction de la station.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The company’s AI-piloted massive bulk freighters are notoriously non-responsive, earning them the nickname “zombie ships.”</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les transports cargos massifs de l'entreprise pilotés par des IA sont connus pour ne pas répondre, leur donnant le surnom de &quot;vaisseaux zombies&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Industries: Robotics, Aerospace Engineering, Habitat Construction</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Industries principales: Robotique, Conception Aérospatiale, Construction d'Habitat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Stations: Korolev Shipyards (Luna), Vesta (Belt)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principales: Chantiers Navals Korolev (Lune), Vesta (Ceinture)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Another remnant of the pre-Fall megacorp Monolith Industries (like Omnicor), Starware is a leading manufacturer of robotics, spacecraft fusion drives, satellites, and entire pre-fab habitats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une autre rémanence de la mégocaorp pré-Chute Monolith Industries (comme Omnicor), Starware est un des grands noms de la fabrication de robots, de moteurs à fusion de vaisseaux, de satellites et d'habitats pré-fabriqués.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Despite its financial success and resources, Starware's ongoing blood feud with Omnicor denies both corporations full membership privileges on the Planetary Consortium.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En dépit de ses ressources et de sa réussite financière, la vendetta opposant Starware à Omnicor empêche les deux corporations de bénéficier des privilèges d'une adhésion complète au Consortium Planétaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Starware makes heavy use of AI workers in robotic shells, having suffered a few too many labor disputes with disgruntled Lunar workers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Starware utilise beaucoup de travailleurs IA dans des coques robotiques, ayant souffert de bien trop de conflits avec des travailleurs lunaire mécontents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In fact Starware grows increasingly unpopular with its Lunar neighbors, and has been forced to bring in extra security due to frequent sabotage attempts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fait Starware est devenu extrêmement impopulaire avec ses voisins Lunaire, et a été forcée de renforcer sa sécurité en raison de nombreuses tentatives de sabotages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Recent negotiations with the Factors have spurred theories that Starware might be acquiring Factor aid for building a lighthugger starship.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De récentes négociations avec les Facteurs ont renforcé les théories comme quoi Starware serait en train d'acquérir de l'aide des Facteurs pour contrsuire des vaisseaux quasi-luminiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Industries: Intelligence, Data Mining, Info Brokerage, Espionage</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Industries principales: Intelligence, Exploitation de Données, Courtage d'Information, Espionnage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Stations: Memory Hole Torus (Martian Trojans)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations Principales: Memory Hole Torus (Toyens Martian)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Born from the ashes of the UN-governed Terran Intelligence Cooperative (TIC), its surviving personnel and assets were collectively uploaded during the Fall and quickly regrouped under the name Stellar Intelligence.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Née des cendres de l'Intelligence Terrestre Cooporative gouvernée par l'ONU (ITC), son personnel et ses actifs survivants ont été collectivement uploadé pendant la Chute et rapidement regroupés sous le nom de Stellar Intelligence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Emerging as a virtual collective, most of Stellar's employees remain loyal to the corporation and its director, the reclusive infomorph known as Syme.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Émergeant en tant qu'un collectif virtuel, la plupart des employés de Stellar restent loyaux à la corporation et à son président, l'infomorph solitaire connues sous le nom de Syme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stellar offers an impressive array of intelligence services, including data mining, analyst think tanks, retroquantification (bringing old secrets/data to light), memetic mapping, and more.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stellar propose une gamme impressionante de services d'intelligence, incluant l'exploitation de donnée, les think tank d'analyse, la rétroquantification (amener de vieux secrets/données à la lumière), la cartographie mémétique et bien plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Its services also extend to surveillance, data theft, espionage, media manipulation, and infiltration.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ses services englobent également la surveillance, le vol de donnée, l'espionnage, la manipulation des médias et l'infiltration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The hypercorp's specialty is pre-empting civil insurgencies and preventing political memes and movements from destabilizing a habitat's or sector's regime.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La spécialité de l'hypercorp est la préemption d'insurrection civiles et la prévention de mêmes politiques et de mouvement aptes à déstabiliser le régime d'un habitat ou d'un secteur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Criticized by civil rights movements and especially anarchists, Stellar is known to embed programmed infomorph agents into the local population of any oppressive regime that will pay their price.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Critiqué par les mouvements de défnese des droits civiques et particulièrement par les anarchistes, Stellar est connue pour embarquer des agents infomorphs programmés dans les population locale de tout régime oppressif qui en paye le prix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While many view Stellar as the brainwashing and secret police arm of the Planetary Consortium, the hypercorp offers its services to almost any other faction or individual.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que beaucoup considèrent Stellar comme le bras de la police secrète et du conditionnement du Consortium Planétaire, l'hypecorp offre ses services à presque toutes les factiosn ou individus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Terragenesis}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{TerraGenesis}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Industries: Terraforming, Ecosystem Management, Environmental Data</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Industries principales: Terraformation, Gestion d'Écosystème, Données Environnementale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Stations: Caldwell (Vulcanoids), Ashoka (Mars), Elegua (Earth orbit)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principales: Caldwell (Vulacnoïdes) Ashokae (Mars), Elegua (Orbite Terrestre)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Built from the remains of several pre-Fall South African and Southeast Asian corporations who engaged in geo-engineering projects and sought to relieve Earth's ecological crises, TerraGenesis's expertise is in developing sustainable biospheres and eco-systems via aggressive industrialized terraforming.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Construite sur les reste de plusieurs corporations pré-Chute d'Afrique du Sud et d'Asie du Sud-Est qui étaient impliquées dans les projets de égo-ingénierie et qui pensaient pouvoir vaincre les crises écologiques Terrestre, l'expertise de TerraGenesis se situe dans le développement de biospheres d'éco-systèmes durables via une terraformation insdustrielle agressive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>TerraGenesis is different in that it is a worker-owned cooperative, with workplace councils in local offices and an elected cooperative congress handling management.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>TerraGenesis est différente des autres car c'est une entreprise possédées par ses ouvriers, avec des conseils de lieu de travail dans le s bureaux locaux et un congrès coopératif élu s'occupan de la gestion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It maintains several habitats on Mars and a small number of research stations in orbit around Earth, collecting data for simulations of Earth revitalization projects.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle maintient plusieurs habitats sur Mars et un petit nombre de stations de recherche en orbite autour de la terre, collectant des données pour la simulation de projets de revitalisation Terrestre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The latter initiative is strongly supported—and possibly financed—by prominent reclaimers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette dernière initiative est fortement soutenues - et probablement financées - par des réclamtionnistes notables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>TerraGenesis's work on Mars, however, is often targeted by preservationist saboteurs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le travail de TerraGenesis sur Mars est cependant souvent ciblé par des saboteurs préservatinnistes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thanks to their possession of the Vulcanoid Pandora Gate (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Grâce à leur contrôle de la Port de Pandorre Vulacnoïde (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>88), the cooperative has a growing presence on various exoplanets that are ripe for terraforming or geoengineering.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>88), la coopérative assure une présence grandissante sur diverses exoplanètes éligible à la terraformation ou à la géo-ingéniere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
