@@ -13177,7 +13177,7 @@
         <seg>These hypercorps are major proponents of the transitional economy, the interdiction of Earth, and expansion beyond the gates.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Ces hyeprcorporations sont les principaux défenseurs de l'économie transitionnelle, de l'interdiction de la Terre et de l'extension au-delà des portes.</seg>
+        <seg>Ces hypercorporations sont les principaux défenseurs de l'économie transitionnelle, de l'interdiction de la Terre et de l'extension au-delà des portes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13250,6 +13250,1086 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>En réponse, les cités hors du Consortium sont condamnées pour faire l'apologie d'initiatives anti-hypercorpatiste, de bloquer passivement les mesures de terraformation et de maintenir des attaches avec les Barsoomiens - la classe populaire Martienne vivant dans banlieues désolées et instables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Autonomist Alliance}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Alliance Autonomiste}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The outer system presented an opportunity for people who wanted to set up a way of doing things that was drastically different from the authoritarian politics and sham democracies of Earth and the inner system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le système extérieur présente une opportunité pour les personnes qui ont voulus mettre en place une manière de faire les choses drastiquement différentes des politiques autoritaires et des fausses démocraties de la Terre et du système intérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Far from the reach of governments and hypercorps, this frontier was populated by political radicals, social dropouts, and people who just wanted to experiment or do their own thing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Hors de portée des gouvernements et des hypercorps, cette frontière a été peuplée par des radicalistes politiques, des marginaux et des personnes qui voulaient simplement expérimenter ou faire ce qu'ils avaient envie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These initial habitats drew the interests of insurgents from Earth, scientists and technicians who didn’t appreciate being on a corporate leash, indentured vacworkers who sought to escape their oppressive terms of service, and even criminals fleeing hypercorp justice or forcibly expelled from inner system habitats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces premiers habitats ont attiré les intérêts des insurrectionistes Terreste, des scientifique et des techniciens qui n'appréciaient pas de vivre sous le joug corporatiste, des travailleurs du vide contractés qui cherchaient à échapper à leur contrat de travail oppressant et même des criminels fuyant la justice hypercorporatiste ou banni des habitats du système intérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their ranks swelled with every act of inner system injustice, though life on the fringe was often harsh and deadly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leurs rangs ont augmentés à chacune des injustices du système intérieur, même si la vie à la bordure était souvent difficile et mortelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Despite occasional hostilities with nation-state military units or hypercorp security, the expense of reining in these radicals and expats was too high.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En dépit d'hostilité occasionnelle avec des unités militaires des état-nation ou avec les forces de sécurité hypercorporatiste, le coût nécessaire pour régner sur ces radicaux et ces expatriés était trop élevé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To some degree, their presence was useful to the powers-that-be.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans une certaine mesure, leur présence était même utile pour le pouvoir en place.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Breakthroughs with nanofabrication brought these libertines and fringers the edge they needed to keep their autonomy over the long-term.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les découvertes dans le domaine de la nanofabrication a permit à ces libertaires et à ces isolés juste ce qu'il leur manquait pour conserver leur autonomie sur le long-terme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once cornucopia machines were widely available, anyone had the means to support and defend themselves without relying on outside or higher authorities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois que les machines d'abondances ont été largement disponible, tout le monde avait les moyens de se soutenir et de se défendre sans se reposer sur des autorités supérieures ou extérieures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Already an outpost for open source and free culture activists who fought restrictions on ideas, media, and digital content, the outer system became a haven for sharing nanofab designs and circumventing the controls the hypercorps attempted to place on their software and other digital goods.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Étant déjà un avant poste pour les activistes de la culture libre et et de l'open source qui combattaient les restrictiosns ur les idées, les médias et le contenu numérique, le système extérieur est devenu un havre pour le partage de schéma pour nanofabeurs et pour détourner les contrôles que les hyeprcorps tentent de palcer sur leur logiciel et sur d'autre bien numérique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>During the Fall, many outer system habitats opened their doors to refugees from Earth.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pendant la Chute, de nombreux habitats du système extérieur ont ouvert leurs portes aux réfugiés de Terre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Distance and the high cost of egocasting curtailed these efforts, however, as did inner system reluctance to send potential recruits to their ideological opponents.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La distance et le coût élevé de l'egocast ont cependant réduit ces efforts, de même que la réticence du système intérieur à envoyer des recrues potentielle à laurs opposants idéologiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Simple overcrowding and lack of resources drove them to push many refugees to the outer system, however, though the hypercorps weeded through their virtual infugee mobs and sent those with the highest risk of criminal tendencies or discontent with inner system life.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La surpopulation et le manque de ressources les ont amenés à envoyer des réfugiés dans le système extérieur, même si les hypercorps ont piochés dans leur réserve virtuelle d'infugiés et ont envoyés ceux qui avaient un risque élevé de développer des tendances criminelles ou d'être en désaccord avec la vie dans le système intérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though the outer system habitats run the gamut of the socio-political spectrum, four primary tendencies have emerged.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que les habitats du système extérieure couvrent toute le spectre sociao-politique, quatre tendances principales ont émergées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The stations and swarms adhering to these ideas have bonded together under a loose autonomist alliance, a mutual aid pact to help each other in times of crisis and present a united front against the inner system powers and Jovian Junta.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les stations et les masses adhérant à ces idées se sont regroupées dans une aalliance autonomiste informelle, un pacte d'assistance mutuel pour s'aider lors des périodes de crises et présenter un front unis contre les puissance du système intérieur et la Junte Jovienne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There is little formal structure to this alliance as an entity unto itself; it primarily exists as an assortment of joint resolutions agreed to by its various member habitats and a few ad hoc task forces dedicated to addressing a particular problem or issue and then dissolving.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a peu de structure officielle dans cette alliance en tant que telle; elle existe principalement en tant qu'assortiment de résolutions conjointes acceptée par les différents habitats membres et les quelques groupes ad-hoc dédiées à la résolution d'un problème particulier et dissout ensuite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Delegated ambassadors act as negotiators with outside powers, but these have limited authority and are held strictly accountable.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des ambassadeurs délégués agissent en tant que négociateurs avec les puissances extérieures, mais ils n'ont qu'une autorité limitée et sont toujours tenus respnsable de leurs actes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>From: Shevek Check this out.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>From: Shevek Regardes ça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Residents of the autonomist Red Jupiter habitat just put out a call for support and solidarity from @-listers in the regional neighborhood.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les résidents de l'habitat autonomiste Red Jupiter ont émis un appel à l'aide et à la solidarité aux abonnés d'@-list dans le voisinnage régional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Apparently the station’s citizen councils granted asylum to a group of AGIs seeking refuge from Jovian Republic counter-AI ops.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Apparemment le conseil citoyen de l'habitat a accordé le droit d'asile à un groupe d'IAGs cherchant à fuir les opérations anti-IA de la République Jovienne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Junta has labeled the AGIs as dangerous criminals researching upgrades that would propel them to seed AI status, contrary to system-wide resolutions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Junte a signalé les IAGs comme de dangereux criminels recherchant des mises à jour qui les propulseraient au status d'IA germe, en violation des résolutions en vigueur dans tout le système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The AGIs are claiming that they escaped from a secret Jovian research project.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les IAGs prétendent s'être échappées d'un projet de recherche secret Jovien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They say they pursued self-programming research to bypass Jovian-inflicted restrictions that violated their rights as autonomous and sentient entities and that they are facing persecution due to anti-AI biases.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elles disent qu'elles ont menées des recherche pour l'auto-programmation afin de contourner les restrictions infligées par les Joviens qui violaient leurs droits en tant qu'entités consciente et autonome et qu'elles font face àa de la persécution en raison des biais anti-IA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This could be a chance for us to kick some Jovian ass and look into non-standard AGI programming at the same time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela pourrait être une chance pour nous d'aller botter quelques cul Jovien et de jetter un œil à de la programation d'IAG non standard en même temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You in?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>On peut compter sur toi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Anarchists}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Anarchistes}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Memes:&lt;/i0&gt; Anarchism, Anti-capitalism, Communism, Direct Democracy, Mutual Aid</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mêmes:&lt;/i0&gt; Anarchisme, Anti-capitalisme, Communisme, Démocracie Directe, Assistance Mutuelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Main Stations:&lt;/i0&gt; Locus (Jovian Trojans)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principales:&lt;/i0&gt; Locus (Troyens Joviens)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Anarchists eschew power and hierarchy, promoting horizontal and directly democratic methods of organization.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les anarchistes évitent le pouvoir et la héirarchie, promouvant les méthodes organisationnelle horizontale et la démocratie directe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Individual empowerment and collective action are cornerstones of their philosophy, as is economic communism enabled by equal access to cornucopia machines and shared resources.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'autonomisation des individus et l'action collective sont les clefs de voûtes de leur philosophie, ainsi qu'un communisme économique activé par un accès équitable aux machines d'abondance et aux ressources partagées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In anarchist stations, private property has been abolished above the level of personal possessions—nobody owns anything, it’s all shared.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les stations anarchistes, la propriété privée au delà des possessoins personnelles a été abolie - personne en possède rien, tout est partagé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are no laws and no one to watch over what you do—reputation networks encourage positive behavior and anti-social acts are likely to draw a response from locals or even the entire populace, with disputes handled through ad hoc community conflict resolution.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il n'y a aucune loi et personne ne surveille ce que vous faites - les réseaux réputationnels encourage les comportements positifs et les actions anti-sociaux sont généralement sanctionnés par les locaux voire même toute la population, les conflits étant gérés grâce à la résolution de conflit communautaire idoine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The mesh and various networking tools are used extensively to strive for group consensus decision-making in real-time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le mesh et les différents outils de réseaux sont utilisé de manière intensive pour parvenir à obtenir un processus décisionnel basé sur le consensus de groupe en temps réel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AIs and robots are relied on for most mundane and demeaning tasks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des tâches les plus communes et inintéressantes sont accomplies par des robots et des IAs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Various self-organized collectives, syndicates, worker's councils, and affinity groups, often with rotating membership, take on different tasks and services that are important to a habitat's community, including everything from communications and space traffic control to backup and resleeving services.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Différents collectifs auto-organisées, syndicats, conseil de travailleurs et groupe d'affinités, souvent via des adhésions tournante, s'occupent des différentes tâches et services qui sont important pour la communauté de l'habitat, notamment tout ce qui tiens de la communication, du contrôle du traffic spatial et des services de sauvegarde et de réincarnation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Participatory militias organize collective defense against external threats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des milices participatives organisent la défense collective contre les menacs externes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Among the anarchist stations there are many variations and permutations on how things are organized, as everything is fine-tuned at the local level by whomever is involved.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Parmi les stations anarchistes, on peut trouver de nombreuses variation et permutation sur la manière dont les choses sont organisées, car tout est finement réglé au niveau local par quiconque est impliqué.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Larger decentralized confederations handle inter-habitat affairs and resource-sharing, even trading with the hypercorps.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les confédérations décentralisées les plus grandes gèrent le partage des ressource et les affaires inter-habitats, commerçant même avec les hypercorps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though a hypercorp presence is allowed on some habitats, they are treated just like everyone else.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien qu'une présence hypercorp soit autorisé sur quelques habitats, ils sont traités comem tout le monde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Soarchive search: Carnival of the goat</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Recherche Solarchive search: Carnaval des chèvres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aside from the stationary scum station, Fresh Kills, near Earth’s L5 Lagrange point, the most notorious scum barge may well be the Carnival of the Goat, a combination artist colony and den of unfathomable hedonism, dedicated to exploring chaos, creativity, self-discovery, and coupling in every conceivable iteration.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au delà de la barge de racaille Fresh Kills, stationnée non loin du point de Lagrange terrestre L5, la barge de racaille al plus connue pourrait bien être le Carnaval des Chèvres, la combinaison d'une colonie d'artiste et d'une antre d'hédonisme insondable, dédiée à l'exploration du chaos, de la créativité, de la découverte de soi et de l'accouplement dans toute les manières concevable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Residents are known for their consistent and rapid morphological changes, including regular resleeving.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les résidents sont connus pour leur s changements morpholgiques constants et rapide, incluant des réincarantions régulières.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The biosculptors on the Carnival are said to be some of the best in the system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les biosculpteurs sur le Carnaval sont connus pour être les meilleurs du système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>According to rumors, residents sometimes experiment with multiple simultaneous sleeving, persona-mingling, and other mentally dangerous activities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'après les rumeurs, les réssidents font aprfois des expériences avec des incarnations multiples et simultanée, du mélange de personnalité et d'autres activités dangereuses pour l'esprit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Led by a rotating residents’ council, the Carnival prides itself on being a bleeding-edge social experiment, and maintains top-of-the-line facilities for morph customization, resleeving, and psychosurgery.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mené par un conseil des résidents tournant, le Carnaval se targue d'être une expérimentation social à la pointe et maintient des installations haut de gamme de personnalisation de morph, de réincarnation et de psychochirurgie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Extropians}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Extropiens}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Memes&lt;/i0&gt;: Anarcho-capitalism, Mutualism, Self-Ownership</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mêmes&lt;/i0&gt;: Anarcho-capitalisme, Mutualisme, Propriété Privée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Main Stations&lt;/i0&gt;: Extropia (Main Belt)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principales:&lt;/i0&gt; Extropia (Ceinture Principale)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though a smaller tendency, the Extropians are notable because they ride a line between inner and outer system ideologies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien qu'étant une tendance plus faible, les Extropiens sont notables car ils se situent sur la ligne séparant les idéologies du système intérieur et du système extérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Extropians believe in an economic free market with the absence of a binding legal system, so that all relations and transactions are based on individual contracts agreed on by all parties involved or affected.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Extropiens croient en un marché économiquement libre ainsi qu'en l'absence d'un système légal de contrôle, toutes les relations et toutes les transactions sont donc basées sur des contrats individuels négociées par les deux parties impliquées ou affectées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Contrary to the anarchists, the Extropians very much support private property and personal economic wealth; Extropian-owned corporations actively participate in the solar system's hypercorp economy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Contrairement aux anarchistes, les Extropiens supporte fortement la propriété privée et la richesse économique personnelle; des corporations possédées par des Extropiens participent activement à l'économie hyeprcorporatiste du système solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many of these corporations are workerowned cooperatives, with workplace councils in local offices and an elected cooperative congress handling management.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>beaucoup de ces corporations sontdes entreprises possédées par leurs ouvriers, avec des conseils de lieu de travail dans les bureaux locaux et un congrès coopératif élu s'occupant de la gestion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This puts the Extropians in a remarkable position where they interact heavily with both the hypercorps and autonomists but are not fully trusted by either.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela mets les Extropiens dans une position particulière où ils peuvent interagir lourdement à la fois avec les hypercorps et les autonomistes sans qu'aucun des deux ne leur fasse confiance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In Extropian society, law and security, like everything else, are contracted services.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les sociétés Extropienne, la loi et la sécurité, comme tout le reste, sont des services sous contrats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When entering an Extropian habitat, you purchase defense insurance from a local contractor such as Gorgon Defense Systems, who maintains automated drones and freelancers throughout the station who can come to your aid if threatened.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En entrant dans un habitat Extropien, vous achetez une assurance de défense à un contracteur local tel que Gorgon Defense Systems, qui maintient des drônes automatisé et des indépendants à travers toute la station et qui peuvent venir vous aider si vous êtes menacés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, the only law that exists is what's put into writing between two contracted parties.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De al même manière, la seule loi qui existe est celle qui est écrite dans le contrat qui lie deux parties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In case of disputes, both parties resort to a pre-agreed legal contractor to settle the matter.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En cas de désaccord, les deux parties se réfèrent à un sous-traitant législatif convenu à l'avance pour arbitrer la dispute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some Extropian colonies utilize AGIs for facilitating contracts and legal matters, such as Nomic on Extropia.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines colonies Extropiennes utilisent des IAGs pour faciliter les problématiques contractuelles et législatives, telels que Nomix sur Extropia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Scum}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Racaille}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Memes&lt;/i0&gt;: Individualist Anarchism, Morphological Freedom</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mêmes&lt;/i0&gt;: Anarchisme Individualiste, Liberté Morphologique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Scum are nomadic space gypsies, travelling from station to station in heavily modified barges or swarms of smaller space vessels, mostly former colonial ships.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La racaille est constitué de gitans de l'espace nomades, voyageant d'une station à l'autre dans des barges lourdement modififée ou dans des nouées de vaisseaux spatiaux plsu petit, essentiellement d'anciens vaisseaux coloniaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The term “scum” has been gleefully appropriated from its original derogatory usage.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le terme &quot;racaille&quot; a été joyeusement détourné de son usage dérogatoire original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Despite their reputation as criminals and scam artists, their temporary presence is often tolerated in many habitats for the entertainment they bring in the way of exotic performances and storytelling, both of which offer change and relief from the isolation of remote habitats and clusters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En dépit de leur réputation de criminels et d'escrocs, leur rpésence temporaire est souvent tolérées dans beaucoup d'habitats pour le divertissement qu'ils apportent sous la forme de performances exotiques et d'art du conteur, les deux apportants du changement et du relief à l'isolation des habitats et groupe d'habitats les plus éloignés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their thriving black markets are an open secret but shut down only in the most oppressive regimes, as citizens returning with illegal goods must pass their station's security anyway.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leurs marchés noir florissants sont des secret de polichinelles et ne sont fermés que dans les régimes les plus oippressifs, de même que les citoyens ayant des marchandises illégales doivent toujours franchir les contrôles de sécurité de leurs stations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The scum themselves comes from all manner of backgrounds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La racaille en elle-même possède toute sorte d'origine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are rejects, anarchists, criminals, societal dropouts, wanderers, artists, eccentrics, and more.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce sont des rejetés, des anarchistes, des criminels, des marginaux, des vagabonds, des artistes, des excentriques et bien plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a culture, however, they embrace experimentation and an “everything is permissible” attitude.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En tant que culture, cependant, ils embrassent l'expérimentation et l'attitude du &quot;tout est autorisé&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many are ardent practitioners of extreme transhuman modifications.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup sont de fervents adeptes des modifications transhumaines extrêmes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Long-time scum are sometimes scarcely recognizable as having once been human.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les vieilles racailles sont aprfois à peine reconnaissable comme ayant été humaines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Scum economies are transitional rather than new, due to their constant interaction with other habitats, though among long-term residents an underground new economy often flourishes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'économie de la racaille est transitionnelle, plus que nouvelle, en raison de leurs interactiosn constantes avec d'autres habitats, bien que parmi les résidents de longue date on peut trouver une nouvelle économie sous-terraine et florissante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Main Stations&lt;/i0&gt;: Titan</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principales:&lt;/i0&gt; Titan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Memes&lt;/i0&gt;: Technosocialism, Cyberdemocracy</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mêmes:&lt;/i0&gt; Technosocialisme, Cyberdémocratie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Titan was originally settled in the late 21st century by a European academic consortium, making it the only major body in the system colonized primarily by non-hypercorp interests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Titan a été originellement colonisée à la fin du 21° sicèle par un consortiuem académique Européen, en faisant le premier corps majeur du système colonisé par des intérêts non corporatistes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The social organization of Titan is rooted partly in the Scandinavian social democracies of Earth and partly in the open economy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'organisation sociale de Titan est enracinée partiellement dans les démocraties sociales Scandinaves Terrestre et partiellement sur l'économie ouverte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On one hand, citizens of the Titanian Commonwealth eschew the use of currency for mundane needs, participating in the reputation economy used by much of the outer system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'un côté, les citoyens du Titanian Commonwealth évitent d'utiliser de la monnaie pour les besoins ordinaires, participant à l'économie réputationnelle utilisée par la plupart du système extérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On the other, upon reaching the age of majority, citizens of Titan agree to a literal social contract.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'un autre côté, en atteignant l'âge de la majorité, les citoyens de Titans acceptent un contrat social littéral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A portion of their economic productivity is quantized as social money, which is then tithed to microcorp-administered social projects such as gateless interstellar exploration, physics research, neuroscience, developing mental health memes, defense, public resleeving, and habitat construction.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une portion de leur productivit économinque est quantifié en monnaie sociale, qui est ensuite versée à des projets sociaux administrés par des microcorporations tels que l'exploration interstellaire sans porte, la recherche fondamentale en physique, les neurosciences, le développement de mêmes de santé mentale, la défense, la réincarnation publique et la construiction d'habitat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The monetary unit used for this purpose, the Titanian Kroner, is currently pegged to the common market price of a terabyte of qubits.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'unité monétaire utilisée dans ce but, la Couronne Titanienne, est actuellement indexée sur le prix du marché d'un teraoctet de qubits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unlike old Earth socialist regimes, there are no state monopolies and no central planning.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Contrairement aux régimes socialistes de la vieille Terre, il n'y a pas de monopole d'état ni de planification centrale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Anyone able to garner enough votes in the Plurality (the Titanian cyberdemocracy) can start a social money-funded microcorp and compete with other microcorps.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quiconque capable de récupérer suffisament de votes lors de la Pluralité (la cyberdémocratie Titanienne) peut démarrer une microcorporation financée par la monnaie sociale et entrer en compétition avec les autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Microcorps are owned by the Commonwealth, and profits are disposed of by the Plurality.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les microcorporatiosn sont possédées par le Commonwealth, et leurs profits sont utilisés par la Pluralité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Microcorps are required to be transparent as administrative entities, and the Plurality votes on whether to transfer discoveries to the open source domain.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les microcorps se doivent d'être des entités administratives transparentes, et la Pluralité vote pour décider de transférer les découvertes dans le domain open source ou pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Regulatory matters are handled by AI and AGI bureaucrats (red tape still exists, but it doesn't slow things down ... much).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les probélamtiques de régulation sont gérés par des bureaucrates IA et IAG (la paperasserie existe toujours, mais elle ne ralenti plus les choses ... ou presque).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The main reward for individuals in this system is rep.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La principale récompense pour les individus dans ce système est la rep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Titanians who invest a lot of time or resources in a given field gain rep rewards for doing so.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Titaniens qui investissent beaucoup de temps ou de ressources dans un domaine donné sont récompensés par des gains de rep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Socio-political movements}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Mouvements Socio-politique}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aside from sectarian political factions, a number of socio-political movements are widespread throughout the solar system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A côté des factions politiques sectaires, il existe de nombreux mouvements socio-politiques qui sont largement répandus dans tout le système solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Argonauts}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Argonautes}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Memes&lt;/i0&gt;: Open Source Society, Information Freedom, Social Responsibility, Techno-Progressivism</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mêmes&lt;/i0&gt;: Société Open Source, Liberté d'Information, Responsabilité Sociale, Techno-Progressivisme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Main Stations&lt;/i0&gt;: Mitre Station (Lunar Orbit), Markov (Kuiper Belt), Hooverman-Geischecker (Sun)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principales&lt;/i0&gt;: Station Mitre(Orbite Lunaire), Markov (Ceinture de Kuiper), Hooverman-Geischecker (Soleil)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The group calling themselves argonauts is a public organization advocating the socially responsible use of technology.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le groupe s'appelant les argonautes est une organisation publique défendant la cause d'un usage responsable de la technologie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The group chose its name from the pre-Fall Jasons, an advisory group that consulted for the US government on matters of scientific and technological progress and its possible dangers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le groupe a chois son nom d'après les Jasons d'avant la Chute, un groupe de conseillers que consultait le gouvernements des USA sur les problématiques de progrés scientifique et technologique et de ses dangers possibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The argonauts likewise offer consultation services to political and economic powers throughout the solar system, but strictly refuse to be drawn into the solar system's political affairs in any way.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De la même manière, les argonautes propose des services de consultant aux puissances politiques et économisque à travers tout le système solaire, mais refusent strictement d'être impliqué dans les affaires politique du système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Despite a pre-Fall break with many hypercorps before the Fall, which in some cases included expropriating corporate data and resources, the argonauts re-earned favor by providing their expertise in combating the TITANs to all during the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En dépit de leur rupture avec de nombreuses hyeprcorps juste avant la Chute, rupture qui amena dans certains cas à l'expropriation de données et de ressources corporatistes, les argonautes ont regagnés les faveurs des gens en fournissant à tous leur expertise dans la lutte contre les TITANs pendant la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The argonauts are strong proponents of the open source movement, advocating open access to technology and information.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les argonautes sont de gros promotteurs du mouvement open source, défendant l'accès libre à la technologie et à l'information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In their view, providing equal access to transhumanity's knowledge and achievements will further transhuman growth and security, so that all of transhumanity is more prepared for future threats and challenges.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De leur point de vue, fournir un accès équitable à la connaissance et ax avancées de la transhumanité permettre de développer la croissance et la sécurité de la transhumanité, afin qu'elle soit mieux préparée face aux défis et aux menaces futures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thus the argonauts often insist that payment for their services come in the way of releasing otherwise unobtainable information—hypercorp proprietary secrets, research data, nanofab blueprints, hidden pre-Fall archives, etc.—to the public mesh.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les argonautes insistent souvent sur le fait que le paiement pour leur services se fassent en libérant des informations indisponibles - des secrets propriétaires hypercorporatistes, des données de recherche, des schéams de fabeurs, des archives pré-Chute cachées, etc. - sur le mesh public.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The argonauts maintain several open databases and archives for this specific purpose.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les argonautes maintiennent plusieurs bases de données et archives ouvertes dans ce but spécifique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While primarily an open organization, the argonauts are rumored to ultimately report to an elite inner circle.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout en étant principalement une organisation open source, selon les rumeurs les argonautes rendent des comptes à une élite d'un cercle intérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Supporting this theory is the existence of the medeans, the organization's clandestine paramilitary wing, performing bodyguard services to high level argonauts and protecting the group's assets.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'existence des médéens, l'aile paramilitaire clandestine de l'organisation, et qui servent de gardes du corps personnels pour les argonautes de haut niveau tout en protégeant les actifs du groupe, vient soutenir cette théorie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Barsoomians}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Barsoomiens}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Memes&lt;/i0&gt;: Anti-Slavery, Martian Independence, Martian Nationalism, Terraforming Control</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mêmes:&lt;/i0&gt;: Abolitionnsite, Indépendence Martienne, Nationalisme Martien, Contrôle de la Terraformation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Main Stations&lt;/i0&gt;: Ashoka (Mars)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principales:&lt;/i0&gt; Ashoka (Mars)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Barsoomians (taking their name from some old Earth pulp adventure novels) are a broad movement comprised of the Martian underclass.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Barsoomiens (leur nom vient d'une vielle série de romans Terrestre d'aventures pulp) sont un vaste mouvement composée des classes sociales Martienne les plus défavorisées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Harboring a growing resentment over the hypercorp domination of Mars, Barsoomians advocate for a more egalitarian social structure.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Développant un ressentiment grandissant contre la domination de Mars par les hypercorporations, les Barsoomiens se battent pour une structure sociale plus équitable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Heavily influenced by autonomist currents, the Barsoomians demand local control of terraforming projects, an end to the widespread practiced of indentured servitude, and control of the Martian Gate.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Largement influencé par les courants autonomistes, les Barsoomiens demandent le contrôle local des projets de terraformation, la fin de la servitude contracté à grande échelle et le contrôle de la Porte Martienne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The majority of Barsoomians are or were indentured infugees, though a significant amount were also original Martian colonists/indentures whose habitats do not share the economic prosperity of the favored hypercorp cities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La majorité des Barsoomiens sont ou ont été des infugiés contractés, bien qu'une part significative sont des colons/contractés Martiens originaux et dont les habitats ne partagent pas la prospérité économique des cités favorites des hypercorps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many Barsoomians occupy rusters or synthetic morphs and actually prefer to live a nomadic lifestyle in the Martian wilds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup de Barsoomiens occupent des morphs rusters ou synthétiques et adoptent en général un style de vie nomade dans les étendues sauvage de Mars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few radicals have taken up arms and engaged in violent strikes against hypercorp holdings, which are typically followed by reprisal raids to decapitate the Barsoomian leadership, thus breeding further hostilities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques radicaux ont pris les armes et se sont engagés dans de violentes attaques contre des intérêts hypercorporatistes, qui systématiquemenyt suivis par des raids de représailles pour décapiter le commandement Barsoomiens, augmentant encore l'hostilité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Bioconservatives}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Bioconservateurs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Memes&lt;/i0&gt;: Bioconservatism, Primitivism, Natural Order</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mêmes:&lt;/i0&gt; Bioconservatisme, Primitivisme, Ordre Naturel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Main Stations&lt;/i0&gt;: Vo Nguyen (Earth orbit)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principales:&lt;/i0&gt; Vo Nguyen (Orbite Terrestre)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bioconservatives are strongly suspicious and critical of the transhuman direction the human race is taking.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Bioconsevrateurs sont extrêmement suspicieux et critiques vis à vis de la direction transhumaine que prend l'évolution humaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are strong proponents of limiting technological development due to the threat it manifests to existing social orders.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils sont partisans pour limiter les développement technologiques en raison de la menace qu'ils représentent pour l'ordre social existant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bioconservative positions range from right-wing cultural conservatives to left-wing environmentalists.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les positions des Bioconservateurs va des conservateur culturel de droite aux environnementaliste de gauche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though its prominence is shrinking, bioconservatism has a strong base among some religious groups, the Jovian Republic, and certain extremists.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que son importance réduise, le bioconservatisme a une base solide parmi quelques groupes religieux, la République Jovienne et certains extrémistes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bioconservatives are opposed to nanofabrication, genetic modification, cloning, cognitive modifications, artificial intelligence, uplifting, and forking, among other technologies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Bioconservateurs sont opposés à la nanofabrication, aux modifications génétiques, au clonage, aux modifications cognitive, à l'intelligence artificielle, à l'élevage et au fork, parmi d'autres technologies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some are even opposed to backups, uploading, and resleeving, dismissing them as unnatural, an affront to god's will, or a technology that transhumanity is not yet mature enough to handle.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains sont mêmes opposés aux sauvegrades, à l'upload et à la réincarnation, les considarént comme non naturel, un affront à la volonté des dieux ou comme une technologie pour laquelle la transhumanité n'est pas encore prète.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They oppose expansion beyond the Pandora Gates on the grounds that transhumanity is not ready to deal with what they might encounter.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils s'opposent à l'extension aux delà des Portes de Pandorre sur le principe que la transhumanité n'est pas apte à s'occuper de ce qu'elle pourrait découvrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most bioconservatives support the old economy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des Bioconservateurs favorisent l'ancienne économie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The bioconservatives gained many converts and much ground after the Fall, a cataclysmic event that served as a direct example of the dangers they warned against.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Bioconservateurs ont récupérés de nombreux convertis et beaucoup d'espace social après la Chute, l'évènement cataclysmique qui a servi d'exemple dircet des dangers contre lesquelles ils avaient prévenus l'humanité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Still, the appeal of technology and the numerous advantages it provides work against them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, l'attrait de la technologie et les nombreux avantages qu'elle procure travaille contre eux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a result, some disgruntled biocons have turned to sabotage and acts of terrorism in support of their ideology.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En conséquence, quelques biocons mécontents se sont orientés vers le sabotage et les actes de terrorisme pour défendre leur idéologie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Brinkers}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Brinkeurs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Memes&lt;/i0&gt;: Isolationism</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mêmes:&lt;/i0&gt; Isolationnsime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The vast reach of the solar system enables groups with their own particular ideology or agenda to establish their own isolated society far from the rest of transhumanity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'étendue couverte par le système solaire perment à des groupes avec leurs propres projets ou idéologies d'établir leur propre société à l'écart du reste de la transhumanité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Commonly referred to as brinkers, these habitats extend the gamut of the imagination.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Communément appelé brinkeurs, ces habitats s'étendent sur toute la gamme de l'imagination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Social or political experiments, gender-based societies (or lack thereof), political extremists, religious groups, exiles, secret criminal/hypercorp operations, extended families, cults, or simply people who prefer to live in the system's backwater areas—all are possible.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les expérimentations sociale ou politqies, les sociétés bases sur le genre (ou le manque de genre), les extrémistes politiques, les groueps religieux, les exilés, les opérations secrètes hypercorporatistes ou criminelles, les familles étendues, les cultes ou simplement les personnes qui préfèrent vivre dans les coins perdus du système - tout est possible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many of these are self-isolated and will refuse to interact with outsiders, while others are happy to have occasional visitors.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup d'entre eux sont des isolés volontaires et refuseront d'interagir avec l'extérieur, alros que d'autres seront heureux d'avoir des visiteurs occasionnels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Neo-primitivists</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Néo-primitivistes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Neo-primitivists are a potential threat that all Firewall sentinels should keep an eye on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les néo-primitivistes sont une menace potentielles qui devrait être surveillée par toutes les sentinelles de Firewall.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their neo-luddite philosophy advocates the abolition of technological society and a return to a wild and free hunter-gatherer lifestyle, free from technological control or oppression.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leur philosophie néo-luddite préconsie l'abolition de la société technologique et un retour à un style de vie sauvage de chasseur-cueillieur, libre de tout contrôle ou oppression technologique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Considered an extremist element of both the bioconservative and reclaimer movements, neo-primitivists are known to engage in acts of sabotage against transhuman society.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Considéré comme un élément extrémiste des mouvements bioconservateurs et réclamationnistes, les néo-primitivistes sont connus pour se livrer à des actes de sabotages contre la société transhumaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though some neo-primitivists have made certain concessions to their ideology, taking on ruster morphs and pursuing an independent lifestyle in the wilds of Mars, most hope to return to Earth and re-establish a non-technology-based society there.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que certains néo-primitivistes ont fait certaines concessions à leur idéologie, acceptant les morphs rusters et choisissant un stylme de vie indépendant dans les étendues sauvage de Mars, la plupart espèrent retourner sur Terre y ré-établir une société non basée sur la technologie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few advocate finding a new, unspoiled world beyond the Pandora Gates and founding a primitivist society there.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques uns préconisent la recherche d'un nouveau monde vierge au delà des Portes de Pandorre et y fonder une société primitive.</seg>
       </tuv>
     </tu>
     <tu>
