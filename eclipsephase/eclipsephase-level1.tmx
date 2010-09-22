@@ -14958,6 +14958,910 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Religious groups}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Groupes religieux}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Despite having survived the Fall, the concepts of religion and religious belief underwent changes as fundamental as transhumanity itself.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même si elles ont survécu à la Chute, les concepts de religion et de croyances religieuses ont subit des changements autant fondamentaux que ceux que la transhumanité à subit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While Earth's old religions were already in decline in the face of technological immortality, religious traditions ingrained after millennia of worship were incorporated to varying degrees in the solar system's myriad political, social, and cultural models.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que les vieilles religions de la Terre étaient déjà en déclin face à l'immortalité technologique, les traditions religious enraciné des des millénaires de vénération ont été incorporées à différents degrés dans la myriade de modèles politiques, sociaux et culturels du système solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Pre-fall religions}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Religions pré-Chute}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The rigid structures and dogmas enveloping Christianity and Judaism prohibited these religions from adapting to the cultural, philosophical, and especially scientific/technological changes transhumanity underwent.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les structures rigides et les dogmes enveloppant le Christianisme et le Judaïsme ont interdit à ces religions de s'adapter aux changements philosophique, culturel et scientifique/technologique en particulier qui modifièrent la transhumanité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Today, they are mere shadows of their former glory, with many practitioners seen as pitiful individuals unable to let go of their earthbound delusions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>AUjourd'hui, elles sont des ombres pâles de leur ancienne gloire, ayant de nombreux pratiquants perçus comme des individus pitoyables incapable de se défaire de leur lien avec la Terre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Islam, while still holding some most controversial views and values, managed to adapt by accepting a more liberal and even secular view.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'Islam, tout en conservant quelques vues et valeurs trés conroversée, a réussi à s'adapter en acceptant un point de vue plus libéral voire laïque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hinduism also prevailed to a limited extent, considering resleeving technology an element of reincarnation and rebirth and integrating the various types of morphs available into the religion's caste system (with synthmorphs becoming the “untouchables”).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'Hindouïsme a également survécu d'une certaine manière, considérant la technologie de réincarnation comem un élément de la rénaissance et intégrant les différents type de morph disponible au système de caste de la religion (les synthmorphs étant devenus les &quot;intouchables&quot;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Overall, followers of the pre-Fall religions mostly populate small habitats isolated from transhumanity through both physical and philosophical distance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière globale, les adeptes des religions pré-Chute peuplent essentiellement de petits habitats isolés du reste de la transhumanité via une distance à la fois physique et philosophique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{New religions}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Nouvelles religions}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Fall sparked the birth of new beliefs, essentially embracing both transhumanity's technological achievements as well as the devastating cataclysm of the Fall as evidence for the existence of a greater cosmic power.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Chute a démarré la naissance de nouvelles croyances, embrassant pour la plupart à la fois les accomplissements technologiques de la transhumanité et le cataclysme dévastateur de la Chute comme preuve de l'existence d'une plus grande puissance cosmique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Neo-Buddhism}  is the only pre-Fall religious philosophy that enjoys a steady popularity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le {Neo-Boudisme}  est la seule philosophie religieuse pré-Chute quii bénéficie d'une popularité constante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Neo-buddhists assert that transhumanist technologies are decreasing suffering and increasing happiness, and that they will also allow the continual progression of transhumanity's understanding of the universe through successive lives.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les néo-boudistes affirment que les technologies transhumaines réduisent la souffrance et augmentent le bonheur, et qu'elle permettra aussi la progression continue de la comprehension de l'univers par la transhumanité grâce à leurs vies successives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Techno-Creationists}  believe that the destruction of Earth was a sign from God, showing transhumanity the error of its ways.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les {Techno-Créationnistes}  croient que la destruction de la Terre était un signe de Dieu, montrant à la transhumanité à quel point son mode de vie était mauvais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They believe that through technological advancement and social engineering, transhumanity will achieve co-existence with its diverse self as well as with extra terrestrial intelligences, thereby finding new purpose and eventually, enlightenment.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils croient que grâce aux avancées technologiques et à l'ingénierie sociale, la transhumanité parviendra à coexister avec ses divers individus ainsi qu'avec des intelligences extra terrestres, trouvant ainsi de nouveau objectif et atteignant éventuellement l'illumination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Attracted by the similarities to the Brahman of Hinduism, the highest cosmic spiritual being, Techno-Creationists enjoy a steady influx of converted Hindus.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Attiré par les similarités avec les Brahamans Hindoux, les plus grand êtres cosmique spirituels, les Techno-Créationnistes bénéficient afflux constant d'Hindoux convertis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Xenodeism}  is another new—though relatively minor—ideology that begins to show religious attributes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le {Xénodéisme}  est une autre idéologie récente - bien que relativement mineure - qui commence à montrer des attributs religieux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Xenodeists worship the Factors and Iktomi as emissaries or prophets of a great godlike race that laid the seeds of creation throughout the universe millions of years ago and therefore are the ultimate creators of transhumanity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Xénodéistes vénèrent les Facteurs et les Iktomis en tant q'uémissaires et prophètes d'une grande race divine qui a semer les germes de la création dans l'univers plusieurs millions d'années auapravant et qui sont donc les ultimes créateurs de la transhumanité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Criminal factions}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Factions criminelles}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Technological progress and social and behavioral experimentation did not root out crime or criminal tendencies among transhumanity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le progrès technologique et social et l'expérimentation comportementale n'ont pas déraciné le crime ou les tendances criminelles au sein de la transhumanité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As long as there are inequalities and restrictions, criminal syndicates are likely to flourish and even adapt new technologies to expand their operations throughout the solar system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tant qu'il existe des inégalitées et des restrictions, les syndicats criminels sont prospère et s'adaptent même aux nouvelles technologie pour étendre leurs opérations à travers tout le système solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though small criminal outfits of every flavor exist from habitat to habitat, a few larger organizations with influence across the solar system deserve mention.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que des petites organisation criminelles de type divers existe d'un habitat à l'autre, quelques organisations plus large ayant une influence à travers tout le système solaire mérite d'être mentionné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Stations: Rhea (Kronos Cluster)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principale: Rhéa (Groupe Kronos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ID crew specializes in electronic crimes and information brokerage, including credit and rep fraud, identity counterfeiting, ego trading, data theft, and fork-napping.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'ID crew se spécialise dans les crimes électroniques et la revente d'information, incluant la fraude aux crédits à la rep, la contrefçaon d'identité, le commerce d'égo et le fork-napping.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Information on the syndicate's origins was lost during the Fall, but the ID Crew is believed to have grown from several hacker gangs assimilated under the leadership of an infomorph consortium.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les informatiosn sur les origines du syndicat ont étés perdues lors de la Chute, mais l'on pense que l'ID Crew s'est développé sur des gangs de hackers qui ont été assimilés sous le commandement d'un consortium d'infomorph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their skilled use of memory manipulation software and mesh intrusion suggests they benefit from the help of sophisticated AGIs, however it is unknown if these voluntarily assist the syndicate or if they are somehow threatened into cooperation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leur expertise dans les logiciels de manipulation mémorielle et de l'intrusion dans le mesh suggère qu'isl ébnéficient de l'aide d'IAs sophistiquées, il est reste encore à déterminer si elles aident volontairement le syndicat ou si elles ont été menacées d'une manière ou d'une autre et oforcée à coopérée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Due to its service sector, the ID crew maintains a minimalist physical profile, but can be found lingering in the dark recesses of almost any habitat or station mesh.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En raison de leur secteur de service, l'ID Crew maintiens un profil physique minimum, mais peut être trouvé errant dans les recoin les plus sombres du mesh de n'importe quel habitat ou station.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Its somewhat specialized services and activities so far allow them to mostly stay clear of triad or Night Cartel operations, though they have an ongoing rivalry with the Nine Lives syndicate.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ses activités et services spécialisée leur ont jusqu'à présent permis de rester hors des opérations des triades ou du Night Cartel, bien qu'ils soient des rivaux avec le syndicat Nine Lives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Stations: New Sicily (The Belt)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principales: New Sicily (Ceinture Principale)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When affiliation to one of the many multi-ethnic habitats replaced the concepts of ethnicity and nationality, cultural heritage and traditions faded with them into history.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque l'affiliation à l'un des habitats multi-ethnique remplaça les concepts d'éthnicité et de nationalité, l'héritage culturel et les traditions s'estompèrent dans l'histoire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Several pre-Fall ethnic syndicates formed a careful alliance of necessity at first, but uploading and morphing soon after tore down any remaining social codes or racial prejudice.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plusieurs syndicats ethniques pré-Chute ont formé une alliance de nécessité d'abord, mais s'élevant et se transformant rapidement après avoir supprimé tout codes sociaxu ou préjudices raciaux restants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Progressive in both entrepreneurial and criminal vision, the Night Cartel emerged from the remnants of Earth's underworld syndicates, merging the best qualities of each.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ayant une vision progressive à la fois pour les affaies et pour le crime, le Night Cartel émergea des restes des syndicats sous-terrain de la Terre, récuéprant le meilleur de chaque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Night Cartel holds legitimate hypercorp status in certain habitats while clearly working outside the law in other, more law-abiding or less corrupt regimes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le Night Cartel possède un statut d'hypercorporation légitime dans certains habitats tout en travaillant clairement illégalement dans d'autres habitats plus respecteuex de la loi ou ayant des régimes moins corrompus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Night Cartel is involved in a number of traditional crime outlets: racketeering, extortion, kidnapping, pod slavery, and prostitution.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le Night Cartel est impliqué dans nombre de domaines traditionnels du crime: racket, extorsion, enlèvement, traites des pods et prostitution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They have also adapted well to the latest technological developments and compete with the triads in the electronic stimulant, drug, and nanofab piracy markets.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils se sont églaement bien adapté aux derniers développements technologique et sont en compétition avec les triades sur les marchés des stimulants électroniques, de la drogue et du piratage de nanofabeurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Like the triads, the Night Cartel sometimes operates though legitimate hypercorp fronts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>COmme les triades, le Night Cartel opére parfois via des façades hypercorporatistes légales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Station: Legba (Main Belt)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principales: Legba (Ceinture Principale)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This widespread network of soul-traders specializes in the acquiring, trading, and overall trafficking of transhumans.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce réseau trés répendu de trafiquants d'âme se spécialise dans l'acquisition, le commerce et le traffic général des transhumains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their primary market lies in ego-trading: stealing backups, fork-napping, kidnapping and forced uploading, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leur principal marché est le commerce d'ego: vol de sauvegarde, fork-napping, enlèvements, upload forcé et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nine Lives are known to run illegal infomorph-slave colonies as well as organize pit fights using all manner of physical bodies (biomorphs, synthmorphs, animals) loaded with all manner of consciousnesses (transhuman, AI, animal, etc).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nine Lives est connu pour diriger des colonies illégales d'esclaves informophs aussi bien que pour organiser des combats de foasses utilisant tout type de corps physiques (biomorphs, synthmorphs, animaux) chargés avec tout type de conscience (transhuamins, IA, animaux, etc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only the truly desperate look towards the syndicate to be smuggled out of a habitat or hypercorporate indenture.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Seuls les plus désespérés se trounent vers le syndicat pour être convoyé hors d'un habitat ou de la contraction hypercorporatiste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their ruthlessness in acquiring egos has earned them a fearful reputation among the transhuman population as well as in infomorph societies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leur brutalité lors de l'acquisition d'egos a donné une réputation redoutable parmi les populations transhumaine aussi bien que dans les sociétés ifomorph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Stations: Ambelina (Venus)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principales: Ambelina (Vénus)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though similar to the Night Cartel in that Pax Familae holds legal offices and outposts in several habitats while working underground in others, the difference between the two syndicates couldn't be bigger.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout en étant similaire au Night Cartel par la détention de bureau et d'avant-poste légaux dans plusieurs habitats tout en travailalnt dans l'ombre dans d'autre, la différence entre les deux syndicats ne pourraient pas être plsu grande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The entire Pax Familae organization goes back to one person, Claudia Ambelina, the syndicate's founder and matriarch.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toute l'organisation de la Pax Familiae se résume à une seule personne, Claudia AMbelina, la matriarche et fondatrice du syndicat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Relying excessively on cloning and forking technologies, each individual member of the syndicate is a descendant or variant of Claudia.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Utilisant excessivement les tecchnologie de  clonage et de fork, chaque membre du syndicat est un descendant ou une variation de Claudia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Biomorphs are cloned from Claudia's original genetics or even sometimes sexually-produced offspring (thanks to sex switching bio-mods), while egos are forks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les biomorphs sont clonées depuis le génome originel de Claudia ou sont parfois des des descendants produits sexeuellement(grâce aux bio mods de changement de sexe), alors que les egos sont des forks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All members are utterly loyal to Claudia and show their family affiliation with pride and arrogance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout les membres sont entièrement fidèles à Claudia et affiche leur affiliation familiale avec fierté et arrogance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Individually, each remains slightly but notably different, though all are calculating and ambitious.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Individuellement, chacun d'entre eux reste légèrement mais notablement différent des autres, mais ils sont tous calculateurs et ambitieux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Regular re-assimilation of forks and XP updates are used to keep each variant aware of each of the other's activities—once you've met one version of Claudia, the others will know you.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des ré-assimilation régulières de forks et des mise à jour XP sotn utilisées pour garder chaque variation au courant des activités des autres - une fois que vous avez vus une version de Claudia, les autres vous connaîtrons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pax Familae engages in a wide assortment of legal, dubious, and illegal operations, each tailored to the needs of the particular habitat in question.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pax Familiae se lace dans un assortiment varié d'opération légale, paralégale et illégale, chacune adaptée aux besoins d'un habitat particulier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Common ventures include venture capital manipulations, reputation network gaming, financial consulting, info brokerage, stock manipulations, banking fraud, and loansharking.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des entreprises communes incluent les manipulations de capitaux, l'arnaque dans les réseaux réputationnelle, la consultation financière, la revente d'information, la manipulations du marché, la fraude bancaire et l'usure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most pirates attack automated cargo ships and longrange supply convoys, with the occasional raid on an asteroid mining station, research outpost, or brinker habitat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des pirates attaques des vaisseaux cargos automatisés et les convois d'approvisionnement longue-distance, et mènent occasionnellement des raids sur des statiosn de minages d'astéroïdes, des avant-postes de recherche ou des habitats isolés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On rare occasions they have been known to attack commercial cruisers to rob the wealthy or kidnap socialites.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En de rares occasions ils sont connus pour avoir attaqué des croisières commerciales pour voler les plsu riches ou kidnapper des socialites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many pirates take advantage of scum fleets as cover, trading with them and using their limited maintenance capabilities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup de pirates se dissimulent dans les couverts offerts par les flottes racailles, commerçant avec eux et utilisant leurs capacités limitées de maintenance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Quite a few also make sideline profits as smugglers and/or free traders, often utilizing connections to one of the crime syndicates or political outcasts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un certain nombre d'entre eux se font également des à-côtés en tant que contrebandiers et/ou marchand libre, utilisant souvent des connexions à l'un des syndicats du crime ou à un des éxilés politique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Triads}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Triades}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major Stations: Qing Long (Martian Trojans)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations Principales: Qing Long (Toyens Martian)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The only major Earth syndicate to survive the Fall almost unscathed, the triads dominate the solar system's underworld by their sheer membership size and a history of centuries of economic and political influence.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le seul syndicat Terrestre majeur à avoir survécu à la Chute quasiment indemne, les triades dominent le monde sous-terrain du système solaire par le nombre de leur membres et grâce à un passif de siècles d'influence culturelle et politique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Having evolved into legit enterprises and small economic consortiums already before the Fall, the triads gained a foothold during the early colonization of space thanks to the masses of Chinese workers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ayant évolué en entreprise légitime et en petits consortiums économique bien avant la Chute, les triades ont récupéré une tête de ponts pendant les premières étapes de la colonisation spatiale grâces aux masses de travailleurs Chinois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since the Fall, they have used their influence to spread to numerous habitats, taking advantage of the disparities in wealth and restrictive refugee policies to create flourishing gray and black market enterprises.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Depuis la Chute, ils ont utilisé leur influence pour se répandre dans de nombreux habitats, profitant des disparités des richesses et des politiques de restrictions des réfugiés pour créer des entreprises florissante dans le marché noir et gris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Part of their success also lies in their continual utilization of ethnic Chinese social cues to ensure their insularity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une part de leur succès repose également dans leur utilisation continue des codes sociaux Chinois pour assurer leur insularité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though numerous small triad outfits exist, usually isolated to a particular station, there are four large triad groups worthy of mention.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que de nombreuses petites triades existent, habituellement isolées dans une station particulière, il y a quatre grand groupes de triades qui méritent d'être mentionnés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each of these wields enough influence to engage in system-wide criminal activities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chacun d'entre eux possèdent suffisament d'influence pour s'engager dans des activités criminelles à l'échelle du système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Traditionally they operate through small to medium-sized gangs local to a specific habitat or use their legal outfits as a font for their endeavours.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elles opèrent traditionellement via des gangs locaux de taille moyenne spécifiques à un habitat ou utilisent leurs façade légale comme origine de leurs efforts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{The 14K Triad}  controls a large part of the casino industry and the various forms of illegal gambling, betting, and rigged lotteries.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{La Triade 14K}  contrôle une large partie de l'industrie des casinos et les différentes formes de jeu illégaux, de pari et de loterie truquées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Through their Galaxy Entertainment Group, a legal casino and gambling hypercorp, the 14K maintains tight connections to politicians, celebrities and influential entrepreneurs in several habitats and can afford the luxury of a private police force, the Pai Gow (Double Hand).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A travers leur Galaxy Entertainment Group, une hypercorporations légale de casino et de jeu, la 14K maintiens des connexions sérées avec les politiciens, les célébrités et les entrepreneurs influents dans plusieurs habitats et peuvent se payer le luxe d'une forece de police, la Pai Gow (Main Double).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Using the casino business for money laundry, they are also heavily involved in loan sharking and credit/ID fraud.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En utilisant le business des casinos pour blanchir de l'argent, ils sont également lourdement impliqué dans l'usure et la fraude au crédit ou à l'ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{The Shui Fong}  -- though smaller than the 14K -- caters to the vices and addictions of indentured habitat workers, miners, and other laborers, supplying drugs and illegal XP, running prostitution rings, and arranging illegal pit fights and gambling tournaments.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Le Shui Fong}  - bien que plus petit que le14K - s'occupe des vices et des addictions des ouvriers d'habitats, des mineurs et d'autres travailleurs contractés, leur fournissant drogues et XP illégale, faisant tourner des cercles de prostitution et organisant des combats d'arènes illégaux et des tournois de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The origin of the Shui Fong's fierce rivalry with the 14K lies in the ruins of Earth's pre-Fall history, but the hatred between the two factions was carried into space and continues to simmer.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'origine de la rancune tance entre le  Shui Fong et le 14K vient des ruines de l'histoire Terrestre pré-Chute, mais la haine entre les deux factions a été emmenée dasn l'espace et continue de bouillir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{The Sun Yee On}  once ranked second among Earth's biggest triads, with over 25,000 suspected members.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Le Sun Yee On}  étaient autrefois la deuxième des triades Terrestre, avec plus de 25 000 membrs supposés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They profit primarily by selling cheap copies of nanofab blueprints and rigged makers and fabbers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leur profit vient principalement de la revente de copie bon marché de schéma de nanofabeurs ainsi que de la vente faiseurs et fabeurs bidouillés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Legal products are distributed through their Wushuang Corporation, while illegal goods are patched together by enslaved infomorphs in virtual sweatshops in remote corners of the mesh.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les produits légaux sont ditribués via leur Wushuang Corporation, alros que les marchandises illégales sont assemblés par des infomorphs asservies dans des ateliers de misères cachés dans les recoins éloignés du mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Sun Yee On's second main profit source are fake Earth nostalgia items, such as jewelry, documents, coins, and other collector's items.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La deuxième source de profit du Sun Yee On sont les faux objets de nostalgie Terrestre, telles que les bijoux, les documents, les pièces et d'autres objets de collection.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{The Big Circle Gang}  is the smallest of the four triad factions with only approximately 8,000 members.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Le Big Circle Gang}  est la plus petite des quatres triades avec aproximativement 8 000 membres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They run a large part of the solar system's drug trade, producing organic drugs, smart drugs, and narcoalgorithms of all kinds in secluded habitats or abandoned asteroid mining and processing facilities converted into drug labs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils dirigent une bonne partie du marché de la drogue du système solaire, produisant des drogues organiques, des drogues intelligentes ou des narcoalgorithmes de tout type dans des habitats scellés ou dans des insatllations de minage et de traitement abandonnées transformée en laboratoire de drogue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firewall has been on the forefront of the secret fight to save transhumanity since the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Firewall a été à la tête de la lutte secrète pour sauver la transhumanité depuis la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firewall is an independent network of cells and individuals recruited from all sorts of factions, cultures, backgrounds, and habitats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Firewall est un réseau indépendant de cellulle et d'individus recrutés dans tout type de faction, de cultures, d'origine et d'habitats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Potential new recruits are approached in secret and told they possess skills or knowledge of use to a clandestine network seeking to secure transhumanity's continued survival.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les nouvelles recrues potentielles sont approchées en secret et on leur dit qu'elle possèdent des connaissances ou des compétences utile pour un réseau clandestin cherchant à sécuriser la continuité de la survie de la transhumanité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firewall's agenda is simple: to protect transhumanity from threats of existential scope, regardless of whether such risks emerge from within transhumanity or are of external, alien origin.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'objectif de Firewall est simple; protéger la transhumanité des menaces d'envergure existentielle, peu importe que ce risque émerge de l'intérieur de la transhumanité ou ai une origine extérieure, étrangère.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firewall operatives—known as sentinels—are encouraged to act independently and utilize their own resources.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les agents opérationnels de Firewall - appelés sentinelles - doivent agir de manière indépendante et doivent utilsier leurs propres ressources.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sentinels are connected by a social network known as the Eye, which they can use to acquire help and additional needed skills or resources.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les sentinelles sont connectées à un réseau social appelé The Eye, qu'ils peuvent utiliser pour obtenir de l'aide et des compétences additionelle et des ressources.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A sentinel's i-rep on this network indicates how much they are trusted and will be a factor in determining what aid they can call in.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'i-rep d'une sentinelle sur le réseau indique le niveau de confiance qui leur est accordé et sera un facteur déterminant pour savoir l'aide qu'ils peuvent obtenir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firewall also takes care of large expenses and logistics when necessary, such as egocasting and resleeving needs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Firewall s'occupe également des dépenses conséquentes et de la logistiques lorsque c'est nécessaire, tels que les besoins en égocast et en réincarnation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sentinels are guaranteed resurrection, either via cortical stack or by backup, if they lose their lives on a Firewall op.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La résurrection est garantie aux sentinelles, par la pile corticale ou par une sauvegarde, si ils perdent la vie au cours d'une opération pour Firewall.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sentinels are generally expected to be on-call -— when something comes up in their vicinity or that their particular specialty might call for, they'll be brought in on a job.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les sentinelles sont généralement prête à intervenir immédiatement - quand quelque chose arrive dans leur voisinage ou lorsque leurs spécialité sont requises, le boulot leur est affecté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sentinels are usually grouped into ad hoc special ops teams appropriate to each mission.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les sentinelles sont habituellement groupés en équipe d'intervention spéciales en fonction de chaque mission.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though many sentinels pursue their own agendas after completing a mission for Firewall, it is not uncommon for sentinel teams to remain in contact, share information or continue to work together on Firewallrelated assignments over a longer period of time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même si beaucoup de sentinelles poursuivent leur propres plans après avoir complété une mission pour Firewall, il est courant que des équipes de sentinelles restent en conatct, partagent des informatiosn ou continuent à travailler ensemble sur des assignations liées à Firwall pendant une période dee temps plus longue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firewall operations are usually organized and managed by proxies, agents who maintain Firewall's decentralized infrastructure.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les opérations de Firewall sont habituellement planifiée et gérées par des proxys, des agents qui maintiennent l'infrastructure décentralisées de Firewall.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Proxies typically possess more information than individual sentinels and will dispense such information as they deem necessary to the mission, according to each sentinel's i-rep and need to know.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les proxys possèdent généralement plsu d'information que les snetinelles et dispenseront ces informations de la manière qu'ils jugent nécessaire à la mission, en fonction de l'i-rep de chaque sentinelle et de leur besoin de savoir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each proxy's means of contact, mission briefing, and overall methodologies differ greatly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les moyens de contact, les briefing de mission et la méthodologie de chaque proxy diffère grandement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Project Ozma</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Projet Ozma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You won’t find this group mentioned on the conspiracy boards—Consortium security is too tight to allow slip-ups.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tu ne trouvera pas une mention de ce groupe sur les forums conspirationnistes - la sécurité du Consortium est bien trop élevée pour permettre les fuites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you haven’t heard of Project Ozma before, consider this your warning.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si tu n'as jamais entendu parlé du Projet Ozma avant, considère toi comme prévenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Project Ozma was the name of an international collaborative SETI project before the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le Projet Ozma était le nom d'un projet SETI international collaboratif avant la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It briefly entered public discourse after the Fall and the discovery of the first Pandora Gate as a Planetary Consortium initiative to attempt to discern the whereabouts of the TITANs in the galaxy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il est entré brièvement dans le discours public après la Chute et la découverte de la première Porte de Pandorre  comme une initiative du Consortium Planétaire pour tenter de discerner où sont partis les TITANs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shortly afterwards, however, Project Ozma dropped from view, wiped from all public mention in inner system mesh servers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Peu après le Projet Ozma est cependant passé hors de vue, toute mention publique éyant été effacée dans les serveurs mesh du système intérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Consortium officials simply claim that the project was folded into other departments.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les officiels du Consortium ont simplement prétendus que le projet avait été déplacé dans d'autres départements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firewall doesn’t know what Project Ozma is, but we know they’re still around—and they seem to have similar interests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Firewall ne sait pas ce qu'est le Projet Ozma, mais nous savonst qu'ils sont toujours là - et qu'ils semblent avoir des intérêts similaires aux notres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>We’ve butted heads a few too many times for it be a coincidence.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nous nous sommes retrouvés nez à nez avec eux un peu trop souvent pour que ce ne soit que des coïncidences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Perhaps they’re the Consortium’s version of Firewall, or maybe their agenda is entirely different.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Peut-être qu'isl sont la version du Consortium de Firewakkn ou peut-être que leurs plans sont complètements différents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’ve heard some speculation that they’re tasked for preparing for and handling alien contact.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>J'ai entendu quelques spéculations sur le fait qu'ils se préparaient à et gérerai des contacts étrangers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All we know is that they operate at the deep black budget level and they have insane amounts of resources at their beck and call.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout ce que nous savons c'est qu'ils opèrent au niveau des caisses noires les plus obscures et qu'ils ont un total de ressource saffolant disponible à leur appel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They’re also vicious as fuck, the type to shoot first and question your backup later.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils sont aussi vicueux comme des conanrd, le genre à tirer d'abord et à interroger votre sauvegarde plus tard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Standard SOP if you run counter to a Project Ozma op is to bail out fast and stay hands off.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les POP standards si vous croisez une opération du Projet Ozma est de se barrer rapidement et de rester loin d'eux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>We’ve lost dozens of agents to them already.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nous avons déjà perdu des douzaines d'agents à cause d'eux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Prometheans}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Prométhéens}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A prominent topic among conspiracy theorists is the existence of a group of seed AIs calling themselves Prometheans.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un sujet dominant parmi les théoriciens de la conspiration est l'existence d'un groupe d'IA germe qui s'appellent les Prométéhens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rumors of these entities predated the Fall and occasionally flare up as some new evidence comes to light, though such evidence is almost always discredited soon after.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les rumeurs de ces entités datent d'avant la Chute et sont régulièrement allumées alors que certaines preuves sont mises en évidence, même si de telels preuves sont presque toujours discréditées juste après.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>According to some theories, the Prometheans predated the TITANs and may even have been responsible for bringing the TITANs into existence.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'après quelques téhories, les Prométthéens sont plus anciens que les TITANs et pourraient même être responsable de l'existence des TITANs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Others postulate that the Prometheans were a TITAN splinter faction who broke off and attempted to counteract the TITANs activities during the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres postulent que les Prométhéens sont une fatcion dissidente des TITANs qui se sont séparés d'eux et on tentés de contrer les activités des TITANs pendant la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Still others whisper that the Prometheans are not of transhuman origin at all, and are actually a digital alien mindform that found Earth and now actively interferes with transhuman affairs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres encore murmures que les Prométhéens ne sont pas du tout d'origine transhumaine, et qu'ils sont en fait une forme de conscience eétrangère qui a trouvé la terre et qui interfère maintenant activement avec les affaires transhumaines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Whether the Prometheans are hostile, friendly, or indifferent remains a matter of much conjecture and contention.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Que les Prométhéens soient hostiles, amicaux ou indifférents restent sujet à beaucoup de conjecture et de de conflit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
