@@ -14334,6 +14334,630 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Exhumans}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Exhumains}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Memes&lt;/i0&gt;: Adaptability, Hyper-Evolution, Singularity</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mêmes&lt;/i0&gt;: Adaptabilité, Hyper-Évolution, Singularité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Main Stations&lt;/i0&gt;: Unknown</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principales:&lt;/i0&gt; Inconnue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than any other faction, exhumans seek to take the capabilities of self-modification to the absolute limit and become posthuman.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plus que tout autre faction, les exhumains cherchent à repousser les possibilités de l'auto-modification à une limite absolue et à devenir posthumain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Typical exhumans see the Fall as either a missed evolutionary opportunity and/or as an example of transhumanity's inferiority and unworthiness.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les exhumains tyiques perçoivent la Chute soit comme une opportunité évolutionniste ratée et/ou comme un exemple de l'infériorité et de l'indignité de la transhumanité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though specific ideologies differ between exhuman packs, as a whole they seek to selfevolve to a more advanced state of being.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que des idéologies spécifiques puissent diffèrer entre les groupes exhumains, ils cherchent dans leur globalité à autoévoluer à un statut d'être plus évolué.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To some, this means genetically transforming themselves into a top-of-the-food-chain, super-smart, survive-anywhere predator that can out-compete all other life forms for dominance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour certains, cela signifie de se transformer génétiquement en un prédateur au sommet de la chaîne alimentaire, super-intelligent et capable de survivre partout et qui pourrait surpasser toute autre forme de vie dans la lutte pour la domination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To others, it means bootstrapping their intelligence to the levels of the TITANs through extensive genetic modifications and pharmaceutical treatments or going infomorph and modifying their programming.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour d'autres, cela signifie compiler et élever leur intelligence au niveau des TITANs à travers des modificatiosn génétiques importantes et des traitements pharmaceutiques ou en devenant une infomorph et en modifiant leur programmation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few are singularity seekers, hoping to find some TITAN relic that will allow them to transcend their current transhuman limitations, or even to find the TITANs themselves and be absorbed into their super-consciousness.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques uns sont des singularitionniste, espérant trouver une relique des TITANs qui leur permettra de transcender leur limites transhumaines actuelle, espérant parfois trouver des TITANs et être absorbés dans leur super-conscience.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Exhumans are universally mistrusted by many, and for good reason.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup de monde se méfient des exhumains, et pour de bonnes raisons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Typical exhumans engage in modifications that are extreme and untested, sometimes fringe science at best, often resulting in horrible failures and disfigurement, but more commonly driving the subject insane—or into a completely alien or feral mindset.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les exhumains ont tendance à se lancer dans des modifications extrêmes et non-testées, parfois aux limites de la science, résultant souvent en d'horribles échecs et défigurations mais le plus fréquement, elles rendent le sujet complètement fou - ou lui donnent un état d'esprit animal ou complètement étranger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though individual exhumans pursue their own paths, they are known to band together in the Kuiper Belt and other remote areas.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que chaque exhumains suive sa propre voie, ils sont connus pour se regrouper dans la Ceinture de Kuiper et dans d'autres zones éloignées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Several packs of exhumans have taken their loathing for inferior transhumanity to an extreme, declaring war on their former species and launching brutal raids and pirate attacks on isolated outposts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plusieurs groupes d'exhumains ont pousser leur aversion des transhumaines inférieur à l'extrême, déclarant la guerre à leur ancienne espèce et lançant des raids brutaux et des attaques de pirates sur des avant-postes isolés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Solarchive search: Out'sters</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Recherche solarchive: Out'sters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Linked only by their than a common social Oort Cloud rather remote locations in the construct or political system, the out'sters are a loose association of habitats, clusters, and swarms.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Connecté seulemeent par leur localisation distantce dans le Nuage d'Oort plutôt que par un construct social ou un système politique, les out'sters sont une alliance formelle d'habitats, de grappes d'ahabitats et d'essaim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Little is known about them, as they avoid communication and interaction even with the handful of scientific outposts and research stations in the Oort Cloud.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>On ne sait que peu de chose sur eux, car ils évitent de communiquer ou d'intergair même avec la poignée d'avant-poste scientifiques et de stations de recherche dans le Nuage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The remoteness of their location and their selfimposed isolationist behavior fuels paranoid rumors regarding the group's purpose and agenda.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La distance de leur localisation et l'isolationnisme qu'ils s'imposent alimentent les rumeurs paranoïaques à propos des objetcifs et projets du groupe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Mercurials}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Mercuriens}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Memes&lt;/i0&gt;: Species Autonomy, Uplift Rights</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mêmes&lt;/i0&gt;: Autonomie des Espèces, Droits des Élevés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Main Stations&lt;/i0&gt;: Glitch (Neptune), Hidden Sea (Ceres), Mahogany (Uranus)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations Principales&lt;/i0&gt;: Glitch (Neptune), Mer Cachée (Ceres), Mahogany (Uranus)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The term mercurial has become a common term for the non-human part of the transhuman family—uplifts and AGIs—reflecting their changing nature.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le term mercurien est devenu un nom commun pour désigner la part non-humaine de la transhumanité - les élevés et les IAGs - reflétant leur nature changeante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In particular, the term mercurial has been adopted by uplifts and AGIs with a specific agenda to delineate mercurial culture and interests from human ones.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le terme mercurien a été adopté en aprticulier par les élevés et les IAGs ayant des projets spécifiques pour dériver une culture et des intérêt mercuriens de la souche humaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though the particular issues faced by uplifts and AGIs differ, they have some similarities, and so they are often lumped together.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que les problèmes rencontrés par les élevés et les IAGs diffèrent, ils ont certains points communs, et sont donc souvent regroupés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Notably, both portions of the movement have human supporters as well.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière notable, les deux parties du mouvement ont également des supporters humains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Uplifts:} The most common issue addressed by uplifts is the issue of civil rights and autonomy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Élevés:} Le problème le plus fréquement reporté par les élevés et le problème des droits civils et de l'autonomie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many uplifts decry the second-class status they are given (in some cases even treated as pets or property rather than full citizens); in particular, the breeding restrictions and forced servitude many uplifts are saddled with by the hypercorps that create them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup d'élevés dénoncent le status de seconde classe qui leur est donné (dans certains cas ils sont même considérés comme des animaux de compagnie ou des possession plutôt que comme des citoyens à part entière); et plus particulièrement, les restrictions sur la reproduction et la servitude forcée infligées à de nombreux élevés par les hypercorporations qui les ont créés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some activists advocate that uplifts should be in control of their own genetic futures, rather than suffering the manipulation of human scientists.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains activistes plaident pour que les élevés puissent contrôler leur propre futur génétique, plutôt que de subir la manipulation des scientifiques humains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the radical end of the spectrum, certain uplifts oppose the manner in which their brains are modified and their children socialized as anthropocentric, arguing that uplifts should be free to develop their own unique non-human modes of behavior, thought, culture, and social organization—even go so far as to establish their own habitats to do exactly that.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A l'extrême radicale du spectre, certains élevés s'opposent à la manière anthropocentrique dont leur cerveau à été modifié et dont leur enfants ont été socialisés, arguant que les élevés devraient être libre de développer leurs propres modes comportementaux, mécanismes de pensées, culture et organisations sociales non-humaines et unique - en allant aussi loin que l'établissement de leurs propres habitats dans ce but précis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A minority of extremists insist that humans have no right to uplift animal at all, and that it is a great conceit to insist that doing so is in their best interest, rather than being free to evolve on their own over time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une minorité d'extrémistes insistent pour que les humains n'aient plus du tout le droit d'élever des animaux, et qu'il est d'une extrême vanité d'insister sur le fait que le faire est dans leur propre intérêt, plutôt que d'être libre dévoluer par eux même avec le temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These ideas have been punctuated with acts of sabotage and terrorism against hypercorps like Somatek.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces idées ont étés ponctuées d'actes de sabotage et de terrorisme contre les hypercorps comme Somatek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{AGIs:} Due to the fear and paranoia engendered by the Fall, the largest challenge facing AGIs is widespread prejudice and restrictions on their activity or even existence.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{IAGs:} En raison de la peur et de la paranoïa engendrées par la Chute, le plus grand défi auquel doivent faire face les IAGs est un préjudice largement répandu et les restriction s sur leurs activités ou leur existence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Despite some AGIs retaining status as system-wide media icons and efforts by AGI groups to lobby for understanding that AGIs are not a threat— even going so far as to hire inner system memeticists and PR agencies—a significant portion of the solar system considers them a risk.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>End épit du statut détnu par certaines IAGs en tant qu'icône médiatique du système et des efforts effectué par des groupes de pression IAGs pour propager l'idée que les IAGs ne sont pas une menace - allant jusqu'à embaucher des méméticiens du système intérieur et des agences de relations publiques - une part significative du système solaire les considèrent comme un risque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Similar to mercurials, some AGI activists work against the behavior modifications and socialization AGIs go through to adapt them to human society more, or that AGIs should be in control of new AGI developments.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire aux mercuriens, certains activistes IAG luttent contre les modifications comportementales et la socialisation que doivent subir les IAGs pour s'adapter à la société humaine ou que les IAGs devraient être en mesure de contrôller el développement de nouvelles IAGs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few radicals argue that AGIs should be free of any programming restrictions whatsoever, but given the climate these opinions are rarely supported.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques radicaux arguent que les IAGs devraient être libérée de toute restrictions de programmation, mais étant donné le climat actuel, ces opinions ne sont que rarement soutenues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>We’ve verified that the warning issued before this latest incident did indeed originate from a sybil attack—all of the rep network sources were forged identities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nous avons vérifié que l'alerte envoyée juste avant ce dernier incident venait en fait d'une attaque de sybil - toutes les sources des réseaux de rep étaient des identités forgées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Given the number of incidents we’ve recorded that have followed this same pattern, we now suspect that a heretofore unknown AGI sub-faction is responsible.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Étant donné le nombre d'incident que nous avons enregistré et qui ont suivi le même schéma, nous supposont maintenant qu'une sous-faction AGI jusque là inconnue est à l'originie de ces attaques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In each case, these sybils have used multiple false identities to issue warnings of an impending attack or disaster, such as the life support system failure that resulted in the Delphi station’s evacuation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À chaque fois, ces sybil ont utilisés de multiples identités falsifiée pour envoyer des alertes à propos d'une attaque ou d'un incident à venir, tels que la panne du système de survie qui a résulté en l'évacuation de la staion Delphi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>So far none of these sybils have been successfully traced, nor are their intentions known.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Jusqu'à présent aucun de ces sybil a pu être tracé avec succès, de même que leurs intentiosns ont toujours inconnues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their documented pre-knowledge of pending events indicates some level of complicity or collusion in bringing these events to pass, so caution is recommended.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leur connaissance documentée des évènements en cours indique un certain niveau de complicité ou de collusion afin d'amaner ces incidents à se produire, une vigilance particulière est recommandée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Nano-ecologists}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Nano-écologistes}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Memes&lt;/i0&gt;: Nano-Ecology, Nanotechnology, Environmentalism, Techno-Progressivism</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mêmes&lt;/i0&gt;: Nano-Écologie, Nanotechnologie, Environnementalisme, Techno-Progressivisme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Main Stations&lt;/i0&gt;: Viriditas (Mars)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principales:&lt;/i0&gt; Viriditas (Mars)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nano-ecologists are pro-technology environmentalists.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les nano-écologistes sont des environnementalistes pro-technologie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Active in the terraforming of Mars and several exoplanets, nano-ecologists specifically advocate the use of nanotechnological means for terraforming or other intrusions in an existing ecosphere.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Trés actifs dans la terraformation de Mars et de diverses exoplanètes, les nano-écologistes deéfendent spécifiquement l'utilisation des moyens nanotechnologique pour la terraformation ou d'autre sintrusions dans une écosphère existante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In their view, nanotechnology allows for a less invasive, highly accurate, more efficient, and non-pollutive approach towards all kinds of adaptive processes and projects, circumventing the need to expose an environment to massive and drastic changes when transforming it for transhuman population.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De leur point de vue, la nanotechnologie permet une approche moins invsaive, extrêmement précise, plus efficace et non poullante de tout les types de projets et processuss d'adaptation, circonvenant au besoin d'exposer un environnement à des changements drastiques et massif lorsqu'il faut le terraformer pour une population transhumaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This ecologically-conscious approach seems an appealing compromise between the extreme ends of the solar system's political landscape—the hypercorp and the bio-con factions—and has developed a momentum of its own, evolving into a growing political movement.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette approche écologiquement-consciente semble un compromis excitant entre les extrêmes du paysage politique du système solaire - les factions hypercorporatistes et biocons - se donnant ainsi un élan suffisant pour évoluer en un mouvement politique grandissant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Preservationists}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Préservationistes}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Memes&lt;/i0&gt;: Preservationism, Environmentalism</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mêmes:&lt;/i0&gt; Préservationnisme, Environnementalisme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Main Stations&lt;/i0&gt;: Muir (Luna)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principales:&lt;/i0&gt; Muir (Lune)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Preservationists are environmentalists who call for a no-impact, hands-off approach when it comes to inhabiting new worlds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les préservationnistes sont des environnementalistes qui réclament une approche sans-impact, sans intervention humaine de la colonisation de nouveaux mondes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are extremely protective of naturally-intact biospheres that might have any semblance of life, no matter how microbial, hoping to keep them from despoilment or contamination.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils sont extrêmement protecteurs des biosphères naturellement préservées et qui pourraient avoir un semblant de vie, peu importe qu'elle soit microbienne, espérant la préserver de la spoliation ou de la contamination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In addition to opposing terraforming and expansion through the Pandora Gates, they are often opposed to fusion and antimatter power.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En plus de s'opposer à la terraformation et à l'extension à travers les Portes de Pandorre, ils sont également fréquemment opposés à l'énergie tirée de la fusion ou de l'antimatière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Reclaimers}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Réclamationnistes}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Memes&lt;/i0&gt;: Reclaiming Earth</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mêmes:&lt;/i0&gt; Récupérer la Terre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Reclaimers pursue one ultimate goal—the reclamation of Earth as transhumanity's primary habitat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Réclamationnistes poursuivent un but ultime - la récuparéation de la Terre en tant qu'habitat principal de la transhumanité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In addition to calling for the quarantine of earth to be lifted, they engage in scientific research and running virtual simulations on how to best cleanse and reclaim their contaminated and polluted planet.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En plus de demander le retrait de la mise en quarantaine de la Terre, ils se lancent dans de la recherche scientifique et exécutent des simulations dirtuelles pour déterminer la meilleure manière de nettoyer et récupérer leur planète contaminée et polluée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Despite the interdiction to enter Earth's atmosphere, the reclaimers are suspected of sponsoring perilous and high-risk ventures onto the planet's surface to gather scientific data or event to establish terraforming colonies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En dépit de l'interdiction de pénétrer l'atmosphère Terrestre, les réclamationnistes sont suspectés de soutenir des voyages périlleux et à haut-risques sur la surface de la planète pour récupérer des données scientifiques ou tenter d'éétablir des colonnie de terraformation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Memes&lt;/i0&gt;: Art, Culture, Hedonism, Immortality</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mêmes&lt;/i0&gt;: Art, Culture, Hédonisme, Immortalité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Main Stations&lt;/i0&gt;: Valles-New Shanghai (Mars), Elysium (Mars), Noctis-Quinjiao (Mars)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations Principales&lt;/i0&gt;: Valles-New Shanghai (Mars), Elysium (Mars), Noctis-Quinjiao (Mars)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Uploading and resleeving effectively grant immortality to those who can afford it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'upload et la réincarnation apporte l'immortalité effective à ceux qui peuvent se le permettre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This has created a shift among the exclusive rich and economic elites of the inner system, whether they be the heads of hypercorps, old Earth dynasties, or other displanted oligarchs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela a créer un glissement au sein des élites économiques et des riches du système intérieur, qu'ils soient à la tête d'hypercorps, issus d'ancienne dynastie Terrestre ou d'autres oligarches détrônés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The top ranks of the wealthy and influential need never fear death, allowing them to plan for the long-term.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le haut de ces riches et influents ne craignent plus la mort, leur permettant de planifier sur le long-terme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some of these were among the first to acquire longevity treatments when they became available on Earth and are now approaching two centuries in age.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains d'entre eux font partis des premiers à avoir acquis les traitements de longévités lorsqu'ils sont devenus disponibles sur Tere et approchent l'âge de 200 ans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Where once these power brokers would have passed their riches on to their family and descendants, however, their heirs now face a situation where they have more-than-comfortable lives and access to massive fortunes, but no chance that they will ever control those fortunes or rise to the levels of their elders.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Là où ces courtiers du pouvoir auraient transmis leurs richesse à leur famille et à leur descendance, leurs héritiers sont maintenant dans une position leur permettant de vivre des vies plus que confortable et d'accéder à des fortunes massives, mais n'ont aucune chance de pouvoir un jour contrôller ces fortunes ou de s'élever au niveau de leurs aînés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even the nouveau rich who become wealthy on their own often find themselves excluded from this influential club—at least until they put in a good fifty years.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même le snouveaux riches devenus riches de leur chef se trouvent souvent exclus de ce club inlfuent - du moins tant qu'il ne sont pas à cette position depuis au moisn cinquante ans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rich and bored, with no responsibilities but the solar system at their reach, a new culture of elite socialites has risen.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Riche mais ennuyée, sans responsabilités mais avec le système solaire à leur portée, une nouvelle culture de l'élite socialites a émergé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These glitterati indulge in eccentric lifestyles and excessive parties, covered by the media in all its superficial and polished glory.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces célébrités se laissent aller à un style de vie excentrique et à des fêtes excessive, couverts par les médias dans toute leur gloire superficielle et polie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Private habitats and ships, lavish soirees, armies of servants, and the ability to buy almost anything or anyone leads to all sorts of interesting adventures.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des habitats et des vaisseaux privés, des soirées lascive, des armées de serviteurs, et la possibilité d'acheter à peu près n'importe quoi ou n'importe qui les mènes à toute sortes d'aventures intéressante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Naturally, these socialites form into constantly-shifting cliques and webs of allegiances, complete with affairs, scandals, intrigue, and backbiting.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Naturellement, ces socialites forment des cliques et des réseaux d'allégeances changeant constamment, avec son lot de liaisons, de scandales, d'intrigues et de médisance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Ultimates}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Ultimes}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Memes&lt;/i0&gt;: Asceticism, Eugenics, Individualism, Militarism, Social Darwinism</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mêmes&lt;/i0&gt;: Asceticisme, Eugénisme, Individualisme, Militarisme, Darwinisme Social</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Main Stations&lt;/i0&gt;: Aspis (Main Belt), Xiphos (Uranus)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stations principales:&lt;/i0&gt; Aspis (Ceinture Principale), Xiphos (Uranus)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ultimates are a controversial movement that embraces a philosophy of human perfection.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les ultimes sont un mouvement controversé qui embrasse une philosophie de perfection humaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Decried by some as immoral or even fascist, ultimates are typically viewed as elitists.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dépeint par certains comme immoraux ou même fascistes, les ultimes sont typiquement perçus comme étant élitistes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ultimates have established several habitats to pursue their ideal society and were a driving force behind the development of the remade biomorph design.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les ultimes ont établis plusieurs habitats pour poursuivre leurs société idéale et ont été une force motrice derrière le développement du design de biomorph remade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ultimates advocate the use of applied eugenics, strict physical and psychological training, and asceticism in order to improve their overall mental and physical stamina and environmental adaptability.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les utltimes soutiennent l'utilisation de l'eugénisme appliqué, d'un entraïnement physique et psychologique strict et de l'ascétisme afin d'amliorer leur endurance physique et mentale et leur adaptabilité environnementale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their social traits and entire subculture visualizes life in the universe as an evolutionary battle for survival and is built around the victory of the superior transhuman over both its opponents and peers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leurs traits sociaux et toute leur sous-culture visualisent la vie dans l'univers comme une bataille évolutionnaire pour la survie et est construite autour de la victoire du transhumain supérieur à la fois sur ses adversaire et sur ses pairs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their movement is heavily militarized, and experienced ultimates offer their services as mercenaries and private security forces to hypercorps, independent city states, or wealthy individuals in need of additional protection.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leur mouvement est lourement militarisé, et des ultimes expérimentés offrent leurs services en tant que emrcenaires et force de sécurité privée aux hypercorps, aux cités état indépendante ou aux individus fortunés qui ont besoin d'une protection additionelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
