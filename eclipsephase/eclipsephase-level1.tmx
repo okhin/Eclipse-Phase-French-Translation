@@ -15862,6 +15862,1486 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Prominent organizations like the Planetary Consortium discount such rumors or otherwise remain silent.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des organisation proéminentes comme le Consortium Planétaire démentent de telles rumeurs ou restent silencieux à leur sujet d'une manière ou d'une autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>System Gazeteer</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Atlas du Système</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transhumanity has extended out from its lost homeworld and colonized not only the solar system but various exoplanets as well, thanks to the discovery of the Pandora Gates.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La transhumanité s'est étendue loin de son monde natale et à non seulement colonisé le système solaire mais également diverses exoplanètes grâce à la découverte des Portes de Pandorre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This section provides an overview and incomplete sampling of transhumanity's settlements.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette section fournit un aperçu non exhaustif de différents abris humains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Sol (the Sun)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Sol (le Soleil)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The solar system was formed billions of years ago through the accretion of material remaining from the formation of its star, Sol, the sun.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le système solaire a été formé il y a des milliards d'années grâce à l'accrétion de matière résultante de la formation de son étoile, Sol, le soleil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Locked ever since in its orbit, the history and present disposition of virtually every object within two light years is shaped by its relationship to this body.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bloqué dans son orbite depuis cette époque, l'hisoire et la disposition actuelle de virtuellement tout objet situé à moins de deux années lumière est affecté par sa relation avec ce corp céleste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The sun is a bright G2 main sequence star, theoretically on the hot end of the continuum of stars able to give rise to life.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le soleil est une étoile G2 appartenant à la squence principale, théoriquement à l'extrémité la plus chaude de la série d'étoile pouvant donner naissance à la vie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For most of its history, transhumanity fueled its rises and falls with the sun's energy, first as stored in materials like hydrocarbons, later directly with solar converters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pendant l'essentiel de son histoire, la transhumanité a alimenté ses ascenssion et chute avec l'énergie solaire, d'abord stockée dans des matériau comme les hydrocarbures, t plus tard directement converti avec des convertisseurs solaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Today the sun remains a crucial source of energy, but its outer reaches have also become home to some.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aujourd'hui le soleil reste une source d'énergie cruciale, mais ses coucehs externes sont également devenues un foyer pour certains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The adaptations required to dwell here make these suryas one of transhumanity's most unusual offshoots.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les adaptations nécessaires pour habiter là fait des Suryas l'une des ramification les plus étrange de la transhumanité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Suryas and Salamanders (coronal morphs)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Suryas and Salamandres (morphs coronaire)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Perhaps an example of transhumanity's most extreme neogenetic creations are the morphs adapted to live in the sun's corona.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les morphs adpatée à la vie dans la couronne solaire sont probablement l'un des exemples les plus extrêmes des créations néogénétique de la transhumanité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Suryas, named after a Hindu sun deity, are large, whale-like, and uniquely adapted to dwell in the brilliant, superheated plasma cloud of the sun's outermost layer.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Suryas, nommés ainsi d'après le nom d'une divinité solaire Hindoux, sont énorme, ressemblent à des baleines et adaptées de manière unique pour habiter dans le nuage de plasma surchauffé et brillant de la couche la plus externe du soleil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each surya is like a miniature version of a circumsolar habitat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque surya est une sorte de version miniature d'un habitat circumsolaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their metabolisms generate powerful magnetic fields that shield them from the sun's heat and radiation, while acting as magnetic sails and scoops by which they sail on the currents of the solar wind and extract elements carried on it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leur métabolisme génère des champs magnétiques puissant qui les protège de la chaleur et des radiations solaires, tout en agissant comme une voile et des rames magnétiques qui leur permet de naviguer sur les courants des vents solaires et d'extraire les évènements qu'ils transportent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Suryas are protected by layers of liquid water “blubber” that capture harmful ions, which internal medichines extract and eject, while maintaining useful elements such as oxygen and hydrogen, from which more water can be synthesized.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Suryas sont protégés par des couches de &quot;barboteur&quot; d'eau liquide qui capture les ions dangereux, qui sont extraits et rejettés apr une médication interne, toute en maintenant les éléments utiles tels que l'oxygène et l'hydrogène, qui permettent à leur tour de syntéhtiser encore plus d'eau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They communicate using patterns of dark and light coloration on their exterior skins and are extremely sensitive to the helioseismic soundwaves that are the sun's pulse, using these vibrations to predict and avoid heavy weather in the coronal atmosphere.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils communiquent en utilisant des motifs de contrasté sur leur épiderme externe et sont extrêmement sensible aux ondes sonores héliosismiques que sont les pulsations solaires, utilisant ces vibrations pour prédire et éviter les tempêtes dans l'atmosphère coronaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A second type of coronal morph is the salamander, a tiny humanoid morph with gas jets on the back and chest for maneuvering in vacuum.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un autre type de morph coronaire est la salamandre, une eptite morph humanoïde avec des turbines à gaz sur le dos et le torse leur permettantde manœuvrer dans le vide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Salamanders have very similar metabolisms to suryas, but are unable to survive unprotected in the corona.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les salamandres ont un métabolisme similaire aux suryas, mais sont incapable de survivre sans protection dans la couronne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They subsist on the chemicals and energy extracted from the corona by Ukko Jylina, the only habitat where they are found.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils subsistent grâce aux composés chimiques et à l'énergie extraits de la couronne par Ukko Jylina, le seul habitat où l'on peut voir des salamandres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Both suryas and salamanders communicate either via transmissions from their implants or by “sunspotting”—shifting dark and light patterns on their skins to form language.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les suryas et les salamandres communiquent tout les deux soit par des transmissions via leurs implants ou en &quot;solpointant&quot; - altérer les motifs contrasté sur leur peau pour former un language.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Habitats in Sol's corona face challenges more extreme than those faced by habs anywhere else in the system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les habitats dans la couronnaire Solaire doivent releevr des défis plus extrêmes que ceux auquel font face les habitats n'importe où ailleurs dans le système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transhumanity's only means of shielding a habitat from the heat and radiation emitted by a G2 star is to generate strong electromagnetic fields.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le seul moyen pour la transhumanité de se protéger de la chaleur et des radiations émis par une naine jaune est de générer un champ magnétique suffisament puissant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even then, the dangers posed by solar flares and coronal mass ejections—massive explosions that jettison coronal material tens of thousands of kilometers out into circumsolar space—mean that the Sun's polar regions are the only safe space in which to position habitats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Et même ainsi, les dangers représentés par les éruptions solaire et les éjections de matière de coronaire - des explosions massives qui propulsent des matériaux coronaire à des dizaine de milliers de kilomètre dans l'espace circumsolaire - font que suel les régions polaires du Soleil sont des endroits suffisament sûrs pour y placer des habitats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As such, circumsolar habs require extraordinary expense to build and maintain, and two of the three major circumsolar habitats are heavily backed by distant organizations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En tant que tel, les habitats circumsolaire un engendre des dépenses astronomiques pour les construire et les maintenir, et deux des trois principaux habitats circumsolaire sont fortement soutenus par des organisations distantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The outer layers of circumsolar habitats are covered with thousands of electromagnetic dynamos drawing power from the sun itself.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les couches externe des habitats circumsolaires sont couvert avec des milliers de turbines électromagnétiques qui extraient de l'énergie directement du soleil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These dynamos generate the powerful fields necessary for shielding.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces turbines génèrent les champs magnétiques nécessaire aux écrans de protection.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Within are intermediate layers filled with liquid water that captures ionized particles, teeming with nanites that collect the ions and vent them into space.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A l'intérieur on trouve des couches intermédiaires emplies d'eau liquide qui capture les particules ionisées, des nanites collectant les ions et les envoient dans l'espace grouillent dans ces eaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The water must be regularly replaced from captured iceteroids that are imported using heavy electromagnetic shielding of their own.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'eau doit être régulièrement remplacées par des glacetéroïdes capturés qui sont importés grâce à leurs propres boucliers électromagnétiques lourd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Within the water shield is a cluster habitat, an array of modules on a framework following a roughly spherical plan.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un habitat en grappe se situe à l'intérieur de cet écran d'eau, un ensemble de modules disposés sur une structure ayant une forme grossièrement sphérique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{A quick primer on transhuman habitats}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Un rapide aperçu des habitats transhumains}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Habitats are covered in detail on p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les habitats sont couvert en détails p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A quick overview is provided here:</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un aperçu rapide et proposé ici:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aerostats are massive cities floating in the upper cloud layers of Venus.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les aérostats sont des cités massives flottant dans la couche de nuages externe de Vénus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> Beehives are tunnel warrens inside asteroids and moons.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Les nids d'abeille sont des tunnels forés dans des astéroïdes et des lunes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> Clusters are microgravity habitats consisting of interconnected modules.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Les grappes sont des habitats en microgravité composés de modules interconnectés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> Cole bubble habitats are hollowed-out asteroids, terraformed on the inside, and also spun for gravity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Les habitats de type bulle de Cole sont des astéroïdes évidés, dont l'intérieur est terraformé et qui tournent pour fournir de la gravité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> Dome habitats are massive domes built on the surface of moons, asteroids, or Mars.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Les habitats domes sont de grands domes construits sur la surface de lunes, d'astéroïdes ou de Mars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> Hamilton cylinders are self-building advanced nano tech habitats designs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Les cylindres hamilton sont des habitats nanotechnologique auto-construit grâce à une conception avancée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> O'Neill cylinder habitats are like large soda cans, only huge, over a kilometer wide and several kilometers long.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Les cylindres O'Neill ressemblent à de grandes cannettes de soda, mais gigantesque, souvent large de plus d'un kilomètre et longue de plusieurs kilomèrs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The interior is terraformed and the entire cylinder is spun for light gravity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>l'intérieur est terraformé et tout le cylindre tourne sur lui même pour fournir une gravité légère.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>O'Neill cylinders are sometimes paired together, end to end.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des cylindres O'Neill sont mis bout à bout l'un de l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> Reagan cylinders are an inefficient type of O'Neill cylinder, built by hollowing a cylinder within a spinning asteroid, and used in the Jovian Republic.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Les cylindres Reagan sont un modèle inefficace de cylindre O'Neill, construit en évidant un cylindre dans un astéroïdes tournant, et utilisé par la République Jovienne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> Tin can habitats are small, cramped, cheap, modular boxes, typically used in early space colonization.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Les boîtes de conserves sont des petites et étroites boîtes modulaires bon marché, généralement utilisé au début de la colonisation spatiale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> Torus habitats are big donuts or wheels, spun so that the outer rim has gravity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> les habitats toriques sont de grandes roues tournant sur elle-même afin que le bord extérieur bénéfici de gravité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The interior spokes are zero-G.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les rayons internes sont en zéro-G.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Coronal habitats are easily detectable at a great distance because of the bow shock preceding them and the plasma tail left behind in the solar wind.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les habitats coronaires sont facilement détectable à une certaine distance à cause de l'onde de choc qui les précède et de la trainée de plasma qu'il laissent derrière eux dans les vents solaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Operated by a consortium including hypercorp interests and the University of New Shanghai, Aten supports a population of about 12,000 transhumans.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mis en œuvre par un consortium incluant des intérêts hypercorporattistes et l'Université de New Shanghaï, Aten héberge une population d'à peu près 12 000 transhumains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rumors abound that military research is a major component of this habitat's mission.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des rumeurs faisant de la recherche militaire le principal composant de la mission de l'habitat abondent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aten is heavily policed and difficult to visit.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aten est extrêmement policé et difficile à visiter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The most publicized discoveries from this habitat involve propulsion systems and new solar energy collection technologies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les découvertes les plus publiées issues de cet habitat traitent des système de propulsion et de nouvelle technologie de collecte de l'énergie solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The argonauts and Titan Autonomous University are the major supporters of this habitat, which supports a population of about 4,000.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les argonautes et l'Université Autonome de Titan sont les principaux soutines de cet habitat, qui héberge une population d'à peu près 4 000 personnes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In contrast to Aten, access to this habitat is relatively open.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En contraste avec Aten, l'accès à cet habitat est relativement ouvert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major avenues of research include pure science and research into coronaadapted morphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les principaux domaines de recherches incluent la science pure et la recherche dans des morph coronaro-adaptée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ukko Jylinä is the name used by outsiders for the suryas' safe harbor.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ukko Jylinä est le nom utilisé par les étrangers pour le havre de surya.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the surya tongue, the name for the place is a common sequence of helioseismic vibrations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans la langue surya, le nom de cet endroit est une séquane commune de vibrations héliosismique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When transposed fifteen octaves upward into the usual range of transhuman hearing, this sound is a chaotic rumble to most ears, but the suryas consider it one of the most beautiful sounds the sun makes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsqu'elle est transposée quinze octaves plus haut dans une gamme audible par les transhumains, ce son est un grondement chaotique pour la plupart des oreilles, mais les suryas le considèrent comme l'un des plus beaux sons que le soleil peu produire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ukko Jylinä is more of a camp than a hab, an area of refuge for suryas during severe solar weather.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ukko Jylinä est plus un camp qu'un habitat, un refuge pour les suryas lros des passage de gros temps solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It also serves as a place for suryas to socialize and mate, replenish water from imported iceteroids, and egocast or resleeve.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il sert également de lieu pour que les suryas socialisent et s'accouplent, refassent le plein d'eau à partir de gllactéroïdes importés et puissent s'égocaster ou se réincarner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The population therefore fluctuates a great deal, usually hovering around 300, but swelling to 3,000 (nearly the entire surya population) during heavy weather.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La population fluctue donc énormément, tournant habituellement autour de 300 personnes, mais pouvant atteindre les 3 000 (quasiment toute la population surya) pendant les tempêtes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ukko Jylina also has a few modules in which non-surya morphs can survive.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ukko Jylina a également quelques modules dans lesquel les autres morphs peuvent survivre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Very little of Ukko Jylinä consists of enclosed hab modules.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une trés petite part d'Ukko Jylinä consiste de modules d'habitats fermés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Instead there are many utility modules with their access ports open to space.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a de nombreux modules utilitaires ayant les ports d'accès ouvert à l'espace à la place.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bereft of the solar wind, suryas within the camp generally wear gas-expelling maneuvering harnesses or resleeve in salamanders if they need to do work requiring fine manipulation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Privé des vents solaires, les suryas à l'intérieur du camp portent générallement des harnais de manœuvres par expulsion de gaz ou se réincarne en salamandre si ils ont ebsoin de réaliser des travaux nécessiatnt une manipulation précise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Vulcanoids}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Vulcanoïdes}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Vulcanoids are a population of asteroids that lie between Mercury and the Sun.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Vulcanoïdes sont une population d'astéroïdes se situant entre Mercure et le Soleil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Based on the predictions of early 21st-century science, the number of Vulcanoids is unexpectedly small.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Basé sur les prédictions scientifiques du début deu 21° siècles, le nombre de Vulcanoïdes est, de façon inattendue, relativement petit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Discovered in the early 21st century and subject to a flyby by a Japanese solar research mission in the 2020s, V/2011-Caldwell was nothing but a line on astronomers' catalogs, notable only for the virtual lack of cratering on the one side that was photographed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Découvert au début du 21° siècle et survolé par une mission de recherche Japonaise dans les années 2020, V/2011-Caldwell n'était guère plus qu'une entrée dans le catalogue des astronome, différencaible des autres uniquement par son manque de cratère sur la face qui avait été photographiée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Then, a few years after the dust settled from the Fall, a small team of prospectors from Venus discovered a Pandora Gate.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Puis, quelques années après que la poussière de la Chute ne soit retombée, une petite équipe de prospecteurs de Vénus y ont dévouvert une Porte de Pandore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now controlled by TerraGenesis, Caldwell was used primarily for exoplanet research for several years, though the hypercorp is now engaged in several alien world terraforming and geo-engineering projects.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Maitenant contrôllées par TerraGenesis, Caldwell est utilisé princiaplement pour la recherche d'exoplanète depuis de nombreuses années, bien que l'hypercorp soit maintenant engagés dans plusieurs projets de terraforamtion et de géo-ingénierie de planètes étrangères.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>TerraGenesis regularly sells gate access to other hypercorps and organizations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Terragenesis vend régulièrement des accès à sa porte à d'autres hypercorps et organisations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Caldwell is a remarkably smooth, spindle-shaped asteroid about four kilometers long and half a kilometer in diameter at its widest point.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Caldwelle est un astéroïde fusiforme remarquablement lisse d'à peu près quatre kilomètres de long et moins d'un demi kilomètre de diamètre sur son diamètre le plus large.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Called the Vulcanoid Gate, it is situated at the bottom of a deep crag near one of the asteroid's narrow poles.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appelée la Porte Vulcanoïde, elle est située au pied d'un énorme rocher près de l'un des pôles les plus étroits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Mercury}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Mercure}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The closest planet to the sun has a mass comparable to Luna but is a great deal denser due to its iron-nickel core.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>la planète la plus proche du soleil a une masse comparable à la Lune et est bien plus dense à cause de son noyau de fer-nickel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mercury rotates slowly and has no atmosphere, so that its day side is hot enough to melt most metals, while its night side is bitterly cold.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mercure tourne sur elle-même lentement et n'a donc pas d'atmosphère, sa surface au soleil est donc suffisament chaude pour faire fondre la plupart des métaux tandis que la surface exposée à la nuit est extrêmement glacée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Because it lacks many of the elements needed for transhuman colonies to be self-sufficient, Mercury is sparsely inhabited, save for a handful of solar power relays, a few underground mining stations, and a single large surface mining concern, Cannon.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En raison du manque de la pluaprt des éléments nécessaires aux colonies transhumaiens pour être auto-suffisante, Mercure est peu habitée, à l'exception d'une poignée de relais d'énergie solaire, de quelques stations de minage souterraine et d'une seule grosse entreprise d'extraction minière en surface, Cannon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Resources and economics}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Ressources et économie}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most of Mercury's economy is based on mining.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>la plupart de l'économie Mercurienne est basée sur les mines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Iron, nickel, and other metals make up 70% of the planet's mass, making it the richest source of ferrous metals outside of the asteroids.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Fer, nickel, et d'autre smatériau constituent 70% de la masse de la planète, en faisant la source de métal ferreux la plus riche en dehors ds astéroïdes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mercury also does a brisk business in relaying solar power and serves as a jumping-off point for solar research concerns unwilling or unable to support stations in the solar corona.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mercure fait aussi de bonne saffaies dans le relayage de l'énergie solaire et sert de point de départ pour les expéditions de recherche solaire ne désirant ou ne pouvant pas soutenir une station dans la couronne solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mercury has limited Helium-3 deposits, although these are predominantly mined for local use.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mercure a également quelques gisements d'Hélium-3, bien qu'ils soient essentiellement utilisés pour un usage local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is an open secret that several powers have antimatter production stations here.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce n'est un secret pour personne que plusieurs pusisances ont des stations de production d'antimatière là-bas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Officially, these stations are massive solar power relays, but the immense toroid particle accelerators and large spherical magnetic containment units required for antimatter production and storage are nearly impossible to disguise.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Officiellement, ces stations sont de gros relais d'énergie solaire, mais les gigantesques accélérateurs de particules torique et les sphères de contentions magnétiques nécessaire pour la production et le stockage de l'antimatière sont quasiment impossible à dissimuler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The only known site of TITAN activity on Mercury during the Fall, Caloris 18 was a sparsely-crewed solar power relay station belonging to Lukos, a now-defunct Russian corporation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Caloris 18 est le seul site connu d'activité des TITANs sur Mercure pendant la Chute, et était un relai d'énergie solaire à équipe réduite appartenant à Lukos, une coprotaion Russe maintenant disparue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Vanya Ilyanovich, the AGI administering the facility, rounded up all of the station's transhuman inhabitants and fused their morphs into a gigantic, centipede-like abomination before destroying itself in a failed attempt to merge consciousnesses with all of the minds in its creation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vanya Ilyanovich, l'IAG administrant l'usine, a assimilé tous les habitants transhumains de la station et à fusionné leur morph en une abomination gigantesque ressemblant à un centipède avant de s'auto-détruire dans une tentative avortée de fusionner sa conscience avec tous les esprits de sa création.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since then, Caloris 18 has been under strict quarantine.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Depuis, Caloris 18 est sous une quarantaine stricte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mercury's largest surface settlement is a city-scaled solar-satellite-powered mobile mass driver that crawls along the cool side of the planet, flinging apartment building sized ingots of extracted metal into space.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le plus grand abri de surface de Mercure est une fronde gravitationnelle alimenté par l'énergie solaire et de la taille d'une cité qui rampe sur la face froide de la planète, éjectant dans l'espace des lingots de métal extrait de la atille d'un immeuble d'habitation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The habitat is owned almost entirely by the hypercorp Jaehon Offworld, which built Cannon with backing from Lunar banks looking to diversify in anticipation of a post-He3 Lunar economy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'habitat est possédé quasiment exclusivement par l'hypercorporation Jaehon Offworld, qui a contrsuit Cannon avec le soutien des banques Lunaires cherchant à se diversifier en anticipant sur l'économie Lunaire post-He3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most of the 10,000 inhabitants are Jaehon employees, and security is tight.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des 10 000 habitants sont des employés de Jaehon, et la sécurité est trés élevée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cannon makes a long loop of the heavily-mined Caloris basin during the long Mercurian night before following a route that takes it around the planet's northern hemisphere, avoiding the blasting rays of the sun.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cannon fait une grande boucle autour des zones extrêmement minée autour de Caloris pendant la longue nuit Mercurienne avant de suivre un trajet qui lui fait contourner l'hémisphère nord, évitant les rayonnements dévastateurs du soleil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Along the way, it stops at a series of mining operations, collecting the gigantic ingots for launch into orbit.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pendant tout le trajet, elle s'arrète pour une série d'opérations d'extraction, collectant les lingots génats pour les envoyer en orbite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Venus}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Vénus}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Venus is Earth's closest neighbor and the planet most like it in terms of size and geology.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vénus est à la fois la plus proche voisine de la Terre ainsi que celle qui lui ressemble plus en terme de taille et de géologie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is a rugged world of volcanic mountains, canyons, high plateaus, and sweeping volcanic planes crisscrossed by riverlike magma channels.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est un monde rugueux composé de montagne volcanques, de canyons, de hauts plateaux et d'étendues volcaniques traversée par des rivières de magma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Much of the surface is basaltic rock.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>la plupart de la surface est composé de roche basaltique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The climate of Venus is one of the most inhospitable in the solar system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le climat de Vénus est l'un des plus inhsopitalier du système solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Perhaps only the hideous radiation of the inner Jovian moons presents a more difficult challenge to transhuman colonization.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Seules les raidationes les plus mauvaises du système Jovien semblent présenter un défi pour difficile pour la colonisation transhumaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Venusian atmosphere is a superheated maelstrom of carbon dioxide and sulfuric acid, with an atmospheric pressure at its surface equivalent to that five kilometers below the surface of Earth's oceans.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'atomsphère Vénussienne est un maelstrom surchauffé de dioxyde de carbon et d'acide sulfurique, avec une pression atmosphérique à la surface équivalente à celle que l'on obtient cinq kilomètres sous la surface des océans Terrestres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Venus also lacks more than trace amounts of hydrogen, meaning that water must be imported in the form of iceteroids from the outer system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vénus ne possède également guère plus que des traces d'hydrigène, ce qui signifie qu'il faut importer l'eau sous forme de galcetéroïdes depuis le système extérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nonetheless, transhumanity has come to Venus, and with it, debate over how to make use of the planet.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Néanmoins, la transhumanité s'est installée sur Vénus et, en arrivant, à commencé à débattre de la façon d'utiliser la planète.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Venus has no permanently inhabited surface settlements other than a few equipment and supply caches used by planetside researchers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vénus n'as pas d'habitat de surface permanent autre que les quelques équipements et zones d'approvisionnement utilisés par les rechercheurs à la surface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Despite difficulties, transhumanity has found survival strategies that work here.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En dépit des difficultés, la transhumanité a trouvé des stratégies de survie fonctionnelle dans ce cas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The most surprising of these are the aerostats, lighter-than-carbon dioxide habitats that float in the thick Venusian atmosphere.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plus surprenante d'entre toutes sont les aérostats, des habitats plus léger que le dioxyde de carbone et qui flottent dans l'épaisse atmosphère Vénusienne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aside from a few independents or ones loyal to the Planetary Consortium, these aerostats are the base of the new Morningstar Constellation power bloc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À côté des quelques rares aérostats indépendant ou loayux au  Consortium Planétaire, ces aérostats sont la base du bloc de pouvoir émergeant de la Constellation Morningstar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Notable for their research labs, nanofab design houses, software studios, and luxury resorts, the Constellation's aerostats are increasing at odds with Planetary Consortium and Lunar-Lagrange Alliance interests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Connus pour leurs laboratoires de recherche, leurs laboratoire de conception de naofabeurs, leurs studios logiciels et leurs attractions luxueuse, les aérostats de la Constellation vont de plus en plus à l'encontre des intérêts du Consortium Planétaire et de l'Alliance Lagrange-Lunaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On some aerostats, areas populated only by indentured synthmorphs are open to the Venusian atmosphere.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>dans certaisn aérostats, des zones peuplées uniquement de synthmorphs contractées sont ouverte à l'atmosphère Vénusienne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some 500,000 transhumans live in aerostat habitats and another 10,000 on the surface.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques 500 000 transhumains vivent dans les habitats aérostats et encore 10 000 vivent sur la surface de la planète.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Roughly 5,000,000 transhumans live in habitats orbiting Venus.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Approximativement 5 000 000 de transhumains habitent dans des habitats orbitant auour de Vénus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though the Planetary Consortium is considering the launch of a Venusian terraforming project, this plan is actively opposed by the Morningstar Constellation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que le Consortium Planétaire considère le démarrage d'un projet de terraformation de Vénus, ce projet est activement opposé par la Constellation Morningstar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Constellation's aerostats see the terraforming proposals—which include massive cometary bombardment or building a planet-sized sun shade to cool the atmosphere—as not only unworkable but disruptive to their lives and profits.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les aérostat de la Constellation voient les propositions de terraformation - qui incluent un bombardement cométaire massif ou la construction d'un écran solaire de la taille e la planète pour refroidir l'atmosphère - non seulement comem étant irréaliste mais également en comem mettant en danger leurs vies et leurs profits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Venus is a fascinating place for climatologists, geologists, and other planetary scientists.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vénus est un endroit fascinant pour les climatologistes, les géologues et d'autres scientifiques planétaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The discovery of Venusian protobacteria created a new branch of life sciences overnight, though so far the practical applications for organisms with such radically different metabolisms from terrestrial life have been limited.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La découverte d'une protobactérie Vénusienne a soudainement créé une nouvelle branche des sciences du vivant, bien que les applications pratiques pour des organismes avec des métabolismes à ce point différents de la vie terrestre sont encore limités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gerlach is an O'Neill cylinder supporting about 100,000 transhumans.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Gerlach est un cylindre O'Neill qui abritent à peu près 100 000 transhumains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Generally recognized as the research powerhouse of Venus, Gerlach is also one of the strangest places in the inner system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Généralement considéré comme le point central de la recherche Vénusienne, Gerlach est aussi l'un des endroits les plus étrnages du système ntérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The inhabitants have strong ties to the argonauts and sympathies for the outer system autonomists and are strong proponents of morphological freedom, cognitive experimentation, and open innovation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les habitants entretiennent des liens étroits avec les argonnautes et sont des sympathisant des autonomistes du système extérieur et sont de solide partisans de la liberté morphologique, de l'expérimentation cognitive et de l'innovation ouverte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gerlach's main activities are planetside research and exploration, hostile environment morph design, and aerostat construction.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les principales activités de Gerlach sont la recherche planétaire et l'exploration, la conception de morph pour les environnements hostiles et la construction d'aérostat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Octavia is the most successful aerostat habitat to date and the political center of the Morningstar Constellation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Octavaia est l'habitat aérostat le plus réussi jusqu'à ce jour et le centre politique de la Constellation Morningstar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It maintains an altitude of roughly 55 kilometers above the northern highlands of Ishtar Terra.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il se maintient à une altitude d'environ 55 kilomètres au-dessus des hautes terres nordique d'Ishtar Terra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Octavia resembles an immense, mushroom-shaped skyscraper, 450 meters tall, ringed at its center by four radial outrigger spars, each ending in a stabilizing gas envelope filled with helium.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Octavia ressemble à un énorme dirigeable en forme de champignon, haut de 450 mètres, encerclé en son centre par quatre espars balancier, chacun se terminant par un stabilisateur rempli d'hélium.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The cap of the mushroom is a hard, translucent dome that provides an open, park like space while also serving as the main gas envelope (oxygen, which is much lighter than the CO2 making up most of Venus's atmosphere, is the main source of buoyancy).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le chapeau du champignon est un dôme rigide et translucide qui fournit un espace ouvert, ressemblant à un parc, tout en servant également d'enveloppe de gaz principale (l'oxygène, qui est bien plus léger que le CO2 composant l'essentiel de l'atmosphère Vénusienne, est la princiaple source de flottabilité).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The habitat is fluted from top to bottom, going from a diameter of almost 300 meters at the base of the dome, to 15 meters wide at the very bottom.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'habitat est canelé du sommet à la base, allant d'un diamètre de presque 300 mètres à la base du dome à une largeur de 15 mètres à l'extrémité la plus basse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A huge counterweight tethered to the bottom of the structure prevents the habitat from capsizing during storms.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un gigantesque contrepoids attaché au bas de la structure empêche l'habitat de giter lors des tempêtes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Atmospheric craft and shuttles from orbit may land at flight decks near the base of the outriggers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les vaisseaux atmosphériques et les navettes orbitales peuvent atterir sur des ponts d'envols près de la base des balancier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>500,000 people live aboard Octavia.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>500 000 personnes habitent à l'intérieur d'Octavia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Venusian rumors</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Rumeurs Vénusiennes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Public Key Decryption Complete] We need you to investigate some odd rumors circulating about activity on the Venusian surface.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Public Key Decryption Complete] Nous avons besoin que tu enquètes sur quelques rumeurs étrange circulant à propos d'activités à la surface de Vénus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>According to reports, an Omnicor research team went missing about a week ago.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'après les rapports, une équipe de recherche Omnicor a disparue il y a une semaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unlike many Venus surface teams, these weren't teleoperated bots but actual synthmorph-sleeved researchers operating away from the safety of an aerostat's tether—which is suspicious behavior itself.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Contrairement à beaucoup d'équipe de surface Vénusienne, il ne s'agissaient pas de bots téléopéré mais de chercheurs incarnés dans des synthmorphs et opérant loin de la sécurité d'un lien avec un aérostat - ce qui est déjà un comportement suspicieux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Search parties have turned up no sign of the missing morphs, but scuttlebutt says they ran into signs of recent TITAN activity that have them freaked out.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les groupes de recherches n'ont retrouv aucun signe des morphs manquantes, mais les ragots disent qu'ils sont tombés dsur des signes d'activités récente des TITANs qui leur ont fait tourner les talons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I haven't found any evidence to back this up, yet—it could just be some misinformation to keep people from digging around part of the surface.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Je n'ai pas encore trouvé de preuve pouvant confirmer cette information - cela pourrait trés bien être une tentative de désinformation pour empêcher els gens de fouiller près de la surface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I've heard that some security corps have some quantum data caches buried away down there.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>j'ai entenud que certaines corporation de sécurité ont des caches de données quantiques enterrés là-bas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Looking into this may require getting a hold of some heat and pressure resistant synthetic morphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Enquèter là-dessus pourrait nécessiter de mettre la main sur des morphs synthétiques résistantes à la chaleur et à la pression.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>One of 20 smaller aerostats, Aphrodite Prime hovers 54 kilometers above Aphrodite Terra.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aphrodite Prime est l'un des 20 aérostats les plus petits et flottent à 54 kilomètres au-dessus de Aphrodite Terra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is a center for Venusian tourism; fully a quarter of this aerostat is a resort for wealthy off-world visitors.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est un centre de tourisme Vénusien; pratiquement un quart de cet aérostat est une station touristique pour  les visiteurs hors-monde les plus riches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aphrodite Prime is also the primary research station for the design and creation of life forms adapted to live in the Venusian clouds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aphrodite Prime est également la pricnipale station de recherche pour la conception et la création de forme de vie adaptée à al vie dans les nuages Vénusiens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This aerostat has a population of 300,000 and features closed-environment test aviaries populated with clouds of air plankton and schools of recentlydesigned flying squid and balloon fish.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cet aérostat abrite une population de 300 000 personne et possède des volières de tests en environnement fermées peuplées de nuages de plancton aérien et des élevages de poissons ballons et de pieuvres volantes récemment créés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Earth}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{La Terre}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ecologically devastated and infested by the weird spawn of the TITANs, transhumanity's homeworld doesn't get many visitors.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Écologiquement dévastée et infestée par les l'étrange proégniture des TITANs, la planète mère de la transhumanité ne reçoit plus beaucoup de visiteurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Earth's once-populous urban regions are massive sprawls ruined by war and heavy weather, infested with dangerous artificial life and the occasional survivalist gang.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les régions urbaines autrefois peuplés de la Terre sont des étendues urbaines ruinées par la guerre et les tempêtes, infestées par des formes de vies dangereuses et par les gangs survivalistes occasionnels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Elsewhere, irradiated blast zones and desolate wasteland prevail.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Partout ailleurs, les zones d'explosion nucléaire irradiées et des terres dévastées prédominent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Due to harsh climatic conditions, the wilderness has been slow to reassert itself, and vast swaths of dead forest or burned grassland are common sights.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Enr aison des conditions climatiques difficile, la vie sauvage a été lente à se réafirmer par elle-même, et les vastes étendues de forêt pourrissante ou d'herbe brulée sont extrêmement communs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even from orbit, Earth shows deep scars.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même depuis l'orbite, des cicatrices profondes sont visible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Breaks in the sooty cloud cover created by orbital bombardment during the Fall reveal continents ravaged by coastal flooding, desertification, and radical temperature shifts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des brêches dans la couverture nuage noire de suie créée par les bombardement orbitaux pendant la Chute révèlent des continents ravagées par les inondation côtières, la désertification et les changements de températures radicaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The only known detonation of an antimatter bomb within a planetary atmosphere, centered on what was the Chicago-waukee Metroplex in North America, left a crater over 200 kilometers wide wherein most matter was instantly vaporized.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La seule détonation connue d'une bombe à antimatière à l'intérieur d'une atmosphère planétaire, centrés sur ce qui fût le Métroplex Chigao-waukee en Amérique du Nord, à laissé un cratère de plu de 200 kilomètres de diamètre à l'intérieur duquel l'essentiel de la matière a été vaporisé instantanément.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Craters left by mass driver bombardment dot the surface as well.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Cratères laissé par les bombardement à la fronde orbitale ponctuent également la surface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mass die-offs of lynchpin species like honey bees and krill destroyed entire ecosystems, leaving vast swathes of barren land and sea inhabited by only the most adaptable species.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>la disparaition massive d'espèce comme les abeilles et le krill ont détruit des écosystèmes entiers, laissant de vastes andains de terre et de mer stérile habités seulement par les espèces les plus adaptables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most of Europe is sub-artic; much of Africa and North America, desert.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart de l'Europe est sub-arctique; l'essentiel de l'Afrique et de l'Amérique du Nord est désertique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ironically, transhumanity's deployment of nuclear weapons against TITAN surface installations arrested the effects of global warming by creating a nuclear winter.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ironiquement, le déploiement d'armes nucléaires face aux installation de surface des TITANs a arrété les effets du réchauffement climatique en créant un hiver nucléaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nuclear attacks against Earth have ceased, but the Lunar mass drivers still occasionally hurl captured asteroids at suspected surface works created by remaining TITAN war machines.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les attaques nucléaires contre la Terre ont cessée, mais les frondes gravitationnelle Lunaire continuent de lancer occasionnellement des astéroïde sur les travaux de surface suspectés d'être créés par les machines de guerres des TITANs restantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In any case, the damage from humanity's warming of the globe was already done.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans tous les cas, les dommages infligés par le réchauffement planétaire dus à la présence humaine étaient déjà fait.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The patterns of life on Earth, and the very face of the planet, have been irrevocably rewritten.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les motifs de la vie sur Terre, et le visage global de la planète, ont été irrémédiablement réécrit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Earth once had multiple space elevators in operation, but with exception of the Kilimanjaro beanstalk, the others were destroyed during the Fall, wrapping around the planet as they crashed to Earth, leaving swathes of destruction.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Terre possédait autrefois de nombreux ascensseurs spatiaux en fonctionnement, mais à l'exception de la pousse du Kilimandjaro, les autres ont été détruit pendant la Chute, s'enroulant autour de la planète lorsqu'ils se fracassait sur la Terre, laissant des cicatrices béantes de destruction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Earth's population is a matter of speculation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>la population Terrestre est un problème spéculatif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The reclaimers and Lunar authorities, both of whom spend a great deal of effort monitoring Earth, agree that surface energy emissions suggest a population of about one million once-humans living as servitors to the TITANs, although these numbers assume patterns of energy usage similar to those of pre-Fall humanity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les réclamationnistes et les autorités Lunaire, les deux investissant beaucoup de moyens dans la surveillance de la Terre, sont d'accord sur le fait que les émissions énergétiques de la surface suggèrent une population d'à peu près un million d'être autrefois huamin devenus des serviteurs des TITANs, bien que ce nombre extrapole les motifs énergétiques d'après ceux de l'humanité pré-Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though the Planetary Consortium claims that no survivors remain on Earth, reclaimer estimates guess that between 20,000 and 100,000 free humans remain.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que le Consortium Planétaire prétendent qu'il n'y a pas de survivants sur Terre, les réclamationnistes estiment qu'il y aurait entre 20 000 et 100 000 être humains libres survivants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These numbers are hard to formulate, given the limited number of remote areas where humans could remain undetected while obtaining enough food to subsist.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces nombres sont complexe à calculer, étant donné le nombre limité de zone dans lesquels les humains peuvent rester indétecté tout en trouvant suffisament de nourriture pour survivre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some areas likely to conceal sizable remnant populations include the highlands of Papua-New Guinea, the Ozark Mountains of North America, and the jungle uplands of Vietnam and Laos, though it is also possible that certain underground and undersea settlements survive.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines zones capable de dissimuler une population rémanente de taille correcte incluent les hautes terre de Papouasie-Nouvelle Guinée, les Montagnes Ozark d'Amérique du Nord et les jungles du Viétnam et du Laos, bien qu'il soit également possible que certains abris sou-terrain et sous-marins pour survivre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Attempts to make contact with survivors have universally ended in disaster.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les tentatives de contact avec les survivants se sont systématiquement transformée en désastre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>During the Fall, thousands of people unable to escape Earth resorted to having themselves backed up and transmitted off-planet.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pendant la Chute, des milliers de personnes incapable d'échapper à la Terre ont du se faire sauvegarder et transmis hors de la planète.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many of these—along with some who had no backups—also put there bodies in cryogenic storage, hoping to wait out the Fall for rescue.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup d'entre eux - ainsi que certains de ceux qui n'avaient pas de sauvegarde - ont également mit leur corps dans des stockages cryogéniques, espérant qu'on viennent les récupérer après la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some reclaimers have speculated that dozens of these cryogenic facilities may still be functional.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains réclamationnistes ont spéculer que ds douzines de ces installations cryogéniques pourraient toujours être fonctionnelles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Earth had a mature orbital industry sector and a considerable population in orbit at the time of the Fall, with over a billion people living full-time in space.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Terre possèdait un secteur d'industrie orbitale mature et une population en orbite au moment de la Chute, avec plus d'un milliard de personne vivant à temps plein dans l'espace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Earth orbit was one of the fiercest battlegrounds of the Fall, however, and hundreds of habitats and other installations were destroyed or rendered unusable.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'orbite Terrestre fut l'un des champs de bataille les plus violent pendant la Chute cependant, et des centaines d'habitats et d'autres installations ont été détruites ou rendues inutilisable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As such, Earth orbit and the Lagrange points are littered with the detritus of pre-Fall humanity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En tant que telle, l'orbiteTerrestre et les points de Lagrange ont été remplis des détritus de l'humanité pré-Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Derelict habitats can mean tidy profits for intrepid scavengers, but many are also infested with TITAN spawn and hostile nanoswarms, making them incredibly dangerous.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un habitat abandonné peu signifier un proft substantiel pour les charoganrds intrépides, mais beaucoup dsont également infesté par les rejetons des TITANs et des nuées de nanites hostile, les rendant incroyablement dangereux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To make matters worse, someone or something has unleashed a large number of autonomous killsats in Earth orbit to interdict would-be visitors.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour empirer la situation, quelquechose ou quelqu'un a libérer un grand nombre de sattelite tueurs autonomes dans l'orbite Terrestre pour interdire les éventuels visiteurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some of these are repurposed pre-Fall military hardware, while others are newer construction.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains d'entre eux sont basé sur du matériel militaire pré-Chute réutilisé, tandis que d'autres sont des constructions plus récentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>So far, no one claims responsibility for them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Jusqu'à présent, personne n'en a revendiqué la responsabilité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Planetary Consortium is suspected, as they support and sometimes enforce a quarantine of the planet, but the possibility exists that the killsats may be TITAN relics or the efforts of another agency.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le Consortium Planétaire est soupçonné, car ils soutiennent et quelque foit renforcent la quarantaine de la planète, mais la possibilité existe que les satelittes tueurs puissent être des reliques des TITANs ou les efforts d'une agence quelconque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Despite the chaos of Earth orbit, numerous habitats remain active here, many of them participants in either the Planetary Consortium of Lunar-Lagrange Alliance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En dépit du chaos régant sur l'orbite Terrestre, de nombreux habitats sont toujours actifs là-bas, beaucoup d'entre eux étant membrs soit du Consortium Planétaire, soit de l'Alliance Lunaire-Lagrange.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Dozens of formerly derelict habitats have also become home to squatters, some of them with criminal intent, others just looking to escape the squalor of life in the overcrowded Lunar-Lagrange habitats, even if it means taking a risk.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des dizaines d'anciens habitats abandonnés sont également devenu le foyer des squatteurs, certains d'entre eux ayant des intentions criminelles, d'autres cherchant simplement a échapper aux sordides conditions de vie des habitats Lunaire-Lagrange surpeuplés, même si cela implique de prendre certains risques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Essentially an armed-to-the-incisors scum barge, Fresh Kills is a salvage base near the edge of Earth's L5 point.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Fresh Kills est une base de récupération près du point L5 Terreste et est essentiellement une barge racaille armés jusqu'aux dents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The base is built around a huge central docking spindle with moorings for small craft and habitat modules in the center, and massive weapons batteries at either tip.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sa base est construite autour d'une gigantesque aiguille d'approche avec des amarres pour les plus petits vaisseaux et les modules d'habitats du centre, et équippée d'impressionante batterie d'artillerie à chaque extrémitée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Scavengers can moor their own craft or, at considerable expense, egocast in, resleeve at the facility, and hire shuttles for excursions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les charognards peuvent amarrer leur propre vaisseau ou, à un prix considérable, s'égocaster à l'intérieur, se réincarner dans l'installation, et louer dans navettes pour les excursions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gun batteries are articulated such that any craft showing signs of trouble can be hastily jettisoned and destroyed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les batteries d'artillerie sont articulées afin que n'importe quel vaisseau montrant l'nevie d'en découdre puisse être largué et détruit rapidement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>2,000 transhumans live on Fresh Kills, although the population is transient and fluctuates a good deal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>2,000 transhumains vivent sur Fresh Kills, même si la population en transit et fluctuante en représente une bonne partie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Situated in a halo orbit at the Earth-Sun L1 point, Paradise was an exclusive spa and resort station for the ultra-rich before the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Situé en orbite halo au point Terre-Soleil L1, Paradise est une statin exclusivement constituée de spa et d'attractions pour les ultra-riches d'avant la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the wake of the Fall, Paradise fell on hard times, swarmed as it was with refugees and no longer an ideal vacation spot.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au début de la Chute, Paradise a connu des temps difficiles, pullulant de réfugiés et plus réellement le lieu de vacances idéal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Recently, however, Paradise fell back in favor with the inner system glitterati, who undertook measures to expel many of the lingering squatters and refurnish it as an elite social space.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant e récemment, Paradise a retrouvé les faveurs des célébrités du système intérieur, qui ont pris des mesures pour expulser les squatteurs persistants et remeubler la station comme un espace de l'élite sociale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Recent rumors suggest the Consortium's Hypercorp Council has used Paradise for important face-to-face meetings.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des rumerus récentes suggèrent que le Conseil Hypercorporatiste du Consortium a utilisé Paradise pour d'importante rencontre en face à face.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Reclaimers maintain this station in high geostationary orbit, monitoring Earth and making plans for potential geo-engineering efforts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Réclamationnistes maintiennent cette station en orbite géostationnaire haute, surveillant la Terre et planifiant les éventuells effort de géo-ingénierie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Vo Nguyen is a small O'Neill cylinder hidden in a dangerous cloud of space junk and protected by swarms of killsats, gun emplacements, and drones.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vo Nguyen est un petit cylindre O'Neill caché dans un nuage dangereux de débris spatiaux et protégé par des nuées de satellites tueurs, d'emplacement d'artillerie et de drônes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is occasionally used as a jumping off point for secret surface expeditions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle est occasionnellement utilisées comme point de départ pour des expéditions secrètes vers la surface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
