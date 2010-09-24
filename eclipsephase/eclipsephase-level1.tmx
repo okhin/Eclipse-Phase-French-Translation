@@ -17342,6 +17342,478 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Luna}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Lune}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The first planetary body to host permanent human habitation, Earth's sole moon is home to the second largest population of transhumanity on a single planet and remains a lynchpin of culture and economic activity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>le premier corps planétaire a héberger des habitations humaines de manière permanente, la seule lune de la Terre est le foyer de la deuxième population transhumaine sur une seule planète en terme de population et reste un pivot des activités culturelle et économique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lunar history has been shaped dramatically by the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'histoire Lunaire a été dramatiquement remodelée par la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Before the need to evacuate Earth arose, it was expected that the Moon would remain largely an automated mining concern, never attaining a population of more than a few million.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Avant que le besoin d'évacuer la Terre n'apparaissent, la Lune était destiné à être principalement une entreprise d'extraction automatisée et ne devant jamais dépasser une population de plus de quelques millions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Luna was never seen as an economically viable location for colonization, the focus instead falling on Mars and the outer system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Lune n'a jamais été considérée comme une destination économiquement viable pour la colonisation, les efforts se concentraient sur Mars et le système extérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When the Fall came, every polity that couldn't hope for a shot at Mars or elsewhere set its sites on Luna.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque la Chute arriva, chaque régime politique qui ne pouvait espérer aller sur Mars ou ailleurs s'établit sur la Lune.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Indians were the only great power that had invested heavily in Luna.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Indiens furent la seule puissance majeure à investir massivement sur la Lune</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The other three major settlements, Erato, Nectar, and Shackle, were multinational and hypercorp concerns with no strong national affiliations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les trois autres abris principaux, Erato, Nectar et Manille, étaient des entrepirses multinationaux ou hypercorporatistes sans attaches nationales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These three cities swelled overnight into polyglot refugee camps, while the Indian settlement, New Mumbai, was nuked black by the corps when it became apparent that a TITAN infection had taken hold there.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces trois cités se transformèrent rapidement en un camp de réfugié polyglotte, pendant que l'abri Indien, New Mumbai, était détruit par le feu nucléaire des hypercorps quand il devient évident que l'infection des TITANs avait pris pied là bas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bereft of nationhood, Lunars developed their own resourceful, tough-minded culture which has emerged as a counterbalance to the radicalism of the outer system and the excesses of Mars.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Débarassé des nationalités, les Lunaires ont développés leur prope culture pleine de ressource et réfléchie qui a émergée comme un contrepoids au radicalisme du système extérieur et des excès de Mars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transportation on Luna is largely by suborbital rocket, although trans-sonic bullet trains also operate along shorter routes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le transport sur la Lune est essentiellement réalisé par des fusées suborbitale, même si des TGV sub-sonique sont également utilisé pour les trajets les plus court.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The major space port is at Nectar.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le spatioport princiapl est Nectar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There is also a skyhook—a massive orbiting satellite spaceport that drags a massive tether, which acts as a space elevator along a track running across the Lunar surface south of the equator.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un palan aérien existe également - un spatioport sattelitaire et amssif en orbite qui traine un lien massif, et qui agit comme un ascensseur spatial le long d'une piste qui fait le tour de la surface de la Lune au sud de son équateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a result, many smaller cities lie along the skyhook track.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il existe donc beaucoup de plus petites cités le long de la piste de ce palan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Fashion/Design}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Mode/Design}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nectar is one of the three fashion/design capitals of the system (along with Noctis on Mars and Extropia).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nectar est l'un des trois capitales de la mode et du design du système (avec Noctis sur Mars et Extropia).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Lunar design houses have two major advantages: an inventive population and a low planetary gravity that makes it easier to design for the low gravities that prevail in much of the system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les bureaux de design Lunaires ont deux avantages majeurs: une population inventive et une faible gravité planétaire qui facilite la conception d'objet destiné aux faibles gravités que l'on retrouve dans une grande part du système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some habitats elsewhere in the system even choose a rotational speed that simulates Lunar gravity in order to get the greatest benefit from Lunar designs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres habitats, quelque part dans le système, choisissent même une vitersse de rotation qui simule la gravité Lunaire afin d'exploiter au mieux les objets conçus sur la Lune.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tilion's Jupiter brain</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le cerveau gigogne de Tilion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Our investigation into codename: TILION's Lunar research activities has confirmed our suspicions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nos enquêtes sur les activités de recherche sous le nom de code: TILION ont confirmés nos soupçons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The hypercorp is engaged in experiments to convert confined spherical masses in the Lunar interior into testbed micro-Jupiter brains.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'hypercorporation mène des expérimentations pour convertir des masses sphérique de l'intérieur de la Lune dans des micro-cerveaux gigogne de test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The silicate-rich Lunar crust makes the locations they have chosen ideal for the project.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La croûte Lunaire riche en silice rend l'endroit choisit comme un endroit idéal pour le projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though we have not verified it, we believe that TILION not only followed the trail of TITAN research into this area, but is in fact in possession of a small cache of TITAN-made computronium.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que nous n'ayons jamais pu le vérifier, nous pensons que TILION ne fait pas que suivre les pistes des recherche des TITANs dans ce domaine, mais qu'ils sotn également en possession d'une petite cache de computronium hérités des TITANs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There is no saying what the TITANS may have been using this cache for, what it may store, or what may occur if TILION completes the project and brings the micro-Jupiter brain online.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il n'existe aucune information de l'utilisation éventuelle de la cache par les TITANs, ni de ce qu'elle pourrait contenir ou de ce qui pourrait se passer si TILION achève son projet et mettait le micro-cerveau gigogne en ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fortunately, time seems to be on our side, and we have several weeks if not months before any significant part of the project is activated.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>heureusement, le temps semble être de notre côté et nous avons plusieurs semaines voire des mois avant que la moindre part significative du projet ne soit activée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>We will continue to infiltrate and learn more, but we strongly suggest an erasure squad be moved into position and placed on standby.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nous coninuerons de les inflitrer et d'apprendre, mais nous suggéront fortement qu'une escouade de suppression soit déployée et mise en attente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Helium-3 mining}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Extraction de l'Hélium-3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Although it's not the richest place to mine He-3, Luna has such good infrastructure for extraction and distribution that it more than makes up for the fact that Luna is very poor in hydrogen for more conventional forms of fusion.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même si ce 'nest pas l'endroit le plus riche en He-3, la Lune a une telle infrastructure pour l'extraction et la distribution que cela fait plus que compenser le fait que la Lune soit extrêmement pauvre en hydrogène pour les formes de fusion plus convntionnelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unlike the vast reserves of the gas giants, however, the amount of readily extractable He-3 in the Lunar regolith is finite.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Contrairement aux vastes réserves des géantes gazeuses, la quantité de He-3 extarctable de la régolite Lunaire est finie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some of the richer deposits are already tapped out, and concerned Lunars consider their world's future after these deposits are exhausted a major issue.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques uns des dépots les plus riches sotndéjà épuisé, et les Lunaires soucieux considèrent le futur de leur monde une fois les gisements épuisés comme un sérieux problème.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Lunar banks are the oldest (and thus richest) in the system, though hypercorps like Solaris are close on their heels.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les banques Lunaires sont les plus anciennes (et donc les plus riches) dans le système, même si des hypercorporations comem Solaris ne sont pas loin derrière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Interestingly, the rise of the reputation economy in the outer system has not presented as much of a problem for these banks as one might have expected.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière intéressante, l'avènement de l'économie réputationnel dans le système extérieur n'as pas présenté de trop grosses difficultés à ces banques comme certains auraient pu s'y attendre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lunar banks got hip to the reputation game long before the Martian financial institutions and moved in to capitalize on it immediately.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les banques Lunaires sont entrés dans la danse de la réputation bien avant que les institutions financière Martienne n'aient commencées à capitaliser dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>By the time Martian banks knew what was going on, Lunar financial institutions had struck deals with the Extropians and dominated all of the points of exchange where favors could be bartered for cold, hard cash between inner system corp types and outer system anarchists.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au moment où les banques Martiennes ont compris ce qu'il se apssait, les instituions financières Lunaires avait prit des accords avec els Extropiens et dominaient tous les points d'échange entre les habitants du système intérieur et les anarchistes des systèmes extérieurs et où des faveurs pouvaient être troquées contre du cash.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The same genius fueling Lunar design created a complex barter to cash network that almost everyone uses.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le même génie a alimenté la création d'un système complexe de troc pour les réseaux que tout le monde ou presque utilise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While some autonomists find it infuriating that they have to deal with a monolithic banking system to get by in the inner system, others are simply happy to deal with the Lunars instead of the Martians for this service.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que certains autonomistes trouvent aliénant le fait de devoir faire avec un systèmebancaire monolithique pour faire des affaires dans le système intérieur, d'autres sont simplement content de traiter avec els Lunaires plutôt qu'avec les Martiens pour ce service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Erato (Eratosthenes)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Erato (Eratosthène)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Erato (population 5 million) is a major mining center consisting of a series of heavily shielded surface domes and a vast underground city.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Erato (5 millions d'habitants) est un centre majeur d'exploitation minière composé d'une série de dômes de surface lourdement protégés par des bouclier et d'une grande cité sous-terraine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Erato is centered around the Eratosthenes crater on the southern edge of the Mare Imbrium (Sea of Showers), in the northern hemisphere of the Terra-facing side of Luna.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Erato est centré autour du cratère Eratosthène à la limite sud de la Mare Imbrium (Mer des Pluies), dans l'hémisphère nord de la face visible depuis la Terre de la Lune.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Erato has access to both the rich titanium deposits of the Mare Imbrium and fields of Helium 3-abundant regolith.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Erato a accès à la fois à de riches gisements de titanium de la Mare Imbrium et à des champs de régolite abondant en Hélium-3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Erato is one of the oldest mining settlements on Luna and one of the first to become commercially viable.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Erato est l'un des abris de minage les plus anciens sur la Lune et l'un des premiers à devenir commerciallement viable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As such, many of the Lunar banks are centered around this city.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En tant que tel, beaucoup de banque Lunaire sont centrées autour de cette cité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The vaulted heights of the Great Cavern of Erato, originally excavated by a Sino-European conglomerate, reach a height of 1.5 kilometers at the apex, leaving room for a teeming city of gardens and towers grown from Lunar silicates and industrious nanites, lit from above by sunlight entering via great mirrored vents.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les hauteurs voutées de la Grande Caverne d'Erato, originellement excavée par un conglomérat Sino-Européen, atteint une hauteur de 1,5 kilomètres à son point culminant, laissant de l'espace pour une cité grouillant de jardin et de tour construite dans de la silice Lunaire et des nanites industriels, éclairé par la lumière solaire pénantrant grâce à de grandes évents couvets de mirroir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nectar (population 9 million) lies about 100 kilometers due east of Theophilus crater on the Mare Nectaris (Sea of Nectar) in Luna's southern hemisphere.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nectar (9 millions d'habitant) repose à 100 kilomètres à l'est du crater Theophilus sur la Mare Nectaris (Mer de Nectar) dans l'hémisphère sud de la Lune.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nectar is a design powerhouse, home to the great Lunar design houses that set fashion and design trends for much of the solar system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nectar est un centre de design, abritant les plus grands studios de conception Lunaire qui définissent la mode et les tendances pour la plupart du système solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Due to its location relatively close to the Lunar equator, Nectar also hosts Luna's primary long-haul space port and is on the pickup path for the Lunar sky hook.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Enr aison de sa localisation relativement proche de l'équateur Lunaire, Nectar héberge également l'un des principaux spatioport long-courrier et est l'une des zons d'enlèvement du palan aérien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{New Mumbai containment zone}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Zone de confinement de New Mumbai}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The incineration of the New Mumbai colony with nuclear weapons during the Fall to prevent the spread of TITAN infection left a scorch mark roughly 100 kilometers in diameter on the face of Luna that is still visible from high orbit.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'incinération de la colonnie de New Mumbai par le feu nucléaire pendant la Chute afin d'empêcher la propagation de l'infection TITAN a laissé une marque de brûlure d'environ 100 kilomètres de diamètres set qui est toujorus visible depuis une orbite haute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The colony was a heavily automated Helium-3 mining station, located in the midst of rich Helium-3 fields on the edge of the Mare Moscoviens.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>la colonnie était une station hautement automatisées d'extraction d'Helium-3, localisée au milieu de champ riches en Helium-3 à la limite de la Mare Moscoviens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It remains a heavily-patrolled quarantine zone to this day.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle demeure jusqu'à présent une zone de quarantaine extrêmement surveillée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Shackle (Shackleton-New Varanasi)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Manille (Shackleton-New Varanasi)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shackle (population 6 million), built in and around the south polar Shackleton crater, is centered around one of two major water extraction operations on Luna.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Manille (6 millions d'habitant), construite dans et autour du cratère Shackleton au pôle sud, est centrée autour de l'une des deux principales zones d'extraction d'eau sur la Lune.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>New Varanasi, the city of temples, is the most impressive section of the city.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>New Varanasi, la cité des temples, est la section la plus impressionante de la cité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shackle was the other major site of old Indian influence on Luna, and with the destruction of New Mumbai holds special importance to descendants of the Indian diaspora.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Manille était l'autre cité principale de l'ancienne influence Indienne sur la Lune, et suite à la destruction de New Mumbai elle a une importance particulière pour les descendants de la disapore Indienne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>New Varanasi is a monumental artificial cavern complex with an intricate canal system fed by melted ice from the polar caps above.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>New Varanasi est un complexe monumental de cavernes artificielles doté d'un système de canaux et alimenté par de la glace fondues extraite des calotes polaire situées au-dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a source of lifegiving water, it now holds the same importance to the Hindu faith once ascribed to the River Ganges on old Terra.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En tant que qu'eau pouvant héberger la vie, il détient maintenent la même importance dans les croyances Hindu que le Fleuve Gange de l'ancienne Terre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Survivors of other Indian religions, such as the Jains and Sikhs, have also made their temples here.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les survivants d'autres religions Indiens, tels que les Jains et les Sikhs, ont également établit leur temps là.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This makes Shackle a major pilgrimage site; tourism is the major industry after water extraction.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela fait de Manille l'un des princiapux lieu de pélerinnage; et le tourisme est sa principale industrue après l'extraction de l'eau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A small herd of Indian elephants is a major attraction, and the elephant god Ganesha, Remover of Obstacles, is extremely popular on Luna, even with non-Hindus.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un petit troupeau d'éléphants Indiens consitue une des attractions principale, et le dieu éléphant Ganesh, Le Destructeur des Obstacles, est extrêmement populaire sur la Lune, même parmi les non-Hindous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
