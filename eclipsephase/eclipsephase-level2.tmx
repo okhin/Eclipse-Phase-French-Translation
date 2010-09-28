@@ -19206,6 +19206,350 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Large enough that it could almost have formed the nucleus of a protostar in its own right, Jupiter's massive size makes the Jovian System one of the most challenging places in the system to colonize.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Suffisament grosse pour former le noyau du'une proto-étoile, la taille impressionante de Jupiter fait du Sstème Jovien l'un des endroits les plus difficile à coloniser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jupiter's powerful magnetic field means that its inner moons— and the outer ones, when their orbits pass through its immense magnetotail—are bombarded with enough ionizing radiation to kill transhumans not protected by the heaviest of shielding within a matter of hours.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le puissant champ magnétique de Jupiter implique que ses sattellites interne - ainsi que les plus éloignées, lorsque leurs orbites traversent l'immense queue magnétique - sont bombardées avec suffisament de radiation ionisante pour tuer en quelques heures tout transhumain non protégé par les boucliers les plus épais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are sixty-three moons and moonlets in the Jovian system, but only the well-explored, populous, regular moons are described here.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a soixante-trois lunes et sattellite dans le système Jovien, mais seuls les lunes les plus peuplées explorées et régulière sont décrites ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Resources and economy}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Ressources et économie}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jupiter's powerful gravity well is a major hindrance to gas mining in the planet's atmosphere, as even craft that do not succumb to the violent, centuries-long atmospheric storms can achieve escape velocity with only the most powerful propulsion systems.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le pusissant puit gravitationnel de Jupiter est une gène majeure pour l'extraction gazière dans l'atmosphère de la planète, car même le matériel qui ne succombe pas aux violentes tempêtes durant pendant plusieurs siècles ne peut réussir atteindre la vitesse de libération que grâce aux système de propulsion les plus puissants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Given the need for heavy shielding on such craft, gas mining on Jupiter is not nearly as efficient as on Saturn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Étant donné la nécessité d'avoir des écrans de protection lourd sur ces apapreils, l'extraction gazière sur Jupiter est loin d'être aussi efficace que sur Saturne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jupiter has a tenuous ring system, much less dense than Saturn's, which extends out for 20,000 kilometers around the planet, encompassing the orbits of its two closest moonlets.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Jupiter poqqède un petit système d'anneau, beaucoup moins dense que celui de Saturne, et qui s'étend sur 20 000 kilomètres autour de la planète englobant les orbites de ses deux lunes les plus proches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, Jupiter's gravity is also a valuable resource.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, la gravité de Jupiter est aussi une ressource de valeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Craft bound for Saturn and beyond can slingshot themselves outward by circling the planet to pick up velocity, cutting months or years off their trips.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les envois de matériel vers Saturne et au-delà peuvent utiliser l'effet de fronde en tournant autour de la planète pour augmanter leur vitesse, réduisant les voyages de plusieurs mois voire de plusieurs années.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The heavily militarized Jovian Republic levies tolls against all spacecraft using Jupiter's gravity to pick up velocity, including asteroids under propulsion.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La République Jovienne lourdement militarisée prélève un droit de passage sur tout les vaisseaux utilisant la gravité de Jupiter pour augmenter leur vitesse, incluant les astéroïdes propulsés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This protection money is the Junta's primary source of revenue.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce revenu de protectiviste est la principale source de revenue de la Junte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Planetary Consortium ships generally accept the payment as part of operating expenses.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les vaisseaux du Consortium Planétaire accèptent générallement de payer et compte la dépense dans les frais opérationnels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other factions are not so cooperative, and the Junta regularly seizes or destroys blockade runners.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres factions ne sont pas autant coopérative, et la Junte saisit ou détruit régulièrement tout ceux qui essayent de franchir le blocus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Habitats and moonlets}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Habitats et sattelittes}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most of Jupiter's moons are really captured asteroids, lacking the size and geological complexity of planetary bodies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>la plupart des lunes de Jupiter sont en fait des astéroïdes capturés, et manquent de la taille et de la complexité géologique des corps planétaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All are occupied.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toutes sont occupées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some were converted to habitats; others host only Junta military and mining outposts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines ont été converties en habitats; d'autres hébergent juste des avant-postes militaire et d'extraction minière de la Junte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Jovian moonlets consist mostly of carbonaceous rock, poor in metal, with some of the larger moonlets having layers or even cores of ice.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les sattelittes Joviens sont composés principalement de roche charbonneuse, quelques un des satellittes parmi les plus grands ayant aprfois des couhes ou de noyaux de glaces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Beehive habitats and Reagan cylinders predominate in the Jovian system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les habitats en nid d'abeille et les cylindres Reagann sont prdéominant dans le système Jovien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Reagan cylinders (called “sarcophagus habs” by every other faction) are an inefficient variation on the O'Neill cylinder in which excavators hollow out an immense, cylindrical cavern in a rocky asteroid and then alter the asteroid's rotation with external thrusters to simulate gravity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les cylindres Reagann (appellée aussi &quot;sarcophages&quot; par toutes les autres factions) sont une varaiation inefficace des cylindres O'Neill dans lequel les excavateurs évident une gigantesque caverne cylindrique dans un astéroïde rocheux et modifient ensuite la rotation de l'astéroïdes par des propulseurs externes pour simuler la gravité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other habitat types are rare in Jovian orbit, especially within 2 million kilometers of the planet, where the radiation is strongest.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les autres types d'habitats sont rare dans l'orbite Jovienne, particulièrement dans les 2 millions de kilomètres de la planète où les radiations sont au plus fort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For a bioconservative faction unwilling to adopt radiation-resistant morphs, the Junta is in a poor location.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour une faction bioconservatiste refusant d'adopter des morphs résistantes aux radiations, la Junte est trés mal située.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shielding their populace beneath tons of rock is a necessity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Abriter sa population sous des tonnes de roches est une nécessité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Despite its military hegemony, the Junta can't control all of Jovian space, and there are things it can't do on its own—like exploring Europa.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En dépit de son hégémonie militaire, la Junte ne peut contrôller tout l'espace Jovien, et il y a des choses qu'elle ne peut faire d'elle-même - comme explorer Europe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A number of unaligned habitats and surface settlements exist in the ring system and the orbits of the Galilean moons.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il existe un grand nombre d'habitats et d'abris indépendant dans le système d'anneau et sur les orbites des lunes Galiléenne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Jovian Republic has renamed Jupiter's moons after various neo-conservative heroes from Earth's history.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La République Jovienne a rebaptisé les lunes de Jupiter en s'inspirant de noms de divers héros néo-conservateur de l'histoire Terrestre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>From closest to most distant, the moonlets are Metis (Bush), Adrastea (Fairway), Amalthea (Solano), Thebe (McAllen), Leda (Chung), Himalia (Pinochet), Lysithea (Friedman), Elara (Buckley), Ananke (Nixon), Carme (Kissinger), Pasiphae (Schilling), and Sinope (Garcia).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De la plus proche à la plus éloignées, les satellites sont Métis (Bush), Adrastée (Fairway), Amalthée (Solano), Thébé (McAllen), Léda (Chung), Himalia (Pinochet), Lysithéa (Friedman), Élara (Buckley), Ananké (Nixon), Carmé (Kissinger), Pasiphaé (Schilling) et Sinopé (Garcia).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All are tiny, between 5 and 100 kilometers in diameter.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toutes sont petites, entre 5 et 100 kilomètres de diamètre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Amalthea (Solano)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Amalthée (Solano)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The largest of the moonlets, hollow Amalthea is probably the most livable sarcophagus habitat due to the large lake created from its icy core.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le pus gros des satellites, Amalthée évidée est probablement l'habitat sarcophage le plus vivable en raison de son grand lac créé grâce à son noyau glacé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Living on Solano carries some prestige among Junta citizens.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vivre sur Solano amène un certian prestige aux citoyens de la Junte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rumor has it that most of the residents are well-placed RAND think tank personnel, most of whom work on defense projects.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des rumeurs établissent que la plupart de ses résidents sont des employés bien placé du think-tank RAND, travaillant principalement à des projets de défense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A fusion-powered axial light tube illuminates the 30-kilometer diameter central cavern, whose landscape is patterned after the subdivisions and office parks of an early 21st-century suburb.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un tube lumineux alimenté par fusion illumine la caverne central de 30 kilomètre de diamètre, dont le paysage est aménagé en fonction des sous-division et des pracs de bureaux des banlieues du début du 21° siècle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All buildings have envirosealing so that the occasional bouts of environmental sepsis resulting from the poorly regulated interior ecosystem can be purged with toxin bombs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout les bâtiments ont une isolation environnementale pour que les épisodes éventuels de sépticémie occasionnelle résultant du manque de régulation de l'écosystème intérieur puisse être purgé par des bombes de toxines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Less fortunate support personnel dwell in the beehive warrens crisscrossing the moonlet's crust between cavern and surface.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnel de maintenance moins riche habite dans les nid d'abeilles labyrinthique qui quadrillent la croûte du satellites entre la caverne et la surface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Like most of Jupiter's moonlets, Amalthea's space crawls with patrol craft and killsats, making approach for unauthorized craft problematic at best.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme la plupart des satellites de Jupiter, l'espace d'Amalthée grouille de vaisseaux de patrouilles et de satellites tueurs, rendant l'approche des vaisseaux non autorisées relativement problématique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1.5 million transhumans live on Solano.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1,5 million de transhumaines vivent sur Solano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Beneath Io's tenuous, patchy atmosphere of volcanic gases and neutral atomic dust lies a barren, grayish yellow, rocky surface coated with a thin frost of sulfur dioxide.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sous l'atmosphére ténue et inégale composés de gazs volcanique et de poussière atomique neutre se trouve une surface rocailleuse, stérile teintée de jaune pisseux et recouverte d'une fine couche de dioxyde de souffre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tidal heating caused by gravitational interaction with Jupiter makes Io the most volcanically active body in the system—so active that the meteor cratering found on every other planet and moon is completely absent on Io.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les vagues de chaleurs causées par l'interaction gravitationnelle avec Jupiter fait d'Io le corp ayant la plus forte activité volcanique du système - tellement actif que les cratères météorique trouvé sur toutes les autres planètes et lunes sont complètement absents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Massive volcanic calderas, lakes of molten rock, and geysers of sulfur dot the surface, with eruptions and accompanying seismic activity lasting months or years.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des caldéras volcanique massive, des lacs de roches fondues et des geysers de souffre ponctuent la surface, avec les éruptiosn et l'activité sismique liée pouvant durer des mois ou des années.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Volcanic zones on Io reach surface temperatures of up to 1,500 degrees Kelvin, hotter than any body in the system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les zonées volcaniques à la surface d'Io peuvent atteindre des températures de surface de 1 500 degrés Kelvin, plus élevées que n'importe quel autre corps du système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For all that, transhumanity's worst peril on Io is radiation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mais le plus grand danger pour la transhumanité reste les radiations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ejecta from geysers and volcanoes flow with Jupiter's magnetic field to form a titanic, toroidal flux tube that rotates with Io around the gas giant.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les débris éjectés par les geysers et les volcans voguent dans le champ magnétique de Jupiter pour former un flux toroïde titanesqie qui tourne avec Io autour de la géante gazeuse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
