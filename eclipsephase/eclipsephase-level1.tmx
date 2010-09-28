@@ -18910,6 +18910,302 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Asteroid belt}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{La ceinture d'astéroïdes}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spread out over a massive region between the orbits of Mars and Jupiter, the belt contains a few hundred asteroids greater than 100 kilometers in diameter, over a thousand objects greater than 30 kilometers in size, and countless smaller ones.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Réparti sur une région trés étendue entre les orbites Martienne et Jovienne, la ceinture contient une petite centaine d'astéroïdes dépassant les 100 kilomètres de diamètres, un peu plus de milles objets dépassant les 30 kilomètres et bien plus d'objets plus petits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Despite this, the total mass of asteroids in the belt is only a fraction of one of the inner planets, meaning that asteroids are spread out over great distances.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En dépit de ce fait, la masse totale d'astéroïdes dans la ceinture est à peine une fraction de la masse de l'une des planètes interne, les astéroïdes sont donc séparés les uns des autres par de grandes disances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A spacecraft flying through the belt is highly unlikely to encounter an asteroid unless it deliberately navigates toward it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un vaisseau naviguant à travers la ceinture n'a quasiment aucune chance de croiser un astéroïdes, à moins de navigueru délibérément vers l'un d'entre eux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The rich, easily accessible mineral deposits in the Belt were a major link in transhumanity's first steps toward the outer system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les dépots de riche sen minerai et simple d'accès de la Ceinture ont été un des liens majeur lors des premières étapes de la transhumanité vers le système extérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Automated mining and high-impulse ion boosters enabled outer system colonists to move metal-rich Main Belt asteroids into the orbits of Jupiter, Saturn, and beyond, where metallic asteroids are much scarcer.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'extraction automatisés et les propulseurs ioniques à impulsion ont permis aux colons du système extérieur de déplacer les astéroïdes riches en métaux de la Ceinture Principale vers les orbites Joviennes, Saturnienne et au-delà, où les astéroïdes métallique sont bien plus rare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This activity continues to this day as transhumanity pushes further out into the system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette activité continue actuellement alros que la transhumanité repousse les limites du système solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hundreds of small habitats, mostly involved in prospecting activities, dot the belt.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des centaines de petits habitats, la plupart impliqué dans des activités de propsection, ponctuent la ceinture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Distant from Earth, settlements in the belt were largely spared the devastation of the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Éloignés de la Terre, les abris de la ceinture ont été épargnés par la dévastation de la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Both hypercorp and autonomous outposts flourish here.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les avant-postes hypercorporatistes et autonomes fleurissent eux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Derelict habitats abandoned when nearby asteroids were boosted into the outer system or depleted are common here as well, although some of these are now occupied by residents who are best left to their solitude.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des habitats dérivant, abandonnés lorsque les astéroïdes à proximité ont étés propulsés dans le système extérieur ou ont été épuisés sont également fréquent ici, même si certains d'entre eux sont maintenant occupés par des résidents qui préfère rester seul avec leur solitude.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Ceres}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Cérès}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>One of the system's three dwarf planets (along with Pluto and Eris), Ceres is almost 1,000 kilometers in diameter and hosts a population of almost a million.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'une des trois planète naine (avec Pluton et Eris), Cérès fait presque 1 000 kilomètre de diamètre et héberge une population d'un million d'habitant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unlike most Main Belt asteroids, Ceres has an icy crust with a layer of liquid water beneath it, like a miniature version of Jupiter's moon, Europa.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Contrairement à la plupart des astéroïdes de la Ceinture Principale, Cérès possède une croute de glace au-dessus d'une couche d'eau liquide, comme une version miniature d'Europe, la lune de Jupiter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>With its abundant water, Ceres has a major role in resupplying other stations in the belt.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Avec son eau abondante, Cérès a un rôle majeur dans l'approvisionnement d'autres stations dans la ceinture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Similar to Extropia, Ceres operates largely along anarcho-capitalist lines.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire à Extropia, Cérès est dirigé principalement selon les des principes anarcho-capitalistes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, the Hidden Concern, a cartel run entirely by uplifted octopi, holds sway in the sub-crustal sea and maintains a stranglehold, as it were, on water extraction operations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cepandant, l'Affaire Cachée, un cartel dirigé entièrement par des pieuvres élevées règne en maître sur les mers sous la croûte glaciaire et conservent la mainmise sur les oéprations d'extaction d'eau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cerean octopoid morphs are specially adapted to survive in the ammonia-rich waters of the Hidden Sea.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les morphs octopoîdes Cérienne sont spéciallement adaptée à la survie dans les eaux riches en ammoniaque de la Mer Cachée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This massive beehive habitat is a major crossroads and anarcho-capitalist/mutualist marketplace.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cet habitat en nid d'abeille massif est une place de marché importante de l'anarcho capitalisme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Extropia is a neutral free city whose infrastructure and social fabric is maintained by a loose association of anarcho-syndicalist affinity groups.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Extropia eszt une cité libre neutre dont l'infrastructure et le tissu social est maintenu par une association informelle de groupes d'affinité anarcho-syndicaliste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Extropia's neutrality hinges on strategic alliances between key local figures, their networks, and an unusual array of outside interests that include the Lunar banks, technolibertarian factions, and outer system colonies dependent upon raw materials exported from the belt.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La neutralité d'Extropia dépend des allaiances stratégiques entre les personnages clefs locaux, leur réseau et un nombre inhabituel d'intérêt extérieur incluant les banques Lunaires, les factions technolibertarienne et les colonnies du système extéireur dépendant des matériaux bruts importés de la ceinture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The hypercorps use Extropia as a tax shelter and a haven from which to do illicit business.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les hypercorps utilise Extropia comme un paradis fiscal et comme un havre dans lequel il peuvent faire des affaires illégales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are no laws or government as such; visitors are advised to register with an insurance and security provider.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il n'y a pas de lois ou de gouvernemetn en tan t que tel; on conseille aux visiteurs de souscrire à une assurance et à un prestataire de sécurité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Named after one of the first transhumanist movements, Extropia is considered a utopia for transhumans looking for body modifications.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nommée d'après l'un des premiers mouvements transhumains, Extropia est considéré comme une utopie pour les transhumains cherchant des modificatiosn corporelles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AGIs and forking are accepted and allowed here.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les IAGs et les forks sotn acceptés et autorisés ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The transhuman population is nearly ten million.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La population transhumaine atteitn les dix-millions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Nova York (Metis)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Nova York (Métis)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>One of the more unusual near-weightless habitats is Nova York, the main city on Metis, a large nickel-iron and silicate asteroid located in the main belt.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'un des habitats a faible gravité le plus inhabituel est Navo York, la principale cité de Métis, un grand astéroïde de nickel-fer de la ceinture principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nova York, the third largest habitat in the main belt, is a thriving metropolis of 500,000, with the main portion of the city located in a spherical cavern approximately four kilometers in diameter, the top of which is two hundred meters beneath the asteroid's surface.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nova York, le troisième habitat de la ceinture d'un point de vue taille, est une métropole prospère de 500 000 transhumains, dont la portion princiaple est située dans une cavrne sphréique d'approximativement quatre fkilomètres de diamètres, dont le  sommet est situé deux-cent mètres sous la surface de l'astéroïde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lit during the day by a series of huge light tubes in the outer walls, at night the lights of the buildings cause the surface of this sphere to resemble an enormous geode.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Éclairé pendant la journée par une série de gigantesque tubes lumineux incrustés dans les murs externes, les éclairages des bâtiments donnent à la sphère l'aspect d'une énorme géode pendant la nuit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The habitat's basic design consists of many thousands of exceptionally tall and fragile-looking buildings that extend between one hundred and fifteen hundred meters above the surface, as well as a few buildings that stretch from one side of the cavern to the other.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La conception de base de l'habitat consiste en plusieurs milliers de bâtiments à l'apparence extrêmement fragile et exceptionnellement élevé qui s'élèvent de cent à mille cinq cent mètres au-dessus de la surface, ainsi que d'immeubles qui s'étendent d'une face la caverne à l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In Metis's minute gravity of 1/140th of a g, up and down have little meaning, and even relatively fragile buildings are in no danger of falling down.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans la micro gravité d'1/140° de g de Ménis, le haut et le bas n'ont que peu de signification, et même les bâtiments relativement fragile sont à l'abri de l'effondrement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The vast majority of the buildings, including ones more than one kilometer tall, are made from thin plastic panels over a durable supporting framework.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'immense majorité des immeubles, incluant ceux qui dépassent le kilomètre de hauteur, sont fait à partir de fins panneaux de plastique fixés sur une architecture de soutien durable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These buildings jut out at all angles from the sphere.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces bâtiments saillissent dans tous les angles depuis la sphère.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many inhabitants of Nova York move from one building to another by jumping, and a single leap can carry someone many hundreds of meters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup d'habitants de Nova York se déplacent en s'élançant d'un bâtiment à l'autre et un simple saut peut envoyer quelqu'un à plusieurs centaines de mètres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Residents do not worry about falling—the combination of air resistance and exceedingly low gravity means that even someone falling from the top of the cavern to the bottom is in no danger of injury.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les résidents ne moquent de tomber - le mélange de la résistance à l'air et la gravité excessivemet faible signifient que même si quelqu'un tombait du du haut de la caverne vers le bas, il n'y a aucun danger pour lui d'être blessé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this environment, the only real meaning of up and down is that down is where you look for objects to come to rest (as long as an air current does not pick them up and blow them around).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans cet environnement, la seule réelle signification pour le haut et le bas est l'endroit où vous vous attendez à ce que les objets se trouvent au repos (tant qu'un courant d'air ne les fait pas s'envoler et flotter autour).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
