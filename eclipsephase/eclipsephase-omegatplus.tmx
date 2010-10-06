@@ -20681,7 +20681,7 @@
         <seg>Security for these installations and the atmospheric skimmers and tankers they dispatch is tight, and it is never advisable to approach one unannounced.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>La sécurité autour de ces installations et des navires et tankers atmosphériques qu'elles expédient est extrêmement serré, et il n'est jamais sage de s'en approcher sans s'annoncer.</seg>
+        <seg>La sécurité autour de ces installations ainsi qu'autour des dragues et tankers atmosphériques qu'elles expédient est extrêmement serré, et il n'est jamais sage de s'en approcher sans s'annoncer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20969,7 +20969,7 @@
         <seg>Much of the moon is given over to skimming, refining, and shipping infrastructure.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>L'essentiel de la lune est dédiée aux infrastructure de filtarge, de raffinage et d'expédition.</seg>
+        <seg>L'essentiel de la lune est dédiée aux infrastructure de dragage, de raffinage et d'expédition.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21665,7 +21665,7 @@
         <seg>It is rumored to harbor an antimatter factory, a theory supported by the large number of skimmers that arrive from the surface relative to the number of tankers that leave.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Il est suspecté d'abriter une usine d'antimatière, une théorie soutenue par le grand nombre de vaisseaux qui vont vers la surface en comparaison du nombre de tankers qui en partent.</seg>
+        <seg>Il est suspecté d'abriter une usine d'antimatière, une théorie soutenue par le grand nombre de dragues qui vont vers la surface en comparaison du nombre de tankers qui en partent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21993,7 +21993,7 @@
         <seg>The failure of the Scoop project, an extremely costly attempt to build a pipeline from Saturn's surface to low orbit, allowing massive gas extraction without costly atmospheric skimmer operations, stymied Titan's ambitions to become a major antimatter producer.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>L'échec du projet Scoop, une tentative extrêmement coûteuse de construire un pipeline de la surface de Saturne jusqu'à l'orbite basse, permettant l'extraction massive de gaz sans les opérations de vaisseaux atmosphériques extrêmement coûteuse, a réduit à énant les ambiations de Titan de devenir un producteur d'antimatière majeur.</seg>
+        <seg>L'échec du projet Scoop, une tentative extrêmement coûteuse de construire un pipeline de la surface de Saturne jusqu'à l'orbite basse, permettant l'extraction massive de gaz sans les opérations de draguage atmosphériques extrêmement coûteuse, a réduit à énant les ambiations de Titan de devenir un producteur d'antimatière majeur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22873,7 +22873,7 @@
         <seg>Naiad and Thalassa are tiny but very close to the planet, and thus home to some atmospheric skimming operations.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Naïade et Thalassa sont petites maus trés proche de la planète, et sont donc devenues le foeyr de quelques opération de navigation atmosphérique.</seg>
+        <seg>Naïade et Thalassa sont petites maus trés proche de la planète, et sont donc devenues le foyer de quelques opération de dragage atmosphérique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23686,6 +23686,46 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Category</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Catégorie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Low</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moderate</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Modéré</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>High</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Élevé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Expensive</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -23758,6 +23798,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>SAV</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>AST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Example&lt;/i0&gt; &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -23770,6 +23818,14 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Psychochirurgie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Research</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Recherche</seg>
       </tuv>
     </tu>
     <tu>
@@ -25297,7 +25353,7 @@
         <seg>Common Morphs: Cases, Exalts, Flats, Splicers, Synths</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Morphs Communes: Boîtiers, plates, Exalts, Spliceurs, Synths.</seg>
+        <seg>Morphs Communes: Boîtiers, Plates, Exaltés, Spliceurs, Synths.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25545,7 +25601,743 @@
         <seg>Common Morphs: Cases, Exalts, Mentons, Splicers, Sylphs, Synths</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Morphs Communes: Boîtiers, Mentons, Exalts, Spliceurs, Synths, Sylphs.</seg>
+        <seg>Morphs Communes: Boîtiers, Mentons, Exaltés, Spliceurs, Synths, Sylphs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Spend Free Points}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Dépenser les Points Gratuits}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each starting character receives an equal number of free points for things like rep and aptitudes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque personnage reçoit au départ un nombre équivalent de points gratuits pour des choses comme la rep et les aptitudes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These free points are just the start for building your character, so don’t fret if you can’t get certain scores as high as you like.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces points gratuits sont le point de départ pour assembler votre personnage, ne vous inquiétez donc pas si vous ne parvenez pas à obtenir des scores aussi élevés que ce que vous aimeriez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the next stage of character creation, you will gain additional points with which you can customize your character (see Spend Customization Points, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans la prochaine étape de la création de personnages, vous gagnerez des points supplémentaires avec lesquels vous pourrez personnaliser votre personnage (voir la section Dépenser les Points de Personnalisation, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Example</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Exemple</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tai is making a character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tai est en train de créer un personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She decides to create a salvage retrieval/scavenger type who started as a Lunar Colonist but is now a Brinker.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle décide de créer un charognard/récupérateur de débris qui aurait commencé en tant que Colon Lunaire mais qui serait maintenant un Bordé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Together, her background and faction give Tai +20 Networking: Autonomists skill, +20 Networking: Hypercorps skill, +10 Pilot: Spacecraft skill, and +10 Pilot: Groundcraft skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À eux deux, sa faction et son historique donennt à Tai +20 à la compétence Réseau: Autonomistes, +20 à la compétence Réseau: Hypercorp, +10 à la compétence Piloter: Vaisseau et +10 à la compétence Piloter: véhicule terrestre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She also has +10 to two other skills (one Academic, Professional, or Technical) that she’ll choose later.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle a également +10 dans deux autres compétences (dont l'une étant une Acadméique, une Profession ou un domaine Technique) qu'elle pourra choisir plus tard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tai starts with 105 points for aptitudes, which works out to 15 each.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tai démarre avec 105 points pour les aptitudes, qui permettent de mettre 15 points à chaque aptitude.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She wants her character to be impulsive and antisocial, so right away she lowers both SAV and WIL to 10.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle veut que son personnage soit impulsif et antisocial, elle réduit donc immédiatement son AST et sa VOL à 10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She also wants to be smart and fast on her feet, so takes the extra 10 points that gives her and raises both COG and REF to 20.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle veut également ête intelligente et rapide, elle prends donc les 10 points que cela lui a donné pour augmeneter sa COG et ses REF à 20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>So her aptitudes are:</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ses aptitudes sont donc:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>WIL &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>VOL &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She marks down her Moxie of 1 and gets her native language (Chinese) at 85, both for free.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle note son Moxie de 1 et choisit sa langue natale (Chinois) à 85, tout les deux offerts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Noting her 5,000 Credits, Tai divides her Rep score points evenly among @-rep and c-rep, taking 25 in each.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En notant ses 5 000 crédits, Tai divisent son score de Rep équitablement entre @-rep et c-rep, leur donnant 25 points à chacun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tai now has 1,000 points to customize.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle à maintenant 1 000 points pour personnaliser son personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She wants to be lucky, so she starts right off spending 60 (4 x 15) CP to raise her Moxie from 1 to 5.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle veut être chanceuse, elle commence donc par dépenser 60 (4 X 15) PP pour augmenter son Moxie de 1 à 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She also decides that she wants her character to be better at spotting things, so she raises her INT from 15 to 20, at a cost of 50 CP (5 x 10).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle décide également qu'elle veut que son personnage soit meilleur pour repérer les choses, elle augmente donc son INT de 15 à 10, au coût de 50 PP (5 x 10).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>So far, she’s spent 110 CP.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Jusqu'à présent, elle a dépenser 110 CP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She must buy at least 400 points of Active skills, so she tackles that next.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elel doit acheter au moins 400 points de compétences Active, elle s'y attaque donc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She knows that skills are based on aptitudes and they get more expensive over 60, so she decides the most she’ll spend on any single skill is 40 (since her highest aptitude is 20).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elel sait que les compétences sont liées aux aptitudes et qu'elle deviennent plus cher au-delà de 60, elle décide donc que le maximum qu'elle dépensera sur une seule compétence sera 40 (puisque son aptitude la plus élevée est de 20).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She picks out her skills, assigns the points, and adds them to the starting aptitudes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle choisist ses compétences, assigne les points et ajoute les compétences aux aptitudes liées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is what she starts with, noting the points she spent on each and the total value (counting aptitude) in parentheses.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voici ce avec quoi elle commence, en notant les points dépensé sur chacune et la valeur totale (incluant l'aptitude) noté entre parenthèses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Beam Weapons (COO) 30 (45), Climbing (SOM) 30 (45), Demolitions (COG) 40 (60), Fray (REF) 30 (50), Freefall (REF) 40 (60), Freerunning (SOM) 30 (45), Hardware: Aerospace (COG) 40 (60), Infiltration (COO) 30 (45), Interfacing (COG) 20 (40), Navigation (INT) 40 (60), Perception (INT) 40 (60), Persuasion (SAV) 20 (30), Research (COG) 20 (40), and Scrounging (INT) 40 (60).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Armes à Rayons (COO) 30 (45), Escalade (SOM) 30 (45), Démolition (COG) 40 (60), Esquive (REF) 30 (50), Chute Libre (REF) 40 (60), Parkour (SOM) 30 (45), Matériel: Aérospatialle (COG) 40 (60), Infiltration (COO) 30 (45), Interface (COG) 20 (40), Navigation (INT) 40 (60), Perception (INT) 40 (60), PErsuasion (AST) 20 (30), Recherche (COG) 20 (40) et Escamotage (INT) 40 (60).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This costs her 450 CP, so she’s spent a total of 560 CP so far.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela lui coûte 450 PP, elle a donc dépensé un total de 560 PP jusqu'ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now she spends her 300 points of Knowledge skills: Academics: Astrophysics (COG) 40 (60), Academics: Engineering (COG) 40 (60), Academics: Fall History (COG) 40 (60), Art: Sculpture (INT) 40 (60), Interest: Brinker Stations (COG) 40 (60), Interest: Conspiracies (COG) 30 (50), Language: English (INT) 40 (60), Profes- sion: Appraisal (COG) 40 (60), Profession: Scavenger Trade (COG) 40 (60).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle dépense maintenant 300 points de compétences de Connaissances: Académique: Astrophysique (COG) 40 (60), Académique: Ingénierie (COG) 40 (60), Académique: Histoire de la Chute (COG) 40 (60), Art: Sculpture (INT) 40 (60), Intérêt: Statiosn Bordées (COG) 40 (60), Intérêts: Conspirtaion (COG) 30 (50), Langue: Anglais (INT) 40 (60), Profession: Estimation (COG) 40 (60), Profession: Commerce de Récupérateur (COG) 40 (60).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This costs her another 350 CP, bringing her total spent CP to 910.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela lui coûte encore 350 PP, amenant le total de PP dépensés à 910.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Adding in her background and faction skills, she also has Networking: Autonomists (SAV) 30, Networking: Hypercorps (SAV) 30, Pilot: Spacecraft (REF) 30 (50), Pilot: Groundcraft (REF) 30 (50).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En ajoutant ses compétences d'historique et de faction, elle a également Réseau: AUtonomistes (AST) 30 (40), Réseau: Hypercorp (AST) 30 (40), Piloter: Vaisseau (REF) 30 (50), Piloter: Engins terrestres (REF) 30 (50).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She takes the freebie +10 and adds it to Fray (raising it to 60) and applies the other +10 to Academics: Economics (COG) 30.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle prend le bonus de +10 et l'attribue à Esquive (l'amenant à 60) et applique l'autre +10 à Académique: Économie (COG) 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>With 90 CP left, Tai moves on to Rep.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Avec les 90 PP restants, Tai s'attaque à la Rep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tai wants to have a lot of good connections, so she raises both of her Rep scores by 30 points each, at a cost of 6 CP.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tai veut avoir beaucoup de bonnes connexions, elle augmente donc ses deux score de rep de 30 points chacun, pour un coût de 6 PP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She also decides she needs some credibility with criminal types, so she buys g-rep at 40, for 4 more CP.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle décide également qu'elle a besoin d'un peu de crédibilité avec les criminels, elle achète donc la g-rep à 40 pour 4 PP de plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now she has 80 CP left.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il lui reste donc 80 PP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tai’s character needs a body, and she decides a bouncer is most suited for the nomadic, spacefaring lifestyle of her brinker.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage de Tai a besoind 'un corps, et elle décide que le bounceurs est le plus adapté au style de vie nomade et spatial de son bordé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>That costs another 40 CP, leaving her with 50 CP left to spend.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela lui co ûte encore 40 PP, la liassant avec 50 PP a dépenser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Looking back at her skills, she decides to raise her Pilot: Spacecraft from 50 to 70.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En reconsidérant ses compétences, elle décide de développer sa compétence Piloter: Vaisseau de 50 à 70.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It costs her 10 CP to raise the skill to 60, and another 20 CP to raise it from 60 to 70, for a total cost of 30 CP.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela lui coute 10 PP pour l'amener à 60, puis 20 de plus pour la pousser jusqu'à 70, pour un coût total de 30 PP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She also wants to raise her Scrounging from 60 to 70, for a 20 CP cost.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elel veut également développer sa compétence Escamotage de 60 à 70, pour un coût de 20 PP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>That nicely uses up the last of her CP.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela utilise bien ses derneirs PP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Scanning the traits, though, Tai also decides that Situational Awareness would be a good choice for her scavenger.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En regardant les Traits, Tai décide que Conscience Spatiale pourrait être un bon choix pour son charognard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At a cost of 10 CP, she would need to take another negative trait to compensate.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A un coût de 10 PP, ele aura besoin de prendre un autre trait négatif pour compenser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She chooses Neural Damage (synaesthesia)—a condition she inherited from a rampaging nanovirus during the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle choisit Séquelle Neuronale (Synaesthesie) - une maladie qu'elle a récupéré d'un nanovirus déchaîné pendant la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tai’s points are now all evened out and spent.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le spoints de Tai sont maintenant tous dépensés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Starting Aptitudes}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Aptitudes de Départ}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your character receives 105 free points to distribute among their 7 aptitudes: Cognition, Coordination, Intuition, Reflexes, Savvy, Somatics, and Willpower (see Aptitudes, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Votre personnage reçoit 105 points gratuits à distribuer parmi les ses 7 aptitudes: Cognition, Coordination, Intuition, Réflexes, Astuce, Somatique et Volonté (voir Aptitudes p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(That breaks down to an average of 15 per aptitude, so it may be easiest to give each 15 and then adjust accordingly, raising some and lowering others.) Each aptitude must be given at least 5 points (unless you take the Feeble trait, see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>(Cela se divise à une moyenne de 15 points par aptitude, il peut donc être plus simple de donner 15 points à chacune et ensuite d'ajuster en fonction, en augmenter certaines, en en réduisant d'autres.) Chaque aptitude doit recevoir au moins 5 points (à moins que vous n'ayez choisi le trait Frêle, voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>149), and no aptitude may be raised higher than 30 (unless you take the Exceptional Aptitude trait, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>149), et aucune aptitude ne peut dépasser 30 points (sauf si vous avez choisit le trait Aptitude Esxceptionnelle p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that certain morphs (flats and splicers, for example) may also put a cap on how high your aptitudes may be (see Aptitude Maximums, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que certaines morphs (plates et spliceurs par exemple) peuvent également mettre plafonner le maximum de vos aptitudes (voir Maximum d'Aptitudes, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For simplicity, it is recommended that aptitude scores be handled as multiples of 5, but this is not a necessity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour simplifier le tout, il est recommandé que les scores d'aptitudes soient gérées par multiples de 5, mais ce n'est pas une nécessité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Native Tongue}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Langue Natale}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every character receives their natural Language skill at a rating of 70 + INT for free.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque personnage reçoit la compétence compétence de leur Langue naturelle a un niveau de 70 + INT gratuitement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This skill may be raised with CP (see below).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette compétence peut-être améliorée avec des PP (voir plus bas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Starting Moxie}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Moxie de Départ}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every character starts off with a Moxie stat of 1 (see Moxie, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque personnage commenace abec une stat Moxie de 1 (voir Moxie, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Credit}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Crédit}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All characters are given 5,000 credits with which to purchase gear during character creation, unless you have the Fall Evacuee or Re-instantiated background (in which case you start with 2,500 or 0 credits, re- spectively).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout les personnages reçoivent 5 000 crédits avec lesquels acheter du matériel pendant la création de personnage, à moins que vous n'ayez l'historique Évacué de la CHute ou Ré-Instantié (auquel cas vous démarrez avec 2 500 ou 0 crédits, respectivement).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See Purchasing Gear, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voir Acheter du Matériel, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>136, for more details.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>136, pour de plus amples détails.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Rep} &lt;n0&gt; Your character isn’t a complete newbie.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Rep} &lt;n0&gt; Votre peronnage n'est pas un débutant complet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You get 50 rep points to divide between the reputation networks of your choice (see Reputation and Social Networks, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous recevez 50 points de rep à répartir entre les différentes réseaux de réputation de votre choix (voir Réputation et Réseaux Sociaux, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Spend Customization Points} &lt;n0&gt; Now that you have the basics of your character fleshed out, you can spend additional Customization Points (CP) to fine-tune your character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Dépenser les Points de Personnalisations} &lt;n0&gt; Maintenantq ue vous avez les bases de votre eprsonnage définie, vous pouvez dépenser des Points de Personnages (PP) pour détailler finement votre personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each character is given 1,000 CP, which may be used to increase aptitudes, buy skills, acquire more Moxie, buy more credit, elevate your Rep, or purchase positive traits.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque personnage reçoit 1 000 PP qui peuvent être utilisé pour augmenter les aptitudes, acheter des compétences, acquérir plus de Moxie, acheter plus de crédit, élever votre rep ou acheter des traits positifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may also take on negative traits in order to get even more CP with which to customize your character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous pouvez également prendre des traits négatifs pour gagner encore plus de PP avec lesquels personnaliser votre personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This customization process should be used to tweak your character and specialize them in the ways you desire.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce process de personnalisation devrait être utilisé pour bidouiller votre personnage et le spécialiser de la manière dont vous le désirez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a gamemaster seeks a different level of gameplay, they can adjust this CP amount.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un maître de jeu désire un autre niveau de jeu, le total de PP peut être ajusté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the gamemaster wants a scenario where the starting characters are younger or less experienced, they can lower the CP to 800 or even 700.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour un scénario dans lequel les personnages sont plus jeunes ou moins expérimenté, le nombre de PP peutêtre réduit à 800 ou même 700.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On the other hand, if you want to create characters who start off as grizzled veterans, you can raise the CP to 1,100 or even 1,200.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'un autre côté, si vous voulez créer des personnages qui démaare comme des vétérans endurcis, le nombre de PP peut être augmenter à 1 100 ou 1 200.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Not all customizations are equal - aptitudes, for example, are considerably more valuable than individual skills.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toutes les personnalisations ne sont pas éagles - les aptitudes, par exemple, sont bien plus importante que les compétences individuelles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To reflect this, CP must be spent at a specific ratio according to the specific boost desired.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>POur refléter ça, les PP doivent être dépenser à un taux spécifique en fonction des améliorations voulues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Customization Points &lt;n1&gt; &lt;u0&gt; 15 CP = 1 Moxie point &lt;u1&gt; 10 CP = 1 aptitude point &lt;u2&gt; 5 CP = 1 psi sleight &lt;u3&gt; 5 CP = 1 specialization &lt;u4&gt; 2 CP = 1 skill point (61-80) &lt;u5&gt; 1 CP = 1 skill point (up to 60) &lt;u6&gt; 1 CP = 1,000 credit &lt;u7&gt; 1 CP = 10 Rep &lt;n2&gt; &lt;i0&gt;Trait and morph costs vary as noted.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Point de Personnalisation &lt;n1&gt; &lt;u0&gt; 15 PP = 1 point de Moxie &lt;u1&gt; 10 PP = 1 point d'aptitude &lt;u2&gt; 5 PP = 1 exploit psi &lt;u3&gt; 5 PP = 1 spécialisation &lt;u4&gt; 2 PP = 1 point de compétence (61-80) &lt;u5&gt; 1 PP = 1 point de compétence (jusqu'à 60) &lt;u6&gt; 1 PP = 1 000 crédit &lt;u7&gt; 1 PP = 10 rep &lt;n2&gt; &lt;i0&gt; Le coût des traits et des morphs varient comme spécifié à chaque fois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Customizing Aptitudes}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Personnaliser les APtitudes}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Raising your aptitude score is quite expensive at 10 CP per aptitude point.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Augmenter votre score d'Aptitude est relativement cher et coûte 10 PP par points d'aptitudes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As noted above, no aptitude may be increased above 30.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme noté au-dessus, aucune aptitude ne peut être augemntée au delà de 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Keep in mind that your morph may also provide certain aptitude bonuses.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Gardez en tête que votre morph peut également vous fournir certains bonus d'aptitude.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Increasing Moxie}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Augmenter le Moxie}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moxie may be raised at the cost of 15 CP per Moxie point.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le Moxie peut être élevée au coût de 15 PP par points de Moxie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The maximum to which Moxie may be raised is 10.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le niveau maximum auquel le Moxie peut-être élevé est de 10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Learned Skills}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Compétences Apprises}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each character must purchase a minimum of 400 skill points of Active skills and 300 skill points of Knowledge skills (see Skills, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque eprsonnage doit acheter un minimum de 400 points de compétences en compétences Active et 300 en compétences de Connsaissance (voir Compétences, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Skills are bought at the cost of 1 CP per point.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les compétences sont achetées au coût d'1 PP par point.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Keep in mind that learned skills start at the rating of the linked aptitude.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Gardez en tête que les compétences apprises commencent au nivau de l'aptitude liée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, if you want to raise a skill to 30 and the skill’s linked aptitude is 10, you’ll need to spend 20 CP.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, si vous voulez augmenter une compétences à 30 et que l'aptitude liée est à 10, vous devrez dépenser 20 PP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Skill bonuses from background or faction should also be applied to the rating before you start raising the skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le sbonus aux compétences venant de l'historique ou de la faction doivent également être appliquée à la compétence avant de commencer à l'augmenter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For simplicity, it is recommended that skills be purchased as multiples of 5, but this is not a necessity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans un but de simplification, il est recommandé que les compétences soient achetées par multiple de 5, mais ce n'est pas une nécessité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Raising a skill over 60 is expensive.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Augmenter une compétence au-delà de 60 ets cher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each point over 60 costs double.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque point au delà de 60 coûte double.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Raising a skill with a linked attribute of 20 up to 70 would cost 60 CP: 40 points to get from 20 to 60, and 20 more points to get from 60 to 70.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Augmenter une compétence ayant une aptitude liée de 20 jusqu'à 70 coûte 60 PP. 40 points pour aller de 20 à 60, et 20 de plus pour aller de 60 à 70.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No learned skill may be raised over 80 during character creation (unless you have the Expert trait, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aucune compétence appris ene peut dépasser les 80 pendant la création de eprsonnage (sauf si vous possédez le trait Expert, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though Knowledge skills are grouped into 5 skills, each is a field skill (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même si les compétences de Connaissances sont regroupées en 5 compétences, chacune d'entre elle est une compétence à domaine (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>172), meaning that it can be taken multiple times with different fields.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>172) ce qui implique qu'elles peuvent être choisie plusieurs fois pour différents domaines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A complete list of skills can be found on p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une liste complète de compétences peut être trouvée à la p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25554,6 +26346,1646 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>{Spécialisations}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des spécialisations (P.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>173) may also be purchased at the cost of 5 CP per specialization.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>173) peuvent également être achetée au coût de 5 PP par spécialisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may purchase specializations for both Active and Knowledge skills.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous pouvez acheter des spécialisatsion à la fois pour les compétences Active ou de Connaissances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only 1 specialization may be purchased per skill, and they may only be bought for skills with a rating of 30+.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une seule spécialisation ne peut être achetée, et elles ne peuvent l'être que pour les compétences qui ont un niveau de 30+.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Buying More Credit}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Acheter Plus de Crédit}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you want more cred to spend on gear, every CP will get you 1,000 credits.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous voulez plus de crédit à dépenser sur votre matériel, chaque PP vous rapportera 1 000 crédits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See Purchase Gear, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voir Obtenir du Matériel, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>136, for details on buying stuff.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>136, pour les détails sur l'achat de matériel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The maximum CP you can spend on additional credits is 100.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous ne pouvez dépenser plsu de 100 PP pour obtenir des crédits supplémentaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Increasing Rep}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Augmenter la Rep}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you want your character to start play with lots of social capital, you can increase your Rep score(s) at the cost of 1 CP per 10 additional points.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous voulez que votre personnage commence le jeu avec plein de capital social, vous pouvez augmenter votre/vos score(s) de rep au coût d'1 PP pour 10 popints additionels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No individual Rep score may be raised above 80, and the maximum amount of CP that may be spent on Rep is 35 points.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aucun score individuel de Rep ne peut dépasser les 80? et le montant maximum de PP a dépenser sur la Rep est de 35 points.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Starting Morph}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Morph de Départ}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Perhaps the most important use of CP is to buy the morph with which your character begins play.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Probablement l'utilisation la plus importante des PP est d'acheter la morph avec laquelle votre personnage commencera le jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This may be the original bodily form in which your character started life, or it may simply be the sleeve they are currently inhabiting.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela peut-être la forme corporelle originale dans laquelle vous avez commencé votre vie, ou simplement l'incarnation que vous habitez actuellement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Available morphs are listed starting on p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les morphs disponibles sont listées  partir de la p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that any aptitude or skill bonuses provided by the morph are applied after all CP are spent.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que toutes les bonus aux compétences ou aux aptitudes fournis par la morph sont appliqués après que tous les PP soient dépensés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In other words, these bonuses do not affect the costs of buying aptitude and skill points during character generation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En d'autres mots, ces bonus n'affectent pas le coût d'achat des aptitudes et des points de compétences pendant la génération de personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No aptitude may be modified over 40.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aucune aptitude ne peut-être modifiée au-delà de 40.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Purchasing Traits}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Acheter des Traits}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Traits represent specific qualities your character has that may help or hinder them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les traits représentent des qualités spécifiques de votre personnage qui peuvent l'aider ou le freiner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Positive traits supply bonuses in certain situations, and each has a listed CP cost.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les traits positifs fournissent des bonus dans certaines situations, et chacun d'eux à un coût en PP associé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may not spend more than 50 CP on positive traits.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous ne pouvez pas dépenser plus de 50 PP sur les traits positifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Negative traits inflict disadvantages on your character, but they also give you extra CP that you can spend on customizing your character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les traits négatifs infligent des désavantages à votre personnage, mais vous rapporte des PP supplémentaire que vous pouvez dépenser pourpersonnaliser votre personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may not purchase more than 50 CP worth of negative traits, and no more than 25 CP may be negative morph traits.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous ne pouvez pas obtenir plus de 50 PP  de traits négatifs, et pas plus de 25 d'entre eux ne epuevent être des traits négatifs de morphs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Positive traits are listed on p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les traits positifs sont listés à la p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>145, negative traits on p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>145, les traits ngatifs le sont p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that traits you receive from your background or faction do not cost or provide you with bonus CP.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que les traits que vous recevez de votre historique ou de votre faction ne vous coûtent ni ne vous rapportent de PP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Traits listed as morph traits apply to the morph, and not the ego.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les traits listés en tant que traits de morphs s'appliquent à la morph, pas à l'ego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character switches to a new morph, these traits are lost (and new morph traits may be gained).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un personnage change de morphs, ces traits sont perdus (et de nouveaux traits de morph peuvent être obtenus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Morph traits may be bought like other traits during character generation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les traits de morph doivent être acheter comme tous les autrs traits pendant la génération de personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Psi Sleights}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Exploits Psi}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters who purchase the Psi trait (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages qui achètent le trait Psi (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>147) may spend CP to purchase sleights (see Sleights, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>147) peuvent dépenser des PP pour acheter des exploits (voir Exploit, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These represent specific psi abilities the character has learned.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils représentent des capacités psi particulière que le personnage a apprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The cost to buy a sleight is 5 CP.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le coût d'achat d'un exploit est de 5 PP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No more than 5 psi-chi and 5 psi-gamma sleights may be bought during character creation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pas plus de 5 exploits psi-chi et 5 exploits psi-gamma ne peuvent être achetés pendant la création de personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that any skill or aptitude bonuses from sleights are treated as modifications; they are applied after all CP are spent and do not affect the cost of buying skills or aptitudes during character creation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que chaque bonus de compétence ou d'aptitude obtenus avec des exploits sont traités comme des modificateurs; ils s'appliquent après que tous les PP aient été dépensés et n'affectent pas le coût d'achat des compétences ou des aptitudes pendant la création de personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Purchase Gear}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Obtenir du Matériel}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No matter what faction you are from, you use Credit to buy gear during character creation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Peu importe de quelel faction vous venez, vous utilisez les Crédits pour acheter du matériel pendant la création de personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A complete list of gear and costs can be found in the Gear chapter, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une liste complète du matériel et des coûts peuvent être trouvé dans le chapitre Équipement, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The average costs for each cost category should be used when calculating gear prices.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le coût moyen de chaque catégorie de prix doit être utilisé lorsqu'il s'agît de calculer le prix du matériel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every character starts off with one piece of gear for free: a standard muse (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque personnage démarre avec une piède d'équipement gratuitement: une muse standard (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is the digital AI companion that the character has had since they were a child.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est un compagnon IA nuémrique que le eprsonnage possède depuis qu'il est un enfant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additionally, each character starts with 1 month of backup insurance (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Additionnellement, chaque personnage démarre avec 1 mois d'assurance sauvegarde (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>330) at no cost.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>330) sans coût supplémentaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{3}{|c|}{Gear Costs} &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{3}{|c|}{Coût du Matériel} &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Range (Credits)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Étendue (Crédits)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Average (Credits)&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>M oyenne(Crédits)&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There is no limitation other than what the gamemaster allows on what gear characters can and cannot buy during character creation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il n'y a pas de limitations autre que celles fixées par le maître de jeu sur le matériel accessible aux personnage à la création de personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Both the players and gamemaster should keep the character’s background and faction in mind.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les joueurs et le maître de jeu devraient garder en tête l'historique et la faction du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since some gear is likely very restricted in some habitats if not outright illegal, there needs to be a plausible explanation for who and how a character from such a place might have such gear.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme certaines pièces d'équipement sont extrêmement restreintes dans certains habitats voire franchement illégale, il peut être nécessaire d'avoir une explication plausible sur la façon qu'un personnage d'un tel endroit peut obtenir un équipement de ce type.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If there isn’t, then the gamemaster can choose not to allow it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>si il n'y a pas d'explicatiosn plausible, le maître de jeu peut choisir de ne pas autoriser cet équipement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The starting locale for a game should also be considered.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le pointd ed épart de la partie devrait également être pris en considération.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character from the restrictive Jovian Republic might have a hard time explaining how they have an illegal cornucopia machine back in the Republic, but if the game takes place on board a scum barge where everything is available and anything goes, then such an explanation becomes much easier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage de la République Jovienne restrictive pourrait avoir des difficultés à expliquer comment il/elle a obtenu une machine d'abondance illégale dans la République, mais si le jeu démarre à bord d'une barge racaille où tout est disponible et où tout est autorisé, alros une telle explication devient bien plsu simple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The one exception to buying gear with Credit is the purchase of additional morphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La seule exception à l'achat de matériel avec des crédits est l'acaht de morph supplémentaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters may buy extra morphs during character creation, but they must be bought with CP.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages peuvent acheter des morphs supplémentaires lors de la création de personnage, mais elles doivent être achetées avec des PP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The player must choose one morph in which the character is sleeved.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le joueur choisit une morph dans laquelle les personange est incarné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Extra morphs also require body bank service fees (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les morpshs upplémenatires éncessitent aussi de payer les services d'une banque de corps (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that any skill or aptitude bonuses from gear are treated as modifications; they are applied after all CP are spent and do not affect the cost of buying skills or aptitudes during character creation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que tout bonus de compétences ou d'aptitude hérité de l'équipement est traité comme une modification; ils ne sont appliqués qu'après que tous els PP aient été dépensés et n'affectent pas le coût d'achat des compétences ou des aptitudes pendant la création de personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Choose Motivations}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Choisir les Motivations}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The next step is to choose 3 personal motivations for your character (see Motivations, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'étape suivante est de déterminer 3 motivations personnelles à votre personnage (voir Motivations, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These are memes, in the form of ideologies or goals, which your character is pursuing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce sont des mêmes, sous la forme d'idéologies ou d'objectifs, que votre personnage cherche à atteindre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These may be as specific “undermine the local triad boss” or as broad as “promote hypercapitalism,” and they may be short term or long term.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils peuvent être aussi spécifique que &quot;battre le chef des triades local&quot; ou aussi large que &quot;promouvoir l'hypercapitalisme,&quot; et ils peuvent être à court ou long terme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some sample motivations are provided on the Example Motivations table (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques motivations types sont fournies sur la table d'Exemple de Motivations (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You should work with your gamemaster when choosing your motivations, as they can be used to propel the storyline forward and specific scenarios can be constructed around your character’s goals.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous devriez travaillez avec votre maître de jeu au moment où vous déterminez vos motivations, car elles peuvent être utilisée pout propulser l'histoire et des scénarios spécifiques peuvent être construits autour des buts de votre personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some of your character’s motivations may change later (see Changing Motivation, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines motivations de votre personnage peuvent changer par la suite (voir Changer de Motivation, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Motivations will help your character regain Moxie (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les motivations aiderons votre personnage à récupérer des points de Moxie (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>122) and earn extra Rez Points during gameplay (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>122) et à gagner des points de Rez supplémentaires pendant le jeu (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Motivations should be listed on your character sheet as a single term or short phrase, along with a + or - symbol to denote whether they support or oppose it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le smotivations doivent être listée sur votre fiche de personne comme de simples mots ou des phrases trés courtes, accompagné d'un symbole + ou - selon que vous supportiez ou que vous vous opposiez à l'idée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, “+Fame” would indicate that your character seeks to become a famous media personality, whereas “-Reclaim Earth” means that your character opposes the goal of reclaiming Earth.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple &quot;+Notoriété&quot; indiquera que votre personnage cherche à devenir une personnalité médiatique célèbre, alors que &quot;-Récupérer la Terre&quot; signifie que votre personnage s'oppose aux buts des réclamationnistes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Example Motivations}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Exemple de Motivations}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{lll} Alien Contact</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{lll} Contact Étranger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Anarchism</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Anarchisme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Artistic Expression &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Expression Artistique&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bioconservatism</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bioconservatisme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Education</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Éducation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fame</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notoriété</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fascism</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Fascisme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hedonism &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Hédonisme &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hypercapitalism</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Hypercapitalisme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Immortality</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Immortalité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Libertarianism &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Libertarianisme &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Martian Liberation</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Libération Martienne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Morphological Freedom</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Liberté Morphologique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nano-ecology &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nano-écologie &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Personal Career</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Carrière Personnelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Personal Development &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Développement Personnel&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Philanthropy</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Philanthropie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Preservationism</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Préervationisme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Reclaiming Earth &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Récupérer la Terre&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(AI/Infomorph/Pod/Uplift) Rights &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Droits des (IA/Infomorph/Pod/Élevés)&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(AI/Infomorph/Pod/Uplift) Slavery</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Esclavage des (IA/Infomorph/Pod/Élevé)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Socialism</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Socialisme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Techno-Progressivism &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Techno-Progressivisme &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Venusian Sovereignty</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Souveraineté Venusienne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wealth &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Prospérité&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Final Touches}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Touches Finale}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now that you have everything settled, there are a few final steps.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>maintenant que tout est en place, il reste quelques étapes finales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Remaining Stats}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Stats Restantes}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few stats now need to be calculated and added to your character sheet:</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques stats doivent maintenant être calculée et additionnée à votre fiche de personnage:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lucidity (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lucidité (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>122) equals your character’s WIL x 2.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>122) est égale à la VOL x 2 de votre personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u1&gt; Trauma Threshold (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u1&gt; Seuil de Trauma (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>122) equals your LUC divided by 5 (round up).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>122) est égal à votre LUC divisée par 5 (arrondir au supérieur).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u2&gt; Insanity Rating (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u2&gt; Seuil de Folie (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>122) equals LUC x 2.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>122) est égal à LUC x 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>121) equals your character’s (REF + INT) x 2.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>121) est égal à (REF + INT) x 2 de votre personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u4&gt; Damage Bonus (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u4&gt; Bonus de dommage (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>123) for melee equals SOM $&lt;u7&gt;$ 10 (round down).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>123) pour la mélée est égal à SOM $&lt;u7&gt;$ 10 (arrondir à l'inférieur).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u5&gt; Death Rating (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u5&gt; Seuild e Mort (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>122) equals DUR x 1.5 (biomorphs, round up) or DUR x 2 (synthmorphs) &lt;u6&gt; Speed (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>122) est égal à DUR x 1,5 (biomorphs, arrondir au supérieur) ou à DUR x 2 (synthmorpsh). &lt;u6&gt; Vitesse (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>121) equals 1 (3 for infomorphs), modified as appropriate by implants.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>121) est égale à  1 (3 pour les infomorphs), modifié de manière appropriée par les implants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Detailing The Character}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Détailler le Personnage}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The final step in character creation is filling in the details and figuring out what your character is like and what they are all about.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'étape finale de la création de personnage est de remplir les détails et déterminer comment votre personnage se comporte et ce qu'il/elle pense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your character’s Background is a good place to start as it says where they came, but it could be expanded.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'historique de votre personnage est un bon point de départ car il définit d'où il/elle vient, mais il peut être développé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What did they think of their childhood?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Que pesne-t-il/elle de sopn enfance?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do they still have ties from there?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Y A-t-il/elle encore des attache?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How did they move from such origins to the Faction they are part of?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comment il/elle a évolué de son roigine pour arriver dans la Faction dont il/elle fait parti?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Are they fully supportive of their Faction’s goals, or are they in opposition?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Est-il/elle un fervent défenseur des objectifs de sa Faction ou est-il/elle en opposition?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How does the character view other Factions?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comment le personnage perçoit-il/elle les autres Factions?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Next, take a look at the skills and other defining points—these also tell a story.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ensuite, jettez un œil aux compétence et autres points structurants - ils peuvent aussi raconter une histoire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How did they acquire those skills?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comment a-t-il/elle acqui ces compétences?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Why?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pourquoi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How did they develop their Rep score (or lack of one)?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comment a-t-il/elle développé son score de rep (ou son absence)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How did they get connected with the groupings represented by their Networking skills?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comment a-t-il/elle été connecté avec les groupes détaillés dans leurs compétences Réseau?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What do the character’s traits say about them?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Que disent les traits du personnage à son sujet?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How did they get their current morph?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comment a-t-il/elle obtenu sa morph actuelle?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Is it their original?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Est-ce que c'est leur morph d'origine?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If not, what happened to their first body?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sinon, qu'est-il arrivé à son premier corps?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Also taking into account the major factor of Motivations, all of these questions will help you build a de- fining picture of your character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Prenez aussi en considération les facteurs majeurs des Motivations, toutes ces questiosn pourront vous aider à construire une image définissante de votre personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Not everything about your character needs to be filled out, of course—it’s ok to leave a few blanks that you can fill in later.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il n'est aps nécessair de définir intégralement votre personnage bien entendu - des blancs peuvent toujours être laissés pour être remplis plus tard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Assembling the points you have deduced so far will help you to present your character as a whole, unique individual, however, rather than just a blank template.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Assembler les points que vous avez définit jusqu'à présent vous aidera à présenter votre personnage comme un tout, un individu unique plutôt qu'un modèle vide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a final step, take a few minutes to pick out some specific identifying features and personality quirks that will help you define the character to others.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En guise d'étape finale, prenez quelques minutes pour déterminer quelques caractéristiques identitaires et quelques traits de eprsonnalité qui vous aiderons à définir votre personnage aux autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This could be a way of talking, a strongly-projected attitude, a catchphrase they use frequently, a unique look or style of dress, a repetitive behavior, an annoying mannerism, or anything else similar that is easy to latch onto.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela pourrait être une manière de parler, un sale caractère, une punchline qu'ils utilisent fréquemment, un style unique, un comportement répétitif, un maniérisme génant ou n'importe quoi d'autre de similaire sur lequel il est facile de s'accorcher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Such idiosyncrasies give something that other players can latch onto, spurring roleplaying opportunities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De telles idiosyncratie donnent un support aux autre joueurs afin de développer des opportunités d'interprétation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Starting Morphs</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Morphs de Départ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each morph has an associated CP cost.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque morph est associée à un coût en PP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It also supplies the character’s &lt;i0&gt;Durability&lt;/i0&gt; and &lt;i1&gt;Wound Threshold&lt;/i1&gt; stats, and may modify Initiative, Speed, and certain aptitudes and learned skills.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elel fournie aussi les stats de &lt;i0&gt;Durabilité&lt;/i0&gt; et de &lt;i1&gt;Seuil de Blessure&lt;/i1&gt; du personnage, et beaucoup modifient également l'Initiative, la Vitesse et certaines aptitudes et compétences apprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A credit cost is also listed, but this refers to the cost of buying such a morph in gameplay.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un coût en crédit est également fourni, mais il fait référence au coût d'achat de ces morphs en cours de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Flexible Aptitude Bonuses: Some morphs have aptitude bonuses that may be applied to an aptitude of the player’s choice.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bonus d'Aptitude Souple: Certaines morphs ont des bonus d'aptitudes qui peuvent être appliqu&quot;e à une aptitude au choix du joueur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This reflects that not all morphs are created equal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela reflète le fait que toutes les morphs ne sont pas équivalentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When assigning these universal aptitude bonuses, each boost must be applied to a separate aptitude; you may not elevate an aptitude that is already raised by that morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En assignant ces bonus d'aptitude universels, chaque amélioration doit être appliquée à une aptitude différente; vous ne pouvez augmenter une aptitude qui est déjà améliorée par cette morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once an individual morph’s aptitude bonuses have been assigned, they are permanent for that morph (i.e., if another character resleeves into that morph, the bonuses remain the same).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois que les bonus aux aptitude d'une morph particulière ont été assignés, ils deviennet permanent pour cette morph (p.ex. si un eutre personnage se réincarne dans cette morph, les bonus restent les mêmes).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Biomorphs are fully biological sleeves (usually equipped with implants), birthed naturally or in an exowomb, and grown to adulthood either naturally or at a slightly accelerated rate.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les biomorphs sont des incarnations complètement bioloique (habituellement équipée d'implants), mise au monde naturellement ou par un exo-utérus et amené à l'aâge adulte soit naturellement soit à un rythme senseiblement accéléré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Flats}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Plates}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Flats are baseline unmodified humans, born with all of the natural defects, hereditary diseases, and other genetic mutations that evolution so lovingly applies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les plates sont l'humain de base non modifié, né avec tout les défauts naturels, des maladies héréditaires et d'autres mutations génétiques que l'évolution applique avec amour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Flats are increasingly rare—most died off with the rest of humanity during the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les plates sont extrêmement rare - la plupart sont mortes avec le reste de l'humanité pendant la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most new children are splicers—screened and genefixed at the least—except in habitats where flats are treated as second-class citizens and indentured labor.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La pluaprt des nouveaux enfants sont des spliceurs - analysée et réparé génétiquement au minimum - excepté dans les habitats où les plates sont considrés comme des citoyens de seconde zone et des travailleurs contractés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Implants] None &lt;u1&gt;[Aptitude Maximum] 20 &lt;u2&gt;[Durability] 30 &lt;u3&gt;[Wound Threshold] 6 &lt;u4&gt;[Disadvantages] None (Genetic Defects trait common) &lt;u5&gt;[CP Cost] 0 &lt;u6&gt;[Credit Cost] High</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Aucun &lt;u1&gt;[maximum d'Aptitude] 20 &lt;u2&gt;[Durabilité] 30 &lt;u3&gt;[Seuil de Blessure] 6 &lt;u4&gt;[Désavantages] Aucun (le trait Défaut génétique est commun) &lt;u5&gt;[Coût en PP] 0 &lt;u6&gt;[Coût en Crédit] Élevé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Splicers}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Spliceurs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Splicers are genefixed humans.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les spliceurs sont les humains génétiquement réparés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their genome has been cleansed of hereditary diseases and optimized for looks and health, but has not otherwise been substantially upgraded.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leur génome a été nettoyé des maladies héréditaires et optimisé pour la santé et l'apparence, mais il n'a pas été amélioré outre-mesure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Splicers make up the majority of transhumanity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les spliceurs constituent la majorité de la transhumanité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Cortical Stack &lt;u1&gt;[Aptitude Maximum] 25 &lt;u2&gt;[Durability] 30 &lt;u3&gt;[Wound Threshold] 6 &lt;u4&gt;[Advantages] +5 to one aptitude of the player’s choice &lt;u5&gt;[CP Cost] 10 &lt;u6&gt;[Credit Cost] High</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale&lt;u1&gt;[Maximum d'Aptitude] 25 &lt;u2&gt;[Durabilité] 30 &lt;u3&gt;[Seuil de Blessure] 6 &lt;u4&gt;[Avantages] +5 à une aptitude au choix du joueur&lt;u5&gt;[Coût en PP] 10 &lt;u6&gt;[Coût en Crédit] Élevé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Exalts}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Exaltés}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Exalt morphs are genetically-enhanced humans, designed to emphasize specific traits.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les morphs Éxaltés sont des humains génétiquement améliorés, conçu pour mettre en évidence certains traits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their genetic code has been tweaked to make them healthier, smarter, and more attractive.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leur code génétique a été arrangé pour les rendre plus sains, plsu intelligents et plus attractifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their metabolism is modified to predispose them towards staying fit and athletic for the duration of an extended lifespan.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leur métabolisme est modifié pour les prédisposer à rester athéltique et en forme pour la durée de leur espérance de vie étendue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Cortical Stack &lt;u1&gt;[Aptitude Maximum] 30 &lt;u2&gt;[Durability] 35 &lt;u3&gt;[Wound Threshold] 7 &lt;u4&gt;[Advantages] +5 COG, +5 to three other aptitudes of the player’s choice &lt;u5&gt;[CP Cost] 30 &lt;u6&gt;[Credit Cost] Expensive</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale&lt;u1&gt;[Maximum d'Aptitude] 30 &lt;u2&gt;[Durabilité] 35 &lt;u3&gt;[Seuil de Blessure] 7 &lt;u4&gt;[Avantages] +5 en COG, +5 à trois autres aptitudes au choix du joueur&lt;u5&gt;[Coût en PP] 30 &lt;u6&gt;[Coût en Crédit] Cher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mentons are genetically modified to increase cognitive abilities, particularly learning ability, creativity, attentiveness, and memory.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Mentons sont génétiquement modifié pour augmenter les capacité cognitives, en particulier l'apprentissage, la créativité, l'attention et la mémoire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rumors exist of superenhanced mentons with more extreme intelligence mods, but brain-hacking is notoriously difficult, and many attempts to redesign mental faculties result in impaired functioning, instability, or insanity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les rumeurs font état de mentons suepraméliorés avec des mods d'intelligence pbien plus extrême, mais la bidouille cérébrale est extrêmement difficile, et de nombreuse tentative pour reconcevoir les facultés mentales résultent en un fonctionnement affaibli, à de l'instabilité ou à la folie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Cortical Stack, Eidetic Memory, Hyper-Linguist, Math Boost &lt;u1&gt;[Aptitude Maximum] 30 &lt;u2&gt;[Durability] 35 &lt;u3&gt;[Wound Threshold] 7 &lt;u4&gt;[Advantages] +10 COG, +5 INT, +5 WIL, +5 to one aptitude of the player’s choice &lt;u5&gt;[CP Cost] 40 &lt;u6&gt;[Credit Cost] Expensive</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Mémoir Éidétique, Hyepr-Linguiste, Stimulateur Mathématique&lt;u1&gt;[Maximum d'Aptitude] 30 &lt;u2&gt;[Durabilité] 35 &lt;u3&gt;[Seuil de Blessure] 7 &lt;u4&gt;[Avantages] +10 en COG, +5 en INT, +5 en VOL, +5 à une aptitude au choix du joueur&lt;u5&gt;[Coût en PP] 40 &lt;u6&gt;[Coût en Crédit] Cher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Olympians}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Olympiens}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Olympians are human upgrades with improved athletic capabilities like endurance, eye-hand coordination, and cardio-vascular functions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Olympiens sont des humains avec des capacités athlétiques améliorées comme l'endurance, la coordination œil-main et les fonctions cardio-vasculaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Olympians are common among athletes, dancers, freerunners, and soldiers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Olympiens sont fréquemment rencontrés chezz les athlètes, les danseurs, les adeptes du parkour et les soldats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Implants] Basic Biomods, Basic Mesh Inserts,Cortical Stack &lt;u1&gt;[Aptitude Maximum] 30 &lt;u2&gt;[Durability] 40 &lt;u3&gt;[Wound Threshold] 8 &lt;u4&gt;[Advantages] +5 COO, +5 REF, +10 SOM, +5 to one other aptitude of the player’s choice &lt;u5&gt;[CP Cost] 40 &lt;u6&gt;[Credit Cost] Expensive</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale&lt;u1&gt;[Maximum d'Aptitude] 30 &lt;u2&gt;[Durabilité] 40 &lt;u3&gt;[Seuil de Blessure] 8 &lt;u4&gt;[Avantages] +5 en CO0, +5 en REF, +10 en SOM, +5 à une autre aptitude au choix du joueur&lt;u5&gt;[Coût en PP] 40 &lt;u6&gt;[Coût en Crédit] Cher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sylph morphs are tailor-made for media icons, elite socialites, XP stars, models, and narcissists.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les morphs Sylphs sont faites sur-mesure pour les icônes médiatique, l'élite socialites, les stars de l'XP, les mannequins et les narcissiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sylph gene sequences are specifi cally designed for distinctive good looks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les séquences génétiques de Sylphs sont spécifiquement conçue pour paraître belle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ethereal and elfin features are common, with slim and lithe bodies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des caractéristiques étéhrées et féériques sont communes, avec des corps fins et souples.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their metabolism has also been sanitized to eliminate unpleasant bodily odors and their pheromones adjusted for universal appeal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leur métabolisme a également été assainit pour éliminer les ordeurs corporelles déplaisante et leurs phéromones ont été ajustés pour favoriser une attirance universelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Clean Metabolism, Cortical Stack, Enhanced Pheromones &lt;u1&gt;[Aptitude Maximum] 30 &lt;u2&gt;[Durability] 35 &lt;u3&gt;[Wound Threshold] 7 &lt;u4&gt;[Advantages] Striking Looks (Level 1) trait, +5 COO, +10 SAV, +5 to one other aptitude of the player’s choice &lt;u5&gt;[CP Cost] 40 &lt;u6&gt;[Credit Cost] Expensive</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Métabolisme Propre, Phéromones Améliorés&lt;u1&gt;[Maximum d'Aptitude] 30 &lt;u2&gt;[Durabilité] 35 &lt;u3&gt;[Seuil de Blessure] 7 &lt;u4&gt;[Avantages] trait Beauté Ahurissante (Niveau 1), +5 en COO, +10 en AST +5 à une autre aptitude au choix du joueur&lt;u5&gt;[Coût en PP] 40 &lt;u6&gt;[Coût en Crédit] Cher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Bouncers}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Bounceurs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bouncers are humans genetically adapted for zero-G and microgravity environments.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Bounceurs sont des humains génétiquement adaptés aux environnement en zéro-G ou en microgravité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their legs are more limber, and their feet can grasp as well as their hands.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leurs jambes sont plus souples, et leurs pieds peuvent saisir aussi bien que leurs mains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Cortical Stack, Grip Pads, Oxygen Reserve, Prehensile Feet &lt;u1&gt;[Aptitude Maximum] 30 &lt;u2&gt;[Durability] 35 &lt;u3&gt;[Wound Threshold] 7 &lt;u4&gt;[Advantages] Limber (Level 1) trait, +5 COO, +5 SOM, +5 to one aptitude of the player’s choice &lt;u5&gt;[CP Cost] 40 &lt;u6&gt;[Credit Cost] Expensive</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Patins Antidérapants, Réserve d'Oxygène, Pieds Préhensibles&lt;u1&gt;[Maximum d'Aptitude] 30 &lt;u2&gt;[Durabilité] 35 &lt;u3&gt;[Seuil de Blessure] 7 &lt;u4&gt;[Avantages] Souple (Niveau 1), +5 en COO, +5 en SOM, +5 à une aptitude au choix du joueur&lt;u5&gt;[Coût en PP] 40 &lt;u6&gt;[Coût en Crédit] Cher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Furies}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Furys}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Furies are combat morphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Furys sont des morphs de combat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These transgenic human upgrades feature genetics tailored for endurance, strength, and reflexes, as well as behavioral modifica- tions for aggressiveness and cunning.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces humains transgéniques ont des améliorations génétiques dimensionnées pour l'endurance, la force et les réflexes, et ont des modifications comportementales pour développer l'agressivité et la ruse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To offset tendencies for unruliness and macho behavior patterns, furies feature gene sequences promoting pack mentalities and cooperation, and they tend to be biologically female.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour limiter les tendances à l'indiscipline et aux comportements machiste, les furys ont des séquences génétiques favorisant les mentalités de meutes et la coopération, et ont tendance à être des femelles biologiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Bioweave Armor (Light), Cortical Stack, Enhanced Vision, Neurachem (Level 1), Toxin Filters &lt;u1&gt;[Aptitude Maximum] 30 &lt;u2&gt;[Speed Modifier] +1 (neurachem) &lt;u3&gt;[Durability] 50 &lt;u4&gt;[Wound Threshold] 10 &lt;u5&gt;[Advantages] +5 COO, +5 REF, +10 SOM, +5 WIL, +5 to one aptitude of the player’s choice &lt;u6&gt;[CP Cost] 75 &lt;u7&gt;[Credit Cost] Expensive (minimum 40,000)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Armure Biotissées (Légère), Vision Améliorée, Drogues Neurales (Niveau 1), Filtres à Toxines&lt;u1&gt;[Maximum d'Aptitude] 30 &lt;u2&gt;[Modificateur de Speed] +1 (Drogues neurales) &lt;u3&gt; [Durabilité] 50 &lt;u4&gt;[Seuil de Blessure] 10 &lt;u5&gt;[Avantages] +5 en COO, +5 en REF, +10 en SOM, +5 en VOL, +5 à une autre aptitude au choix du joueur&lt;u6&gt;[Coût en PP] 75 &lt;u7&gt;[Coût en Crédit] Cher (minimum 40 000 ¢)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An exalt variant, futura morphs were specially crafted for the “Lost generation.” Tailor-made for accelerated growth and adjusted for confidence, self-reliance, and adaptability, futuras were intended to help transhumanity regain its foothold.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une variante d'éxalté, les morphs futura ont été spéciallement fabriquées pour la &quot;Génréation Égarée.&quot; Conçus spécifiquement pour la croissance accélérée et adaptée pour la confiance en soi, l'auto-suffisance et l'adaptabilité, les futuras ont été conçues pour permettre à la transhumanité de reprendre ses anciennes bases.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These programs proved disastrous and the line was discontinued, but some models remain, viewed by some with distaste and others as collectibles or exotic oddities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce programme s'est avéré être un désastre et la conception a été abandonée, mais certains modèles sont toujours actifs, perçus par certains avec dégoût et par d'autres comme des collecotrs ou des bizarrerries exotiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Cortical Stack, Eidetic Memory, Emotional Dampers &lt;u1&gt;[Aptitude Maximum] 30 &lt;u2&gt;[Durability] 35 &lt;u3&gt;[Wound Threshold] 7 &lt;u4&gt;[Advantages] +5 COG, +5 SAV, +10 WIL, +5 to one other aptitude of the player’s choice &lt;u5&gt;[CP Cost] 40 &lt;u6&gt;[Credit Cost] Expensive (exceptionally rare; 50,000+)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Mémoire Éidétique, Atténuateurs Émotionnels&lt;u1&gt;[Maximum d'Aptitude] 30 &lt;u2&gt;[Durabilité] 35 &lt;u3&gt;[Seuil de Blessure] 7 &lt;u4&gt;[Avantages] +5 en COG, +5 en AST, +10 en VOL, +5 à une aptitude au choix du joueur&lt;u5&gt;[Coût en PP] 40 &lt;u6&gt;[Coût en Crédit] Cher (Exceptionnelelment rare; 50 000+ ¢).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Ghosts}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Fantômes}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ghosts are partially designed for combat applications, but their primary focus is stealth and infiltration.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Fantômes sont parttiellement conçu pour le combat, mais leur concentration prrincipale ets la furtivité et l'infiltration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their genetic profile encourages speed, agility, and reflexes, and their minds are modified for patience and problem-solving.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leur profil génétique encourage la vitesse, l'agilité et les réflexes, et leurs esprits sont modifiés pour favoriser la patience et la résolution de problème.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Chameleon Skin, Cortical Stack, Adrenal Boost, Enhanced Vision, Grip Pads &lt;u1&gt;[Aptitude Maximum] 30 &lt;u2&gt;[Durability] 45 &lt;u3&gt;[Wound Threshold] 9 &lt;u4&gt;[Advantages] +10 COO, +5 REF, +5 SOM, +5 WIL, +5 to one aptitude of the player’s choice &lt;u5&gt;[CP Cost] 70 &lt;u6&gt;[Credit Cost] Expensive (minimum 40,000)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Peau Caméléon, Stimulateurs Surrénaux, Vision Améliorée, Patins Antidérapants&lt;u1&gt;[Maximum d'Aptitude] 30 &lt;u2&gt; [Durabilité] 45 &lt;u3&gt;[Seuil de Blessure] 9 &lt;u4&gt;[Avantages] +10 en COO, +5 en REF, +5 en SOM, +5 en VOL, +5 à une autre aptitude au choix du joueur&lt;u5&gt;[Coût en PP] 70 &lt;u6&gt;[Coût en Crédit] Cher (minimum 40 000 ¢)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Hibernoids}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Hibernoïdes}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hibernoids are transgenic-modified humans with heavily-altered sleep patterns and metabolic processes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Hibernoïdes sont des humains transgénique ayant leur métabolisme et leur cycles circadien trés lourdement modifiés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hibernoids have a decreased need for sleep, requiring only 1-2 hours a day on average.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Hibernoïdes ont un besoind e sommeil réduit, ne nécessitant qune heure ou deux de sommeil par jour en moyenne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They also have the ability to trigger a form of voluntary hibernation, effectively stopping their metabolism and need for oxygen.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils ont également la possibilité de déclencher une forme d'hibernation volontaire, arrétant leur métabolisme et leur besoin en oxygène.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hibernoids make excellent long-duration space travelers and habtechs, but these morphs are also favored by personal aides and hypercapitalists with non-stop lifestyles.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Hibernoïdes font d'excellent voyageurs spatiaux longue-distance et techiciens d'habitats, mais ces morphs sont égelement adoptées par les aissatants personnels et les hypercapitalistes ayant des rythmes de vie non-stop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Circadian Regulation, Cortical Stack, Hibernation &lt;u1&gt;[Aptitude Maximum] 25 &lt;u2&gt;[Durability] 35 &lt;u3&gt;[Wound Threshold] 7 &lt;u4&gt;[Advantages] +5 INT, +5 to one aptitude of the player’s choice &lt;u5&gt;[CP Cost] 25 &lt;u6&gt;[Credit Cost] Expensive</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, régulation Circadienne, Hibernation&lt;u1&gt;[Maximum d'Aptitude] 25 &lt;u2&gt;[Durabilité] 35 &lt;u3&gt;[Seuil de Blessure] 7 &lt;u4&gt;[Avantages] +5 en INT, +5 à une aptitude au choix du joueur&lt;u5&gt;[Coût en PP] 25 &lt;u6&gt;[Coût en Crédit] Cher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Neotenics}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Néoteniques}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Neotenics are transhumans modified to retain a childlike form.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les néoténique sosnt des transhumains modifier pour conserver leur forme enfantine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are smaller, more agile, inquisitive, and less resource-depleting, making them ideal for habitat living and spacecraft.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils sont plus petits, plus agiles, plus curieux et consomment moisn de ressources, les rendant idéals pour la vie en habitat ou en vaisseau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some people find neotenic sleeves distasteful, especially when employed in certain media and sex work capacities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines personnes treouvent les incarnations Néoténique comme repoussante, spécifiquement lorsqu'elles sont utilisées dans certains médias ou comme travailleurs sexuels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Cortical Stack &lt;u1&gt;[Aptitude Maximum] 20 (SOM), 30 (all else) &lt;u2&gt;[Durability] 30 &lt;u3&gt;[Wound Threshold] 6 &lt;u4&gt;[Advantages] +5 COO, +5 INT, +5 REF, +5 to one aptitude of the player’s choice; neotenics count as a small target (-10 modifier to hit in combat) &lt;u5&gt;[Disadvantages] Social Stigma (Neotenic) trait &lt;u6&gt;[CP Cost] 25 &lt;u7&gt;[Credit Cost] Expensive</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale&lt;u1&gt;[Maximum d'Aptitude] 20 (SOM), 30 (le reste) &lt;u2&gt;[Durabilité] 30 &lt;u3&gt;[Seuil de Blessure] 6 &lt;u4&gt;[Avantages] +5 en COO, +5 en REF, +5 en INT, +5 à une autre aptitude au choix du joueur; les néoténiques comptent comme des petites cibles (modificateur de -10 pour toucher en combat)&lt;u5&gt;[Désavantages] trait Stigmatisation Sociale (Néoténique) &lt;u6&gt;[Coût en PP] 25 &lt;u7&gt;[Coût en Crédit] Cher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Remade}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Refait}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The remade are completely redesigned humans: humans 2.0.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les refait sont des humains complètements redessinés: l'humain 2.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their cardiovascular systems are stronger, the digestive tract has been sanitized and restructured to eliminate flaws, and they have otherwise been optimized for good health, smarts, and longevity with numerous transgenic mods.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leur système cardiovasculaire est plus robuste, leur système digestif a été assainit et restructuré pour éliminer les défauts et ils ont globalement été optimisés pour être en bonne santé, intelligents et vivre vieux avec de nombreux modificateurs transgéniques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The remade are popular with the ultimates faction.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les refait sont populaire parmi les ultimes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The remade look close to human, but are different in very noticeable and sometimes eerie ways: taller, lack of hair, slightly larger craniums, wider eyes, smaller noses, smaller teeth, and elongated digits.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les remades ressemblent à l'humain, mais sont différents de manières remarquable et parfois effrayante: plus grand, chauves et sans poils, avec un crâne légèrement plsu grand, des nez plus fins et des doigts allongés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Circadian Regulation, Clean Metabolism, Cortical Stack, Eidetic Memory, Enhanced Respiration, Temperature Tolerance, Toxin Filters &lt;u1&gt;[Aptitude Maximum] 40 &lt;u2&gt;[Durability] 40 &lt;u3&gt;[Wound Threshold] 8 &lt;u4&gt;[Advantages] +10 COG, +5 SAV, +10 SOM, +5 to two other aptitudes of the player’s choice &lt;u5&gt;[Disadvantages] Uncanny Valley trait &lt;u6&gt;[CP Cost] 60 &lt;u7&gt;[Credit Cost] Expensive (minimum 40,000+)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Mémoire Éidétique, Métabolisme Propre, Régulation Circadienne, Respiration Améliorée, Tolérance Thermique, Filtres à Toxines&lt;u1&gt;[Maximum d'Aptitude] 40 &lt;u2&gt;[Durabilité] 40 &lt;u3&gt;[Seuil de Blessure] 8 &lt;u4&gt;[Avantages] +10 en COG, +5 en AST, +10 en SOM, +5 à deux aptitudes au choix du joueur&lt;u5&gt;[Désavantage] trait Apparence Étrange &lt;u6&gt;[Coût en PP] 60 &lt;u7&gt;[Coût en Crédit] Cher (minimum 40 000+ ¢).</seg>
       </tuv>
     </tu>
     <tu>

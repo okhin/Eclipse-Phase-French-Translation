@@ -7,10 +7,10 @@ Total
   Caractères: 1622165 : + espaces
 
 Restants
-    Segments:   12695
-        Mots:  157248
-  Caractères:  821177 : - espaces
-  Caractères:  965818 : + espaces
+    Segments:   12360
+        Mots:  152788
+  Caractères:  798623 : - espaces
+  Caractères:  939147 : + espaces
 
 Uniques
     Segments:   16205
@@ -19,26 +19,26 @@ Uniques
   Caractères: 1603697 : + espaces
 
 Restants uniques
-    Segments:   10376
-        Mots:  154275
-  Caractères:  822389 : - espaces
-  Caractères:  951699 : + espaces
+    Segments:   10072
+        Mots:  149855
+  Caractères:  799508 : - espaces
+  Caractères:  925188 : + espaces
 
 Mesures des documents
 
     TM      MR      TCSE    CRSE    TC      CR     Document
      581     581    3451    3451    3979    3979 - 0-credits.tex
     8100       1   38376      40   45753      40 - 1-lack.tex
-   20340   20340  104177  104177  123063  123063 - 10-accelerated-future.tex
-   41348   41348  217187  217187  254578  254578 - 11-gear.tex
-   29962   29960  158228  158217  186322  186310 - 12-game-information.tex
+   20340   20339  104177  104173  123063  123059 - 10-accelerated-future.tex
+   41348   41343  217187  217155  254578  254546 - 11-gear.tex
+   29962   29945  158228  158172  186322  186265 - 12-game-information.tex
        1       1       6       6       6       6 - 13-tables.tex
        1       1      10      10      10      10 - 14-references.tex
     9090      14   48592      69   57179      71 - 2-synopsis.tex
    61776     215  334423    1571  393103    1680 - 3-eclipse.tex
     9902      68   49182     356   58478     358 - 4-mechanics.tex
-   16622   13478   85947   69134  101263   81539 - 5-character-creation.tex
-    8618    8615   46366   46339   54224   54195 - 6-skills.tex
+   16622    9048   85947   46693  101263   54981 - 5-character-creation.tex
+    8618    8606   46366   46307   54224   54163 - 6-skills.tex
    21717   21710  109826  109778  129634  129583 - 7-action-combat.tex
    11891     340   62399    1533   73548    1844 - 8-mind-hacks.tex
    22333   20544  119673  109090  140610  128329 - 9-mesh.tex
