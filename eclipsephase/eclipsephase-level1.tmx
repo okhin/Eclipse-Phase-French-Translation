@@ -27545,7 +27545,7 @@
         <seg>[Implants] None [Aptitude Maximum] 20 [Durability] 30 [Wound Threshold] 6 [Disadvantages] None (Genetic Defects trait common) [CP Cost] 0 [Credit Cost] High</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>[Implants] Aucun [maximum d'Aptitude] 20 [Durabilité] 30 [Seuil de Blessure] 6 [Désavantages] Aucun (le trait Défaut génétique est commun) [Coût en PP] 0 [Coût en Crédit] Élevé</seg>
+        <seg>[Implants] Aucun [maximum d'Aptitude] 20 [Solidité] 30 [Seuil de Blessure] 6 [Désavantages] Aucun (le trait Défaut génétique est commun) [Coût en PP] 0 [Coût en Crédit] Élevé</seg>
       </tuv>
     </tu>
     <tu>
@@ -27625,7 +27625,7 @@
         <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Cortical Stack [Aptitude Maximum] 30 [Durability] 35 [Wound Threshold] 7 [Advantages] +5 COG, +5 to three other aptitudes of the player’s choice [CP Cost] 30 [Credit Cost] Expensive</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale[Maximum d'Aptitude] 30 [Durabilité] 35 [Seuil de Blessure] 7 [Avantages] +5 en COG, +5 à trois autres aptitudes au choix du joueur[Coût en PP] 30 [Coût en Crédit] Cher</seg>
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale[Maximum d'Aptitude] 30 [Solidité] 35 [Seuil de Blessure] 7 [Avantages] +5 en COG, +5 à trois autres aptitudes au choix du joueur[Coût en PP] 30 [Coût en Crédit] Cher</seg>
       </tuv>
     </tu>
     <tu>
@@ -27649,7 +27649,7 @@
         <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Cortical Stack, Eidetic Memory, Hyper-Linguist, Math Boost [Aptitude Maximum] 30 [Durability] 35 [Wound Threshold] 7 [Advantages] +10 COG, +5 INT, +5 WIL, +5 to one aptitude of the player’s choice [CP Cost] 40 [Credit Cost] Expensive</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Mémoir Éidétique, Hyepr-Linguiste, Stimulateur Mathématique[Maximum d'Aptitude] 30 [Durabilité] 35 [Seuil de Blessure] 7 [Avantages] +10 en COG, +5 en INT, +5 en VOL, +5 à une aptitude au choix du joueur[Coût en PP] 40 [Coût en Crédit] Cher</seg>
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Mémoir Éidétique, Hyepr-Linguiste, Stimulateur Mathématique[Maximum d'Aptitude] 30 [Solidité] 35 [Seuil de Blessure] 7 [Avantages] +10 en COG, +5 en INT, +5 en VOL, +5 à une aptitude au choix du joueur[Coût en PP] 40 [Coût en Crédit] Cher</seg>
       </tuv>
     </tu>
     <tu>
@@ -27681,7 +27681,7 @@
         <seg>[Implants] Basic Biomods, Basic Mesh Inserts,Cortical Stack [Aptitude Maximum] 30 [Durability] 40 [Wound Threshold] 8 [Advantages] +5 COO, +5 REF, +10 SOM, +5 to one other aptitude of the player’s choice [CP Cost] 40 [Credit Cost] Expensive</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale[Maximum d'Aptitude] 30 [Durabilité] 40 [Seuil de Blessure] 8 [Avantages] +5 en CO0, +5 en REF, +10 en SOM, +5 à une autre aptitude au choix du joueur[Coût en PP] 40 [Coût en Crédit] Cher</seg>
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale[Maximum d'Aptitude] 30 [Solidité] 40 [Seuil de Blessure] 8 [Avantages] +5 en CO0, +5 en REF, +10 en SOM, +5 à une autre aptitude au choix du joueur[Coût en PP] 40 [Coût en Crédit] Cher</seg>
       </tuv>
     </tu>
     <tu>
@@ -27721,7 +27721,7 @@
         <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Clean Metabolism, Cortical Stack, Enhanced Pheromones [Aptitude Maximum] 30 [Durability] 35 [Wound Threshold] 7 [Advantages] Striking Looks (Level 1) trait, +5 COO, +10 SAV, +5 to one other aptitude of the player’s choice [CP Cost] 40 [Credit Cost] Expensive</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Métabolisme Propre, Phéromones Améliorés[Maximum d'Aptitude] 30 [Durabilité] 35 [Seuil de Blessure] 7 [Avantages] trait Beauté Ahurissante (Niveau 1), +5 en COO, +10 en AST +5 à une autre aptitude au choix du joueur[Coût en PP] 40 [Coût en Crédit] Cher</seg>
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Métabolisme Propre, Phéromones Améliorés[Maximum d'Aptitude] 30 [Solidité] 35 [Seuil de Blessure] 7 [Avantages] trait Beauté Ahurissante (Niveau 1), +5 en COO, +10 en AST +5 à une autre aptitude au choix du joueur[Coût en PP] 40 [Coût en Crédit] Cher</seg>
       </tuv>
     </tu>
     <tu>
@@ -27753,7 +27753,7 @@
         <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Cortical Stack, Grip Pads, Oxygen Reserve, Prehensile Feet [Aptitude Maximum] 30 [Durability] 35 [Wound Threshold] 7 [Advantages] Limber (Level 1) trait, +5 COO, +5 SOM, +5 to one aptitude of the player’s choice [CP Cost] 40 [Credit Cost] Expensive</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Patins Antidérapants, Réserve d'Oxygène, Pieds Préhensibles[Maximum d'Aptitude] 30 [Durabilité] 35 [Seuil de Blessure] 7 [Avantages] Souple (Niveau 1), +5 en COO, +5 en SOM, +5 à une aptitude au choix du joueur[Coût en PP] 40 [Coût en Crédit] Cher</seg>
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Patins Antidérapants, Réserve d'Oxygène, Pieds Préhensibles[Maximum d'Aptitude] 30 [Solidité] 35 [Seuil de Blessure] 7 [Avantages] Souple (Niveau 1), +5 en COO, +5 en SOM, +5 à une aptitude au choix du joueur[Coût en PP] 40 [Coût en Crédit] Cher</seg>
       </tuv>
     </tu>
     <tu>
@@ -27793,7 +27793,7 @@
         <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Bioweave Armor (Light), Cortical Stack, Enhanced Vision, Neurachem (Level 1), Toxin Filters [Aptitude Maximum] 30 [Speed Modifier] +1 (neurachem) [Durability] 50 [Wound Threshold] 10 [Advantages] +5 COO, +5 REF, +10 SOM, +5 WIL, +5 to one aptitude of the player’s choice [CP Cost] 75 [Credit Cost] Expensive (minimum 40,000)</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Armure Biotissées (Légère), Vision Améliorée, Drogues Neurales (Niveau 1), Filtres à Toxines[Maximum d'Aptitude] 30 [Modificateur de Speed] +1 (Drogues neurales)  [Durabilité] 50 [Seuil de Blessure] 10 [Avantages] +5 en COO, +5 en REF, +10 en SOM, +5 en VOL, +5 à une autre aptitude au choix du joueur[Coût en PP] 75 [Coût en Crédit] Cher (minimum 40 000 ¢)</seg>
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Armure Biotissées (Légère), Vision Améliorée, Drogues Neurales (Niveau 1), Filtres à Toxines[Maximum d'Aptitude] 30 [Modificateur de Speed] +1 (Drogues neurales)  [Solidité] 50 [Seuil de Blessure] 10 [Avantages] +5 en COO, +5 en REF, +10 en SOM, +5 en VOL, +5 à une autre aptitude au choix du joueur[Coût en PP] 75 [Coût en Crédit] Cher (minimum 40 000 ¢)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27817,7 +27817,7 @@
         <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Cortical Stack, Eidetic Memory, Emotional Dampers [Aptitude Maximum] 30 [Durability] 35 [Wound Threshold] 7 [Advantages] +5 COG, +5 SAV, +10 WIL, +5 to one other aptitude of the player’s choice [CP Cost] 40 [Credit Cost] Expensive (exceptionally rare; 50,000+)</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Mémoire Éidétique, Atténuateurs Émotionnels[Maximum d'Aptitude] 30 [Durabilité] 35 [Seuil de Blessure] 7 [Avantages] +5 en COG, +5 en AST, +10 en VOL, +5 à une aptitude au choix du joueur[Coût en PP] 40 [Coût en Crédit] Cher (Exceptionnelelment rare; 50 000+ ¢).</seg>
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Mémoire Éidétique, Atténuateurs Émotionnels[Maximum d'Aptitude] 30 [Solidité] 35 [Seuil de Blessure] 7 [Avantages] +5 en COG, +5 en AST, +10 en VOL, +5 à une aptitude au choix du joueur[Coût en PP] 40 [Coût en Crédit] Cher (Exceptionnelelment rare; 50 000+ ¢).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27849,7 +27849,7 @@
         <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Chameleon Skin, Cortical Stack, Adrenal Boost, Enhanced Vision, Grip Pads [Aptitude Maximum] 30 [Durability] 45 [Wound Threshold] 9 [Advantages] +10 COO, +5 REF, +5 SOM, +5 WIL, +5 to one aptitude of the player’s choice [CP Cost] 70 [Credit Cost] Expensive (minimum 40,000)</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Peau Caméléon, Stimulateurs Surrénaux, Vision Améliorée, Patins Antidérapants[Maximum d'Aptitude] 30  [Durabilité] 45 [Seuil de Blessure] 9 [Avantages] +10 en COO, +5 en REF, +5 en SOM, +5 en VOL, +5 à une autre aptitude au choix du joueur[Coût en PP] 70 [Coût en Crédit] Cher (minimum 40 000 ¢)</seg>
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Peau Caméléon, Stimulateurs Surrénaux, Vision Améliorée, Patins Antidérapants[Maximum d'Aptitude] 30  [Solidité] 45 [Seuil de Blessure] 9 [Avantages] +10 en COO, +5 en REF, +5 en SOM, +5 en VOL, +5 à une autre aptitude au choix du joueur[Coût en PP] 70 [Coût en Crédit] Cher (minimum 40 000 ¢)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27897,7 +27897,7 @@
         <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Circadian Regulation, Cortical Stack, Hibernation [Aptitude Maximum] 25 [Durability] 35 [Wound Threshold] 7 [Advantages] +5 INT, +5 to one aptitude of the player’s choice [CP Cost] 25 [Credit Cost] Expensive</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, régulation Circadienne, Hibernation[Maximum d'Aptitude] 25 [Durabilité] 35 [Seuil de Blessure] 7 [Avantages] +5 en INT, +5 à une aptitude au choix du joueur[Coût en PP] 25 [Coût en Crédit] Cher</seg>
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Régulation Circadienne, Hibernation[Maximum d'Aptitude] 25 [Solidité] 35 [Seuil de Blessure] 7 [Avantages] +5 en INT, +5 à une aptitude au choix du joueur[Coût en PP] 25 [Coût en Crédit] Cher</seg>
       </tuv>
     </tu>
     <tu>
@@ -27937,7 +27937,7 @@
         <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Cortical Stack [Aptitude Maximum] 20 (SOM), 30 (all else) [Durability] 30 [Wound Threshold] 6 [Advantages] +5 COO, +5 INT, +5 REF, +5 to one aptitude of the player’s choice; neotenics count as a small target (-10 modifier to hit in combat) [Disadvantages] Social Stigma (Neotenic) trait [CP Cost] 25 [Credit Cost] Expensive</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale[Maximum d'Aptitude] 20 (SOM), 30 (le reste) [Durabilité] 30 [Seuil de Blessure] 6 [Avantages] +5 en COO, +5 en REF, +5 en INT, +5 à une autre aptitude au choix du joueur; les néoténiques comptent comme des petites cibles (modificateur de -10 pour toucher en combat)[Désavantages] trait Stigmatisation Sociale (Néoténique) [Coût en PP] 25 [Coût en Crédit] Cher</seg>
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale[Maximum d'Aptitude] 20 (SOM), 30 (le reste) [Solidité] 30 [Seuil de Blessure] 6 [Avantages] +5 en COO, +5 en REF, +5 en INT, +5 à une autre aptitude au choix du joueur; les néoténiques comptent comme des petites cibles (modificateur de -10 pour toucher en combat)[Désavantages] trait Stigmatisation Sociale (Néoténique) [Coût en PP] 25 [Coût en Crédit] Cher</seg>
       </tuv>
     </tu>
     <tu>
@@ -27985,7 +27985,1031 @@
         <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Circadian Regulation, Clean Metabolism, Cortical Stack, Eidetic Memory, Enhanced Respiration, Temperature Tolerance, Toxin Filters [Aptitude Maximum] 40 [Durability] 40 [Wound Threshold] 8 [Advantages] +10 COG, +5 SAV, +10 SOM, +5 to two other aptitudes of the player’s choice [Disadvantages] Uncanny Valley trait [CP Cost] 60 [Credit Cost] Expensive (minimum 40,000+)</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Mémoire Éidétique, Métabolisme Propre, Régulation Circadienne, Respiration Améliorée, Tolérance Thermique, Filtres à Toxines[Maximum d'Aptitude] 40 [Durabilité] 40 [Seuil de Blessure] 8 [Avantages] +10 en COG, +5 en AST, +10 en SOM, +5 à deux aptitudes au choix du joueur[Désavantage] trait Apparence Étrange [Coût en PP] 60 [Coût en Crédit] Cher (minimum 40 000+ ¢).</seg>
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Mémoire Éidétique, Métabolisme Propre, Régulation Circadienne, Respiration Améliorée, Tolérance Thermique, Filtres à Toxines[Maximum d'Aptitude] 40 [Solidité] 40 [Seuil de Blessure] 8 [Avantages] +10 en COG, +5 en AST, +10 en SOM, +5 à deux aptitudes au choix du joueur[Désavantage] trait Apparence Étrange [Coût en PP] 60 [Coût en Crédit] Cher (minimum 40 000+ ¢).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Rusters}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Rusteurs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Adapted for survival with minimum gear in the not-yet-terraformed Martian environment, these transgenic morphs feature insulated skin for more effective thermoregulation and respiratory system improvements to require less oxygen and filter carbon dioxyde, among other mods.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Adaptées pour la survie avec un équipement minimal dans l'environnement Martien pas encore complètement terraformé, ces morphs transgéniques possèdent une peau isolées pour une thermorégulation plus efficace et un système respiratoire amélioré qui nécessite moins d'oxygène et qui filtre mieux le dioxyde de carbone, entre autres modifications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Cortical Stack, Enhanced Respiration, Temperature Tolerance [Aptitude Maximum] 25 [Durability] 35 [Wound Threshold] 7 [Advantages] +5 SOM, +5 to one aptitude of the player’s choice [CP Cost] 25 [Credit Cost] Expensive</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Respiration Améliorée, Tolérance Thermique[Maximum d'Aptitude] 25 [Solidité] 35 [Seuil de Blessure] 7 [Avantages] +5 SOM, +5 à une aptitude au choix du joueur[Coût en PP] 25 [Coût en Crédit] Élevé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Neo-Avians}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Néo-Aviens}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Neo-avians include ravens, crows, and gray parrots uplifted to human-level intelligence.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les néo-aviens incluent les corbeaux, les corneilles et les perroquets gris élevés à un niveau d'intelligence humain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their physical sizes are much larger than their non-uplifted cousins (to the size of a human child), with larger heads for their increased brain size.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils ont une taille bien plus importante que leur cousins non-élevés (jusqu'à la taille d'un enfant humain), avec des têtes plus grandes en raison de la taille augmentée de leur cerveau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Numerous transgenic modifications have been made to their wings, allowing them to retain limited flight capabilities at 1 g, but giving them a more bat-like physiology so they can bend and fold better, and adding primitive digits for basic tool manipulation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De nombreuses modification transgéniques ont été faites à leurs ailes, leur permettant de conserver des capacités de vol réduite en environnement 1 g, mais leur donnant une physiologie plus proche des chauves-souris afin quelles puissent se plier et se ranger plus facilement, et en y ajoutant des doigts pirmitifs pour la manipulation d'outils basique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their toes are also more articulated and now accompanied with an opposable thumb.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leurs orteils sont également plus articulés et sont maintenant accompagnés d'un pouce opposable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Neo-avians have adapted well to microgravity environments, and are favored for their small size and reduced resource use.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les néo-aviens se sont bien adaptés aux environnements en microgravité, et sont choisit pour leur petite taille et leur utilisation de ressources réduite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Cortical Stack [Aptitude Maximum] 25 (20 SOM) [Durability] 20 [Wound Threshold] 4 [Advantages] Beak/Claw Attack (1d10 DV, use Unarmed Combat skill), Flight, +5 INT, +10 REF, +5 to one other aptitude of the player’s choice [CP Cost] 25 [Credit Cost] Expensive</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale[Maximum d'Aptitude] 25 (20 en SOM) [Solidité] 20 [Seuil de Blessure] 4 [Avantages] Attaque de Bec/de Griffe (1d10 VD, utiliser la compétence Combat Désarmé), Vol, +5 INT, +10 REF, +5 à une autre aptitude au choix du joueur[Coût en PP] 25 [Coût en Crédit] Cher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Neo-Hominids}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Néo-Hominidés}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Neo-hominids are uplifted chimpanzees, gorillas, and orangutans.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les néo-hominidés sont les chimpanzés, les gorilles et les orang-outans élevés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All feature enhanced intelligence and bipedal frames.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toutes les morphs ont des intelligences améliorés et sont bipèdes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Cortical Stack [Aptitude Maximum] 25 [Durability] 30 [Wound Threshold] 6 [Advantages] +5 COO, +5 INT, +5 SOM, +5 to one other aptitude of the player’s choice, +10 Climbing skill [CP Cost] 25 [Credit Cost] Expensive</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale[Maximum d'Aptitude] 25 [Solidité] 30 [Seuil de Blessure] 6 [Avantages] +5 en COO, +5 en INT, +5 en SOM, +5 à une autre aptitude au choix du joueur, +10 à la compétence Escalade[Coût en PP] 25 [Coût en Crédit] Cher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These uplifted octopi sleeves have proven quite useful in zero-gravity environments.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces incarnations de pieuvres élevés se sont révélées être particulièrement efficace dans les environnements en gravité-zéro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They retain eight arms, their chameleon ability to change skin color, ink sacs, and a sharp beak.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elles ont conservés leurs huits bras, leur capacité caméléonique à changer de couleur de peau, des sacs d'encre et un bec acéré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They also have increased cranial capacity and longevity, can breathe both air and water, and lack a skeletal structure so they can squeeze through tight spaces.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elles ont également bénéficiées d'une augmentation de la capacité crânienne et d'une durée de vie étendue, elles peuvent respirer à la fois l'air et l'eau et n'ont pas de structures squelettiques et peuvent donc se compresser à travers des endroits étroits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Octomorphs typically crawl along in zero-gravity using their arm suckers and expelling air for propulsion and can even walk on two of their arms in low gravity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Typiquement, les octomorphs rampent en gravité-zéro utilisant les ventouses de leurs bras et expulsant de l'air pour se propulser. Ils peuvent même marcher sur deux de leurs bras en faible gravité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their eyes have been enhanced with color vision, provide a 360-degree field of vision, and they rotationally adjust to keep the slit-shaped pupil aligned with “up.” A transgenic vocal system allows them to speak.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leurs yeux ont été amélioré avec la vision couleur, fournissant un champ de vision à 360° et s'adaptent rotativement pour garder la pupille en forme de fente aligné vers le &quot;haut.&quot; Un système vocal transgéniqueleur permet de parler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Cortical Stack, Chameleon Skin [Aptitude Maximum] 30 [Durability] 30 [Wound Threshold] 6 [Advantages] 8 Arms, Beak Attack (1d10 DV, use Unarmed Combat skill), Ink Attack (blinding, use Exotic Ranged: Ink Attack skill), Limber (Level 2) trait, 360-degree Vision, +30 Swimming skill, +10 Climbing skill, +5 COO, +5 INT, +5 to one other aptitude of the player’s choice [CP Cost] 50 [Credit Cost] Expensive (minimum 30,000+)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Peau Caméléon[Maximum d'Aptitude] 30 [Solidité] 30 [Seuil de Blessure] 6 [Avantages] 8 bras, Attaque de Bec (1d10 VD, utiliser la compétence Combat Désarmé), Jet d'Encre (attaque aveuglante, utiliser la compétence Armes à Distance Exotique: Jet d'Encre), trait Souple (Niveau 2), Vision à 360-Degré, °30 à la compétence Nage, +10 à la compétence Escalade, +5 COO, +5 INT, +5 à une autre aptitude au choix du joueur[Coût en PP] 50 [Coût en Crédit] Cher (minimum 30 000+¢)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pods (from “pod people”) are vat-grown, biological bodies with extremely undeveloped brains that are augmented with an implanted computer and cybernet- ics system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les pods (de &quot;pod people&quot;) sont des corps biologies développé en cuve avec des cerveaux extrêmement peu développé et qui sont augmentés avec un ordinateur et un système cybernétique implanté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though typically run by an AI, pods are socially unfavored in some stations, utilized in slave labor in others, and even illegal in some areas.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Étant généralement pilotés par des IA, les pods sont socialement défavorisé dans certaines stations, utilisés comme esclaves dans d'autre et sont même illégaux dans certaines zones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Because pods underwent accelerated growth in their creation, and were mostly grown as separate parts and then assembled, their biological design includes some shortcuts and limitations, offset with implants and regular maintenance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En raison de la croissance accélérée pendant la phase de création des pods, et qu'ils sont essentiellement développés en parties sépraées puis assemblés, leur conception biologique inclut de nombreux raccourcis et limite, contrabalancé par des implants et une maintenance régulière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They lack reproductive capabilities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils ne possèdent pas de fonction de reproduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In many habitats, their legal status is a hotly-contested issue.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans beaucoup d'habitat, le statut légal des pods est le sujet de débat brûlant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unless otherwise noted, pods are also considered biomorphs for all rules purposes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sans mention contraire, les pods sont également considérés comme des biomorphs du point de vue des règles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Pleasure Pods}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Pods de Plaisir}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pleasure pods are exactly what they seem—faux humans designed purely for intimate entertainment purposes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Pods de Plaisirs sont exactement ce qu'ils semblent être - de faux humains conçus purement dans un but de distraction intime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pleasure pods have extra nerve clusters in their erogenous zones, fine motor control over certain muscle groups, enhanced pheromones, sanitized metabolisms, and the genetics for purring.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les Pods de plaisir ont des grappes de nerfs supplémentaire dans leurs zones érogènes, un contrôle moteur trés précis de certains groupes de muscles, des phéromones améliorés, un métabolisme assainit et les gènes pour ronoronner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Naturally, they are crafted for good looks and charisma and enhanced in other areas as well.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils sont bien entendus fabriquer pour être attirant, charismatique et amélioré dans d'autres domaines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pleasure pods are capable of switching their sex at will to male, female, hermaphrodite, or neuter.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Pods de plaisirs peuvent changer de sexe à volonté pour mâle, femelle, hermaphrodite ou neutre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Clean Metabolism, Cortical Stack, Cyberbrain, Enhanced Pheromones, Mnemonic Augmentation, Puppet Sock, Sex Switch [Aptitude Maximum] 30 [Durability] 30 [Wound Threshold] 6 [Advantages] +5 INT, +5 SAV, +5 to one aptitude of the player’s choice [Disadvantages] Social Stigma (Pleasure Pod) trait [CP Cost] 20 [Credit Cost] High</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Métabolisme Propre, Cybercerveau, Phéromones Améliorés, Augmentation Mnémonique, Marionnette, Changement de Sexe[Maximum d'Aptitude] 30 [Solidité] 30 [Seuil de Blessure] 6 [Avantages] +5 INT, +5 en AST, +5 à une aptitude au choix du joueur[Désavantages] trait Stigmatisation Sociale (Pod de Plaisir)  [Coût en PP] 20 [Coût en Crédit] Élevé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Worker Pods}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Pods Ouvrier}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Part exalt human, part machine, these basic pods are virtually indistinguishable from humans.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A moitié humain exalté, à moitié machine, ces pods basiques sont virtuellement non distinguable des humains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Worker pods are often used in menial labor jobs where interaction with humans is necessary.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les pods ouvriers sont souvent utilisés dans les travaux subalternes nécessitant une interaction humaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Cortical Stack, Cyberbrain, Mnemonic Augmentation, Puppet Sock [Aptitude Maximum] 30 [Durability] 35 [Wound Threshold] 7 [Advantages] +10 SOM, +5 to one aptitude of the player’s choice [Disadvantages] Social Stigma (Pod) trait [CP Cost] 20 [Credit Cost] High</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Cybercerveau, Augmentation Mnémonique, Marionnette[Maximum d'Aptitude] 30 [Solidité] 35 [Seuil de Blessure] 7 [Avantages] +10 en SOM, +5 à une aptitude au choix du joueur[Désavantages] trait Stigmatisation Sociale (Pod)  [Coût en PP] 20 [Coût en Crédit] Élevé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Novacrab}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Novacrabe}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Novacrabs are a pod design bio-engineered from coconut crab and spider crab stock and grown to a larger (human) size.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les novacrabe sont des pod conçu par bio-ingénierie à partir de crabe de cocotier et d'araignée de mer et amené à taille humaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Novacrabs are ideal for hazardous work environments as well as vacworker, police, or bodyguard duties, giving their ten 2-meter long legs, massive claws, and chitinous armor.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les novacrabes sont idéaux pour le travail dans les zones dangereuses ou en tant que travailleurs du vide, policier ou garde du corps étant donné leurs pattes de deux mètre de long, leurs pinces massive et leur armure chitineuse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They climb and handle microgravity well and can withstand a wide range of atmospheric pressure (and sudden pressure changes) from vacuum to deep sea.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils peuvent grimper et s'en sortir en micro-gravité et ils peuvent supporter une large gamme de pressions atmosphérique (ainsi que els changements de pression soudains) allant du vide aux profondeurs des mers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Novacrabs feature compound eyes (with human-equivalent image resolution), gills, dexterous manipulatory digits on their fifth set of limbs, and transgenic vocal cords.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les novacrabes possèdent des yeux composés (avec une résolution d'image équivalente à celle de l'œil humain), des branchies, des doigts permettant l'utilisation d'outil sur leur cinquième paire de membre et des cordes vocales transgénique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Implants] Basic Biomods, Basic Mesh Inserts, Carapace Armor, Cortical Stack, Cyberbrain, Enhanced Respiration, Gills, Mnemonic Augmentation, Oxygen Reserve, Puppet Sock, Temperature Tolerance, Vacuum Sealing [Aptitude Maximum] 30 [Durability] 40 [Wound Threshold] 8 [Advantages] 10 legs, Carapace Armor (11/11), Claw Attack (DV 2d10), +10 SOM, +5 to two other aptitudes of the player’s choice [CP Cost] 60 [Credit Cost] Expensive (minimum 30,000+)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Biomods de Base, Inserts Mesh Basiques, Pile Corticale, Respiration Améliorée, Armure Carapace, Cybercerveau, Branchies, Augmentation Mnémonique, Réserve d'Oxygène, Marionette, Tolérance Thermique, Étanchéité au vide [Maximum d'Aptitude] 30 [Solidité] 40 [Seuil de Blessure] 8 [Avantages] 10 jambes, Armure Carapace (11/11), Attaque de Pince (2d10 VD), +10 SOM, +5 à deux autres aptitudes au choix du joueur[Coût en PP] 60 [Coût en Crédit] Cher (minimum 30 000+¢)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Synthetic Morphs}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Morphs Synthétique}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Synthetic morphs are completely artificial/robotic.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les morphs syntéhtiques sont entièrement artificielle/robotique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are usually operated by AIs or via remote control, but the lack of available biomorphs after the Fall meant that many infugees resorted to resleeving in robotic shells, which were also cheaper, quicker to manufacture, and more widely available.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elles sont habituellement manœuvrée par des IA ou par contrôle distant, mais le manque de biomorphs disponible après la Chute a fait que beaucoup d'infugiés se sont résignés à se réincarner dans des coques robotiques, qui étaient également moins chère et plsu rapide à fabriquer et globalement plus disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nevertheless, synthmorphs are viewed with disdain in many habitats, an option that only the poor and desperate accept to be sleeved in.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les synthmorpsh sont cependant toujours perçue avec dédain dans beaucoup d'habitat et considérée comme n'étant une option que pour les plus pauvres et le splus désespérés qui acceptent de s'y réincarner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Synthetic morphs are not without with their advantages, however, and so are commonly used for menial labor, heavy labor, habitat construction, and security services.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les morphs syntéhtiques ne sotn aps sans avantages cependant et sont communément utilisées pour les tâches subalternes, les gros travaux, la construction d'hébaitat et les servics de sécurité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All synthmorphs have the following advantages:</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toutes les synthmoprhs bénéficient des avantages suivants:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lack of Biological Functions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Absence de Fonctions Biologiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Synthmorphs need not be bothered with trivialities like breathing, eating, defecating, aging, sleeping, or any similar minor but crucial aspects of biological life.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les synthmorpsh ne s'encombrent pas de trivialités telles que respirer, manger, déféquer, vieillir, dormir ou tout aspect mineur mais crucial de la vie biologique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> Pain Filter.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Filtre de Douleur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Synthmorphs can filter out their pain receptors, so that they are unhampered by wounds or physical damage.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les synthmorphs peuvent filtrer leur récepteurs de douleurs, afin qu'elles ne soient pas génées par les blessures ou les dégâts physiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This allows them to ignore the -10 modifier from 1 wound (see Wound Effects, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela leur permet d'ignorer le modificateur de -10 pour une blessure (voir Effets des Blessures, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>207), but they suffer -30 on any tactile-based Perception Tests and will not even notice they have been damaged unless they succeed in a (modified) Perception Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>207), mais elles souffrent d'un modificateur de -30 à tous les Tests de Perception basés sur le toucher et ne remarquerons pas qu'ils ont étés abîmés sauf si ils réussissent un Test de Perception modifié.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> Immunity to Shock Weapons.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Immunité aux Armes à Impulsion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Synthmorphs have no nervous system to disrupt, and their optical electronics are carefully shielded from interfer- ence.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les synthmorphs n'ont aps de système nerveux à déchirer, et leurs électroniques optiques sont soigneusement protégées des interférences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shock attacks may temporarily disrupt their wireless radio communications, however, for the duration of the attack.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les attaques à impulsions peuevnt temporairement perturber leurs communications radios sans-fil pendant la durée de l'attaque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> Environmental Durability.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Robustesse Environnementale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Synthmorphs are built to withstand a wide range of environments, from dusty Mars to the oceans of Europa to the vacuum of space.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les synthmorphs sont conçues pour supporter une large gamme d'environnement, de la poussière de Mars aux océans d'Europe en passant par le vide spatial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are unaffected by any but the most extreme temperatures and atmospheric pressures.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils ne sont affectés que par les températures et pressions atmosphériques les plus extrêmes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Treat as Temperature Tolerance (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Considérez-le comme les traits Tolérance Thermique (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>305) and Vacuum Sealing (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>305) et Étanchéité au Vide (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> Toughness.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Robustesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Synthetic shells are made to last—a fact reflected in their higher Durability and built-in Armor ratings.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les coques syntéhtiques sont faites pour durer - un fait reflétter par leur meilleure Solidité et leurs seuils d'Armure interne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their composition also makes their physical strikes more damaging: apply a +2 DV modifier on unarmed attacks for human-sized shells and larger.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leur composition les rends leur attaques physiques plus violentes: appliquez un modificateur de +2 à la VD des attaques à mains nues pour les coques de taille shumaines ou plus grande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Case}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Boîte}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cases are extremely cheap, mass-produced robotic shells intended to provide an affordable remorphing option for the millions of infugees created by the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les boîtes sont des coques robotiques extrêmement bon marché et produites massivement dans le but de fournir une option de remorph abordable pour les infugiées créés par la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though many varieties of case bot models exist, they are uniformly regarded as shoddy and inferior.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien qu'il existe beaucoup de variation de boîte, elels sont uniformément considérées comme de mauvaises qualité et inférieures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most case morphs are vaguely anthromorphic, with a thin framework body, standing just shorter than an average human, and suffer from frequent malfunctions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des morphs boîtes sont vaguement anthropomorphique, avec une fine structure corporelle, étant juste un peu plsu petite que l'humain moyen et souffrant de disfonctionnement fréquents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Enhancements] Access Jacks, Basic Mesh Inserts, Cortical Stack, Cyberbrain, Mnemonic Augmentation [Mobility System] (Movement Rate) Walker (4/16) [Aptitude Maximum] 20 [Durability] 20 [Wound Threshold] 4 [Advantages] Armor (4/4) [Disadvantages] -5 to one chosen aptitude, Lemon trait, Social Stigma (Clanking Masses) trait [CP Cost] 5 [Credit Cost] Moderate</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Prise d'Accès, Inserts Mesh Basiques, Pile Corticale, Cybercerveau, Augmentation Mnémonique[Mode de déplacement](Allure de déplacement) Marcheur (4/16)[Maximum d'Aptitude] 20 [Solidité] 20 [Seuil de Blessure] 4 [Avantages] Armure (4/4)[Désavantages] -5 à une aptitude au choix, trait Imbécile, trait Stigmatisation Sociale (Masse Cliquetante)  [Coût en PP] 5 [Coût en Crédit] Modéré</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Synths are anthromorphic robotic shells (androids and gynoids).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les synths sont des coques robotiques anthropomorphiques (androïdes et gynéoïdes).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are typically used for menial labor jobs where pods are not as good of an option.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elles sont typiquement utilisés poru les travaux sub-alternes pour lesquels les pods ne sont pas une bonne option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cheaper than many other morphs, they are commonly used for people who need a morph quickly and cheaply or simply on a transient basis.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Moins chère que beaucoup d'autres morphs, elles sont souvent utilisées par les personens qui ont besoin d'une morph rapidement et pour pas trop cher ou simplement lors d'un transit entre deux incarnations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though they look humanoid, synths are easily recognizable as non-biological unless they have the synthetic mask option (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien qu'elles aient l'air huamnoîdes, les synths sont facilement reconnaissable comme non-biologique à moins qu'elles n'aient l'option masque synthétique (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Enhancements] Access Jacks, Basic Mesh Inserts, Cortical Stack, Cyberbrain, Mnemonic Augmentation [Mobility System] Walker (4/20) [Aptitude Maximum] 30 [Durability] 40 [Wound Threshold] 8 [Advantages] +5 SOM, +5 to one other aptitude of the player’s choice, Armor 6/6 [Disadvantages] Social Stigma (Clanking Masses) trait, Uncanny Valley trait [CP Cost] 30 [Credit Cost] High</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Prise d'Accès, Inserts Mesh Basiques, Pile Corticale, Cybercerveau, Augmentation Mnémonique[Mode de déplacement](Allure de déplacement) Marcheur (4/20)[Maximum d'Aptitude] 30 [Solidité] 40 [Seuil de Blessure] 8 [Avantages] +5 en SOM, +5 à une aptitude au choix du joueur, Armure (6/6)[Désavantages] trait Apparence Étrange, trait Stigmatisation Sociale (Masse Cliquetante)  [Coût en PP] 30 [Coût en Crédit] Élevé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Arachnoids}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Arachnoïdes}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Arachnoid robotic shells are 1-meter in length, segmented into two parts, with a smaller head, like a spider or termite.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les coques robotiques arachnoïdes font 1 mètre de long, sont divisées en deux partie, avec une tête plsu petite comme els araignées ou les termites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They feature four pairs of 1.5-meter- long retractable arms/legs, capable of rotating around the axis of the body, with built-in hydraulics for propelling the bot with small leaps.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elles possèdent quatre paires de membres rétracaples d'1,5m de long, capables de tourner autour de l'axe corporels et équipés de vérins hydraulique pour propulser le bot avec de petits sauts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The manipulator claws on each arm/leg can be switched out with extendable mini-wheels for high-speed skating movement.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les griffes de manipulations sur chaque membre peuvent être échangée par des mini-roues pour un déplacement en patinage à haute-vitesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A smaller pair of manipulator arms near the head allows for closer handling and tool use.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une pair de bras manipulateur plsu petite et proche de la tête permets une utilisation plsu précise d'outils.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In zero-G environments, arachnoids can retract their arms/legs and maneuver with vectored air thrusters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En environnement en zéro-G, les arachnoïdes peuvent rétracter leurs membres et manœuvrer grâce à des turbines à poussée vectorielles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Enhancements] Access Jacks, Basic Mesh Inserts, Cortical Stack, Cyberbrain, Enhanced Vision, Extra Limbs (6 Arms/Legs), Lidar, Mnemonic Augmentation, Pneumatic Limbs, Radar [Mobility System] Walker (4/24), Thrust Vector (8/40) [Aptitude Maximum] 30 [Durability] 40 [Wound Threshold] 8 [Advantages] +5 COO, +10 SOM, Armor 8/8 [CP Cost] 45 [Credit Cost] Expensive (minimum 40,000+)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Prise d'Accès, Inserts Mesh Basiques, Pile Corticale, Cybercerveau, Augmentation Mnémonique, Vision Améliorée, membres Supplémenatires (6 membres), Lidar, Membres pneumatiques, Radar[Mode de déplacement](Allure de déplacement) Marcheur (4/16), Poussée Vectorielle (8/40)[Maximum d'Aptitude] 30 [Solidité] 40 [Seuil de Blessure] 8 [Avantages] Armure (8/8), +5 en COO, +10 en SOM [Coût en PP] 45 [Coût en Crédit] Élevé (minimum 40 000+¢)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Dragonfly}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Libellulle}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The dragonfly robotic morph takes the shape of a meter-long flexible shell with multiple wings and manipulator arms.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La morph robotique libellulle prend la forme d'une coque flexible d'un mètre de long possédant des ailes multiples et des bras mnipulateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Capable of near-silent turbofan-aided flight in Earth gravity, dragonfly bots fare even better in microgravity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Capable de voler quasi-silencieusement grâce à ses turboréacteurs à double flux et avec une gravité Terreste, les bots libellulles sont encore meilleurs en microgravité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Enhancements] Access Jacks, Basic Mesh Inserts, Cortical Stack, Cyberbrain, Mnemonic Augmentation [Mobility System] Winged (8/32) [Aptitude Maximum] 30 (20 SOM) [Durability] 25 [Wound Threshold] 5 [Advantages] Flight, +5 REF, Armor (2/2) [CP Cost] 20 [Credit Cost] High</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Prise d'Accès, Inserts Mesh Basiques, Pile Corticale, Cybercerveau, Augmentation Mnémonique [Mode de déplacement](Allure de déplacement) Ailé (8/32) [Maximum d'Aptitude] 30 (20 en SOM) [Solidité] 25 [Seuil de Blessure] 5 [Avantages] Vol, Armure (2/2), +5 en REF [Coût en PP] 20 [Coût en Crédit] Élevé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Flexbots}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Transformers}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Designed for multi-purpose functions, flexbots can transform their shells to suit a range of situations and tasks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Conçus pour remplir des fonctions multi-tâches, les transformers peuvent transformer leur coque pour s'adapter à une gamme de tâches et de situations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their core frame consists of a half-dozen interlocking and shape-adjustable modules capable of auto-transforming into a variety of shapes: multilegged walker, tentacle, hovercraft, and many others.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leur structure principale consiste en une demi-douzaine de module interconnectés et de forme adaptable capable de s'auto-transformé en une variété de forme: marcheurs à plusieurs jambes ou tentacules, aéroglisseur et bien d'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each module features its own sensor units and “bush robot” fractal-branching digits (each capable of breaking into smaller digits, down to the micrometer scale, allowing for ultra-fine manipulation).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque module dispode de sa propre unité sensorielle et des doigts fractals ramifiés (cahque capable de se diviser en doigts plus petits, jusqu'à une échelle micrométrique permettant des manipulations ultra-fine).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The flexbot control computer is also distributed between modules.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>l'ordinateur de contrôle du transformers est également répartit entre les différents modules.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Individual flexbots are only the size of a large dog, but multiple flexbots can join together for larger mass operations, even taking on heavy-duty tasks such as demolition, excavation, manufacturing, robotics assembly, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque transformers n'est pas plus gros qu'un gros chien, mais plusieurs transformers peuvent s'assembler pour opérer à une échelle de amsse différente, pouvant même s'occuper des tâches telles que la démolition, l'excavation, la fabrication ou l'assemblage robotisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Enhancements] Access Jacks, Basic Mesh Inserts, Cortical Stack, Cyberbrain, Fractal Digits, Mnemonic Augmentation, Modular Design, Shape Adjusting [Mobility System] Walker (4/16), Hover (8/40) [Aptitude Maximum] 30 [Durability] 25 [Wound Threshold] 5 [Advantages] Armor 4/4 [CP Cost] 20 [Credit Cost] Expensive (minimum 30,000+)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Prise d'Accès, Inserts Mesh Basiques, Pile Corticale, Cybercerveau, Doigts Fractals, Augmentation Mnémonique, Conception modulaire, Forme Ajustable [Mode de déplacement](Allure de déplacement) Marcheur (4/16), Glisseur (8/40) [Maximum d'Aptitude] 30 [Solidité] 25 [Seuil de Blessure] 5 [Avantages] Armure (4/4) [Coût en PP] 20 [Coût en Crédit] Cher (minimum 30 000+¢)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Reaper}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Reapeur}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The reaper is a common combat bot, used in place of biomorph soldiers and typically operated via teleoperation or by autonomous AI.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le reapeur est un bot de combat courant, utilisé à la place des soldats biomorphs et typiquement dirigés par téléopération ou par des IA autonomes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The reaper’s core form is an armored disc, so that it can turn and present a thin profile to an enemy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le cœur du reapeur est un disque renforcé, il peut donc tourner et présenter un profil fin à l'ennemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It uses vector thrust nozzles to maneuver in microgravity, and also takes advantage of an ionic drive for fast movement over distance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il utilise des buses à poussée vectorielle pour manœuvrer en micro-gravité, et prend également avantages d'un moteur ionique pour le déplacement rapide sur de longue distance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Four legs/manipulating arms and four weapon pods are folded inside its frame.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quatre jambes/bras manipulateurs et quatre montures d'armes sont repliées dans sa structure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The reaper’s shell is made of smart materials, allowing these limbs and weapon mounts to extrude in any direction desired and even to change shape and length.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La coque du reapeur est faites de matériaux intelligents, permettants à ses membres et à ses montures d'armes de sortir dans n'importe quelle direction et même de changer de forme et de taille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In gravity environments, the reaper walks or hops on two or four of these limbs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les environnemsnt soumis à la gravité, les reapeurs marchent ou sautillent sur deux de leurs membres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Reapers are infamous due to numerous war XPs, and bringing one into most habitats will undoubtedly raise eyebrows, if not get you arrested.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les reapeurs sont ignobles en raison de nombreuses XP de guerre, et en amener un dans un habitat fera indubitablement froncer les sourcils ou vous faire arréter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Enhancements] 360-Degree Vision, Access Jacks, Anti-Glare, Basic Mesh Inserts, Cortical Stack, Cyberbrain, Cyber Claws, Extra Limbs (4), Heavy Combat Armor, Magnetic System, Pneumatic Limbs, Puppet Sock, Radar, Reflex Booster, Shape Adjusting, Structural Enhancement, T-Ray Emitter, Weapon Mount (Articulated, 4) [Mobility System] Walker (4/20), Hopper (4/20), Ionic (12/40), Vectored Thrust (4/20) [Aptitude Maximum] 40 [Speed Modifier] +1 (Reflex Booster) [Durability] 50 (60 with Structural Enhancement) [Wound Threshold] 10 (12 w/Structural Enhancement) [Advantages] 4 Limbs, +5 COO, +10 REF (+20 with Reflex Booster), +10 SOM, Armor 16/16 [CP Cost] 100 [Credit Cost] Expensive (minimum 50,000+)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Prise d'Accès, Inserts Mesh Basiques, Pile Corticale, Cybercerveau, Vision à 360-Degrés, Anti Éblouissement, Cyber Griffes, Membres Supplémentaires (4), Armure de Combat Lourde, Système Magnétique, Membres Pneumatiques, Marionnette, Radar, Accélérateur de Réflexes, Forme Ajustable, Améliorations Structurelles, Emitter T-ray, Montures d'Armes (Articulées, 4) [Mode de déplacement](Allure de déplacement) Marcheur (4/20), Sautilleur (4/20), Ionique (12/40), Poussée Vectorielle (4/20)[Maximum d'Aptitude] 40 [Modificateur de Vitesse] +1 (Accélérateur de Réflexes)  [Solidité] 50 (60 avec l'Amélioration Structurelle) [Seuil de Blessure] 10 (12 avec l'Amélioration Structurelle) [Avantages] 4 Membres, Armure (16/16), +5 en COO, +10 en REF (+20 avec l'1ccélérateur de Réflexes), +10 en SOM [Coût en PP] 100 [Coût en Crédit] Cher (minimum 50 000+¢)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Slitheroids}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Slitheroïdes}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slitheroid bots are synthetic shells taking the form of a 2-meter-long segmented metallic snake, with two retractable arms for tool use.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les bots slithéroïdes sont des coques synthétiques prenant la forme d'un serpent métallique et ségmenté de deux mètres de long et possédant deux bras rétractiles pour la manipulation d'outil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Snake bots can coil, twist, and roll their bodies into a ball or hoop, moving either by slithering, burrowing, rolling, or pulling themselves along by their arms.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les bots serpents peuvent se lover, se tordre et rouler leur corps en une balle ou onduler, se déplaçant soit en ondulant, en roulant ou en rampant et en s'aidant de leurs bras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The sensor suite and control computer are housed in the head.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les systèmes sensoriels et l'ordinateur de contrôle sont hébergé dans la tête.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Enhancements] Access Jacks, Basic Mesh Inserts, Cortical Stack, Cyberbrain, Enhanced Vision, Mnemonic Augmentation [Mobility System] Snake (4/16; 8/32 rolling) [Aptitude Maximum] 30 [Durability] 45 [Wound Threshold] 9 [Advantages] +5 COO, +5 SOM, +5 to one other aptitude of the player’s choice, Armor 8/8 [CP Cost] 40 [Credit Cost] Expensive</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Prise d'Accès, Inserts Mesh Basiques, Pile Corticale, Cybercerveau, Vision Améliorée, Augmentation Mnémonique[Mode de déplacement](Allure de déplacement) Serpent (4/16; 8/32 en roulant)[Maximum d'Aptitude] 30 [Solidité] 45 [Seuil de Blessure] 9 [Avantages] +5 en COO, +5 en SOM, +5 à une aptitude au choix du joueur, Armure (8/8) [Coût en PP] 40 [Coût en Crédit] Cher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Swarmanoid}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Swarmanoïde}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The swarmanoid is not a single shell per se, but rather a swarm of hundreds of insect-sized robotic microdrones.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le swarmanoïde n'est pas une simple coque en soi, masi plutôt une nuiée de centaine de microdrone robotiques de la taille d'un insecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each individual “bug” is capable of crawling, rolling, hopping several meters, or using nanocopter fan blades for airlift.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque &quot;insecte&quot; est capable de ramper, de rouler, de sauter sur plusieurs mètres ou d'utilsier des pales de nanocoptères pour un déplacment aérien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The controlling computer and sensor systems are distributed throughout the swarm.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'ordinateur de contrôlle et le système sensoriel sont distribués sur toute la nuée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though the swarm can “meld” together into a roughly child-sized shape, the swarm is incapable of tackling physical tasks like grabbing, lifting, or holding as a unit.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même si la nuée peut se &quot;fusionner&quot; en une grossière forme de la taille d'un enfant, la nuée est incapable d'accomplir des tâches physiques en tant qu'unité telles que attraper, tirer ou tenir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Individual bugs are quite capable of interfacing with electronics.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque insecte est relativement capable de s'interfacer avec des systèmes électroniques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Enhancements] Access Jacks, Basic Mesh Inserts, Cortical Stack, Cyberbrain, Mnemonic Augmentation, Swarm Composition [Mobility System] Walker (2/8), Hopper (4/20), Rotor (4/32) [Aptitude Maximum] 30 [Durability] 30 [Wound Threshold] 6 [Advantages] See Swarm Composition (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Prise d'Accès, Inserts Mesh Basiques, Pile Corticale, Cybercerveau, Augmentation Mnémonique, Essaim[Mode de déplacement](Allure de déplacement) Marcheur (2/8), Sauteur (4/20), Rotor (4/32) [Maximum d'Aptitude] 30 [Solidité] 30 [Seuil de Blessure] 6 [Avantages] voir Nuée (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>311) [Disadvantages] See Swarm Composition (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>311) [Désavantages] voir Nuée (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>311) [CP Cost] 25 [Credit Cost] Expensive</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>311) [Coût en PP] 25 [Coût en Crédit] Cher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Infomorphs are digital-only forms—they lack a physical body.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les infomorphs n'ont qu'une forme numérique - elles ne possèdent pas de corps physique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Infomorphs are sometimes carried by other characters instead of (or in addition to) a muse in a ghostrider module (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les informophs sont parfois portée par d'autres personnage à la place de (ou en addition de) une muse dans un module ghostrider (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Full rules for infomorphs can be found on p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les règles complètes concernant les infomorphs peuvent être trouvées à la p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Enhancements] Mnemonic Augmentation [Aptitude Maximum] 40 [Speed Modifier] +2 [Disadvantages] No physical form [CP Cost] 0 [Credit Cost] 0</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>[Implants] Améliorations Mnémonique[Maximum d'Aptitude] 40 [Modificateur de Vitesse] +2  [Désavantages] Pas de forme physique [Coût en PP] 0 [Coût en Crédit] 0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unless otherwise noted, listed traits are ego traits.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les traits listés sont ds traits d'egos, sauf mention contraire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Positive Traits</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Traits Positifs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Positive traits provide bonuses to the character in certain situations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les traits positifs fournissent des bonus au personnage dans certaines situations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Adaptability}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Adaptabilité}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cost: 10 (Level 1) or 20 (Level 2) CP</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Coût: 10 (Niveau 1) ou 20 (Niveau2) PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Resleeving is a breeze for this character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Se réincarner est est un jeu d'enfant pour se personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They adjust to new morphs much more quickly than most other people.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils s'adaptent aux nouvelles morphs plus rapidement que la plupart des autres personnes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Apply a +10 modifier per level for Integration Tests and Alienation Tests (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appliquez un modificateur de +10 par niveau aux test d'Intégration et aux Tests d'Aliénation (p.</seg>
       </tuv>
     </tu>
     <tu>
