@@ -29014,6 +29014,1414 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Allies}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Alliés}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cost: 30 CP</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Coût: 30 PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character is part of or has a relationship with some influential group that they can occasionally call on for support.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage fait partie ou est en relation avec un groupe d'influence qu'ils peuvent contacter occasionnellement pour obtenir de l'aide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, this could be their old gatecrashing crew, former research lab co-workers, a criminal cartel they are part of, or an elite social clique.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela pourrait être leur vieille équipe de resquilleurs, d'ancien collègue d'un laboratoire de recherche, un cartel criminel dont ils font partie ou une clique sociéle élitiste par exemple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster and player should work out what the character’s relationship is with this group, and why the character can call on them for aid.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu et le joueur doivent définir quelles sont les relations du personnage avce ce groupe, ainsi que les raisons qui font que ce personnage peu demander leur aide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gamemaster’s should take care that these allies are not abused, such as calling on them more than once per game session.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les maîtres de jeu devraient faire attention que les eprsonnages n'abusent pas de ce trait, en appellant les alliés plus d'une fois par session de jeu par exemple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character’s ties to this group are also a two-way street—they will be expected to perform duties for the group on occasion as well (a potential plot seed for scenarios).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les attaches de ce personnage à ce groupe est également un lien à double-sene - leurs alliés attendent d'eux qu'ils effectuent certains tâches pour eux (représentant une base de scénario potentiel).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Ambidextrous}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Ambidextre}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cost: 10 CP</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Coût: 10 PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character can use and manipulate objects equally well with both hands (they do not suffer the off-hand modifier, as noted on p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage peut utiliser et manipuler des objets aussi bien des deux mains (ils ne subissent pas le modificateur de mauvaise main, tel que noté à la p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character has other prehensile limbs (feet, tail, tentacles, etc), this trait may be applied to a limb other than the hand.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le personnage possèdent d'autres membres préhenseurs (pied, queue, tentacules, etc) ce trait peut-être appliqué à un membre autre qu'une main.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This trait may be taken multiple times for multiple limbs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce trait peut-être pris de multiples fois pour de multiples membres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Animal Empathy}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Empathie Animale}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cost: 5 CP</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Coût: 5 PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character has an instinctive feel for handling and working with non-sapient animals of all kinds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage a une perception intuitive de la méthode nécessaire pour interagir et travailler avec des animaux non-sapiens de tout type.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Apply a +10 modifier to Animal Handling skill tests or whenever the character makes a test to influence or interact with an animal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appliquer un modificateur de +10 à la compétence Dressage ou lorsque le personnage fait un test pour influencer ou intergair avec un animal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Brave}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Courageux}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This character does not scare easily, and will face threats, intimidation, and certain bodily harm without flinching.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce personnage n'est pas effrayable facilement, et il fera face aux menaces, à l'intimidation et à un risque de blessure certains sans flancher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a side effect, the character is not always the best at gauging risks, especially when it comes to factoring in danger to others.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En conséquence, le personnage n'est pas toujours le meilleur pour évaluer les risques, particulièrement lorsqu'il s'agît de mettre les autres en situations dangereuses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character receives a +10 modifier on all tests to resist fear or intimidation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage reçoit un modificateur de +10 sur tout les tests pour résister à la peur ou à l'intimidation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Common Sense}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Sens Commun}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character has an innate sense of judgment that cuts through other distractions and factors that might cloud a decision.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage a un sens du jugement inné qui passe au travers des distractiosn et des facteurs qui pourraient obscurcir une décision.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once per game session, the player may ask the gamemaster what choice they should make or what course of action they should take, and the gamemaster should give them solid advice based on what the character knows.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois par sessiond e jeu, le joueur peut demaner au maître de jeu quel choix il devrait faire ou quel suite d'action il devrait faire, et le maître de jeu devrait lui donner de bosn conseils basé sur les connaissances du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alternately, if the character is about to make a disastrous decision, the gamemaster can use the character’s free hint and warn the player they are making a mistake.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alternativement, si le personnage est sur le point de rpendre une décsiion désastreuse, le maître de jeu peut utiliser le conseil gratuit du personnage et aveertir le joueur qu'il est en train de commettre une erreur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Danger Sense}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Sens du Danger}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character has an intuitive sixth sense that warns them of imminent threats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage a un sixième sens intuitif qui le prévient des menaces imminentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They receive a +10 modifier on Surprise Tests (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils reçoivent un modificateur de +10 sur les Tests de Surprise (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Direction Sense}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Sens Directionnel}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Somehow the character always knows which way is up, north, etc., even when blinded.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Du'ne manière ou d'une autre, le personnage sait toujours où est le haut, le nord et autre, même si il est aveuglé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character receives a +10 modifier for figuring out complex di- rections, reading maps, and remembering or retracing a path they have taken.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage reçoit un modificateur de +10 pour comprendre des directiosn complexe, lire une carte et se rappeller ou retracer un chemin qu'ils ont déjà fait.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Eidetic Memory (Ego Or Morph Trait)}  Cost: 10 CP</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Mamoire Éidétique (Trait d'Ego Ou de Morph)}  Coût: 10 PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Much like a computer, the character has perfect memory recall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire à un ordinateur, le personnage à un rappel mémoriel parfait.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They can remember anything they have sensed, often even from a single glance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils peuvent se rappeler de tout ce qu'ils ont perçus, souvent d'un simple coup d'œil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This works the same as the eidetic memory implant (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce trait fonctionne de la même manière que l'implant mémoire éidétique (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Exceptional Aptitude}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Aptitude Exceptionnelle}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cost: 20 CP</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Coût: 20 PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character may raise one of their maximum aptitude up to 10 points over the normal aptitude cap (30 for flats, 35 for splicers, 40 for all others).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage peut augmenter le maximum d'une de ses aptitude de 10 points au-delà de la limite d'aptitude normale (30 pour les plates, 35 pour les spliceurs et 40 pour les autres).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that this trait just raises the maximum, it does not give the character more 10 aptitude points.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce trait ne fait qu'augmenter le maximum, il ne donne pas 10 points d'aptitudes supplémenatire au personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This trait may be taken only once.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce trait ne peut-être pris qu'une seule fois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character is a legend in the use of one particular skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage est une légende dans l'utilisation de l'une de ses compétences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character may raise one learned skill over 80, to a maximum of 90, during character creation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>le personnage peut augmenter uen compétence apprise au-delà de 80, jusqu'à un maximum de 90, pendant la création de personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This trait does not actually increase the skill, it just raises the maximum.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce trait n'uagmente pas la compétence, il augmente juste le maximum dans cette compétence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This trait may only be taken once.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce trait ne peut-être pris qu'une seule fois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Fast Learner}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Apprenant Rapide}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character improves skills and learns new ones in half the time it normally takes (see Improving Skills, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>le personnage améliore ses compétences et en apprend de nouvelels en moitié moins de temps que ce qui est normalement nécessaire (voir Augmenter des Compétences, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{First Impression}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Première Impression}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character has a way of charming or otherwise making a good impression the first time they interact with someone.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage a une façon de charmer ou de faire bonne impression la première fois qu'ils interagissetn avec quelqu'un.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This innate social lubricant allows them to more readily deal with new contacts and slip right into new social environments.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce lubrifiant social inné leur permet de traiter plsu facilement avec les nouveaux contacts et de s'intégrer rapidement à de nouveaux environneemnts sociaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Apply a +10 modifier on social skill tests when the character is interacting with another character for the first time only.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appliquez un modificateur de +10 sur les tests de compétences socials lorsque le personnage interagît avec un autre personnage pour la première fois (et pour la première fois seulement).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Hyper Linguist}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Hyper Linguiste}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character has an intuitive understanding of linguistic structures that facilitates learning new languages easily.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage a une compréhension instinctive des structures linguistiques qui facilitent l'apprentissage de nouvelles langues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character requires one-third the normal amount of time and experience to learn any language (see Improving Skills, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage n'a besoin que d'un tiers du montant total de temps et d'expérience pour apprendre de nouvelles langues (voir Améliorer des Compétences, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character can also learn any human language in one day simply by constant immersive exposure to it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage peut également apprendre toute langue humaine en une journée en s'y immergeant constamment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additionally, the character receives a +10 modifier when attempting to interpret languages they don’t know.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage reçoit également un modificateur de +10 lorsqu'il tente d'interpréter des langues qu'il ne connaît pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Improved Immune System (Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Système Immunitaire Amélioré (Trait de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The morph’s immune system is robust and more resistant to diseases, drugs, and toxins—even more than basic bio-mods.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le système immunitaire de la morph est robuste et résiste mieux aux maladies, drogues et toxines - mieux que les biomods de bases.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At Level 1, apply a +10 modifier whenever making a test to resist infection or the effects of a toxin or drug.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au niveau 1, appliquez un modificateur de +10 lrosque vous faites un test pour résister à l'infection ou aux effets d'une toxine ou d'une drogue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At Level 2, increase this modifier to +20.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au niveau 2, augmentez ce modificateur à +20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This trait is only available to biomorphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce trait n'est disponible que pour les biomorphs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Innocuous (Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Inofensif (Trait de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In an age when exotic appearances and good looks are commonplace, the morph’s look is surprisingly bland and undistinguished, in that cookie cutter sort of way.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À une époque où la beauté et les apparences exotiques sont des lieux communs, l'apparence de cette morph est étonnement fade et sans distinction, de cette manière réconfortante qu'on les choses produite à l'identique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character’s physical looks are so mundane that others have a hard time picking them out of a crowd, describing their appearance, or otherwise remembering physical details.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'apparence physique du personnage est tellement banalle que les autres ont du mal à le distinguer dans une foule, à décrire son apparence ou à se rappeler de détails physique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Apply a -10 modifier to all tests made to spot, describe, or remember the character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appliquer un modificateur de -10 à tous les tests faits poru trouver, décrire ou se rappeller du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This modifier does not apply to psi or mesh searches.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce modificateur ne s'applique pas au psi ou recherche sur le mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Limber (Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Souple (Trait de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The morph is especially flexible and supple, capable of graceful contortions and interesting positions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La morph est particulièrement souple et flexible, capable de controsions gracieuse et de prendre des positions intéressantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At Level 1, the character can smoke with their toes, do the splits, and squeeze into small, cramped spaces.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au niveau 1, le personnage peut fumer avec ses orteils, faire le pont et se compresser dans de petits espaces étroits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At Level 2, they are double-jointed escape artists.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au niveau 2, ce sont des artistes de l'évasion désarticulés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each level provides a +10 modifier to escaping from bonds, fitting into narrow confines, and other acts relying on contortion or flexibility.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque niveau fournit un modificateur de +10 pour s'échapper de liens, s'adapter à des espaces confinés et d'autres actions dépendant de la contorsion ou de la flexibilité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Math Wiz}  Cost: 10 CP</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Génie des Maths}  Coût: 10 CP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character can perform any feat of calculation, including the most complex and advanced mathematics, instantly and with great precision, with the same ease an unmodified human can add 2 + 3.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage peut effectuer tout type de calcul, incluant les plus complexe et les mathématiques avancées, instantanément et avec une grande précision, avec la même facilité que d'additioner 2 et 3 pour un humain non-modifié.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character can calculate odds with great precision, find correlations in numerical data, and perform similar tasks with great ease.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage peut calculer des probabilités avec une grande précision, trouver des corrélations dans des données numériques et accomplir des tâches similaires avec une facilité déconcertante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Apply a +30 modifier on tests involving math calculations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appliquez un modificateur de +30 sur les tests impliquant des calculs mathématiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Natural Immunity (Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Immunité Naturelle (Trait de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The morph has a natural immunity to a specific drug, disease, or toxin.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La morph possède une immunité naturelle à une drogue, une maladie ou une toxine spécifique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When afflicted with that specific chemical, poison, or pathogen, the character re- mains unaffected.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsqu'il est affecté par cette substance chimqiue, ce poison ou ce pathogène, le personnage reste non affecté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the gamemaster’s discretion, this immunity may not apply to certain agents.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A la discrétion du maïtre de jeu, cette immunité pourrait ne pas s'appliquer à certains agents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It may not be applied to nanodrugs or nanotoxins.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle ne peut pas concerner les nanodrogues ou les nanotoxines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Pain Tolerance (Ego Or Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Tolérance à la Douleur (Trait d'Égo ou de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character has a high threshold for pain tolerance and is better at ignoring the effects of pain on their abilities and concentration.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage possède un seuil de tolérance à la douleur élevé et peut plus facilement ignorer les effets de la douleur sur ces capacités et sa concentration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Level 1 allows them to ignore the -10 modifier from 1 wound.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le niveau 1 lui permet d'ignorer d'ignorer le modificateur de -10 d'1 blessure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Level 2 allows them to ignore the -10 modifiers from 2 wounds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le niveau 1 lui permet d'ignorer d'ignorer le modificateur de -10 de 2 blessures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This trait is only available for biomorphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce trait n'est disponible que pour les biomorphs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Patron}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Mentor}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character has an influential person in their life who can be relied on for occasional support.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage connaît une personne influente sur laquelle il eput compter pour de l'aide occasionnelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This could be a wealthy hyperelite family member, a high-ranking triad boss, or an anarchist networker with an unbeatable reputation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela pourraît être un membre d'une famille hyperléite prospère, un chef des triades bien placés ou un networker anarchistes avec une réputation imbattable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When called upon, this patron can pull strings on the character’s behalf, supply resources, introduce them to people they need to know, and bail them out of trouble.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsqu'il est appelé, le mentor peut tirer quelques ficelles au bénéfice du personnage, lui fournissant des ressource, le présentant aux personnes qu'ils ont besoin de connaître et les tirer d'affaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The player and gamemaster should work together to define exactly who this NPC is and what their relationship with the player character is.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le jouer et le maître de jeu doivent travailler ensemble pour définir exactement qui est ce PNJ et quelle est sa relation avec le personnage joueur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specifically, the question of why this patron is supporting the character should be answered (familial obligation?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La question spécifique du pourquoi ce mentor soutient le personnage, doit avoir une réponse (obligation familliale?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>childhood buddies?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>amis d'enfance?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>the character saved their life once?).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>le personange lui a sauve la vie une fois?).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gamemasters should be careful that this trait does not get abused.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu devrait faire attention à ce que ce trait ne soit pas utilisé de manière abusive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The patron should be an occasional help (probably no more than once per game session at most) but is not always at the character’s beck-and-call.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le mentor devrait être une aide occasionnelle (probablement pas plus d'une fois par session de jeu au plus) mais il n'est pas toujours dispo à la demande du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character asks for too much, too often, they should find the patron’s support drying up.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le personnage demande trop ettrop souvent, le soutien du mentor devrait s'assécher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additionally, the character may need to take action to maintain the relationship, such as undertaking a mission on the patron’s behalf.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Additionellement, les personnages peuvent avoir besoin d'accomplir certaines actions pour préserver cette relation, telles que s'occuper d'une mission pour le compte du mentor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In fact, the character may only have their patronage because they are on-call or of use to the NPC in some way.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fait, le personnage pourrait n'avoir leur soutien que parcequ'ils sont disponible à la demande du PNJ d'une certaine manière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Psi}  Cost: 20 CP (Level 1), 25 CP (Level 2)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Psi}  Coût: 20 PP (Niveau 1), 25 PP (Niveau 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character has been infected with the MacLeod strain of the Exsurgent virus, which altered their brain structure and opened the potential for their mind to enhance their cognitive abilities and read and manipulate the biological minds of others (see Psi, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnaga a été infecté avec la souche Watts Mac Leod du virus Exsurgent, virus qui a altéré leur structure cérébrale et à ouvert le potentiel de leur esprit afin d'augmenter leur capacités cognitive ainsi que al capacité à lire et manipuler les esprits biologiques des autres (voir Psi, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character may purchase and learn psi sleights (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage peut acheter et apprendre des exploits psis (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At Level 1, the character may only use psi-chi sleights.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au niveau 1, le personnage ne peut utiliser que les exploits psi-chi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At Level 2, the character may use both psi-chi and psi-gamma sleights.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au niveau 2, le personnage peu utiliser les exploits psi-chi et psi-gamma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though this trait is not very expensive, gamemasters should not allow it to be abused.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que ce trait ne soit pas trés cher, les maître de jeu ne devrait pas permettre q'il soit trop utilisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are a number of negative side effects to Watts-MacLeod infection, noted under Psi Drawbacks, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a un nombre d'effet secondaire négatifs à l'infection par la souche Watts MacLeod, noté au pragraphe Inconvénients du Psi (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Psi Chameleon (Ego Or Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Caméléon Psi (Trait d'Ego ou de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character’s mental state is naturally resistant to psi sensing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'état mental du personnage est natruellement resistant aux exploits psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Apply a -10 modifier to any attempts to locate or detect the character via psi sleights.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appliquez un modificateur de -10 à toute tentative pour localiser ou détecter le personange en utilisant des exploits psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Psi Defense (Ego Or Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Défense Psi (Trai d'Égo Ou de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character’s mind is inherently resistant to mental attacks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'esprit du personnage est intrinséquement résistant aux attaques mentales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At Level 1, apply a +10 modifier to all defense tests made against psi attacks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au niveau 1, appliquez un modificateur de +10 à tous les tests de défense fait contre les attaques psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At Level 2, apply a +20 modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au niveau 2, augmentez ce modificateur à +20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Rapid Healer (Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Guérison Rapide (Trait de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The morph recovers from damage more quickly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La morph récupère plus rapidement des dommages subit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Reduce the timeframes for healing by half, as noted on the Healing table, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Réduisez l'intervalle de temps pour les soins de motié, tels que noté sur la table de Soins p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Right At Home}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Bien Dans Ses Bottes}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character chooses one type of morph (splicer, neo-hominid, case, etc.).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage choisit un tympe de morph (splicerus, néo-hominidés, boîte, etc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character always feels right at home in morphs of this type.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personange se sent toujours bien dans les morphs de ce type.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When resleeving into this type of morph, the character automatically adjusts to the new body, no Integration or Alienation Test needed, suffering no penalties and no mental stress.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsqu'il se réincarne dans ce type de morph, le personnage s'ajuste automatiquement à son nouveau corps, aucune test d'Intégration ou d'Aliénation ne sont nécessaires, ne souffrant d'aucune pénalité et d'aucun stress mental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Second Skin}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Seconde Peau}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cost: 15 CP</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Coût: 15 PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If your character background or faction enforces a restriction on your starting morph (for example, uplifts must start with an uplift morph), this trait allows you to ignore that restriction and purchase a starting morph of your choice.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le passé la faction de votre personnage vous restreint dans votre morph de départ (par exemple, les élevés doivent démarer dans une morph élevée), ce trait vous permet d'ignorer ces restrictions et d'acheter la morph de départ de votre choix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character is very good at maintaining continuous partial awareness of the goings-on in their immediate environment.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce eprsonnage est extrêmement doué pour conserver une conscience continue des choses qui se passent dans leur environnement immédiat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In game terms, they do not suffer the Distracted modifier on Perception Tests to notice things even when their attention is focused elsewhere, or when making Quick Perception Tests during combat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En terme de jeu, ils ne souffrent pas du modificateur Distrait sur les Tests de Perception pour remarquer quelque chose même si leur attention est concentrée ailleurs, ou lrosqu'il font des Tests de Perception Rapide pendat les combats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Striking Looks (Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Beauté Ahurissante (Trait de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In an age where biosculpting is easy, good looks are both cheap and commonplace.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A une époque ou la biosclupture est facile, être beau est à la fois bon marché et courant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This morph, however, possesses a physical look that can only be described as striking and unusual, but also somehow alluring and fascinating—even the gorgeous and chiseled glitterati take notice.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette morph possède cependant une apparence physique qui ne peut être décrite que comme ahurissante et inhabituelle, mais également comme quelque peu attirante et fascinante - même les célébréités splendides et ciselés y font attention.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On social skill tests where the character’s beauty may affect the outcome, they receive a +10 (for Level 1) or +20 (for Level 2) modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sur les tests de compétences sociale où la beauté du personnage peut influer sur le résultat, ils reçoivent un modificateur de +10 (au niveau 1) ou de +20 (au niveau 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This modifier is ineffective against xenomorphs or those with the infolife or uplift backgrounds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce modificateur est inefficace sur les xénomorphs ou ceux qui ont un historique infolife ou élevé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This modifier may be purchased for uplift morphs, but at half the cost, and it is only effective against characters with that specific uplift background (i.e., neo-avians, neo-hominids, etc.).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce modificateur peut être acheté pour les morphs élevées, mais à moitié prix, et il n'est efficace que contre les personnages ayant le même type de morph élevé (càd néo-aviens, néo-homnide, etc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The one drawback to this trait is that the character is more easily noticed and remembered.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'inconvénient de ce trait est que l'on se souveint plus facilement du personnage et il est plus facilement remarqué.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Tough (Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Solide (Trait de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cost: 10 (Level 1), 20 (Level 2), or 30 (Level 3) CP</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Coût: 10 (Niveau 1), 20 (Niveau 2) ou 30 (Niveau 3) PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This morph is resilient than others of its type and can take more physical abuse.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Est morph est plus résistante que les autres de même type et peut subir plsu d'abus physique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Increase their Durability by +5 per level (+5 at Level 1, +10 at Level 2, and +15 at Level 3).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Augmentez sa Solidité par +5 par niveau (+5 au Niveau 1, +10 au Niveau 2 et +15 au Niveau 3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This also increases Wound Threshold by +1, +2, and +3 respectively.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela augmente également le Seuil de Blessure de +1, +2 et +3 respectivement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Zoosemiotics}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Zoosémiotique}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cost: 5</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Coût: 5 PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character with this trait and the Psi trait does not suffer a modifier when using psi sleights on nonsentient or partly-sentient animal species.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage avec ce trait et le trait Psi ne souffre pas d'un modificateur lorsqu'il utilise des exploits psi contre des espéèces animales non-consciente ou partiellement-conscientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Negative Traits</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Traits Négatifs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Negative traits generally hinder the character and apply negative modifiers in certain circumstances.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les traits négatifs ont tendance à handicaper le joueur et à applqieur des modificateurs négatifs dans certaines circonstances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Addiction (Ego Or Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Addiction (Trait d'Ego OU de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bonus: 5 CP (Minor), 10 CP (Moderate), or 20 CP</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bonus: 5 PP (Mineure), 10 PP (Modérée), ou 20 PP (Majeure)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major: Addiction comes in two forms: mental (affecting the ego) and physical (affecting the biomorph).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Les addictions existent en deux formes: mentale (affectant l'ego) et physique (affetant la biomorph).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character or morph is addicted to a drug (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage ou la morph est accroc à une drogue (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>317), stimulus (XP), or activity (mesh use) to a degree that impacts the character’s physical or mental health.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>317), un stimulus (XP) ou une activité (utilisation du mesh) a un degré qui impacte la snaté physique ou mentale du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Players and gamemasters should work together to agree on addictions that are appropriate for their game.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les joueurs et le maître de jeu devraient déterminer ensemble une addictions appropriées à leur parties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Addiction comes in three levels of severity: minor, moderate, or major:</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'addiction existe en trois niveaux de sévérité: mineure, modérée et majeure:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Minor: A minor addiction is largely kept under control—it does not ruin the character’s life, though it may create some difficulties.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mineure: Une addiction mineure est largement gardée sous contrôle - elle ne ruine pas la vie du personnage, bien qu'elle puisse créer certaines difficultés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character may not even recognize or admit they have a problem.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage pourrait même ne pas reconnaître ou admettre qu'il a un problème.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character must indulge the addiction at least once a week, though they can go for longer without too much difficulty.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage doit se soumettre à son addiction au moins une fois par semaine, bien qu'ils puisssent supporter de plus longue période sans difficultés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If they fail to get their weekly dose, they suffer a -10 modifier on all actions until they get their fix.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si ils ne perviennet pas à obtenir leur dose hebdomadaire, ils souffrent d'u modificateur de -10 à toutes leurs actiosn jusqu'à ce qu'ils puissetn avoir leur dose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moderate: A moderate addiction is in full swing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Modérée: Une addiction modérée est en plein essor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character obviously has a problem, and must satisfy the addiction at least once a day.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage a manifestement un problème, et il doit satisfaire son addiction au moins une fois par heure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If they fail to do so, they may suffer mood swings, compulsive behavior, physical sickness, or other side effects until they indulge their craving.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si il ne peut le faire, il peut souffrir d saute d'humeur, de comportement compulsif, de malaide physique ou d'autres effets secondaires jusq'uà ce qu'il puisse combler leur manque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Apply a -20 modifier to all of the character’s actions until they get their fix.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appliquez un modificateur de -20 à toutes les actions du personnage jusqu'à ce qu'il obtienne sa dose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additionally, a character with this level of addiction suffers a -5 DUR penalty.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Additionellement, un personnage à ce niveau d'addiction souffre d'une pénalité de -5 en SOL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major: A character with a major addiction is on the rapid road to ruin.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Majeure: Un personnage avec uen addiction majeure est sur une pente savonneuse vers la ruine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They face cravings every 6 hours, and suffer a -10 DUR penalty as their health is affected.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils font face au manque toutes les 6 heures, et souffrent d'une pénalité de -10 en SOL car leur santé est affectée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If they fail to get their regular dosage, they suffer a -30 modifier on all actions until they do.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si ils ne parviennent pas à obtenir leur dose régulièrement, ils souffrent d'un modificateur de -30 à toutes leurs actions jusqu'à ce qu'ils trouvent une dose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If their life hasn’t already been ruined by their obsession, it soon will be.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si leur vie n'as pas déjà été ruinée par leurs obsessions, elle le sera rapidement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Aged (Morph Trait)} Bonus: 10 CP</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Vieux (Trait de Morph)} Bonus: 10 PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The morph is physically aged, and has not been rejuvenated.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La morph est agée physiquement sans avoir bénéficié de réjuvénation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Old morphs are increasingly uncommon, though some people adopt them hoping to gain an air of seniority and respectability.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les vieiles morphs sont incroyablement rare, bein que certaines personens les adoptent en espérant gagner de l'ancienneté et de la respectabilité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Reduce the character’s aptitude maximums by 5, and apply a -10 modifier on all physical actions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Réduisez le maximum d'aptitude du personnage de 5, et appliquez un modificateur de -10 à toutes les actions physiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This trait may only be applied to flat and splicer morphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce trait ne peux être appliqué qu'uax morphs plates et spliceurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Bad Luck}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Malchanceux}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bonus: 30 CP</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bonus: 30 PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Due to some inexplicable cosmic coincidence, things seem to go wrong around the character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En raison d'une coïncidence cosmique inexplicable, les choses semblent mal se passer autur du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster is given a pool of Moxie points equal to the character’s Moxie stat, which also refreshes at the same rate as the character’s Moxie.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu reçoit une réserve de points de Moxie égale à la stat Moxie du personnage, qui se reconstitue au même rythme que le Moxie du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only the gamemaster may utilize this Moxie, however, and the purpose is to use it against the character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Seul le maître de jeu peu utiliser ce Moxie et et il doit le faire uniquement poru agir contre le personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In other words, the gamemaster can use this bad Moxie to cause the character to automatically fail, flip-flop a roll, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En d'autres mots, le maître de jeu peut utilsier ce Mauvais Moxie pour causer un échec automatique au personnage, lui faire un permutter un jet et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To reflect the black cloud that follows the character, the gamemaster can even use this bad Moxie against the character’s friends and allies, when they are doing something with or related to the character, though this should be used sparingly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour refléter ce mauvais augure qui plane autour du personnage, le maître de jeu peu mrme utiliser ce Mauvais Moxie contre les amis et les alliés du personnage, lorsqu'ils font quelque chose avec ou en lien avec le personnage, bien que cela devrait être utilisé avec parcimonie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gamemasters who might be reluctant to sabotage the character should remember that the player asked for it by purchasing this trait.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les maître de jeu qui pourraient rechigner à saboter le personnage devraient se souvenri que ce joueur l'a demandé en prenant ce trait.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character has managed to get themselves blacklisted in certain circles, whether they actually did something to deserve it or not.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage a réussit à se faire mettre sur liste noire dans certains cercles, qu'isl aient réellement fait quelque chose pour le mériter ou pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In game terms, the character is barred from having a Rep score higher than 0 in one particular reputation network.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En terme de jeu, le personnage ne pourra jamais avoir un score de Rep supérieur à 0 dans un réseau de réputation particulier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>People within that network will refuse to help the character out of fear of reprisals and ruining their own reputation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnes faisant parti de ce réseau refuseront d'aider le personnage apr peur de représaille et de ruiner leur propre réputation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The bonus for this trait is 20 CP if chosen for the rep network pertaining to the character’s own starting faction, and 5 CP if chosen for any other.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le bonus pour ce trait est de 20 PP si il est choisi pour le réseau réputationnel de la factoin d départ du personnage, et de 5 PP sinon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Game mechanics</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
