@@ -28545,7 +28545,7 @@
         <seg>[Enhancements] Access Jacks, Basic Mesh Inserts, Cortical Stack, Cyberbrain, Mnemonic Augmentation [Mobility System] (Movement Rate) Walker (4/16) [Aptitude Maximum] 20 [Durability] 20 [Wound Threshold] 4 [Advantages] Armor (4/4) [Disadvantages] -5 to one chosen aptitude, Lemon trait, Social Stigma (Clanking Masses) trait [CP Cost] 5 [Credit Cost] Moderate</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>[Implants] Prise d'Accès, Inserts Mesh Basiques, Pile Corticale, Cybercerveau, Augmentation Mnémonique[Mode de déplacement](Allure de déplacement) Marcheur (4/16)[Maximum d'Aptitude] 20 [Solidité] 20 [Seuil de Blessure] 4 [Avantages] Armure (4/4)[Désavantages] -5 à une aptitude au choix, trait Imbécile, trait Stigmatisation Sociale (Masse Cliquetante)  [Coût en PP] 5 [Coût en Crédit] Modéré</seg>
+        <seg>[Implants] Prise d'Accès, Inserts Mesh Basiques, Pile Corticale, Cybercerveau, Augmentation Mnémonique[Mode de déplacement](Allure de déplacement) Marcheur (4/16)[Maximum d'Aptitude] 20 [Solidité] 20 [Seuil de Blessure] 4 [Avantages] Armure (4/4)[Désavantages] -5 à une aptitude au choix, trait Raté, trait Stigmatisation Sociale (Masse Cliquetante)  [Coût en PP] 5 [Coût en Crédit] Modéré</seg>
       </tuv>
     </tu>
     <tu>
@@ -30418,6 +30418,1918 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Le bonus pour ce trait est de 20 PP si il est choisi pour le réseau réputationnel de la factoin d départ du personnage, et de 5 PP sinon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Black Mark}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Marque Noire}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bonus: 10 (Level 1), 20 (Level 2), or 30 (Level 3) CP</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bonus: 10 (Niveau 1), 20 (Niveau 2) ou 30 (Niveau 3) PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At some point in the character’s past, they managed to do something that earned a black mark on their reputation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À un certain moment dans le passé du personnage, il s'est débrouillé pour faire quelque chose qui lui a valu de recevoir une marque noire sur sa réputation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For some reason, no matter what they do, this black mark cannot be shaken off and continues to haunt their interactions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour diverses raisons, peu importe ce qu'il fait, cette marque noire ne peut être retirée et continue de hanter ses interactions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In game terms, the character picks one faction.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En terme de jeu, le personnage choisit une faction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every time they interact with this faction (such as a Networking Test) or with an NPC from this faction (Social Skill Tests) who knows who the character is, they suffer a -10 modifier per level.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À chaque fois qu'il interagît avec cette faction (avec un Test de Réseau par exemple) ou avec un PNJ de cette faction (test de Compétence Sociale) qui connaît le personnage, il subit un modificateur de -10 par niveau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Combat Paralysis}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Paralysise en Combat}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bonus: 20 CP</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bonus: 20 PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character has an unfortunate habit of freezing in combat or stressful situations, like a deer caught in headlights.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage a la malheureuse habite de se figer dans les situations de combat ou stressante, comme un faon prit dans les phares d'une voiture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Anytime violence breaks out around the character, or they are surprised, the character must make a Willpower Test in order to act or respond in any way.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À chaque fois que la violence explose autour du personnage, ou si il est surpris, le personnage doit faire un tst de Volonté afin d'agir ou de répondre de quelque manière que ce soit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If they fail the test, they lose their action and simply stand there, remaining incapable of reacting to the situation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si il rate ce test, il perd ses action et reste simplement planté là, incapable de réagir à la situation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Edited Memories}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Souvenirs Édités}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bonus: 10 CP</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bonus: 10 PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At some point in the character’s past, the character had certain memories strategically removed or otherwise lost to them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À un certain moment dans le passé du personnage, certains de ses souvenirs ont étés stratégiquement supprimés ou ont été perdus d'une manière ou d'une autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This may have been done to intentionally forget an unpleasant or shameful experience or to make a break with the past.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela peut avoir été fait intentionnellement pour oublier une expérience déplaisante ou honteuse ou alors pour rompre avec le passé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The memory may also have been lost by an unexpected death (with no recent backup), or it may have been erased against the character’s will.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les souvenirs ont également pu êþre perdus lors d'une mort inattendue (et sans sauvegarde récente), ou il ont pu être effacés contre la volonté du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Whatever the case, the memory should bear some importance, and there should exist either evidence of what happened or NPCs who know the full story.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelque soit le cas, les souvenirs perdus devraient revétir une importance quelconque, et il devrait exister soit des preuves de ce qu'il s'est passé, soit des PNJ qui connaissent toute l'histoire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is a tool the gamemaster can use to haunt the character at some future point with ghosts from their past.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est un outil que le maître de jeu peu utiliser pour hanter le personnage à un moment futur avec les fantômes de son passé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Enemy}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Ennemi}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At some point in their past, the character made an enemy for life who continues to haunt them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À un certain moment dans le passé du personnage, il s'sst fait un ennemi à vie qui continue à le harceler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster and player should work out the details on this enmity, and the gamemaster should use the enemy as an occasional threat, surprise, and hindrance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu et le joueur devrait déterminer les détails de ce t innimitié, et le maître de jeu devrait utilsier cet ennemi en tant que menace, surprise et gène occasionnelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Feeble}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Faible}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character is particularly weak with one aptitude.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>le personnage est particulièrement faible sur l'une de ses aptitudes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>That aptitude must be purchased at a rating lower than 5, and may never be upgraded during character advancement.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette aptitude doit être achetées à un niveau inférieur à 5, et ne pourra jamais être améliorée lors de l'avancement du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The aptitude maximum is 10, no matter what morph the character is wearing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maximum de cette aptitude est de 10, quelle que soit la morph que porte le personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Frail (Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Frêle (Trait de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bonus: 10 (Level 1) or 20 (Level 2) CP</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bonus: 10 (Niveau 1) ou 20 (Niveau 2) PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This morph is not as resilient as others of its type.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette morph n'est pas aussi solide que les autres morphs de son type.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Its Durability is reduced by 5 per level.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sa Solidité est réduite de 5 par niveau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This also reduces Wound Threshold by 1 or 2, respectively.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela réduit également le Seuil de Blessure de 1 ou 2 respectivement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Genetic Defect (Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Défaut Génétique (Trait de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bonus: 10 CP or 20 CP</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bonus: 10 PP ou 20 PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The morph is not genefixed, and in fact suffers from a genetic disorder or other impairing mutation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette morph n'est pas génétiquement réparée, et souffre en fait d'un trouble génétique ou d'une mutation handicapante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The player and gamemaster should agree on a defect appropriate to their game.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le joueur et le maître de jeu doivent se mettre d'accord sur un défaut approprié à leur jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some possibilities include: heart disease, diabetes, cystic fibrosis, sickle-cell disease, hypertension, hemophilia, or color blindness.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines possibilités incluent: maladie cardiaque, diabète, fibrose kystique, drépanocytose, hypertension, hémophilie ou daltonisme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A genetic disorder that creates minor complications and/or occasional health problems would be worth 10 CP, a defect that significantly impairs the character’s regular functioning or that inflicts chronic health problems is worth 20 CP.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un trouble génétique qui crée des complications mineures et/ou des problèmes de santé occasionnelle devrait valoir 10 PP, un défaut qui handicape significativement le fonctionnement normal du personnage ou qui lui inflige des problème de santé chronique devrait valoir 20 PP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster must determine the exact effects of the disorder on gameplay, as appropriate.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu doit déterminer l'effet exact du trouble sur le jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This trait is only available for flats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce trait n'est disponible que pour les plates.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Identity Crisis}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Crise Identitaire}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character’s ego has trouble adapting itself to the changed look of a new morph—they are stuck with the mental image of their original body, and simply do not grow accustomed to their new face(s).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'ego du personnage a un trouble à s'adapter à l'apparence modifiée d'une nouvelle morph - ils sont coincés avec l'image mentale de leur corps original, et ne s'habituent tout simpelment pas à leur(s) nouveau(x) visage(s).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a result, the character has difficulty identifying themselves in the mirror, photos, surveillance feeds, etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En conséquence, le personnage a des difficultés à se reconnaître dans le mirrori, sur les photos ou les flux de surveilalnces, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They frequently forget the look and shape of their current morph, acting inappropriately, describing themselves by their original body, forgetting to duck when walking through doorways, etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils oublient régulièrement l'apparence de leur morph actuelle, agissant de manière inappropriée, se décrivant par leur corps original, oubliant de se baisser lorsqu'il franchit une porte, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is primarily a roleplaying trait, but the gamemaster may apply appropriate modifiers (usually -10) to tests affected by this inability to adapt.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il s'agît essentiellement d'un trait d'interprétation, amis el maître de jeu peut appliquer des modificateurs (habituellement un -10) aux tests affectés pas cette incapacité à s'adapter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Illiterate}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Illétré}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character knows how to speak, but has difficulty reading or writing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage sait comment s'exprimer à l'oral, mais à des difficultés pour lire ou pour écrire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Due to the entoptic-saturated and icon-driven nature of transhuman society, they are able to get by quite comfortably with this handicap.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En raison de la saturation d'entoptique et la nature iconique de la société transhumaine, ils sont capable de s'en sortir de manière relativement confortable avec ce handicap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Reduce the character’s Language skills by half (round down) whenever reading or writing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Réduisez les compétences de Langue du personnage de moitié (arrondissez à l'inférieur) lorsqu'il s'agît de lire ou d'écrire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Immortality Blues}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Blues de l'Immortalité}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character has lived so long - over 100 years - they’re bored with life and now have difficulty motivating themselves.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage a vécu tellement longtemps - plus de 100 ans - qu'il s'ennuie de la vie et a maintenant des difficultés à se motiver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They were old when longevity treatments first became available, survived the Fall, and continue to soldier onward—though they find it increasingly harder to care, take interest in things around them, or fear final death.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il était déjà vieux quand les traitements de longévité devinrent disponible, il a survécu à la Chute et a continué à vadrouiller depuis - bien qu'il trouvent de plus en plus difficile de faire attention, de s'intéresser au choses autour d'eux, ou de craindre la mort finale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character only receives half the Moxie and Rez Points award for completing motivational goals.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage ne reçoit que la moitié des Points de Moxie et de Rez en récompense pour la complétion des objectifs réputationnels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This trait may not be purchased by characters with the infolife or uplift backgrounds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce trait ne peut être acheté par des personnages avec un historique infolife ou élevé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Implant Rejection (Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Rejets des Implants (Trait de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bonus: 5 (Level 1) or 15 (Level 2) CP</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bonus: 5 (Niveau 1) ou 15 (Niveau 2) PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This morph does not accept implants well.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette morph ne supporte pas très bien les implants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At Level 1, any implants acquired are more expensive as they required specialized anti-rejection treatments.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au niveau 1, tout les implants acquis sont plus chers car ils nécessitent des traitements anti-rejets spéciaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Increase the Cost category of the implant by one.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Augmentez la cartéogorie de prix de l'implant d'un rang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At Level 2, the morph cannot accept implants of any kind.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au niveau 2, la morph ne peut accepter d'implants d'aucune sorte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Incompetent}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Incompétent}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character is completely incapable of performing a particular chosen active skill, no matter any training they may receive.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage est complètement incapable d'accomplir une action en lien avec une compétence active déterminéen, peu importe l'entraînement qu'il pourrait recevoir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They may not buy this skill during character creation or later advancement, and the modifier for defaulting to the linked aptitude of this particular skill is -10.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils ne peuvent pas acheter cette compétence durant la création de personnage ou lors de l'avancement du personnage, et le modificateur pour défausser sur l'aptitude liée de cette compétence particulière est de -10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This may not be used for exotic weapon skills, and should be used for a skill that could be of use to the character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce trait ne peut être choisit pour les compétences d'armes exotiques, et devrait être choisit pour une compétence qui pourrait avoir une utilité pour le personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Lemon (Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Raté (Trait de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This trait is only available for synthetic morphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce trait n'est disponible que pour les morphs synthétiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This particular morph has some unfixable flaws.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette morph particulière a un défaut non-réparable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once per game session (preferably at a time that will maximize drama or hilarity), the gamemaster can call for the character to make a MOX x 10 Test (using their current Moxie score).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois par session de jeu (de manière préférable, à un moment qui maximisera le drame ou l'hilarité), le maître de jeu peut demander au personnage de fare un Test de MOX x 10 (en utilisant leur valeur de Moxie actuelle).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character fails, the morph immediately suffers 1 wound resulting from some mechanical failure, electrical glitch, or other breakdown.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le personnage rate, la morph souffre immédiatement d'une blessure réultant d'un problème mécanique, d'un défaut électrique ou d'une autre panne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This wound may be repaired as normal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette blessure peut être réparée de manière normale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Low Pain Tolerance (Ego Or Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{fauble Tolérance à la Douleur (Trait d'Égo ou de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pain is the character’s enemy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La douleur est l'ennemi du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character has a very low threshold for pain tolerance and is more severely impaired when suffering.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage possède un seuil de tolérance à la douleur très bas et est plus facilement handicapé lorsqu'il souffre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Increase the modifier for each wound take by an additional -10 (so the character suffers -20 with one wound, -40 with another, and -60 with a third).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Augmentez le modificateur de chaque blessure prise par un modificateur additionel de -10 (le eprsonnage subit donc un -20 avec une blessure, -40 avec une autre et -60 avec une troisième).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additionally, the character suffers a -30 modifier on any test involving pain resistance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage souffre également d'un modificateur de -30 sur tous les test mettant en jeu la résistance à la douleur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This morph version of this trait is only available for biomorphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La version morph de ce trait n'est disponible que pour les biomorphs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Mental Disorder}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Trouble Mental}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have a psychological disorder from a previous traumatic experience in your life.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous avez un désordre psychologique hérité d'une précédente expérience traumatisante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Choose one of the disorders listed on p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Choisissez l'un des troubles listés à la p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Mild Allergy (Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Allergie Légère (Trait de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bonus: 5 CP</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bonus: 5 PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The morph is allergic to a specific chosen allergen (dust, dander, plant pollen, certain chemicals) and suffers mild discomfort when exposed to it (eye irritation, sneezing, difficult breathing).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La morph est allergique a un allergène spécifique (poussière, squames, pollens, certains produits chimiques) et souffrent d'un inconfort léger lorsqu'ils y sont exposés (irritations des yeux, nez qui coule, gène respiratoire).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Apply a -10 modifier to all tests while the character remains exposed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appliquez un modificateur de -10 à tous les tests tant que le personnage est exposé à l'allergène.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Modified Behavior}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Comportement Modifié}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bonus: 5 (Level 1), 10 (Level 2), or 20 (Level 3) CP</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bonus: 5 (Niveau 1), 10 (Niveau 2) ou 20 (Niveau 3) PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character has been conditioned via time-accelerated behavioral control psychosurgery.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage a été conditionné par de la psychochirurgie comportementale en temps compressé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is common among ex-felons, who have been conditioned to respond to a specific idea or activity with vehement horror and disgust, but may have occurred for some other reason or even been self-inflicted.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est quelque chose de commun chez les anciens-criminels, qui ont été conditionnés pour répondre à une idée spécifique ou à une activité avec une horreur véhémente et dégoût, mais cela a pu arriver pour d'autre raison ou avoir été auto-infligé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At Level 1, the chosen behavior is either limited or boosted, at Level 2 it is either blocked or encouraged, and at Level 3 it is expunged or enforced (see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au niveau 1, le comportement choisit est soit limité, soit développé, au Niveau 2 il est soit bloqué oit encourage, et au niveau 3 il est effacé ou forcé (voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>231 for details).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>231 pour les détails).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This trait should only be allowed for behaviors that are either limited or, if encouraged, impact the character in a negative way.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce trait ne devrait être autorisé que pour les comportements qui soit sont limités ou soit , si ils sont encourgaés, affectent le personnage de manière négative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Morphing Disorder}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Trouble Morphique}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Adapting to new morphs is particularly challenging for this character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>S'adapter à de nouvelles morphs est un défi particulier pour ce personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character suffers a -10 modifier per level on Integration Tests and Alien- ation Tests (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il souffre d'un modificateur de -10 par niveau à tous les Tests d'Intégration et Test d'Aliénation (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Neural Damage}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Dommage Neuraux}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character has suffered some type of neurological damage that simply cannot be cured.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage souffre d'un type de dommage neurologique qui ne peuvent simplement pas être soigné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The affliction is now part of the character’s ego and remains with them even when remorphing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'affliction fait maintenant parti de l'égo du personnage et persiste même lorsqu'il change de morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This damage may have been inherited, it may have resulted from a poorly designed morph or implant, or it may have been inflicted by one of the TITAN nanovirii that targeted neural systems during the Fall (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces dégats peuvent avoir été hérités, ils peuvent résulter d'un implant ou d'une morph mal conçu, ou ils peuvent avoir été infligés par l'un des nanovirus des TITANs qui ont ciblés le système neuronal pendant la Chute (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster and player should agree on a specific disorder appropriate to their game.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu et le joueur doievnt s'accorder sur un trouble spécifique approprié au jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some possibilities are:</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques possibilités:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Partial aphasia (difficulty communicating or using words)  Color blindness  Amusica (inability to make or understand music)  Synaesthesia  Logorrhoea (excessive use of words)  Loss of face recognition  Loss of depth perception (double range modifiers)  Repetitive behavior  Mood swings  The inability to shift attention quickly</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aphasie partielle (diificulté à communiquer ou à utiliser des mots)  Daltonisme  Amusica (incapacité à faire ou à comprendre la musique)  Synesthésie  Logorrhée (usage excessif de mots)  Perte de la reconnaissance faciale  Perte de la perception du relief (doublez les modificateurs de portée)  Comportement répétitif  Sautes d'humeurs  Incapacité à basculer rapidement son attention d'une tâche à l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster may decide to inflict modifiers resulting from this affliction as appropriate.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu peu décider d'infliger des modificateurs résultants de cette affliction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The morph lacks the cortical stack that is common to morphs of its type.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La morph ne possède pas la pile corticale qui est commune aux morphs de son type.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This means the character cannot be resleeved from the cortical stack if the character dies, they can only be resleeved from a standard backup.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela signifie que le personnage ne peut être réincarné depuis la pile corticale si le personnage meurt, il ne peut être réincarné que depuis une sauvegarde standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This trait is not available for flats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce trait n'est pas disponible pour les plates.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Oblivious}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Oublieux}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character is particularly oblivious to events around them or anything other than what their attention is focused on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>le personnage est particulièrement oublieux des évènements qui l'entoure ou de tout ce sur quoi n'est pas concentrer leur attention.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They suffer a -10 modifier to Surprise Tests and their modifier for being Distracted is -30 rather than the usual -20 (see Basic Perception, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils souffrent d'un modificateur de -10 pour les Tests de Surprise et leur modificateur pour être Distrait est de -30 au lieu de l'habituel -20 (voir Perception Basique p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{On The Run}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{En Fuite}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character is wanted by the authorities of a particular habitat/station or faction, who continue to actively search for the character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage est recherché par les autorités d'un habitat/d'une station particulier ou par une faction, qui continue de rechercher activement le personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They either commit- ted a crime or somehow displeased someone in power.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il a soit commis un crime ou il a déplut d'uen manière ou d'une autre à quelqu'un de puissant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character deals with that faction in question at their own risk, and may occasionally be forced to deal with bounty hunters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>le personnage traite avec cette faction à ses propres risques, et peut occasionnellement être forcé de faire face à des chasseurs de primes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Psi Vulnerability (Ego Or Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Vulnérabilité Psi (Trait d'Ego Ou de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Something about the character’s mind makes them particularly vulnerable to psi attack.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelque chose dans l'esprit du personnage le rend particulièrement vulnérable aux attaques psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They suffer a -10 modifier when resisting such attacks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils souffrent d'un modificateur de -10 lorsq'uils doivent résister à de telles attaques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The morph version of this trait may only be taken by biomorphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La version morph de ce trait n'est disponible que pour les biomorphs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Real World Naiveté}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Naiveté du Monde Réel}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Due to their background, the character has very limited personal experience with the real (physical) world—or they have spent so much time in simulspace that their functioning in real life is impaired.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En raison de son passé, le personnage a une expérience personnelle trés limitée avec le monde réel (physique) - à moins qu'il n'ait passé tellement de temps en simulspace que son évolution dans le monde réel est handicapée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They lack an understanding of many physical properties, social cues, and other factors that people with standard human upbringings take for granted.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il manque de la compréhension de beaucoup de propriétés physiques, de codes sociaux, et d'autres facteurs que les gens ayant une éducation humain standard considèrent comme acquis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This lack of common sense may lead the character to misunderstand how a device works or to misinterpret someone’s body language.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce manque de sens commun peut mener les personnages à ne pas comprendre le fonctionnement d'un appareil ou à mal interpréter le language corporel de quelqu'un.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once per game session, the gamemaster may intentionally mislead the character when giving them a description about some thing or some social in- teraction.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois par session de jeu, le maître de jeu peut intentionnellemtn induire en erreur le personnage lorsqu'il lui décris quelque chose ou lors d'une interaction sociale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This falsehood represents the character’s misunderstanding of the situation, and should be roleplayed appropriately, even if the player realizes the character’s mistake.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce mensonge représente l'incompréhension de la situation par le personnage, et devrait être interprété de manière appropriée, même si le joueur réalise l'erreur du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This trait should only be available to characters with the infolife or reinstantiated backgrounds, though the gamemaster may allow it for characters who have extensive virtual reality/XP use in their personal histories.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce trait ne devrait être disponible que pour les personnage avec l'historique infolife ou réinstantié, bien que le maître de jeu peu l'autoriser pour les personnages qui ont dans leur histoires personnelles un usage extensif de la réalité virtuelle/de l'XP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Severe Allergy (Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Allergie Grave (Trait de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bonus: 10 (uncommon) or 20 (common) CP</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bonus: 10 (rare) ou 20 (commune) PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The morph’s biochemistry suffers a severe allergic reaction (anaphylaxis) when it comes into contact (touched, inhaled, or ingested) with a specific allergen.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>la biochimie de la morph souffre de réaction allergique grave (anaphylaxie) lorsqu'il entre en conatct (touché, inhalé, ingéré) ave un allergène spécifique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The allergen may be common (dust, dander, plant pollen, certain foods, latex) or uncommon (certain drugs, insect stings).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'allergène peut-être commun (pouissières, squames, pollens, certains aliments, latex) ou rare (certaines drogues, les piqures d'insectes).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The player and gamemaster should agree on an allergen that fits the game.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le joueru et le maître de jeu devrait se mettre d'accord sur un allergène correspondant au jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If exposed to the allergen, the character breaks into hives, has difficulty to breathing (-30 modifier to all actions), and must make a DUR Test or go into anaphylactic shock (dying of respiratory failure in 2d10 minutes unless medical care is applied).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si il est exposé à l'allergène, le personnage entre en crise, a des difficulté à respirer (modificateur de -30 à toutes les actions), et doit faire un Test de SOL ou subir un choc anaphylactique (mort par arrêt respiratoire en 2d10 minutes à moins que des soins madicaux ne soietn faits).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Slow Learner}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Apprenant Lent}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>New skills are not easy for this character to pick up.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage a du mal à saiair les nouvelles compétences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character takes twice as long as normal to improve skills or learn new ones (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage mets deux fois plus de temps que la normale pour améliorer les compétences ou en apprendre de nouvelles (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Social Stigma (Ego Or Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Stigmatisation Sociale (Trait d'Égo ou de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An unfortunate aspect of the character’s background means that they suffer from a stigma in certain social situations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un aspect malheureux de l'historique du personnage fait qu'il est stigmatisé dans certaines situtations sociales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They may be sleeved in a morph viewed with repugnance, be a survivor of the infamous Lost generation, or may be an AGI in a post-Fall society plagued by fear of artificial intelli- gence.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il peut avoir été récincarné dans une morph perçues aevc répugnance, être un survivant de l'infâme génération Égarée ou être une IAG dans une société post-Chute en proie à la peur de l'intelligence artificielle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In social situations where the character’s nature is known to someone who view that nature with distaste, fear, or repugnance, they suffer a -10 to -30 modifier (gamemaster’s discretion) to social skill tests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les situations sociales où la nature du personnage est connue qui perçoit cette néture comme avec dégoût, peur ou répugannce, il souffre d'un modificateur allant de -10 à -30 (à la discrétion deu maître de jeu) aux tests de compétences sociale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Timid}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Peureux}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This character frightens easily.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce personnage est facilement effrayé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They suffer a -10 modifier when resisting fear or intimidation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il souffre d'un modificateur de -10 lorsqu'il résiste à la peur ou à l'intimidation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Unattractive (Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Repoussant (Trait de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bonus: 10 CP (Level 1), 20 CP (Level 2), 30 CP (Level 3)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bonus: 10 (Niveau 1), 20 (Niveau 2) ou 30 (Niveau 3) PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In a time when good looks are easily purchased, this morph is conspicuously ugly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À une époque ou être beau est facilement acquis, cette morrph est visiblement moche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As unattractiveness is increasingly associated with being poor, backward, or genetically defective, responses to a lack of good looks range from distaste to horror.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme la répulsion est de plus en plus associée à la pauvreté, aux rétrogrades ou à un défuat génétique, les réponses au manque de beauté vont du dégoût à l'horreur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character suffers a -10 modifier on social tests for Level 1, -20 for Level 2, and -30 for Level 3.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage reçoit un modificateur de -10 sur tous les tests sociaux au niveau 1, de -20 au niveau 2 et de -30 au niveau 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only biomorphs may take this trait.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Seules les biomorphs peuvent prendre ce trait.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This modifier does not apply to interactions with xenomorphs or those with the infolife or uplift backgrounds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce modificateur est inefficace sur les xénomorphs ou ceux qui ont un historique infolife ou élevé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This modifier may be purchased for uplift morphs, but at half the bonus, and it is only effective against characters with that specific uplift background (i.e., neo-avians, neo-hominids, etc.).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce modificateur peut être acheté pour les morphs élevées, mais à moitié prix, et il n'est efficace que contre les personnages ayant le même type de morph élevé (càd néo-aviens, néo-homnide, etc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Uncanny Valley (Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Apparence Étrange (Trait de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There is a point where synthetic human looks become uncannily realistic and human-seeming, but they remain just different enough that their looks seem creepy or even repulsive—a phenomenon called the “uncanny valley.” Morphs whose looks fall into this range suffer a -10 modifier on social skill tests when dealing with humans.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a un point où l'apparence humaine synthétique est devenue étrngement réaliste et ressemblant aux humains, tyout en restant juste suffisament différente pour que leur apparence semble effraaynte ou repoussante - un phénomène appelé &quot;apparence étrange.&quot; Les morphs dont l'apparence tombe dans ces extrêmes subissent un modificateur de -10 sur leurs test de compétence sociale lorsqu'elles traitent avec des humains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Unfit (Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Inadapté (Trait de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bonus: 10 CP (Level 1), 20 CP (Level 2)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bonus: 10 PP (Niveau 1), 20 PP (Niveau 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The morph is either not optimized for health and/or just in bad shape.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette morph est soit non optimisé pour la forme et/ou simplement en mauvais étât.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Reduce the aptitude maximums for Coordination, Reflexes, and Somatics by 5 (Level 1 ) or 10 (Level 2).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Réduisez le maximum des aptitudes Coordination, Réflexes et Somatique de 5 (niveau 1) ou 10 (niveau 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{VR Vertigo}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Vertige RV}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character experiences intense vertigo and nausea when interfacing with any type of virtual reality, XP, or simulspace.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage souffre d'intense vertiges et nde nausée lorsqu'il s'interface à n'importe quel type de rélaité virtuelle, d'XP ou de simulspace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Augmented reality has no effect, but VR inflicts a -30 modifier to all of the character’s actions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La réalité augmentée n'a aucun effet, mais la RV inflige un modificateur de -30 aux actions du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Prolonged use of VR (gamemaster’s discretion) may actually incapacitate the character should they fail a WIL x 2 Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une utilisation prolongée de la RV (à la discrétion du maître de jeu) peut réellement incapaciter le personnage si il rate un Test de VOL x 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Weak Immune System (Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Système Immunitaire Faible (Trait de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The morph’s immune system is susceptible to diseases, drugs, and toxins.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le système immunitaire de la morph est affaiblie et résiste moisn bien aux maladies, drogues et toxines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At Level 1, apply a -10 modifier whenever making a test to resist infection or the effects of a toxin or drug.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au niveau 1, appliquez un modificateur de -10 lorsque vous faites un test pour résister à l'infection ou aux effets d'une toxine ou d'une drogue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At Level 2, increase this modifier to -20.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au niveau 2, augmentez ce modificateur à -20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Zero-G Nausea (Morph Trait)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Nausée de Zéro-G (Traot de Morph)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This morph suffers from space sickness and does not fair well in zero-gravity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette morph souffre du mal de l'espace et n'est pas à l'aise dans les environnement en gravité zéro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character suffers a -10 modifier in any microgravity climate.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage souffre d'un modificateur de -10 en environnement en micro-gravité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additionally, whenever the character is first getting acclimated or anytime they must endure excessive movement in microgravity, they must make a WIL Test or spend 1 hour incapacitated by nausea per 10 points of MoF.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>lrosque le personnage est acclimaté pour la première fois ou à chaque fois qu'ils doivent encurer des déplacements excessifs en microgravité, le personnage doit faire un Test de VOL ou passer 1 heure incapacité par des nausée par 10 points de MdE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character Advancement</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Progression du Personnage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As characters accomplish goals and gather experience during gameplay, they accumulate Rez Points (see Awarding Rez Points, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que les personnages accomplissent des objectifs et accumulent de l'expérience pendant le jeu, ils accumulent des Points de Rez (voir Accorder les Points de Rez, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rez Points may be used to improve the character’s skills, aptitudes, and other characteristics per the following rules.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Points de Rez peuvent être utilisés pour améliorer les compétences du personnage, ses aptitudes et d'autres caractéristiques selon els règles suivantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The costs for spending Rez Points for advancement are the same as the costs for spending Customization Points.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les coûts de l'avancement en Points de Rez sont les mêmes qu'en Points de Personnalisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spending Rez Points</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dépenser les Points de Rez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>15 RP = 1 Moxie point  10 RP = 1 aptitude point  5 RP = 1 psi sleight  5 RP = 1 specialization  2 RP = 1 skill point (61-99)  1 RP = 1 skill point (up to 60)  1 RP = 10 Rep  1 RP = 1,000 Credits</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>15 PR = 1 point de Moxie  10 PR = 1 point d'aptitude  5 PR = 1 exploit psi  5 PR = 1 spécialisation  2 PR = 1 point de compétence (61-99)  1 PR = 1 point de compétence (jusqu'à 60)  1 PR = 1 000 crédit  1 PR = 10 rep</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Changing Motivation}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Changer de Motivation}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is only natural that over time a character’s driving goals and interests will change.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il est aprfaitement naturel que les buts et els intérêts d'un personnages évoluent au fil du temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character may reach a turning point where they feel certain personal agendas have been fulfi lled and it is time to move on, or they have failed and need to be discarded.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage peut avoir atteint un tournant où ils pensent que certains projets ont étés complétés et qu'il est temps de passer à la suite, ou il a raté son coup et doit abandonner l'idée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>New urgencies or philosophies may have entered the character’s life, or the character may have become disenchanted with particular memes and ideas they previously took to heart.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De nouvelles urgences ou philosophies peuvent entrer dans la vie du personnage, à moins qu'il ai perdu ses illusions vis à vis d'un mème et d'idées particulières qu'ils prenaient à cœur précédemment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Changing a character’s motivation does not cost Rez Points, but it is something that should only happen in accordance with roleplaying and with life-altering events.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Changer une motivation d'un personnage ne coûte aucun Points de Rez, mais c'est quelque chose qui ne devrait arriver qu'en accord avec l'interprétation et les évènements vécus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Players should not be allowed to simply switch their motivations at whim, there should be a driving reason or explanation for doing so.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les joueurs ne devraient pas être autorisés à simplement basculer leur motivations à volonté, il doit y avoir une raion ou une explication motivant ce changement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For this reason, changing a motivation should only happen when the player and gamemaster discuss the matter and both agree that the swap is appropriate to the character’s development and circumstances.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour cette raison, changer de motivation ne devrait arriver que lorsque le joueur et le maîtree de jeu discutent du sujet et soient tous les deux d'accord que l'échange est approprié au développement du personnage et aux circonstances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If these conditions are met, the character simply drops a previously held motivation and takes on a new one.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si ces conditions sont satisfaites, le personnage abandonne une motivation précédente et s'engage sur la nouvelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only one motivation should be switched out at a time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une seule motivation ne peut être changée à al fois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Switching Morphs}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Changer de Morph}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Resleeving—switching from one morph to another— is handled as an in-character interaction, not with Rez Points.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Se réincarner - basculer d'une morph à une autre - est géré comme une interaction en jeu et n'est pas gérée par des Points de Rez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See Resleeving, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voir Réincarnation, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Improving Aptitudes}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Améliorer des Aptitudes}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aptitudes may be raised with Rez Points at the cost of 10 RP per aptitude point.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les aptitudes peuvent être améliorée avec des points de Rez au coût de 10 PR par point d'aptitude.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This represents the character’s improvement in their core characteristics, gained from exercise, learning, and experience.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela représente l'amélioration du personnage dans ses caractéristiques principale, profitant de l'exercice, de l'apprentissage et de l'expérience.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aptitudes may not be raised above 30 (bonuses from morphs, implants, traits, or other sources do not count towards this total).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les aptitude ne peuvent être améliorée au-dessus de 30 (les bonus des morphs, des implants, des traits ou d'ailleurs ne comptent pas dans ce total).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Raising the value of an aptitude also raises the value of all linked skills by an equivalent amount.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Augmenter la valeur d'une aptitude augmente également la valeur de toutes les compétences liés du même montant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this raises any linked skills over 60, an additional 1 RP must be spent per linked skill over 60.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si cela augmente une compétence liée au-delà de 60, 1 PR supplémentaire doit être dépassé pour chaque compétence liée au-dessus de 60.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Improving Skills}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Améliorer des Compétences}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters may also spend Rez Points to increase existing skills or learn new ones.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages peuvent également dépenser des Points de Rez pour augmenter leurs compétences ou en apprendre de nouvelles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To improve an existing skill, the character must have successfully used that skill in the recent past or must actively practice it in order to get better, perhaps with the aid of an instructor.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour améliorer une compétence existante, le personnage doit avoir utilisé cette compétence avec succès dans un apssé récent ou s'entraîner activement afin de devenir meilleur, prut-être avec l'assistance d'un instructeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the case of Knowledge skills, this means actively studying.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans le cas des compétences de Connaissances, cela implique de l'étude active.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a rough timeframe, this should require around 1 week of learning per skill point.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme intervalle de temps grossier, cela dervait nécessiter 1 semaine d'apprentissage par point de compétence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A number of educational resources are freely available via the mesh, though some areas of interest may be restricted or hard to fi nd.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup de ressources éducatives sont librement disponible via le mesh, bien que certains domaines pourrait être restreint ou dur à trouver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This can be handled via roleplaying or designated as something the character is doing during downtime between sessions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela peut-être géré par l'interprétation ou désigné comme quelque chose sur lequel travail le personnage entre deux sessions de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the gamemaster decides that a character has not put enough effort into improving a skill, they may call for more practice/study.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le maîþre de jeu décide qu'un personnage ne s'est pas suffisament investi dans l'amélioration d'une compétence, il peut demander plus d'entraînement/d'étude.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The cost to increase a skill is 1 RP per skill point, and no skill may be increased over 99.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le coût d'amélioration d'une compétence est de 1 PR par point de compétence, et aucune ne peut être améliorée au -delà de 99.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No skill may be raised by more than 5 points per month.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aucune compétence ne peut être améliorée de plus de 5 points par mois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When a character’s skill reaches the level of expertise (skill of 60+), however, they tend to reach a plateau where improvement progresses more slowly and even consistent practice and study have diminished returns.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque la compétence d'un personnage atteint le niveau d'expertise (à 60+), le personnage a cependant tendance à atteindre un palier dans la vitesse de progression et où même la pratique régulière et les études ont des gains réduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, the Rez Point cost per skill point doubles (i.e., 2 RP = +1 skill point).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, le coût en Rez Point par point de compétence est doublé (passant de 2PR pour 1 point de compétence).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When a skill reaches 80, improvement slows down even further—a skill of 80+ may not be increased by more than 1 point per month.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Arrivé à 80, l'amélioration d'une compétence ralentit encore plus - une compétence au niveau 80+ ne peut être améliorée par plus d'un point par mois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Learning New Skills}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Apprendre de Nouvelels Compétences}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Similarly, to learn a new skill, the character must actively study/practice and/or seek instruction.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, pour apprendre une nouvelle compétence, le personnage doit s'entraîner/étudeier activement et/ou chercher un instructeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No test to learn is required, unless the period of study was hampered or in some way defi cient, in which case the gamemaster may call for a COG x 3 Test to pick up the new skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aucun test d'apprentissage n'est nécessaire, sauf si l'apprentissage a été entravé ou a été déficient pour une raion ou pour une autre, auquel cas le maître de jeu peu demander un Test de COG x 3 pour apprendre la nouvelel compétence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Otherwise, once a character has spent approximately a week learning a new skill, they may purchase their fi rst skill point at the usual cost (1 RP).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sinon, une fois que le personnage a apssé approximativement une semaine à apprendre une nouvelle compétence, il peut acheter son premier point au coût habituel (1 PR).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The skill is bought up from the aptitude rating, per normal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La compétence est acheté au niveau du rang d'aptitude, comme d'habitude.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once a new skill is acquired, it is raised according to the standard rules above.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois qu'une nouvelle compétence est acquise, elle est augmentée selon les règles standard ci-dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Specializations}  Specializations may be purchased for existing skills, as long as that skill is at least rating 30.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Spécialisations}  Des spécialisations peuvent être achetées pour les compétences existantes, tant que leur niveau est au moins à 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations require a total of 1 month of training.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les spécialisations nécessitent un moins d'entraïnement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The cost to learn a specialization is 5 RP.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le coût d'apprentissage d'une spécialisation est de 5 PR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only 1 specialization may be purchased per skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une compétence ne peut avoir que 1 spécialisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Improving Moxie}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Augmenter le Moxie}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moxie may be raised at the cost of 15 RP per Moxie point.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>le Moxie peut-être augmenté au coût de 15 PR par point de Moxie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Gaining/Losing Traits}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Gagner/Perdre des Traits}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the gamemaster’s discretion, both positive and negative traits may be acquired or lost during gameplay, though such changes should be rare and only made in accordance with the storyline and unfolding events in the game.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À la discrétion du maître de jeu, des traits positifs et négatifs peuvent être acquis ou perdus pendant le jeu, bien que de tels changements devraient être rare et accomplis uniquement en accord avec la narration et les évènements en cours lors de la aprtie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Both positive and negative traits may be picked up by a character during gameplay as a consequence of something that did or something that happened to them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À la fois des traits positifs et négatifs peuvent être attribués à un personnage pendant le jeu comme conséquence de ce qu'ils ont fait ou de ce qu'il leur est arrivé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the case of a positive trait, the character must immediately spend Rez Points equal to the trait’s CP cost for the privilege (whether they wanted the new trait or not).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans le cas de traits positifs, le personnage doit immédiatement dépenser un nombre de Point de Rez équivalent au coût en PP du trait (qu'ils aient voulus ou non ce nouveau trait).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character has no unspent RP available, they must pay out immediately from any future RP they earn until the debt is paid off.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le personnage n'as pas de PR disponible, il doit le payer immédiatement d tout PR futur qu'il pourrait acquérir jusqu'à ce que la dette soit payée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the case of a negative trait, however, the character is simply saddled with the new fl aw—they do not acquire any extra RP for gaining the negative trait.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans le cas d'un trait négatif cependant, le personnage récupère juste le nouveau défaut - ils n'acquièrent pas de PR supplémentaire pour avoir hrité de ce trait négatif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Getting rid of traits is somewhat more diffi cult.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Se débarasser de trait est quelque peu plus délicat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Positive traits may be lost due to unfortunate effects on the character, as the gamemaster sees fi t.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les traits positifs peuvent être perdus suite à un effet malheureux que subit le personnage, comme le maître de jeu le souhaite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Such lost positive traits are simply gone—the character does not receive any Rez Point reimbursement.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De tels traits positifs perdus sont simplement partis - le personnage ne reçoit aucun Point de Rez en remboursement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Negative traits are occasionally eliminated in the same way, but more typically they can only be worked off through the hard work and diligence of a character that seeks to overcome their handicap.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les traits Négatifs sont éliminés occasionnellement de la même manière, mais en général ils ne peuvent être annulés que par un travail difficile et la volonté d'un personnage à chercher à se débarasser de son handicap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Such endeavors should require weeks if not months of effort on the character’s part, with appropriate roleplaying and possibly some diffi cult tests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De tels comportements devraient nécessiter des semaines voire des mois d'effort de la part du personnage, avec une interpétation appropriée et probablement quelques tests difficile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In fact, overcoming such traits could be the source of an adventure.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fait, dépasser de tels traits pourrait être à l'origine d'aventures complètes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once a gamemaster feels that the character has made a strong-enough effort, the character may pay a number of Rez Points equal to the trait’s original CP bonus to negate it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois que le maître de jeu pense que le personnage a accompli un effort suffisament important, le personnage doit payer un nombre de Point de Rez égal au bonus en PP du trait pour l'annuler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note, however, that some negative traits may simply not be discarded, no matter what the character does.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez cependant que certains traits négatifs ne peuvent pas être annulés, peu importe ce que fait le personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Improving Rep}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Augmenter la Rep}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Reputation is something that can be increased with appropriate roleplaying and actions during gameplay (see Reputation Gain and Loss, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La réputation est quelque chose qui peu être augmentée par une interprétation appropriée et des actiosn pendant le jeu (voir Gain et Perte de Réputation, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters that prefer to handle their Rep-boosting activities “off-screen,” however, can simply spend Rez Points to boost their score(s).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages qui préfèrent gérer leur activités d'augmentation de Rep &quot;hors champ&quot; peuvent cependant dépenser des Points rez pour augmenter leur score(s).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each RP spent boosts the character’s Rep by +10 in a single network.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque point de PR augmente la Rep du personnage de +10 dans un seul réseau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only one such boost may be made to a single rep network per month.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un seul boost de ce type peut être effectué pour un seul réseau de rep par mois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Making Credit}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Faire des Crédits}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rez Points may be spent on Credit at a ratio of 1 RP for 1,000 Credits.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Points de Rez peuvent être convertis en Crédit au taux de 1 PR pour 1000 ¢.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This represents income the character has earned “off-screen” or during downtime, such as from odd jobs, selling off possessions, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela représente les revenus que le eprsonnage gagne &quot;horsh-champ&quot; ou pendant les temps de pauses, tels que des petits boulots, la vente d'objets et autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Improving Psi}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Améliorer le Psi}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters who have the Psi trait (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages possédant le trait Psi (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>147) may purchase new sleights (see Sleights, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>147) peuvent acheter de nouveaux exploits (voir Exploits, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>223) at the cost of 5 RP per sleight.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>223) au coût de 5 PR par exploit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sleights must be learned through study, training, and practice, requiring approximately 1 month per sleight.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les exploits peuvent être appris par l'apprentissage, l'entraînement et la pratique, nécessitant approximativement 1 mois par exploit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No more than one sleight may be learned per month.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>On ne peut pas apprendre plus d'un exploit par mois.</seg>
       </tuv>
     </tu>
     <tu>
