@@ -23726,6 +23726,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Flight</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -23806,10 +23814,1882 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Skills</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Compétences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In a setting where physical looks and capabilities are easily changed at the push of a button, who you are and what you know is more important than any inborn ability.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans un cadre où l'apparence et les possibilités physiques sont changés d'un claquement de doigt, qui vous êtes et ce que vous savez est bien plus important que vos capacités innées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Skills represent the knowledge your character has, the accumulated set of experience, education, and inherent know-how possessed by each and every sentient transhuman in Eclipse Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les compétences représentent la connaissance qu'à votre personnage, le cumul des expériences vécues, de l'éducation reçue et du savori faire inhérent possédé par chaque transhumain conscient dans Eclipse Phase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are what allow you to sneak into a hypercorp station, disable the security systems, hack the mesh hub, and then impersonate security personnel to make your escape.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elles sont ce qui vous permet de vous faufiler dans une station hypercorporatiste, de désactiver le système de sécurité, de hacker le concentrateur mesh puis de vous faire passer pour le personnel de sécurité pour vous échapper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your skills represent the one thing you have no matter what you look like or where you find yourself.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vos compétences représentent ce que vous avez, peu importe votre apparence ou l'endroit où vous vous trouvez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When your characters explore what they can do, their skills, or lack thereof, often determine the margin between success and failure.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>lorsque vos personnages explorent leur possibilités, leur compétence, ou l'absence de compétence, sont souvent la différence entre la réussite ou l'échec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Having a well-rounded set of skills is vital to survival and success in Eclipse Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Avoir un ensemble cohérent de compétence est vital à la survie et à la réussite dans Eclipse Phase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The skills below encompass a wide selection of talents, enough so that each character can be unique in their abilities and knowledge.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les compétences ci-dessous regroupent une large sélection de talents, suffisament pour que chaque personnage puisse être unique dans ses capacités et connaissances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Skill overview</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aperçu des compétences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Skills are divided into aptitudes and learned skills (see Character Skills, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les compétences sont divisées enre les aptitudes et les compétences apprises (voir Compétences des Personnages, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most (but not all) learned skills are built on and linked to an aptitude.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart (mais pas toutes) des compétences apprises sont basées et liées à une aptitude.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a character lacks the specific skill needed in a situation, they may default to the linked aptitude.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un personnage manque d'une compétence spécifique nécessaire à une situtation, il peut défausser sur l'aptitude liée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may also choose to specialize in certain skills (see Specializations, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous pouvez choisir de vous spécialiser dans certaines compétences (voir Spécialisations, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>123), reflecting an enhanced knowledge of a particular aspect of a certain skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>123), reflétant une connaissance améliorée d'un aspect particulier d'une compétence particulière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{CORE SKILLS: APTITUDES} Aptitudes represent inherent skills and abilities acquired at birth or during the course of growing up.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{COMPÉTENCES CENTRALES: APTITUDES} Les aptitudes représentent les compétences innées et les capacités acquise à la naissance ou pendant la croissance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aptitudes are sometimes used for tests, but their primary use is determining the starting point at which learned skills are developed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les aptitudes sont parfois utilisées pour les test, mais leur utilisation principale est de déterminer le point de départ duquel les compétences apprises sont développées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aptitudes determine the starting value of their linked skills.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les aptitudes déterminent la valeur de départ des compétences liées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, a character with Somatics aptitude 10 who wishes to purchase points in the Freerunning skill (which is linked to Somatics) would start with a Freerunning rank of 10 and then buy additionally points in that skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, un personnage avec une aptitude Somatique de 10 qui souhaite acheter des points dans la compétence Parkour (qui est liée à Somatique) commencera avec un rang de Parkour de 10 et achètera ensuite les points additionnel dans cette compétence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aptitudes are also used when a character doesn’t posses knowledge of a needed skill (see Defaulting, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les aptitudes sont également utilisées lorsqu'un personnage ne possèdent pas une compétence nécessaire (voir Se Défausser, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aptitudes represent the basic knowledge that a character has acquired regarding rudimentary use of that skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les aptitudes représentent la connaissance basique qu'un personnage a acquis vis à vis de l'utilisation rudimentaire de cette compétence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They may not have ever received any formal training with the skill, but they can still attempt to use it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il peut ne pas avoir reçu d'entraînement formel dans la compétence, mais il peut toujours tenter de s'en servir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aptitudes range in value from 1 to 30, with 10 being the unaugmented human average and 15 representing the average of most genetically modified transhumans.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les aptitudes vont de 1 à 30, 10 étant la moyenne pour un humain non augmenté et 15 la moyenne des humains modifiés génétiquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since aptitudes represent untrained ability, they are capped at a maximum rating of 30.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Puisque les aptitudes représentent une capacité non entraînées, elles sont limitées au niveau 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are seven different aptitudes that all players possess.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a sept aptitudes différentes que tous les joueurs possèdent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These aptitudes are purchased during character creation (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces aptitudes sont achetées pendant la création de personnage (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>128), but depending on the morph the character is currently inhabiting, they may find their aptitudes capped by the quality of the morph (see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>128), mais en fonction de la morph actuellement habitée par le personnage, leurs capacité peuvent être limitées par la qualité de la moprh (voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{LEARNED SKILLS} A player’s learned skills are the most important part of their character, representing the acquired knowledge they carry with them from morph to morph, knowledge that plays a fundamental role in helping define the person’s ego.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{COMPÉTENCES APPRISES} Les compétences apprises d'un joueur sont la part la plus importante de leur personnage, représentant les connaissances acquises qui les suivent de morph à morph, les savoirs qui jouent un rôle fondamental dans la définition de l'ego du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Learned skills encompass nearly any skill that you might need to use in Eclipse Phase, and they range in value from 0 to 99.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les compétences apprises regroupent presque toutes les compétences dont vous pourriez avoir besoin dans Eclipse Phase, et elles vont de 0 à 99.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All learned skills have a linked aptitude that is used to calculate their initial value, and which is also defaulted to if the player does not have that particular skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toutes les compétences apprises ont une compétence liées qui est utilisée pour calculer leur valeur initiale, ainsi que lorsque le joueur ne possède pas cette compétence et doit se défausser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{SKILL CATEGORIES} Each learned skill is classified as either an Active skill or a Knowledge skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{CATÉGORIES DE COMPÉTENCE} Chaque compétences apprise est soit une compétence Active, soit une compétence de Connaissance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Active skills represent skills that typically require physical actions and are used in action scenes within game play.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les compétences Active représentent les compétences qui nécessitent en général une action physique et qui sont utilisées lors des scènes d'action pendant le jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Knowledge skills are more knowledge-based and intellectual, representing ideas and facts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les ocmpétences de Connaissances sont plsu basées sur le savoir et l'intellect, représéentant les idées et les faits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Knowledge skills may play a less dramatic role in certain action-oriented game play moments, but they flesh out the character’s background and interests and are integral to roleplaying interactions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les compétences de Connaissances peuvent avoir un rôle moins dramatique dans certain moment de jeu plus orienté vers l'action, mais elles donnent corps aux historiques et intérêts du personnage et sont au cœur des interactions interprétées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Active and Knowledge skills are purchased separately during character creation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les compétences Actives et de Connaissances sont achetées séparément pendant la création de personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Active skills are further divided into Combat, Mental, Physical, Psi, Social, Technical, and Vehicle skills.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les compétences Actives sont également réparties en compétences de Combat, Mentales, Physiques, Psi, Sociales, Techniques et de Véhicule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Certain traits and abilities may apply to specific categories.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains traits et capacités peuvent s'appliquer à des catégories spécifiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{FIELD SKILLS} Some learned skills are field skills, meaning that when this skill is chosen a particular field of emphasis must also be selected.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{COMPÉTENCE DE DOMAINE} certaines compétences apprises sont des compétences de domaine, signifiant que lorsque cette compétence est choisie, un domaine ou une emphase aprticulière doit également être choisie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, the skill of Academics requires the character to specify a specific academic discipline in which they are knowledgeable, such as Biology, Chemistry, or Xenosociology.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, la compétence Académique nécessite que le eprsonnage spécifie une discipline académique dans lequel il est bien informé, telle que Bilogie, Chimie ou Xénosociologie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Field skills are written as “[skill]: [field];” for example: “Art: Painting.” Field skills can be taken multiple times, choosing a different area of emphasis each time, reflecting skills in different fields; that is to say, each field is a separate skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les compétences de domaine sont notés de la manière suivante &quot;[compétence]: [domaine];&quot; par exemple &quot;Art: Peinture.&quot; Les compétences de domaine peuvent être choisie plusieurs fois, en choisissant un champ de concentration à chaque fois, reflétant des compétences dans plsuierus domaines, chaque domaine est une compétence distincte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Several suggested fields are listed for each field skill, but gamemasters and players may also cooperate to create others that fit their games.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plusieurs domaines suggérés sont listés pour chaque compétence de domaine, mais les maître de jeu et les joueurs peuvent également coopérer pour en créer d'autres qui correspondent à leur jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Field skills may also have specializations; for example, Professional: Accounting (Money Laundering).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les compétence de domaine peuvent également avoir des spécialisations; par exemple, Profession: Comptabilité (Blanchiement d'Argent).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{PSI SKILLS} Psi refers to the ability to perceive and manipulate biological minds via psi waves and/or other inexplicable phenomena.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{COMPÉTENCES PSI} Le psi fait référence à la capacité de percevoir et manipuler les esprits biologiques grâces aux ondes psi et/ou d'autres phénomènes inexpliqués.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Due to the uniqueness of this ability, characters that wish to wield psi must acquire the Psi</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En raison du caractère unique de cette capacité, les personnages souhaitant utiliser le psi doivent acquérir le trait</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>trait (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Psi (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Psi use also requires a number of specialized skills (Control, Psi Assault, and Sense) that reflect special training characters acquire to tap into their psi powers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le psi nécessite également un nombre de compétences spécialisées (Contrôle, Assaut Psi et Divination) qui reflètent un entraînement spécifique que le personnage acquiert pour puiser dans ses pouvoirs psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Psi skills may not be defaulted on; the only way to use a psi skill is to possess the trait along with training in that skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les compétences Psi ne peuvent pas être défausser; la seule façon d'utiliser une compétence psi est de posséder le trait ainsi que l'entraînement dans cette compétence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For more details, see Psi, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour plus de détails, voir Psi, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{SPECIALIZATIONS} Any character may opt to specialize in a given skill (see Specializations, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{SPÉCIALISATIONS} Tout personange peut chosiir de se spécialiser dans une compétence particulière (voir Sépcilisations, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This specialization reflects increased knowledge in one particular aspect of the skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette spécialisations reflète une connaissance accrue dans un aspect particulier de la compétence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many of the skills offered below include sample specializations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des compétences proposées ci-dessous incluent des exemples de spécialisations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gamemasters and players are encouraged to develop other specialization ideas together for their campaigns.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les maître de jeu et les joueurs sont encouragés à développer d'autres idées de spécialisations ensemble pour leur campagne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specialization provides a +10 modifier when using that skill in a situation appropriate to that specialization.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les spécialisations fournissent un modificateur de +10 lorsqu'il utilise cette compétence dans une situation appropriée à la spécialisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>USING SKILLS</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>UTILISER LES COMPÉTENCES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Whenever a character wants to do something using a skill, they must succeed at a skill test (see Making Tests, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsqu'un personnage veut faire quelquechose en utilisant une compétence, il doit réussir un test de compétence (voir Faire des Tests, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The difficulty of the action is applied as a modifier, as are any other extenuating circumstances that may affect the test (see Difficulty and Modifiers, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La difficulté de l'action est déterminée par un modificateur, ainsi que toute autre cironstances pouvant affecter le test (voir Difficulté et Modificateurs, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As with other types of tests, all skill tests are successful when the character rolls less than or equal to the test’s target number after any modifiers have been applied.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme avec tous les autres types de tests, tous les tests de compétences réussissent si le personnage obtient un résultat inférieur ou égal au seil du test après que tous les modificateurs aient été appliqués.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the case of skill tests, the target number is the character’s skill rating with that particular skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans le cas desdes tests de compétences, le seuil est le niveau de compétence du personnage dans cette compétence particulière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Modifiers representing difficulty and other factors are applied directly to the target number (see Difficulty and Modifiers, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des modificateurs représentant la difficulté et d'autres facteurs sont appliqués directement au seuil (voir Diificulté et Modificateurs, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A roll of a 00 is always a success, regardless of modifiers, and a result of 99 is always a failure, again despite any modifiers that may increase a character’s target number over 100.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un résultat de 00 est toujours un succès, peu importe les modificateurs et un résultat de 99 est toujours un échec, toujours indépendament des modificateurs qui pourraient augmenter le seuil du personnage au-delà de 100.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Standard critical success and failure rules apply to skill tests (see Criticals: Rolling Doubles, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les règles standard de succès et d'échec critiques s'appliquent aux tests de compétences (voir Crirtiques: Obtenir des Doubles, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>116), so any time a character rolls a double (i.e. 00, 11, 22, 33, etc.) they score a critical success or failure.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>116), donc à chaque fois qu'un personnage obtiens un double (càd 00, 11, 22, 33, etc) il obtiens un succès ou un échec critique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{DEFAULTING} Sometimes you lack the skill needed in a certain situation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{SE DÉFAUSSER} Parfois vous ne possédez pas la compétence nécessaire à une certaine situation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In these instances, characters may default their skill test to the linked aptitude.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ces cas là, les personnages peuvent défausser leurs test de compétence sur l'aptitude liée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This reflects the fact that most learned skills are developed from some sort of baseline physical ability.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela relfète le fait que la plupart des comptéencs apprises sont développées depuis une sorte de capacité physique de base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even though you may not know how to do something, you’ve likely seen how it’s done at some point or have some idea of how to do it, or can at least take a shot at it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même si vous pouvez ne pas savoir commetn faire quelque chose, vous avez probablement vu comment on peut le faire ou avez une idée de la manière de procéder, ou vous pouvez toujours tenter votre chance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Naturally, you’re not as good as someone who has training in that skill, but it still allows you to make an attempt.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Naturellement, vous n'êtes pas aussi bon que quelqu'un qui a l'entraînement adéquat, mais cela vous permet quand même de tenter votre chance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Not all skills can be defaulted.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toutes les compétences ne peuvent être défausser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some skills are simply too complex or obscure, or demand special knowledge or ability, for someone to attempt their use untrained.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines compétences sont simplement trop complexe ou obscure, ou demandent une connaissance ou une capacité spécifique, pour que quelqu'un tente de s'en servir sans l'entraînement nécessaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, brain surgery or most psi skills are simply beyond anyone who doesn’t have that ability or the knowledge of what they’re attempting.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, la chirurgie du cerveau ou la plupart des compétences psi sotn tout simplement au-delà de quiconque ne possédant pas cette capacité ou la connaissance de ce qu'il tentent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{DEFAULTING TO FIELD SKILLS} In some cases, a character may not possess the particular field skill that a test calls for, but they may be skilled in another related field.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{DÉFAUSSER UNE COMPÉTENCE DE DOMAINE} Dans certains cas, un personnage peut ne pas posséder le domaine particulier nécessaire pour un test, mais il peut être compétent dans un domaine proche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, a test to conduct an alien autopsy might call for an Academics: Xenobiology roll, but a character who doesn’t have that skill may be allowed to default to Academics: Biology instead.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, un test pour diriger l'autopsie d'un alien fait appel à un jet de Académique: Xénobiologie, mais un personnage qui n'a ps cette compétence peut être autoriser à se défausser sur Académique: Biologie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster decides if and when to allow this, perhaps applying a modifier to the test based on the difference between fields.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu décide si et quand autoriser ceci, peut-être en appliquant un modificateur au test basé sur la différence entre les domaines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{DEFAULTING TO RELATED SKILLS} If the gamemaster allows it, characters may default to a related skill that also has some relevance to the test at hand.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{DÉFAUSSER SUR UNE COMPÉTENCE LIÉE} Si le maître de jeu le permet, les personnages peuvent se défausser sur une compétence ayant un lien avec le test à gérer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, a character skilled in Kinetic Weapons might not be trained in the use of a laser, but they know enough to point at the target and pull the trigger.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, un personnage compétent en Armes Kinétique pourrait ne pas être entraîné pour utiliser un laser, mais il en sait suffisament pour pointer la cible et appuyer sur la détente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, a character might not be skilled in Investigation, but the gamemaster could still allow them to use their Perception skill instead in order to realize that a body had been moved from the place where it had been shot.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, un personnage pourrait ne pas être compétent en Investigation, mais le maître de jeu pourrait toujorus autoriser l'utilisation de la compétence Perception afin de réaliser que el corps a été déplacé depuis l'endroit où il a été abattu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In situations like this, when the gamemaster allows defaulting to a related skill, a –30 modifier should be applied to the test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans des situations comme celles-ci, lorsque le maître de jeu autorise la défausse sur un compétence liée, un modificateur de -30 devrait être appliqué au test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Example&lt;/i0&gt; &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Exemple&lt;/i0&gt; &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Srit is wandering through a black market souk on Mars, trying to find a particular piece of sensory equipment.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Srit se balade dans un souk du marché noir sur Mars, essayant de trouver une piède d'équipement sensoriel particulière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster calls for a Scrounging Test, but Srit does not have that skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu demande un Test de Fouille, mais Srit ne possède pas cett compétence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She could default her INT of 22, but instead she asks the gamemaster if she can default to the related skill of Perception, which she has at 82.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle peut défausser sur son INT de 22, mais elle préférer demander au maître de jeu si elle peut défausser sur la compétence liée Perception, qu'elle possède à 82.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster agrees, and so Srit rolls against a target number of 52 (82 – 30).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu lui donne son accord, elle effectue donc un jet avec un seuil de 52 (82 - 30).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{COMPLEMENTARY SKILLS} Sometimes more than one skill may apply to a particular test, or knowledge in one area can aid your skill in another.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{COMPÉTENCES COMPLÉMENTAIRES} Parfois, plus d'une compétence peuvent être utilisée pour un test particulier, ou les connaissances dans un domaine peuvent aider votre compétence dans un autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, the gamemaster may apply a modifier to the skill test based on the strength of the complementing skill, as noted on the Complementary Skill Bonus table.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, le maîþre de jeu peu appliquer un modificateur au test de compétence basé sur la force de la compétence complémentaire, telle que noté sur la table des Bonus de Compétences Complémentaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Dav is hoping to persuade a brinker pilot to take him to an isolated habitat that doesn’t welcome visitors.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dav essayent de persuader un pilote bordé de l'amener à un astéroïde isolé qui n'acceuille pas les visiteurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To impress upon the pilot that he is a friend of these particular isolates, he calls on his knowledge of their particular cultural practices (Interests: Religious Cults skill at 45).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour impressioner le pilote qui est un ami de ces isolés particulier, il fait appel à sa connaissance de leur pratique culturelle particulières (compétence Intérêts: Culte Religieux à 45).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster allows this and applies a +20 modifier to Dav’s Persuasion Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maîþre de jeu l'autorise et applique un modificateur de +20 sur le Test de Persuasion de Dav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>COMPLEMENTARY SKILL BONUS&lt;/i0&gt; &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>BONUS DE COMPÉTENCES COMPLÉMENTAIRE&lt;/i0&gt; &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;n1&gt;{cc} SKILL RATING</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;n1&gt;{cc} NIVEAU DE COMPÉTENCE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>MODIFIER &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>MODIFICATEUR&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>APTITUDE RANGE&lt;/i0&gt; &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>NIVEAU D'APTITUDE&lt;/i0&gt; &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>RATING</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>NIVEAU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ASSESSMENT</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>ASSERTION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>SOMATICS</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>SOMATIQUE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>REFLEXES &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>RÉFLEXES &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>child average</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>enfant moyen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>inept</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>inapte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>clumsy</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>maladroit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>slow &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>lent&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>adult average</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>adulte moyen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>weak</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>faible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>able</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>capable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>paced &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>rythmé &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>transhuman average</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>moyenne transhumaine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>fit</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>en forme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>coordinated</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>coordonné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>swift &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>prompt&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>enhanced</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>amélioré</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>fast &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>rapide &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>superhuman</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>surhumain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>gifted</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>doué</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>nimble</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>adroit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>lightning &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>fulgurant &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>posthuman</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>posthumain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>elite</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>élite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>unerring</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>infaillible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>synaptic &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>synaptique &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>SAVVY</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>ASTUCE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>WILLPOWER &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>VOLONTÉ &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>limited</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>limité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>aware</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>conscient</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>awkward</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>embarassant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>distracted &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>distrait&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>perceptive</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>perceptif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>personable</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>charmant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>controlled &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>contrôlé &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>bright</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>brillant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>sharp</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>affuté</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>charismatic</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>charismatique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>focused &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>concentré &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>learned</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>appris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>uncanny</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>mystérieux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>dazzling</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>éblouissant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>resolute &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>résolu &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>brilliant</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>brillant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>mesmerizing</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>fascinant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>unwavering &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>décidé &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>genius</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>génie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>near omniscient</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>presqu'omniscient</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>hypnotic</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>hypnotique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>unshakable &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>inébranlable &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{SKILL RANGES} What is the difference between being a clumsy neophyte wobbling in zero gravity and being a veteran gliding effortlessly through space as though you were dancing?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{NIVEAU DE COMPÉTENCES} Quelle est la différence entre être un débutant empoté qui dérive en gravité zéro et être un vétéran glissant sans effort à travers l'espace aussi facilement que si vous dansiez?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer is training and skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La réponse est l'entraînement et la compétence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The greater your skill, the more likely you are to not only succeed at what you want to do, but succeed well.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plsu votree compétence est élevée, plus vous aurez de chance de non seulement réussir à faire ce que vous voulez, mais à le faire bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aptitudes in Eclipse Phase range from 1 to 30, while learned skills range from 0 to 99.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les aptitudes dans Eclipse Phase vont de 1 à 30 alors que les compétences apprises vont de 0 à 99.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These numbers are an abstraction of the range of transhuman abilities and traits.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces nombres sont une abstraction de la gamme de capacités et de traits transhumains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Aptitude Range table provides a breakdown of different aptitude levels and how they relate to each other.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La table des Niveaux d'Aptittude fournit un récapitulatif des différents niveaux d'aptitudes et de la manière dont ils font référence les uns aux autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, the Learned Skill Range table provides an interpretation for the capabilities at different skill levels.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, la table des Niveaux de Compétences fournit une interprétation des capacités à chaque niveau de compétence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LEARNED SKILL RANGES&lt;/i0&gt; &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>NIVEAUX DE COMPÉTENCES APPRISES&lt;/i0&gt; &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;n1&gt;{cl} SKILL</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;n1&gt;{cl} COMPÉTENCE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No exposure or familiarity, completely unskilled &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aucune exposition ou familiriaté, complètement incompétent&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Very rudimentary knowledge &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Savoir extrêmement rudimentaire&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Basic operator’s proficiency (driver’s license, gun permit, high school diploma) &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Opération de base de la compétence (permis de conduire, permis de port d'arme, bac) &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hands-on experience, some professional training &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Expérience pratique, un peu d'entraînement professionnel &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Basic professional certification (police driving, army rifle certified, college diploma) &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certification professionelle basique (formation de conuite de la police, certificat d'utilisation d'armes militaire, diplôme universitaire) &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Experience from professional-level work, some advanced training &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Expérience d'un travail professionnel, un peu d'entraînement avancé &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Expert competence (competitive driver, marksman, PhD) &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Expert (pilote de compétition, armurier, doctorat) &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Experience from expert-level work, has had unique innovations or insights &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Expérience d'un travail d'expertise, a eu des idées ou des innovations uniques &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Worthy of being a system-renowned authority on the subject &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mérite d'être une autorité dans la matière, reconnu dans tout le système&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nobel/Olympic/grandmaster &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Prix Nobel/Champio Olympique/Maître de conférence&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pinnacle of current understanding and innovation &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le sommet de la compréehnsion et de l'innovation actuel&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are 7 aptitudes in Eclipse Phase, described on p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a 7 Aptitudes à Eclipse Phase, décrite à la p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each character has these aptitudes at a minimum rating of 1.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque personnage possède ces aptitudes au niveau minimum de 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{APTITUDE-ONLY TESTS} In rare cases, a test may call for using an aptitude only, rather than a learned skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{TEST D'APTITUDES PURES} Dans de rare cas, un test utilisant juste une aptitude peut être nécessaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This should only occur when no learned skills are appropriate to the test, and these circumstances are usually noted in the rules.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela ne devrait arriver que lrosqu'aucune compétence apprise ne correspond au test, et ces circonstances sont habituellement notés dans les règles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aptitude-only tests must be handled carefully, as the range of aptitude ratings (1–30) is typically much smaller than the rating of learned skills (0–99).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les test d'aptitude pures doivent être gérés précautionneusement, car l'amplitude d'une aptitude (1-30) est typiquement bien plus faible que le niveau des compétences apprixes (1-99).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For this reason, most aptitude tests should use a target number equal to the aptitude x 3.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour cette raison, la plupart des tests d'aptitudes devrait utiliser un seuil égal à l'aptitude x 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In rare cases where the test is more difficult, the gamemaster may simply use an aptitude x 2, or just the straight aptitude rating.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans de rare cas et lorsque le test est plus difficile, le maîþre de jeu peu n'utiliser qu'un modificateur de x 2, ou juste la valeur de l'aptitude.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In some cases, more than one aptitude may be relevant to the test, and so they may be added together to derive the target number.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans quelques cas, plus d'une aptitude peut être pertinentes pour le test, et elle peuvent être ajoutée l'une à l'autre pour en dériver le seuil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What follows are a few examples where an aptitudeonly test might be appropriate.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce qui suit sont quelques exemples où un test d'aptitude pure peut être approprié.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gamemasters may call for similar tests in other situations, but learned skills should be used whenever possible.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les maîtres de jeu peuvent demander des tests similaires dans d'autres situations, mais les compétences apprises devraient être utilisée partout lorsque c'est possible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>APTITUDE COMPARISON: FLATS VS. SPLICERS AND EXALTS&lt;/i0&gt; &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>COMPARAISON D'APTITUDES: PLATES CONTRE SPLICEURS ET EXALTÉS&lt;/i0&gt; &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Compared to humans in the early 21st Century, the average transhuman in the world of Eclipse Phase is faster, smarter, stronger, and healthier than their unaugmented predecessors.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comparé aux humains du début du 21° siècle, le transhumain moyen dans le monde d'Eclipse Phase est plus rapide, plus intelligent, plus fort et en meilleure santé que leurs rpédécesseurs non-augmentés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Normal unaugmented humans, called flats (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les humains normaux non-augmentés, appelés plats (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>139), most closely approximate the type of person that was born in our time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>139), sont approximativement  le type de personne le plus proche de nos contemporains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The majority of people, however, inhabit bodies that are known as splicers (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La mejrue parie des personnes habite cependant des corps appelés spliceurs (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>139) or exalts (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>139) ou exaltés (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>139) (well, those with biological bodies anyway).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>139) (du moins, ceux qui ont un corps biologique).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Splicers are genefixed to avoid genetic defects and optimized for certain characteristics, while exalts are tweaked to make them superior across the board: they are more attractive, more athletic, have greater cognitive capacity, and are more attuned to the world around them than their unaugmented kin.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les spliceurs sont génétiquement réparés pour éviter les défauts génétiques et sont optimisés pour favoriser certaines caractéristique, alors que les exaltés sont améliorés pour les rendre supérieurs à tous les niveaux: ils sont plsu attractifs, plus athéltique, ont de meilleurs capacités cognitive et sont plus conscient du monde qui les entoure que leurs parents non augmentés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>COMPLETE SKILL LIST</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>LISTE DE COMPÉTENCES COMPLÈTE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This section details all of the learned skills available in Eclipse Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette section détaille toutes les capacités apprises disponible dans Eclipse Phase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gamemasters and players may, of course, agree to add additional skills to this list as appropriate to their campaign.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les maîtres de jeu et les joueurs peuvent, bien entendu, s'accorder pour ajouter des compétences additionnelles a cette liste de manière appropriée à leur campagne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>NECESSARY SKILLS</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>COMPÉTENCES NÉCESSAIRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While characters will need a mix of skills to succeed in the varied tasks they encounter in Eclipse Phase, some skills are crucial for any character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que les personnages auront besoin d'un mélange de compétence pour réussir les diverses tâches qu'ils recontrerons dans Eclipse Phase, certaines compétences sont cruciale pour tous les personnages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a character lacks these, they will have a difficult time getting by, so it is important for players and gamemasters to know these particular skills.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un personnage ne possède pas ces compétences, ils auront des difficultés à s'en sortir, il est donc improtant que les joueur et les maîtree de jeu sachent quelles sont ces compétences particulières.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fray&lt;/i0&gt;: Fray is the primary skill you use to avoid getting hit in combat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Esquive&lt;/i0&gt;: Esquive est la compétence principale que vous utiliserez pour éviter d'être touché en combat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even if you plan to avoid combat, being able to get out of the way when necessary is a handy survival skill to have.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même si vous envisagez d'éviter el combat, être capable de pouvoir se jetter hors du passage lorsque c'est nécessaire est une compétence de survie pratique à posséder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Networking&lt;/i0&gt;: Unless you live in total isolation, you need a Networking skill—preferably several.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Réseau&lt;/i0&gt;: Sauf si vous vivez en isolation totale, vous aurez besoin d'une compétence Réseau - et il est préférable d'en avoir plusieurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Networking is how you interact with people in a particular social circle to obtain information, spread rumors, call in favors, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Réseau représente la manière dont vous interagissez avec les personnes dans un cercle social particulier pour obtenir des informations, propager des rumeurs, demander des faveurs et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Perception&lt;/i0&gt;: Perception Tests get called for quite often, so if you want your character to know what’s going on around them, make sure to get this skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Perception&lt;/i0&gt;: Les Tests de Perception sont relativemenbt fréquent, si vous voulez que votre personnage sache ce qu'il se passe autour de lui, soyez sûr de prendre cette compétence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Investigation and Scrounging are also good, but Perception is king.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Investigation et Fouille sont également de bonnes compétence, mais Perception est de loin la meilleure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>SKILL LIST</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>LISTE DE COMPÉTENCE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>SKILL</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>COMPÉTENCE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LINKED APTITUDE</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>APTITUDE LIÉE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>CATEGORY&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>CATÉGORIE&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Academics: [Field]</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Académique: [Domaine]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Knowledge&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Connaissance&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Animal Handling</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dressage Animal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Active, Social&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Active, Sociale&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Art: [Field]</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Art: [Domaine]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Beam Weapons</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Armes à Rayons</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Blades</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lames</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Climbing</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Escalade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Active, Physical&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Active, Physique&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Clubs</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Massues</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Control</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Contrôle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>WIL (no defaulting)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>VOL (pas de défausse)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Active, Mental, Psi&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Active, Mentale, Psi&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Deception</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Supercherie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Demolitions</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Démolitions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>COG (no defaulting)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>COG (pas de défausse)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Active, Technical&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Active, Technique&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Disguise</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Déguisement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Exotic Melee Weapon: [Field]</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Arme de Mélée Exotique: [Domaine]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Exotic Ranged Weapon: [Field]</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Arme à Distance Exotique: [Domaine]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fray</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Esquive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Free Fall</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chute Libre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Freerunning</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Parkour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gunnery</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Artillerie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hardware: [Field]</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Matériel: [Domaine]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Impersonation</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Imitation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Interest: [Field]</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Intérêt: [Domaine]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Interfacing</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Interfaçage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Active, Mental&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Active, Mentale&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Kinesics</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Kinésique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Kinetic Weapons</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Armes Kinétique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Language: [Field]</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Langue: [Domaine]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Medicine: [Field]</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Médecine: [Domaine]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Networking: [Field]</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Réseau: [Domaine]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Palming</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Fouille</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pilot: [Field]</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pilotage: [Domaine]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Active, Vehicle&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Active, Véhicule&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Profession: [Field]</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Profession: [Domaine]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Programming</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Programmation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Protocol</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Protocole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Psi Assault</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Assaut Psi</seg>
       </tuv>
     </tu>
     <tu>
@@ -23826,6 +25706,774 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Recherche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Scrounging</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Fouille</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Seeker Weapons</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Armes à Tête Chercheuse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sense</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Divination</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spray Weapons</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Armes en Spray</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Swimming</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Natation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Throwing Weapons</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Armes de Lancer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unarmed Combat</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Combat à Mains Nues</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{ACADEMICS: [FIELD]} &lt;i0&gt;Type:&lt;/i0&gt; Field, Knowledge &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{ACADÉMIQUE: [DOMAINE]} &lt;i0&gt;Type:&lt;/i0&gt; Domaine, Connaissance&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i1&gt;Linked Aptitude:&lt;/i1&gt; COG &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i1&gt;Aptitude Liée:&lt;/i1&gt; COG &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i2&gt;What it is:&lt;/i2&gt; Academics covers any sort of specialized non-applied knowledge you can only get through intensive education.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i2&gt;Qu'est-ce:&lt;/i2&gt; Académique couvre tout type de connaissance spécialisée et non-appliquée que vous ne pouvez avoir que par une éducation intensive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most theoretical and applied sciences, social sciences, transhumanities, etc. are covered by this skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des sciences théoriques et appliquées, des sciences sociales, des sciences transhumaines, etc. sont couverte par cette compétence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most of the other skills listed in this chapter could also be taken as an Academics field, reflecting a working theoretical knowledge of the skill—for example, Academics: Armorer or Academics: Interrogation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des autrs compétences listées dans ce chapitre peuvent aussi être prise en tant que domaine Académique, reflétant une connaissance théorique de la compétence - par exemple, Académique: Armurieur ou Académique: Interrogation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i3&gt;When you use it:&lt;/i3&gt; Academics is used when a character wishes to call upon a specific body of knowledge.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i3&gt;Quand l'utiliser:&lt;/i3&gt; Académique est utilisée lorsqu'un personnage souhaite faire appel à un corps de savoir particulier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, Academics: Chemistry could be used to identify a particular substance, understand an unusual chemical reaction, or determine what elements are needed to nanofabricate something that requires exotic materials.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, Académique: Chimie peut être utilisée pour idnetifier une substance particulière, comprendre une réaction chimique inhabituelle ou déterminer quels éléments sont nécessaire pour nanofabriquer quelque chose nécessitant des matériau exotiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the gamemaster’s discretion, some Academics-related tests might not be defaultable, given that only someone who has been educated in that subject is likely to be able to tackle it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À la discrétion du maître de jeu, certains test en rapport avec Académique en dervait pas être défaussable, étant donén que seul quelqu'un qiu a été suffisament éduqué sur le sujet a une chance de comprendre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i4&gt;Sample Fields:&lt;/i4&gt; Archeology, Astrobiology, Astronomy, Astrophysics, Astrosociology, Biochemistry, Biology, Botany, Computer Science, Cryptography, Economics, Engineering, Genetics, Geology, Linguistics, Mathematics, Memetics, Nanotechnology, Old Earth History, Physics, Political Science, Psychology, Sociology, Xeno-archeology, Xenolinguistics, Zoology &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i4&gt;Exemple de Domaines:&lt;/i4&gt; Arcéhologie, Astrobilogie, AStronomie, Astrophysique, Astrosocilogie, Chimie Organique, Biologie, Botanique, Théorie de l'Information, Cryptographie, Économie, Ingénierie, Génétique, Géologie, Linguistique, Mathématique, Mémétique, Nanotechnologie, Histoire de la Vieille Terre, Physique, Science Politique, Psychologie, Sociologie, Xéno-archéologie, Xénolinguistique, Zoologie&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i5&gt;Specializations:&lt;/i5&gt; As appropriate to the field</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i5&gt;Spécialisations:&lt;/i5&gt;Appropriée au domaine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{ANIMAL HANDLING} &lt;i0&gt;Type:&lt;/i0&gt; Active, Social &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{DRESSAGE ANIMAL} &lt;i0&gt;Type:&lt;/i0&gt; Active, Sociale &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i1&gt;Linked Aptitude:&lt;/i1&gt; SAV &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i1&gt;Aptitude Liée:&lt;/i1&gt; AST &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i2&gt;What it is:&lt;/i2&gt; Skilled animal handlers are able to train and control a wide variety of natural and transgenic animals, including partial uplifts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i2&gt;Qu'est-ce:&lt;/i2&gt; Les dresseurs d'animaux compétents sont capables d'entraîner et de contrôller une grande variété d'animaux naturels et transgéniques incluant les élevés partiels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though many animal species went extinct during the Fall, a few “ark” and zoo habitats keep some species alive, and many others can be resurrected from genetic samples.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que beaucoup d'espèce animales se sont éteintes pendant la Chute, quelques &quot;arches&quot; et habitats zoos ont conservés certaine espèces en vie, et beaucoup d'autres ont étés resscuscitée à partir d'échantillons génétiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Exotic animals are considered a sign of prestige among the hypercorp elites, and guard animals are occasionally used to protect high-security installations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les animaux exotiques sont considérés comme un signe de prestige parmi les élites hypercorporatistes, et des guardes animaux sont parfois utilisés pour protéger des installations de haute sécurité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, many habitats and settlements employ small armies of partially uplifted, genetically modified, and behavior-controlled creatures for sanitation or other purposes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, beaucoup d'habitats et d'abris emploient de petites armées d'élevés partiels, de créatures génétiquement modifées et au comprotement modifié pour l'assainissement ou dans d'autres buts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many new and strange breeds of animal are created daily to serve a variety of roles.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>beaucoup de nouveaux animaus et de portées étranges sont créés quotidiennement pour servir une variété de rôle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i3&gt;When you use it:&lt;/i3&gt; Animal Handling is used whenever you are trying to manipulate an animal, whether your intent is to calm it down, keep it from attacking, intimidate it, acquire its trust, or goad it into attacking.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i3&gt;Quand l'utiliser:&lt;/i3&gt; Dressage Animal est utilise lorsque vous essayez de manipuler un animal, que vous essayiez de le calmer, de l'empêcher d'attaquer, de l'intimider, d'obtenir sa confiance ou de le faire attaquer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your Margin of Success determines how effective you are at convincing the creature.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Votre Marge de Réussite détermine votre eefficacité pour convaincre la créature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the gamemaster’s discretion, modifiers may be applied to the test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À la discrétion du maître de je, des modificateurs peuvent s'appliquer au test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, winning an animal over may sometimes take time, and so could be handled as a Task Action with a timeframe of five minutes or more.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, apprivoiser un animal peu prendre du temps, et devrait donc être considérer comme une Action de Tâche avec un intervalle de cinq minutes ou plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i4&gt;Specializations:&lt;/i4&gt; Per animal species (dogs, horses, smart rats, etc.)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i4&gt;Spécialisations:&lt;/i4&gt; Par espèce animale (chiens, chevaux, rats intelligents, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>TRAINING ANIMALS&lt;/i0&gt; &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>ENTRAÎNER DES ANIMAUX&lt;/i0&gt; &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Training animals is a time-consuming task requiring repeated efforts and rewards to reinforce the trained behavior.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Entraîner des animaux est une tâche nécessitant du temps, des efforts répétés et des récompenses pour renforcer le comportement entraîné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Treat this as a Task Action with a timeframe of one day to one month, depending on the complexity of the action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Traitez cette action comme une Action de Tâches avec un intervalle allant de un jour à un mois, dépendant de la complexité de l'action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Apply modifiers to this test based on the relative intelligence of the animal being trained, how domestic it is, and the complexity of the task.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appliquez les modificateurs à ce test en se basant sur l'intelligence relative de l'animal entraîné, sur son niveau de dmoestication et sur la complexité de la tâche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once an animal has been trained, commanding it is treated as a Simple Success Test (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois que l'animal a été entraîné, lui donner un ordre est considéré comme un Test de Succès Simple (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>118) except for unusual or stressful situations, in which case the trainer receives a +30 modifier on their Animal Handling Tests when convincing the animal to complete the trained action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>118) excepté lors de situation inhabituelle ou stressante, auquel cas, l'entraîneur reçoit un modificateur de +30 sur son Test de Dressage Animal lorsqu'il essaye de convaincre l'animal d'accomplir l'action apprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{ART: [FIELD]} &lt;i0&gt;Type:&lt;/i0&gt; Field, Knowledge &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{ART: [DOMAINE]} &lt;i0&gt;Type:&lt;/i0&gt; Domaine, Connaissance&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i1&gt;Linked Aptitude:&lt;/i1&gt; INT &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i1&gt;Aptitude Liée:&lt;/i1&gt; INT &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i2&gt;What it is:&lt;/i2&gt; Art confers the ability to create and evaluate artistic endeavors.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i2&gt;Qu'est-ce:&lt;/i2&gt; Art confère la possibilité de créer et d'éavluer les efforts artistiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is a particularly useful skill in Eclipse Phase, especially in the post-scarcity economies where creativity and vision can be a key component to a character’s reputation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est une compétence particulièrement utile dans Eclipse Phase, et plus particulièrement dans les économies post-pénuries où la créativité et les visions peuvent être une composente clef de la réputation d'un personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i3&gt;When you use it:&lt;/i3&gt; The Art skill can be used to either create a new work of art or to duplicate an existing piece of art in the hopes of passing it off as your own.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i3&gt;Quand l'utiliser:&lt;/i3&gt; La compétence Art peut-être utilisée soit pour créer une nouvelle œuvre d'art ou pour en dupliquer une existante en espérant la faire passer pour une création originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The skill can also determine the approximate value of a piece of art either on the open market, for monetary exchange systems, or in terms of reputation for the artist.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette compétence détermine également la valeur approximative d'une œuvre d'art soit sur le marché ouvert, dans les systèmes d'échanges monétaires, ou en terme de réputation pour l'artiste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i4&gt;Sample Fields:&lt;/i4&gt; Architecture, Criticism, Dance, Drama, Drawing, Painting, Performance, Sculpture, Simulspace Design, Singing, Speech, Writing &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i4&gt;Exemple de Domaine:&lt;/i4&gt; Architecture, Critique, Danse, Dramaturgie, Dessin, Peinture, Représentation, Sculpture, Conception de Simulspace, Chant, Dialectique, Écriture &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{BEAM WEAPONS} &lt;i0&gt;Type:&lt;/i0&gt; Active, Combat &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{ARMES À RAYONS} &lt;i0&gt;Type:&lt;/i0&gt; Active, Combat &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i1&gt;Linked Aptitude:&lt;/i1&gt; COO &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i1&gt;Aptitude Liée:&lt;/i1&gt; COO &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i2&gt;What it is:&lt;/i2&gt; The Beam Weapons skill covers the usage and maintenance of standard coherent beam energy weapons such as lasers, particle beam weapons, plasma rifles, and microwave weapons (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i2&gt;Qu'est-ce:&lt;/i2&gt; La compétence Armes à Rayons couvre l'utilisation et la maintenance des armes a énergie rayonnante cohérente standard telles que les lasers, les armes à particules, les fusils à plasma et les armes à micro-onde (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i3&gt;When you use it:&lt;/i3&gt; A player uses their Beam Weapons skill whenever attacking with a beam weapon in combat (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i3&gt;Quand l'utiliser:&lt;/i3&gt; Un joueur utilise la compétence Armes à Rayon lorsqu'il attaque avec une arme à rayopns en combat (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Beam Weapons may also be used for tests involving maintenance of the weapon, but not for repairing or modifying the weapon (that would be Hardware: Armorer skill).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Armes à Rayons peut également être utilisée pour les tests incluant la maintenance de l'arme, mais pas pour réparer ou modifer l'arme (utilisez la compétence Matériel: Armurerie).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i4&gt;Specializations:&lt;/i4&gt; Lasers, Microwave Weapons, Particle Beam Weapons, Plasma Rifles</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i4&gt;Spécialisations:&lt;/i4&gt; Lasers, Armes à Micro-ondes, Armes à Particules, Fusils à Plasma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{BLADES} &lt;i0&gt;Type:&lt;/i0&gt; Active, Combat &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{LAMES} &lt;i0&gt;Type:&lt;/i0&gt; Active, Combat &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i1&gt;Linked Aptitude:&lt;/i1&gt; SOM &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i1&gt;Aptitude Liée:&lt;/i1&gt; SOM &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i2&gt;What it is:&lt;/i2&gt; The Blades skill covers the usage and maintenance of standard bladed weapons (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i2&gt;Qu'est-ce:&lt;/i2&gt; La compétence Lames couvre l'utilisation et la maintenance des armes à lames standard (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i3&gt;When you use it:&lt;/i3&gt; A player uses their Blades skill whenever attacking with a blade weapon in melee combat (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i3&gt;Quand l'utiliser:&lt;/i3&gt; Un joueur utilise la compétence Lames lorsqu'il attaque avec une arme à lames en combat rapproché (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Blades may also be used for tests involving maintenance of the weapon, but not for repairing or modifying the weapon (that would be Hardware: Armorer skill).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lames peut également être utilisée pour les tests incluant la maintenance de l'arme, mais pas pour réparer ou modifer l'arme (utilisez la compétence Matériel: Armurerie).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This skill is used for blade weapons implanted in the body at the end of an appendage (hands, forearms, feet, octomorph arms, etc.), but the Exotic Melee Weapon skill is used for blades implanted in other parts of the body.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette compétence est utilisée pour les lames implantées dans le corps à l'extrémité d'un appendice (mains, avant-bras, bras d'octomorph, pieds, etc.), mais la compétence Arme de Mélée Exotique est utilisées pour les lames implantées dans d'autres endroits du corps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i4&gt;Specializations:&lt;/i4&gt; Axes, Implant Blades, Knives, Swords</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i4&gt;Spécialisations:&lt;/i4&gt; Hâches, Lames Implantées, Couteaux, Épées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{CLIMBING} &lt;i0&gt;Type:&lt;/i0&gt; Active, Physical &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{ESCALADE} &lt;i0&gt;Type:&lt;/i0&gt; Active, Physique&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i2&gt;What it is:&lt;/i2&gt; Climbing is the skill of ascending and descending sheer surfaces with or without the aid of specialized equipment.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i2&gt;Qu'est-ce:&lt;/i2&gt; Escalade est la compétence pour monter et descendre sur des surfaces abrupte avec ou sans l'aide de matériel spécialisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i3&gt;When you use it:&lt;/i3&gt; This skill is used whenever a character wishes to scale a climbable surface.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i3&gt;Quand l'utiliser:&lt;/i3&gt; Cette compétence est utilisée lorsqu'un personnage souhaite grimper sur une surface escaladable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For heights greater than one story, climbing is handled as a Task Action with a timeframe equivalent to one meter per Action Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour les altitudes nécessitant un peu plus que de la narration, l'escalade est géré comme une Action de Tâches avec un intervalle équivalent à un mètre par Phase d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For rappelling, the timeframe for descent is 50 meters per Action Turn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour descendre en rappel, l'intervalle est de 50 mètres par Tour d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Climbing gear (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le matériel d'escalade (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>332-333) provides appropriate modifiers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>332-333) fournit des bonus appropriés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i4&gt;Specializations:&lt;/i4&gt; Assisted, Freehand, Rappelling</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i4&gt;Spécialisations:&lt;/i4&gt; Assistée, Libre, Rappel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{CLUBS} &lt;i0&gt;Type:&lt;/i0&gt; Active, Combat &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{MASSUES} &lt;i0&gt;Type:&lt;/i0&gt; Active, Combat &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i2&gt;What it is:&lt;/i2&gt; The Clubs skill covers the usage and maintenance of standard blunt melee weapons such as batons or sticks (see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i2&gt;Qu'est-ce:&lt;/i2&gt; La compétence Massue couvre l'utilisation et la maintenance des armes à de mélée contondantes standards telles que les bâtons ou les matraques (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i3&gt;When you use it:&lt;/i3&gt; Players use their Clubs skill whenever they want to attack with a blunt weapon in melee combat (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i3&gt;Quand l'utiliser:&lt;/i3&gt; Un joueur utilise la compétence Massue lorsqu'il attaque avec une arme contondantes en combat rapproché (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Clubs skill may also be used for tests involving maintenance of the weapon, but not for repairing or modifying the weapon (that would be Hardware: Armorer skill).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La compétence Massue peut également être utilisée pour les tests incluant la maintenance de l'arme, mais pas pour réparer ou modifer l'arme (utilisez la compétence Matériel: Armurerie).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i4&gt;Specializations:&lt;/i4&gt; Batons, Hammers, Staffs</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i4&gt;Spécialisations:&lt;/i4&gt; Bâtons, Marteaux, Matraques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{CONTROL} &lt;i0&gt;Type:&lt;/i0&gt; Active, Mental, Psi &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{CONTRÔLE} &lt;i0&gt;Type:&lt;/i0&gt; Active, Mentale, Psi &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i1&gt;Linked Aptitude:&lt;/i1&gt; WIL &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i1&gt;Aptitude Liée:&lt;/i1&gt; VOL &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i2&gt;What it is:&lt;/i2&gt; Control is the use of psi to manipulate individuals or actively penetrate their mental processes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i2&gt;Qu'est-ce:&lt;/i2&gt; Contrôle est l'utilisation du psi pour manipuler les individus ou pénétrer activement leurs processuss mentaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This skill is only available to characters with the Psi trait (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette compétence n'est disponible que pour les personnages avec le trait Psi (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i3&gt;When you use it:&lt;/i3&gt; Use Control when taking a psionic tour through a foreign ego—messing around included.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i3&gt;Quand l'utiliser:&lt;/i3&gt; Utilisez Contrôle lorsque vous effectuez une visite psionique dans un égo étranger - mettre le bazar inclut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See Psi, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voir Psi, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i4&gt;Specializations:&lt;/i4&gt; By sleight</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i4&gt;Spécialisations:&lt;/i4&gt; Une par exploit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{DECEPTION} &lt;i0&gt;Type:&lt;/i0&gt; Active, Social &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{SUPERCHERIE} &lt;i0&gt;Type:&lt;/i0&gt; Active, Sociale &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i2&gt;What it is:&lt;/i2&gt; Deception is your ability to act, bluff, con, fast talk, lie, misrepresent, and pretend.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i2&gt;Qu'est-ce:&lt;/i2&gt; Supercherie est votre capacité à jouer un rôle, à bluffer, à arnaquer, à baratiner, à mentir, à dénaturer les faits et à prétendre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Accomplished users of deception are able to convince anyone of nearly anything.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les utilisateurs accomplis de supercherie sont capable de convaincre n'importe qui d'à peu près n'importe quoi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This skill does not include using a physical disguise to appear to be another person (the Impersonate skill covers that area).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette compétence n'inclut pas l'utilisation d'un déguisement physique pour paraître être une autre personne (la compétence Imitaion couvre ce domaine).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i3&gt;When you use it:&lt;/i3&gt; Use this skill whenever you want to deceive someone with words or gestures.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i3&gt;Quand l'utiliser:&lt;/i3&gt; Utilisez cette compétence quand vous voulez tromper quelqu'un avec des mots et des gestes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A successful skill test means that you have passed off your deception convincingly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un test de compétence réussit signifie que vous avez réussit à faire gober votre mensonge de manière convaincante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the gamemaster’s discretion, someone who is actively alert for signs of deception may make an Opposed Test using the Kinesics skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À la discrétion du maître de jeu, quelqu'un qui est activement en laerte de signe de supercherie peut faire un Test Opposé en utilisant la compétence Kinésique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i4&gt;Specializations:&lt;/i4&gt; Acting, Bluffing, Fast Talk</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i4&gt;Spécialisations:&lt;/i4&gt; Endosser un Rôle, Bluffer, Barratin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{DEMOLITIONS} &lt;i0&gt;Type:&lt;/i0&gt; Active, Technical &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{DÉMOLITIONS} &lt;i0&gt;Type:&lt;/i0&gt; Active, Technique&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i1&gt;Linked Aptitude:&lt;/i1&gt; COG (no defaulting) &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i1&gt;Aptitude Liée:&lt;/i1&gt; COG (pas de défausse) &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i2&gt;What it is:&lt;/i2&gt; Demolitions covers the use of controlled explosives.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i2&gt;Qu'est-ce:&lt;/i2&gt; Démolitions couvre l'utilisation conrôlée des explosifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i3&gt;When you use it:&lt;/i3&gt; Use it when making, placing, and disarming explosives and explosive devices.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i3&gt;Quand l'utiliser:&lt;/i3&gt; Utilisez Démolitions lorsque vous fabriquez, placez et désarmez des explosifs et des engins explosifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See Demolitions, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voir Démolitions, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i4&gt;Specializations:&lt;/i4&gt; Commercial Explosives, Disarming, Improvised Explosives</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i4&gt;Spécialisations:&lt;/i4&gt; Explosifs Commerciaux, Désarmement, Explosifs Improvisés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{DISGUISE} &lt;i0&gt;Type:&lt;/i0&gt; Active, Physical &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{DÉGUISEMENT} &lt;i0&gt;Type:&lt;/i0&gt; Active, Physique &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i2&gt;What it is:&lt;/i2&gt; Disguise is the art of physically altering your appearance so that you look like someone else.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i2&gt;Qu'est-ce:&lt;/i2&gt; Déguismeent est l'art d'altérer physiquement son apaprence pour ressembler à quelqu'un d'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This includes both the use of props (wigs, contacts, skin pigments) and the altering of subtle physical characteristics (gait, posture, poise).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela inclut l'utilisation d'accessoire (perruques, lentilles de contact, pigments de peau) et l'altération subtile de caractéristiques physique (démarche, posture, maintien).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i3&gt;When you use it:&lt;/i3&gt; Use Disguise to fool someone into thinking you’re someone you’re not.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i3&gt;Quand l'utiliser:&lt;/i3&gt; Utilisez Déguisement pour faire croire à quelqu'un que vous êtes quelqu'un d'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This can be used to hide your identity or to make yourself look like someone in particular.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela peut être utiliser pour cacher son identité ou pour se faire passer pour quelqu'un en aprticulier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When used against someone who knows your true look or the appearance of the person you are imitating, this is handled as an Opposed Test against Perception or Investigation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsqu'utilisé contre quelqu'un qui connaît votre véritable apparence ou l'apparence de celui que vous prétendez être, la situation est gérée par un Test en Opposition contre Perception ou Investigation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i4&gt;Specializations:&lt;/i4&gt; Cosmetic, Theatrical</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i4&gt;Spécialisations:&lt;/i4&gt; Cosmétique, Théatral</seg>
       </tuv>
     </tu>
     <tu>
@@ -24825,7 +27473,7 @@
         <seg>Advantages: +10 Persuasion or Deception skill, +10 Scrounging skill, +20 Networking: Autonomists skill Disadvantages: None</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Advantages: +10 compétence Persuasion ou Supercherie, +10 compétence Escamotage, +20 compétence Réseau: Autonomistes.  Désavantages: Aucun.</seg>
+        <seg>Advantages: +10 compétence Persuasion ou Supercherie, +10 compétence Fouille, +20 compétence Réseau: Autonomistes.  Désavantages: Aucun.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25801,7 +28449,7 @@
         <seg>Beam Weapons (COO) 30 (45), Climbing (SOM) 30 (45), Demolitions (COG) 40 (60), Fray (REF) 30 (50), Freefall (REF) 40 (60), Freerunning (SOM) 30 (45), Hardware: Aerospace (COG) 40 (60), Infiltration (COO) 30 (45), Interfacing (COG) 20 (40), Navigation (INT) 40 (60), Perception (INT) 40 (60), Persuasion (SAV) 20 (30), Research (COG) 20 (40), and Scrounging (INT) 40 (60).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Armes à Rayons (COO) 30 (45), Escalade (SOM) 30 (45), Démolition (COG) 40 (60), Esquive (REF) 30 (50), Chute Libre (REF) 40 (60), Parkour (SOM) 30 (45), Matériel: Aérospatialle (COG) 40 (60), Infiltration (COO) 30 (45), Interface (COG) 20 (40), Navigation (INT) 40 (60), Perception (INT) 40 (60), PErsuasion (AST) 20 (30), Recherche (COG) 20 (40) et Escamotage (INT) 40 (60).</seg>
+        <seg>Armes à Rayons (COO) 30 (45), Escalade (SOM) 30 (45), Démolition (COG) 40 (60), Esquive (REF) 30 (50), Chute Libre (REF) 40 (60), Parkour (SOM) 30 (45), Matériel: Aérospatialle (COG) 40 (60), Infiltration (COO) 30 (45), Interface (COG) 20 (40), Navigation (INT) 40 (60), Perception (INT) 40 (60), PErsuasion (AST) 20 (30), Recherche (COG) 20 (40) et Fouille (INT) 40 (60).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25913,7 +28561,7 @@
         <seg>She also wants to raise her Scrounging from 60 to 70, for a 20 CP cost.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Elel veut également développer sa compétence Escamotage de 60 à 70, pour un coût de 20 PP.</seg>
+        <seg>Elel veut également développer sa compétence Fouille de 60 à 70, pour un coût de 20 PP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44937,7 +47585,7 @@
         <seg>The async receives a +10 modifier to all Investigation, Perception, Scrounging, and Surprise Tests.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>L'async reçoit un modificateur de +10 à tous les jets d'Investigation, de Perception, de Recherche et aux Test de Surprise.</seg>
+        <seg>L'async reçoit un modificateur de +10 à tous les jets d'Investigation, de Perception, de Fouille et aux Test de Surprise.</seg>
       </tuv>
     </tu>
     <tu>

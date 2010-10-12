@@ -7,10 +7,10 @@ Total
   Caractères: 1622165 : + espaces
 
 Restants
-    Segments:   11768
-        Mots:  143833
-  Caractères:  752409 : - espaces
-  Caractères:  884651 : + espaces
+    Segments:   11356
+        Mots:  139708
+  Caractères:  730421 : - espaces
+  Caractères:  858889 : + espaces
 
 Uniques
     Segments:   16205
@@ -19,18 +19,18 @@ Uniques
   Caractères: 1603697 : + espaces
 
 Restants uniques
-    Segments:    9529
-        Mots:  141134
-  Caractères:  753489 : - espaces
-  Caractères:  871765 : + espaces
+    Segments:    9198
+        Mots:  137229
+  Caractères:  732099 : - espaces
+  Caractères:  847590 : + espaces
 
 Mesures des documents
 
     TM      MR      TCSE    CRSE    TC      CR     Document
      581     581    3451    3451    3979    3979 - 0-credits.tex
     8100       1   38376      40   45753      40 - 1-lack.tex
-   20340   20339  104177  104173  123063  123059 - 10-accelerated-future.tex
-   41348   41343  217187  217155  254578  254546 - 11-gear.tex
+   20340   20338  104177  104165  123063  123050 - 10-accelerated-future.tex
+   41348   41342  217187  217149  254578  254540 - 11-gear.tex
    29962   29945  158228  158172  186322  186265 - 12-game-information.tex
        1       1       6       6       6       6 - 13-tables.tex
        1       1      10      10      10      10 - 14-references.tex
@@ -38,8 +38,8 @@ Mesures des documents
    61776     215  334423    1571  393103    1680 - 3-eclipse.tex
     9902      68   49182     356   58478     358 - 4-mechanics.tex
    16622      93   85947     479  101263     485 - 5-character-creation.tex
-    8618    8606   46366   46307   54224   54163 - 6-skills.tex
-   21717   21710  109826  109778  129634  129583 - 7-action-combat.tex
+    8618    4484   46366   24339   54224   28422 - 6-skills.tex
+   21717   21709  109826  109772  129634  129577 - 7-action-combat.tex
    11891     340   62399    1533   73548    1844 - 8-mind-hacks.tex
    22333   20544  119673  109090  140610  128329 - 9-mesh.tex
       64      32     378     219     415     233 - ep.tex
