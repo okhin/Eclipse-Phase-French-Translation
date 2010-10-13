@@ -24401,7 +24401,7 @@
         <seg>For example, a character skilled in Kinetic Weapons might not be trained in the use of a laser, but they know enough to point at the target and pull the trigger.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Par exemple, un personnage compétent en Armes Kinétique pourrait ne pas être entraîné pour utiliser un laser, mais il en sait suffisament pour pointer la cible et appuyer sur la détente.</seg>
+        <seg>Par exemple, un personnage compétent en Armes Cinétique pourrait ne pas être entraîné pour utiliser un laser, mais il en sait suffisament pour pointer la cible et appuyer sur la détente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25569,7 +25569,7 @@
         <seg>Impersonation</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Imitation</seg>
+        <seg>Imposture</seg>
       </tuv>
     </tu>
     <tu>
@@ -25641,7 +25641,7 @@
         <seg>Palming</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Fouille</seg>
+        <seg>Manipulation</seg>
       </tuv>
     </tu>
     <tu>
@@ -26337,7 +26337,7 @@
         <seg>This skill does not include using a physical disguise to appear to be another person (the Impersonate skill covers that area).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Cette compétence n'inclut pas l'utilisation d'un déguisement physique pour paraître être une autre personne (la compétence Imitaion couvre ce domaine).</seg>
+        <seg>Cette compétence n'inclut pas l'utilisation d'un déguisement physique pour paraître être une autre personne (la compétence Imposture couvre ce domaine).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26474,6 +26474,1550 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Spécialisations: Cosmétique, Théatral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{EXOTIC MELEE WEAPON: [FIELD]} Type: Field, Active, Combat </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{ARME DE MÉLÉE EXOTIQUE: [DOMAINE]} Type: Domaine, Active, Combat </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: The Exotic Melee Weapon skill covers the use and maintenance of all melee weapons not covered by the Clubs or Blades skills (see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: La compétence Armes de Mélée Exotique couvre l'utilisation et la maintenance de toutes les armes de mélée non couvertes par les compétences Massues et Lames (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use the Exotic Melee Weapon skill when attacking someone with an exotic melee weapon in melee combat (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Un joueur utilise la compétence Armes de Mélée Exotique lorsqu'il attaque avec une arme exotique en combat rapproché (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sample Fields: Morning Star, Spear, Whip </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Exemple de Domaines: Morgenstern, Lance, Fouet </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: N/A</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations: Non applicable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{EXOTIC RANGED WEAPON: [FIELD]} Type: Field, Active, Combat </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{ARME À DISTANCE EXOTIQUE: [DOMAINE]} Type: Domaine, Active, Combat </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Exotic Ranged Weapon skill includes the use and maintenance of all ranged weapons not covered by the Beam, Flechette, Kinetic, Sonic, or Throwing Weapons skills.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: La compétence Armes à Distance Exotique couvre l'utilisation et la maintenance de toutes les armes à distance non couvertes par les compétences Armes à Rayons, Armes Cinétique, Armes Sonique, Armes de Jets ou Fléchettes (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use this skill whenever attacking with an exotic ranged weapon in ranged combat (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Un joueur utilise la compétence Armes à Distance Exotique lorsqu'il attaque avec une arme exotique en combat à distance (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sample Fields: Blowgun, Crossbow, Flamethrower, Slingshot </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Exemple de Domaines: Sarbacane, Arbalète, Lance-flamme, Fronde </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{FLIGHT} Type: Active, Physical </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{VOL} Type: Active, Physique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Flight is the skill of using your body to fly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Vol est la compétence de l'utilisationd e votre corps pour voler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This skill is used when sleeved in or jamming a winged or otherwise flight-capable morph (manual and remote-control flight are handled using Pilot skill).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette compétence est utilisée lorsque vous êtes incarnés dans ou que vous interceptez ou morph ailée ou capable de voler (le vol manuel et téléguidé sont gérés par la compétence Piloter).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use this skill whenever you need to make an aerial maneuver, land in difficult conditions, maintain your course in steep winds, or otherwise keep from crashing or falling.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Utilisez cette compétence quand vous avez besoin de faire des manœuvres aérienne, atterrir dans des conditions difficiles, maintenir un cap au milieu de perturbations ou éviter de s'écraser ou de tomber d'une manière ou d'une autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: Diving, Landing, Takeoff, specific maneuvers</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations: Plonger, Atterrir, Décoller, manœuvres spécifiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{FRAY} Type: Active, Combat </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{ESQUIVE} Type: Active, Combat </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Linked Aptitude: REF </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aptitude Liée: REF </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Fray is the ability to get out of the way of incoming attacks, debris, or inconvenient passers-by.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Esquive est votre capacité a ne pas rester en travers des attaques, débris ou passants génants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters that have a high Fray score are able to react quicker than others when dodging or maneuvering.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages qui ont un score éléveé en Esquive sont capable de régair plus rapiement que les autres lrosqu'il s'agît d'esquiver ou de manœuvrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Whenever a character is physically attacked by an opponent in melee combat, roll Fray to avoid getting hit (see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser:  Lorsqu'un personnage est attaqué physiquement par un adversaire en combat au corps - à corps, faites un test sous Esquive pour éviter d'être toucher (voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fray may also be used</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Esquive peut également être utilisée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>to dodge other events that may harm the character, such as avoiding a charging vehicle or jumping out of the way of a collapsing stack of crates.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>pour éviter d'autres évènements qui pourraient blesser le personnage, tels qu'éviter un véhicule ou dégager du chemin d'une pile de caisse s'effondrant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: Blades, Clubs, Full Defense, Unarmed</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations: Lames, Massues, Défense Totale, Désarmé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{FREE FALL} Type: Active, Physical </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{CHUTE LIBRE} Type: Active, Physique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Free Fall is about moving in free-fall and microgravity environments.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Chute Libre concerne tout ce qui a trait aux environnement en micro-gravité et à la chute-libre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use whenever you need to maneuver in a zero-g situation, such as propelling yourself across a large open space or making sure you don’t accidentally send yourself spinning off into space.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Utilisez cette compétence lorsque vous avez besoin de manœuvrer dans des situations en zéro-g, comem se rpopulser à travers un grand espace vide ou s'assurer de ne pas s'envoyer en vrille dans l'espace accidentellement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Free Fall is also used when moving with spacesuit maneuvering jets and when parachuting.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chute Libre est également utilisée lorsque vous vous déplacez avec des propulseurs d'exocombinaison et lors de sauts en parachutes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: Microgravity, Parachuting, Vacsuits</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations: Microgravité, Parachute, Exocombinaisons</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{FREERUNNING} Type: Active, Physical </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{PARKOUR} Type: Active, Physique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Freerunning is part running, part gymnastics.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Parkour est en aprtie de la course, en partie de la gymnastique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is about moving fast, maneuvering over/under/ around/through obstacles, and placing your body where it needs to go.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il s'agît de se déplacer rapidement, de manœuvrer au-dessus/au-dessous/à-côté/à travers des obstacles et de placer votre corps là où il doit être.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Freerunning/parkour is a popular pastime in habitats where open space is limited.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le Parkour est populaire dans les vieux habitats où l'espace ouvert est limité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use Freerunning whenever you need to overcome an obstacle via movement, such as hurdling a railing, rolling across the hood of a car, jumping across a pit, or swinging around a pole.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Utilisez Parkour lorsque vous avez besoin de franchir un obstacle grâce au mouvement, comme sauter par-dessus une balustrade, rouler sur le capot d'une voiture, sauter au-dessus d'une fosse ou tourner autour d'un poteau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Freerunning is also used for sprinting (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Parkour est également utiliser pour sprinter (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>191) and full defense against attacks (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>191) et en défense totale contre les attaque (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: Balance, Gymnastics, Jumping, Running</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations: Équilibre, Gymanstique, Saut, Course</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{GUNNERY} Type: Active, Combat </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{ARTILLERIE} Type: Active, Combat </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Gunnery skill covers the use and maintenance of large, vehicular, or non-portable weapons systems.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: La compétence Artillerie couvre l'utilisation et la maintenance des gros système d'armement, montées sur véhicule ou non-portable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firing these weapons is more like playing a video game than firing a gun.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Utiliser ces armes ressemble plus à jouer à un jeu vidéo qu'utiliser une arme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use Gunnery when attacking with a vehicle-mounted weapon or weapon emplacement in ranged combat (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Un joueur utilise la compétenceArtillerie lorsqu'il attaque avec une arme montée sur un véhicule ou une plate-forme d'arme lors d'un combat à distance (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: Artillery, Missiles</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations: Canons, Missiles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{HARDWARE: [FIELD]} Type: Field, Active, Technical </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{MATÉRIEL: [DOMAINE]} Type: Domaine, Active, Technique </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: This skill encompasses the ability to build, repair, physically hack, and upgrade equipment of a specific type.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Cette compétence regroupe la capacité à construire, réparer, bidouiller et améliorer un équioement d'un type spécifique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Hardware is primarily used to repair devices, vehicles, habitat systems, or synthetic morphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Matériel est utilisé principalement pour réparer des apapreils, des véhicules, des habitats ou des morphs synthétiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See Building, Repairing, and Modifying below.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voir Construire, Réparer et Modifier ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sample Fields: Aerospace (all air and space vehicles), Armorer (armor and weapons), Electronics (all computerized devices), Groundcraft, Implants, Industrial (habitat, factory, and life support systems), Nautical (watercraft and submarines), Robotics (synthetic morphs) </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Exemple de Domaines:Aérospatiale (tous les véhicules aériens et spatiaux), Armurerie (armure et armes), Électronique (tout appareils informatisé), Engisn terrestres, Implants, Industrie (habitat, usine et systèmes de survie), Nautique (sous-marins et bateaux),Robotique (morphs synthétique) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Building </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Construire </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Creating an item from scratch is handled as a Task Action with a timeframe determined by the gamemaster.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Créer un objet en partant de rien est géré comme une Action de Tâche avec un intervalle déterminé par le maître de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The timeframe should be set according to the complexity of the object and could range from an hour (constructing a set of shelves) to days (assembling a robot from spare parts) to even months (building a house).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'intervalle de temps devrait être définie en fonction de la complexité de l'objet et devrait aller d'une heure (construire un jeu d'étagère) à plusieurs jours (assembler un robot à partir de pièces détachées) voire plusieurs mois (construire une maison).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Numerous factors may apply modifiers to the test, such as the use of entoptic blueprints/help manuals (+20) or poor working conditions (–10 to –30).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De nombreux facteurs peuvent appliquer des modificateurs au test, tels que l'utilisation de plans/manuels entoptiques (+20) ou de mauvaises conditions de travail (-10 à -30).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tools are also a factor, perhaps making the job easier (superior tools +10 to +30), more difficult (poor or inadequate tools, –10 to –30), or even impossible (lack of required tools).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les outils sont également un facteur, peut-être facilitant le travail (outils supérieurs +10 à +30), le compliquant (outils de mauvaises qualité ou inadaptés, -10 à -30) ou le rendant impossible (absence des outils nécessaire).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Repairing </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Réparer </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Damaged items may be repaired in a similar manner.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les objets abîmés peuvent être réparés de manière similaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See the rules for Synthmorph and Object Repair, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Coir les règles pour les Synthmorphs et la Réparation d'Objet p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Modifying </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Modifier </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Altering an object’s design and function follows the same basic rules as build and repair, above.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Altérer la conception d'un objet et son fonctionnement respecte les mêmes règles que celels de construction et réparation au-dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The time-frame is determined by the gamemaster as appropriate to the modification.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'intervalle de temps est déterminé par le maître de jeu de manière approprié à la modification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{IMPERSONATION} Type: Active, Social </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{IMPOSTURE} Type: Active, Sociale </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Impersonation is the skill of trying to pass yourself off as someone else in social situations, including virtual ones.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Imposture est la compétence pour vous faire passer pour quelqu'un d'autre dans les situations sociales, incluant les situations virtuelles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This includes copying mannerisms and speech patterns and using accumulated information to convince others that you are that person.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela inclut de copier le manièrisme et les tournures linguistique ainsi que l'utilisation des informations accumulées pour convaincre les autres que vous êtes qui vous prétendez être.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In a universe where appearance is highly variable, the question of identity is largely one of both trust and picking up on behavioral quirks and verbal cues to recognize a given individual.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans un univers où l'apparence est extrêmement variable, la question de l'identité est essentiellement une question à la fois de confiance et de reconnaissance de bizarreries comportementale et de repères verbaux  nécessaire à reconnaître une personne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Sometimes it’s fun to pretend you’re someone else, and sometimes it’s profitable or lifesaving.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Parfois il peut-être rigolo de prétendre que vous êtes quelqu'un d'autre, et pafois cela est profitable ou pourra vous sauver la vie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Use this skill whenever you attempt to convince someone that you are actually someone else through some sort of social or online interaction.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Utiliser cette compétence lorsque vous tentez de convaincre quelqu'un que vous êtes en fait quelqu'un d'autre grâce à une certaine interaction sociale ou en-ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Forks use this skill when passing themselves off as their alpha ego.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les forks utilisent cette compétences quand ils essayen t de se faire apsser pour leur égo alpha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Impersonate is handled as an Opposed Test against the Kinesics skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Imposture est géré par un Test en Opposition contre la compétence Kinésique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: Avatar, Face-to-Face, Verbal</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations: Avatar, Face-à-Face, Verbale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{INFILTRATION} Type: Active, Physical </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{INFILTRATION} Type: Active, Physique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Infiltration is the art of escaping detection.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Infiltration est l'art d'échapper à la détection.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use Infiltration whenever you need to physically hide or move with stealth to avoid someone sensing you, whether you are hiding behind a tree, sneaking past a guard, or blending into a crowd.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Utilisez Infiltration quand vous avez besoin de vous cacher physiquement ou de vous déplacer discrètement pour éviter que quelqu'un ne vous perçoive, que vous vous cachiez derière un arbre, que vous vous faufiliez derrière un guarde ou que vous vous mélangiez dans une foule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Infiltration can also be used to follow people (shadowing) without them detecting you.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Infiltration peut également être utilisé pour suivre les personnes (filature) sans qu'ils ne vous détectent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Infiltration is an Opposed Test against the Perception of whomever you are hiding from.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Infiltration est géré par un Test en opposition contre la Perception de tout ce dont vous essayer de vous cacher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster may wish to roll such tests in secret so the player does not know whether they have succeeded or failed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu peut vouloir lancer de tels tests en secret pour que les joueurs ne savent pas si ils ont réussit ou raté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: Blending In, Hiding, Shadowing, Sneaking</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations: Se Fondre Dans al Foule, Se cacher, Filature, S'infiltrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{INFOSEC} Type: Active, Technical </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{INFOSEC} Type: Active, Technique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Infosec is short for “information security.” It encompasses training in electronic intrusion and counterintrusion techniques, as well as encryption and decryption.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Infosec est une abréviation pour &quot;information security (sécurité de l'information).&quot; Elle regroupe l'entraînement en intrusion électronique et les techniques de contre intrusion, ainsi que le chiffrement et le déchiffrement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Infosec is used both for hacking into electronic devices and mesh networks and for protecting them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Académique est utilisée à la fois pour pénétrer un appareil électronique et les réseaux meshés et pour les protéger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See the Mesh chapter, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voir le chapitre sur Le Mesh, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>234, for more details.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>234, pour plus de détails.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: Brute-Force Hacking, Decryption, Probing, Security, Sniffing, Spoofing</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations: Attaque en Force-Brute, Déchiffrement, Analyse, Sécurité, Interception de traffic, Spoofing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{INTEREST: [FIELD]} Type: Field, Knowledge </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{INTÉRÊT: [DOMAINE]} Type: Domaine, Connaissance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Interest includes just about any topic that captures your attention that isn’t covered by another skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Intérêt inclut tout ce qui concerne un sujet qui capte votre attention et qui n'est pas couvert par une autre compétence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This includes hobbies, obsessions, causes, pastimes, and other recreational pursuits.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle inclut les hobbys, les obsessions, les causes, les passe-temps et d'autres objetcifs récréatifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use the Interest skill whenever you need to recall or use knowledge related to the particular interest in question.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Utilisez la coméptence Intérêt lorsque vous devez faire appel à ou utiliser une connaissance liée à l'intérêt particulier en question.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Field Examples: Ancient Sports, Celebrity Gossip, Conspiracies, Factor Trivia, Gambling, Hypercorp Politics, Lunar Habitats, Martian Beers, Old Earth Nation-States, Reclaimer Blogs, Science Fiction, Scum Drug Dealers, Spaceship Models, Triad Economics, Underground XP </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Exemple de Domaines: Ancients Sports,  Actualité People , Conspiration, Information sur les Facteurs, Politique Hypercorporatiste, Habitats Lunaire, Bières Martiennes, Nation-État de la Vieille Terre, Blog Réclamationnistes, Science Fiction, Racailles Trafiquants de Drogue, Modèles de Vaisseaux, Économie des Triades, XP Clandestine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: As appropriate to the field</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations:Appropriée au domaine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{INTERFACING} Type: Active, Technical </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{INTERFAÇAGE} Type: Active, Technique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Interfacing is about using computerized electronic devices and software.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Interfaçage concerne l'utilisation de matériel électronique informatisé et des logiciels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use Interfacing to understand an electronic device you are not familiar with, use a program according to its normal operating parameters, manipulate electronic files of various types (including images, video, XP, and audio files), scan for wireless devices, and otherwise interact with and command your ecto, muse, and other computerized devices.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Utilisez Interfaçage poru comprendre le fonctionnement d'un appareil électronique avec lequel vous n'êtes pas familier, utiliser un programme d'arpès ses paramètres normaux d'utilisation, manipuler des fichiers électroniques de différents type (incluant les images, la vidéo, l'XP et l'audio), chercher des apapreils sans-fil et interagir d'une manière ou d'une autre avec votre ecto, votre muse ou d'autre appareils informatisés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some Interfacing actions may be Task Actions, with a timeframe determined by the gamemaster.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines actions d'Interfaçage peuvent être des Actions de Tâches, avec un intervalle de temps déterminé par le maître de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For more detail, see the Mesh chapter, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour plus de détail, voir le chapitre sur le Mesh p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: Forgery, Scanning, Stealthing, by program</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations: Falsification, Balayage, Stéganographie, par programme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{INTIMIDATION} Type: Active, Social </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{INTIMIDATION} Type: Active, Sociale </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Intimidation is convincing someone to do what you want based on direct threats (implied or actual) or sheer force of personality.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Intimidation c'est convaincre quelqu'un de faire ce que vous voulez grâce à des menaces directes (insinuées ou réelle) ou par la seule force de sa personnalité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use Intimidation to scare someone into submission, browbeat them into getting your way, command them to follow your orders, or berate them into giving up information.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Utilisez Intimidation pour effrayer quelqu'un et le soumette, le forcer à faire ce que vous voulez, lui ordonner de suivre vos ordres ou l'admonester de vous donner des informations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Influence is handled as an Opposed Test, pitted against the target’s WIL + WIL + SAV.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Intimidation est géré par un Test en Opposition contre lae total VOL + VOL + AST de la cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: Interrogation, Physical, Verbal</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations: Interrogation, Physique, Verbale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{INVESTIGATION} Type: Active, Mental </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{INVESTIGATION} Type: Active, Mentale, Psi </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Investigation is the art of analyzing evidence, piecing together clues, solving mysteries, and making logical deductions from groups of facts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Investigation est l'art d'analyser des preuves, d'assembler des indices, de résoudre els mystères et de faire des dédcutions logiques à aprtir d'un ensemble de fait.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Investigation differs from Perception in that it is the conscious search for clues or pieces of a puzzle.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Investigation diffère de Perception car il s'agît d'une recherche minutieuse d'indice ou de pièce du puzzle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use Investigation to draw conclusions from assorted details.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Utilisez cette compétence pour tirer des conclusions depuis un ensemble de détails.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, Investigation could be used to determine the likely sequence of events at a crime scene, determine a possible social connection between two people, or deduce how an enemy made their escape.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, Investigation peut être utilisé pour déterminer la séquence probable des évènements sur une scène du crime, déterminer une connexion sociale possible entre deux personnes ou déduire comment un ennemi à pu s'échapper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Investigation is a great way</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Investigation ets un bon moyen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>to provide clues to players, especially when the subject matter is something their character might know well but the player does not.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>de fournir des indices aux jouerus, particulièrement lorsque le sujet concerné est quelque chose de familier ua personnage masi pas pour le joueur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: Evidence Analysis, Logical Deductions, Physical Investigation, Physical Tracking</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations: Analyse de Preuve, Déductions Logique, Investigation physique, Filature Physique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{KINESICS} Type: Active, Social </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{KINÉSIQUE} Type: Active, Sociale </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Kinesics is the art of empathy and non-vocal communication.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Kinésique est l'art de l'empathie et de la communication non-verbale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use Kinesics to read body language, tells, social cues, and other subconscious indicators.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Utilisez Kinésique pour lire le language corporel, les tics, les indices sociaux et autres indicateurs subconscient.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It can also be used to emote more effectively.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle peut aussi être utilisée pour retranscrire ses émotions plus efficacement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Kinesics is used defensively whenever someone is trying to deceive you; make an Opposed Test against that person’s Deception or Impersonation skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Kinésique est utilisée de manière défensive lorsque quelqu'un essaye de vous mentir; faite sun Test en Opposition contre la compétence Supercherie ou Imposture de cette personne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though synthetic morphs are also designed to emote, reading them is not as easy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même si les morphs synthétique sont également conçue pour exprimer des émotions, les lire n'est pas aussi simple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Apply a –30 modifier when judging a synthetic morph inhabited by a character or AGI.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appliquez un modificateur de -30 lorsque vous évaluez une morph synthétique habitée par un personnage ou une IAG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, standard AIs are also difficult to read; apply a –60 modifier when judging a synthetic morph or pod operated by an AI.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, les IAs standard sont également difficile à lire; appliquez un modificateur de -60 lorsque vous essayez de jauger une morph synthétique ou un pod contrôlé par une IA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: Judge Intent, Nonvocal Communication</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations: Jauger les Intentions, Communication Non-Verbale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>JUDGING EMOTIONS AND INTENTIONS </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>JAUGER DES ÉMOTIONS ET DES INTENTIONS </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transhumans are empathic beings, and so you can attempt to gauge the demeanor and/or intent of someone you are dealing with by rolling a Kinesics Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les transhumaisn sont des êtres empathique, et vous pouvez donc tenter de deviner les motivations et/ou les intentions de quelqu'un avec qui vous faites affaire en tentant un Test de Kinésique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This attempt to read someone is far from exact, however, and it is easy to misjudge.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette tentative de lire quelqu'un est cpednant loin d'être fiable et est facilement mal interprétée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster should make this test in secret and only allow a hint if successful—it is not possible to read someone with absolute certainty.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>le maître de jeu devrait faire ce test en secret et n'autoriser un indice que si il est réussi - il n'est pas possible de lire quelqu'un avec une certitude absolue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the person being judged is intentionally trying to deceive the character, this should be an Opposed Test against their Deception skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si la personne ciblée essaye intentionnellement de mentir au personnage, cela devrait se résoudre en un Test en Opposition contre sa compétence Supercherie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>NONVOCAL COMMUNICATION </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>COMMUNICATION NON VERBALE </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Experts in Kinesics can effectively communicate with each other simply by posture, stances, gestures, demeanors, and looks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les experts en Kinésique peuvent communiquer efficacement avec les autres en utilisant simplement des postures, des attitudes, des gestes, des comportement et des regards.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Such communication is necessarily limited in the amount of information it can convey, but feelings, attitudes, affirmation/negation, and simple concepts may be passed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une telle communication est nécessairement limitée dans la quantité d'information qu'elle eput relayer, mais les sentiments, les attitudes, la'ffirmation/la négation et des concepts simples peuvent être transmis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To effectively communicate complex concepts, the gamemaster may require successful Kinesics Tests from both parties, applying modifiers as appropriate.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour communiquer effectivement des concepts complexe, le maître de jeu peut nécessiter des Test de Kinésiques réussit des deux parties, appliquant des modificateurs appropriés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{KINETIC WEAPONS} Type: Active, Combat </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{ARMES CINÉTIQUE} Type: Active, Combat </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Kinetic Weapons covers the use and maintenance of standard kinetic projectile weapons like firearms and railguns (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: La compétence Armes Cinétique couvre l'utilisation et la maintenance des armes à projectiles cinétiques standard telle que les armes à feu et les armes à rail (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use this skill whenever attacking with a kinetic weapon in ranged combat (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Un joueur utilise la compétence Armes Cinétique lorsqu'il attaque avec une arme cinétique en combat à distance (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: Assault Rifles, Machine Guns, Pistols, Sniper Rifles, Submachine Guns</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations: Fusils d'Assaut, Mitrailleuses, Pistolets, Fusils de Sniper, Armes Automatiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{LANGUAGE: [FIELD]} Type: Field, Knowledge </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{LANGUE: [DOMAINE]} Type: Domaine, Connaissance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Language covers the speaking and reading of languages other than the player’s native tongue.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Langue couvre la capacité à parler et lire une langue autre que la langue natale du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A speaker is considered fluent at a skill level of 50; anything above this indicates further refinement in technical vocabulary, accents, and knowledge of dialects.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Parler la langue de manière fluide correspond à un niveau de 50; tout ce qui est au-dessus indique un développement du vocabulaire technique, des accents et la connaissance des dialectes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use the Language skill whenever you want to speak, understand, or read something in a language at which you are skilled.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Utilisez la compétence Lnague lorsque vous devez parler, comprendre ou lire quelque chose dans une langue pour laquelle vous êtes compétent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most speaking and reading comprehension tests can be considered Simple Success Tests if your skill is over 50, unless the gamemaster rules the subject is sufficiently complex that a non-native speaker would have trouble understanding it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>la plupart des test de compréhension écrite et orale peuvent être considéré comem des Tests de Succès Simple si votre compétence dépasse 50, à moins que le maître de jeu décide que le sujet de la discussion est suffisament complexe pour que les pratiquants non-natifs puissent avoir du mal à comprendre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sample Fields: Arabic, Cantonese, English, French, Hindi, Japanese, Mandarin, Portuguese, Russian, Spanish </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Exemple de Domaines: Arabe, Cantonais, Anglais, Français, Hindoux, Mandarin, Portuguais, Russe, Espagnol </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: As appropriate to the field, representing dialects, technical jargon, and subcultural slang</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations: Appropriée au domaine, représentant les dialectes, le jargon technique et l'argot sous-culturel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LANGUAGES IN ECLIPSE PHASE </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>LES LANGUES DANS ECLIPSE PHASE </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>With the Fall of Earth, the languages that remain most prominent in the solar system are those that were extensively carried into space by countries and hypercorps with aggressive space programs or by the large populations of poor laborers and infomorph refugees that followed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Avec la Chute de la Terre, les langues qui sont encore dominantes dans le système solaire sont celles qui ont été largement emmenée dans l'espace par les pays et les hypercorps ayant des programmes spatiaux agressifs ou par les grosses populations de travailleurs pauvre et d'infugiés qui ont suivis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No single language dominated the realm of space expansion, and multilingualism was common.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aucune langue ne dominait le royaume de l'expansion spatiale, et le multilingusiem était commun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many habitats and (sub) cultural groupings cling to specific languages as a method of retaining cultural identity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup d'habitats et de groupes (sous) culturel s'en tiennent à une lnague spécifique comme méthode de conserver une identité culturelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Despite the availability of instant translation via the mesh, many people remain versed in two or more languages.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En dépit de la disponibilité de traduction instanténée via le mesh, beaucoup de personne reste compétent dans deux langues ou plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ten most common languages in the solar system by speaking populations are: Arabic, Cantonese, English, French, Hindi, Japanese, Mandarin, Portuguese, Russian, and Spanish.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les dix langues les plus communes dans le système solaire en taille de population les parlants sotn: Arabe, Cantonais, Anglais, Français, Hindoux, Japonais, Mandarin, Portuguais, Russe et Espagnol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other languages that remain strong include Bengali, Dutch, Farsi, German, Italian, Javanese, Korean, Polish, Punjabi, Swedish, Tamil, Turkish, Urdu, Vietnamese, and Wu.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres langues encore trés parlées incluent le Bengali, le Flamand, le Farsi, l'Allemand, l'Italien, le Javanais, le Coréen, le Polonais, le Punjabi, le Suédois, le Tamoul, le Turc, l'urdu, le Viétnamien et le Wu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some languages were effectively lost during the Fall, especially those in some undeveloped regions, as their speaking populations did not migrate into space pre-Fall and were not privileged enough to survive in large numbers as infomorph refugees.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines langue ont étés effectivement perdue pendant la Chute, particulièrement celles des régions non développés, alros que la population qui parlait cette langue n'a pu migrer dans l'espace pré-Chute et n'étaient pas suffisament priviligiés pour survivre en assez grnad nombre comme infugiés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{MEDICINE: [FIELD]} Type: Field, Active, Technical </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{MÉDECINE: [DOMAINE]} Type: Domaine, Active, Technique </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Medicine is the applied care and maintenance of biological beings and life.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Médecine regroupe les soins et la maintenance des êtres et formes de vie biologiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use Medicine whenever you need to apply medical care beyond the immediate help provided by first responders.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Utilisez la coméptence Médecine lrosque vous devez administrer des soins au-delà de l'aide immédiate apportée par les premiers secours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This includes conducting physical exams, diagnosing ailments, treating problems and illnesses, surgery, using biotech and nanotech medical tools, and long-term care.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela inclut la conduite d'examens physique, le diagnostique des maux, le traitement des problèmes et des maladies, la chirurgie, l'utiulisation d'ouril médicaux biotechnologique et nanotechnologique et les soins à long-terme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See Healing and Repair, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voir Soins et Réparations, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sample Fields: Biosculpting, Exotic Biomorphs, Gene Therapy, General Practice, Implant Surgery, Nanomedicine, Mercurials (by type), Paramedic, Pods, Psychiatry, Remote Surgery, Trauma Surgery, Veterinary </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Exemple de Domaine: Biosculpture, Biomorphs Exotique, Thérapie Génique, Pratique générale, Chirurgie Implantatoire, Nanomédecine, Mercuriens (par type), Paramédecine, Pods, Psychiatry, Chirurgie à Distance, Chirurgie Traumatique, Vétérinaire </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{NAVIGATION} Type: Active, Mental </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{NAVIGATION} Type: Active, Mentale, Psi </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Navigation is the art of finding your way, whether using AR maps, a compass, the stars, or an astrogation AI.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Investigation est l'art de trouver son chemin, que vous utilisiez des cartes AR, un compas, les étoiles ou une IA d'astrogation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use Navigation whenever you need to plot out a course, determine a direction, or otherwise keep from getting lost.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Utilisez cette compétence quand vous avez besoin de calculer une route, déterminer une direction ou de garder une trace quelconque pour éviter de se perdre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: Astrogation, Map Making, Map Reading</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations: Astrogation, Cartographie, Topographie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{NETWORKING: [FIELD]} Type: Active, Social </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{RÉSEAU: [DOMAINE]} Type: Active, Sociale </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Networking is your skill at working your contacts, trading favors, and keeping your finger on the pulse of a particular faction or cultural grouping.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Réseau est la compétence qui sert à travailler vos contacts, échanger des faveurs et garder le pouls d'une faction ou d'un groupe culturel particulier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use Networking to gather information or call on services using your Reputation (see Reputation and Social Networks, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Utiliser Réseau pour rassembler des information ou demander des services en utilisant votre Réputation (voir Réputation et Réseaux Sociaux, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sample Fields: Autonomists (@-rep), Criminals (g-rep), Ecologists (e-rep), Firewall (i-rep), Hypercorps (c-rep), Media (f-rep), Scientists (r-rep).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Exemple de Domaine: Autonomistes (@-rep), Criminels (g-rep), Écologistes (e-rep), Firewall (i-rep), Hypercorporations (c-rep), Média (f-rep), Scientifiques (r-rep).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the game-master’s discretion, this list can be expanded to other (sub)cultural groupings.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À la discrétion du maître de jeu, cette liste peut être étendue à d'autre groupe (sous) culturel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: As appropriate to each field</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations:Appropriée au domaine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{PALMING} Type: Active, Physical </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{MANIPULATION} Type: Active, Physique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Palming is the skill of handling items quickly and nimbly without others noticing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Manipulation est la compétence pour manipuler des objets rapidement et lestement sans que les autres ne le remarque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Palming is not only about dexterous manipulation of objects but also relies heavily on obfuscation, timing, and misdirection.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Manipulation n'est pas qu'à propos de la manipulation habile d'objet mais repose aussi sur la déconcertation, le rythme et la déosrientation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use Palming any time you are trying to conceal an item on your person, shoplift, pick a pocket, surreptitiously discard something, or perform a magic trick.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Utilisez Manipulation à chaque fois que vous essayez de cacher un objet sur votre personne, de voler à l'étalage, de jouer au pick pocket, de subreciptement jetter quelque chose ou d'accomplir un tour de prestidigitation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Palming is an Opposed Test against the Perception of any onlookers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Manipulation est un Test en Opposition contre la Perception des spectateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The game-master may wish to make this roll secretly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu peut désirer faire ce jet en secret.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: Pickpocketing, Shoplifting, Tricks</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations: Pick Pocket, Vol à l'Étalage, Tour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{PERCEPTION} Type: Active, Mental </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{PERCEPTION} Type: Active, Mentale, Psi </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Perception is the use of your physical senses (including cybernetic) and awareness of the physical world around you.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Perception est l'utilisation de vos sens physiques (incluant la cybernétique) et la conscience du monde physique autour de vous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Perception differs from Investigation in that it is noticing things by chance, rather than actively searching for something.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Investigation diffère de Perception car il s'agît de remarquer quelque chose par hasard, plutôt que de le rechercher activement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use Perception whenever you wanted to take a detailed account of your surroundtion) or by lying (covered by Deception).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Utilisez cette compétence quand vous avez besoin d'observer votre environnement en détail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use Persuasion any time you are trying to bargain with, convince, or manipulate someone.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Utilisez Persuasion à chaque fois que vous essayez de troquer avec, de convaincre ou de manipuler quelqu'un.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This can include motivating your subordinates or peers to take action, seducing a companion, winning a political debate, or negotiating a contract, among other things.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela peut inclure motiver vos subordonnées ou pairs à agir, séduire un compagnon, gagner un débat politique ou négocier un contrat entre autres choses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Persuasion is handled as an Opposed Test against the target’s WIL + WIL + SAV when one person is simply trying to win over another.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Persuasion est gérée comme un Test en Opposition contre la somme de VOL + VOL + AST de la cible lorsqu'une personne essaye simplement d'avoir raison par rapport à l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If both parties are trying to convince each other, make it an Opposed Test between Persuasion skills.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si les deux parties essayent de se convaincre mutuellement, faites un Test en Opposition entre les compétences Persuasion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: Diplomacy, Morale Boosting, Negotiating, Seduction</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécializations: Diplomacie, Remonter le Moral, Négocier, Séduire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{PILOT: [FIELD]} Type: Field, Active, Vehicle </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{PILOTER: [DOMAINE]} Type: Domaine, Active, Véhicule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Pilot is your skill at driving/flying a vehicle of a particular type.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Piloter est votre compétence pour conduire/faire voler un véhicule d'un type particulier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: You use Pilot skill whenever you need to maneuver, control, or avoid crashing a vehicle, whether you are in the pilot’s seat, remote controlling a robot, or directly jamming a vehicle with VR.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Utilisez la compétence Piloter lorsque vous devez manœuvrer, contrôller ou éviter de s'écraser, que vous soyez dans le siège du pilote, que vous contrôliez à distance un robot ou en court-circuitant directement le véhicule en RV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each vehicle has a Handling modifier that applies to this test, along with other situational modifiers (see Bots, Synthmorphs, and Vehicles, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque véhicule a un modificateur de Maniabilité qui s'applique à ce test, ainsi que d'autres modificateurs situationnels (voir Bots, Synthmorphs et Véhicules, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sample Fields: Aircraft, Anthroform (walkers), Exotic Vehicle, Groundcraft (wheeled or tracked), Spacecraft, Watercraft </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Exemples de Domaine: Avions, Antropomorphe (marcheurs), Véhicule Exotique, Engins Terrestre (à roue ou à chenille), Vaisseaux Spatiaux, Bateaux </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{PROFESSION: [FIELD]} Type: Field, Knowledge </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{PROFESSION: [DOMAINE]} Type: Domaine, Connaissance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Profession skills indicate training in a profession practiced in Eclipse Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Les compétences Profession indiquent un entraînement dans l'une des profession pratiquée dans Eclipse Phase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This can indicate either formal training or informal, on-the-job type training, and includes both legal and extralegal trades.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela peu indiquer soit un entraînement formel ou informel, une expérience faites sur le tas, et inclut à la fois les marchés légaux et paralégaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use Profession to perform work-related tasks for a specific trade (i.e. mining, balancing accounts, designing a security system, etc.) or to reference specialized knowledge that someone trained in that profession might have.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Utilisez la compétence Profession pour effectuer des tâches en lien avec un travail pour un marché spécifique (telles que miner, équilibrer des comptes, concevoir un système de sécurité, etc.) ou pour référencer une connaissance spécialisé que quelqu'un d'entraîné dans cette profession pourrait avoir .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sample Fields: Accounting, Appraisal, Asteroid Prospecting, Banking, Cool Hunting, Con Schemes, Distribution, Forensics, Lab Technician, Mining, Police Procedures, Psychotherapy, Security Ops, Smuggling Tricks, Social Engineering, Squad Tactics, Viral Marketing, XP Production </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Exemples de Domaine: Comptabilité, Estimation, Prospection d'Astéroïde, Planificateur d'Arnaque, Clkassification, Criminalistique, Techynicien de Laboratoire, Extratcion Minière, Procédures Policières, Psychothérapie, Opération de Sécurité, Route de Contrebande, Ingénierie Sociale, Tactiques d'Escouade, Marketing Viral, Production XP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{PROGRAMMING} Type: Active, Technical </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{PROGRAMMATION} Type: Active, Technique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Programming is your talent at writing and modifying software code.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Programmation est votre talent pour écrire et modifier du code logiciel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use Programming to write new programs, modify or patch existing software, break copy protection, find or introduce exploitable flaws, write virii or worms, design virtual settings, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Utilisez Programmation pour écrire de nouveaux programmes, modifier ou patcher un logiciel existant, casser un système de protection des données ou introduire des failels exploitable, écrire des virus ou des vers, concevoir des environnements virtuels, et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Programming is also applied when using nanofabrication devices.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Programmation est également utilisant lors de l'utilisation d'appareils de nanofabrication.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: AI Code, Malware, Nanofabrication, Piracy, Simulspace Code</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations: Code d'IA, Malware, Nanofabrication, Piratage, Code de Simulspace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{NANOFABRICATION} Nanofabrication is use of Programming skill to create objects using a cornucopia machine, fabber, or maker (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{NANOFABRICATION} La nanofabrication est l'utilisation de la compétence Programmation pour créer des objets en utilisant une machine d'abondance, un fabeur ou un faiseur (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you have appropriate blueprints and raw materials, most uses of a nanofabricator can be treated as a Simple Success Test (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>si vous avez les plans et les matériau bruts appropriés, la plupart des utilisation d'un nanofabricateur peut être traité comme un Test de Succès Simple (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you wish to create an item for which you do not have blueprints or the proper raw materials, however, or you wish to alter an item’s design, then a Nanofabrication Test is called for.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous souhaitez créer un objet pour lequel vous n'avez pas de schémas ou les matériaux bruts adéquats ou que vous souhaitez altérer la conception d'un objet, un test de nanofabrication est cependant nécessaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See Nanofabrication, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voir Nanofabrication, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: Art, Clothing, Electronics, Food, Forgery, Weapons</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations: Art, Vêtements, Électroniques, Nourriture, Falsification, Armes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{PROTOCOL} Type: Active, Social </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{PROTOCOLE} Type: Active, Sociale </seg>
       </tuv>
     </tu>
     <tu>
@@ -28449,7 +29993,7 @@
         <seg>Beam Weapons (COO) 30 (45), Climbing (SOM) 30 (45), Demolitions (COG) 40 (60), Fray (REF) 30 (50), Freefall (REF) 40 (60), Freerunning (SOM) 30 (45), Hardware: Aerospace (COG) 40 (60), Infiltration (COO) 30 (45), Interfacing (COG) 20 (40), Navigation (INT) 40 (60), Perception (INT) 40 (60), Persuasion (SAV) 20 (30), Research (COG) 20 (40), and Scrounging (INT) 40 (60).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Armes à Rayons (COO) 30 (45), Escalade (SOM) 30 (45), Démolition (COG) 40 (60), Esquive (REF) 30 (50), Chute Libre (REF) 40 (60), Parkour (SOM) 30 (45), Matériel: Aérospatialle (COG) 40 (60), Infiltration (COO) 30 (45), Interface (COG) 20 (40), Navigation (INT) 40 (60), Perception (INT) 40 (60), PErsuasion (AST) 20 (30), Recherche (COG) 20 (40) et Fouille (INT) 40 (60).</seg>
+        <seg>Armes à Rayons (COO) 30 (45), Escalade (SOM) 30 (45), Démolition (COG) 40 (60), Esquive (REF) 30 (50), Chute Libre (REF) 40 (60), Parkour (SOM) 30 (45), Matériel: Aérospatialle (COG) 40 (60), Infiltration (COO) 30 (45), Interfaçage (COG) 20 (40), Navigation (INT) 40 (60), Perception (INT) 40 (60), PErsuasion (AST) 20 (30), Recherche (COG) 20 (40) et Fouille (INT) 40 (60).</seg>
       </tuv>
     </tu>
     <tu>
@@ -36769,7 +38313,7 @@
         <seg>After Zhou has spent some time in Wen's company, the gamemaster makes a secret Opposed Test, pitting Zhou's Impersonation skill of 57 against Wen's Kinesics of 34.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Après que Zhou ait passé un peu de temps en compagnie de Wen, le maître de jeu fait un Test en Opposition secret, opposant la compétence Imitation de 57 de Zhou contre la Kinésique de 34 de Wen.</seg>
+        <seg>Après que Zhou ait passé un peu de temps en compagnie de Wen, le maître de jeu fait un Test en Opposition secret, opposant la compétence Imposture de 57 de Zhou contre la Kinésique de 34 de Wen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48809,7 +50353,7 @@
         <seg>If successful, the async acquires an “imprint” of the target’s mind that they can take advantage of when impersonating that ego.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>En cas de réussite, l'async acuiert une &quot;empreinte&quot; de l'esprit de la cible qu'il peut utiliser en imitant cet égo.</seg>
+        <seg>En cas de réussite, l'async acquiert une &quot;empreinte&quot; de l'esprit de la cible qu'il peut utiliser en imitant cet égo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48817,7 +50361,7 @@
         <seg>The async then receives a +30 bonus on Impersonation Tests when mimicking the target’s behavior and social cues.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>L'async reçoit un bonus de +30 sur les Tests d'Imitation lorsqu'il imite le comportement et les signaux sociaux de la cible.</seg>
+        <seg>L'async reçoit un bonus de +30 sur les Tests d'Imposture lorsqu'il imite le comportement et les signaux sociaux de la cible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48978,6 +50522,14 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Bouclier Psi renforce l'esprit de l'async contre les attaques et les manipulations psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the async is hit by a psi attack, they receive WIL $$ 5 (round up) points of armor, reducing the amount of damage inflicted.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'async est touché par une attaque psi, il reçoit un nombre de points d'armure égal à VOL  $$ 5 (arrondis au supérieur), réduisant le total de dommage infligé.</seg>
       </tuv>
     </tu>
     <tu>
