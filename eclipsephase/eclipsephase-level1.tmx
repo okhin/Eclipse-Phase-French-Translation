@@ -28022,6 +28022,278 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>What it is: Protocol is the art of making a good impression in social settings.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Protocole est l'art de faire bonne impression dans un cadre social.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This includes keeping up with the latest memes, trends, gossip, interests and habits of various (sub)cultural group.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela inclus le fait de se tenir au courant des derniers mèmes, tendances, rumeurs, intérêts et habitude de divers groupes (sous)culturel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use Protocol whenever you need to choose your words carefully, determine who is the appropriate person to speak to, impress someone with your grasp of customs, or otherwise fit into a specific social/cultural grouping.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Utilisez cette compétence quand vous avez besoin de choisir vos mots avec attention, déterminer qui est l'interlocuteur idéal, impressioner quelqu'un avec votre compréhension des coutumes ou de vous adaptez d'une manière ou d'une autre à un groupe social/culturel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Part etiquette, part streetwise, Protocol allows you to navigate treacherous social waters and put people at ease.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A la fois étiquette et connaissance de la rue, Protocole vous permet de naviguer parmi les requins et de mettre les gens à l'aise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character is dealing with a suspicious or hostile audience, make this an Opposed Test against the target’s WIL + WIL + SAV.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le personnage traite avec une audience suspicieuse ou hostile, faites un Test en Opposition contre VOL + VOL + AST de la cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: Anarchist, Brinker, Criminal, Factor, Hypercorp, Infomorph, Mercurial, Reclaimer, Preservationist, Scum, Ultimate</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations: Anarchiste, Bordés, Criminels, Facteurs, Hypercorporation, Infomorph, Mercurien, Réclamationnistes, Préservationnistes, Racaille, Ultimes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{NEGATING SOCIAL GAFFES} Sometimes a player will make a mistake that their character never would, whether that’s failing to stand in the presence of hypercorp royalty, confusing a gang leader for a peon, or accidentally insulting someone’s heritage.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{ANNULER DES GAFFES SOCIALES} parfois, un joueur fera une erreur que leur personnage n'aurait jamais faites, que ce soit de ne pas rreconnaître la royauté d'un hypercorporatistes, de confondre un chef de gang avec un troufion ou d'insulter accidentellement l'héritage de quelqu'un.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In cases like this, the player may make a Protocol Test for the appropriate field in order to negate the gaffe.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans des cas comme ceux-là, le joueur peut faire un Test de Protocole pour le domaine approprié afin d'annuler la gaffe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If successful, the character never actually screwed up, or at least managed to cover their tracks without ruffling any feathers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le test est réussi, le personnage n'a en fait jamais merdé, ou s'en est sorti pour au moins couvrir ses traces sans voler dans les plumes de quelqu'un.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{PSI ASSAULT} Type: Active, Mental, Psi </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{ASSAUT PSI} Type: Active, Mentale, Psi </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Psi Assault is the skill of damaging another ego’s mind.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Assaut Psi est la compétence pour endommager l'esprit d'un autre ego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It can only be purchased by characters with the Psi trait (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette compétence n'est disponible que pour les personnages avec le trait Psi (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it does: Use Psi Assault when attacking another ego’s mind in psi combat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Utilisez Assaut Psi lorsque vous attaquer l'esprit d'un autre ego en combat psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: By sleight</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations: Une par exploit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{PSYCHOSURGERY} Type: Active, Technical </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{PSYCHOCHIRURGIE} Type: Active, Technique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Psychosurgery is the use of machine-aided psychological techniques to repair, damage, or manipulate the psyche.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Psychochirurgie est l'utilisation de techniques psychologique assistée par ordinateur pour réparer, endommager ou manipuler la psyché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use Psychosurgery to attempt the tricky process of editing someone’s mind (see Psychosurgery, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Utiliser Psychochirurgie lorsque vous tenter le processuss hasardeux de l'édition e l'esprit de quelqueun (voir Psychochirurgie, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Psychosurgery can be used beneficially to help patients who remember their deaths, feel disconnected after remorphing, or have experienced other sorts of mental traumas.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Psychochirurgie peut-être utilisée au bénéfice de patient qui se rappellent de leur mort, se sentent déconnectés après un remorph ou ont vécu d'autres types de traumatisme mentaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This skill may also be used to interrogate, torture, or otherwise mess with captive minds in a VR environment.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette compétence peut également interroger, torturer ou d'une manière ou d'une autre trafiquer des esprits captifs d'environnements RV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: Memory Manipulation, Personality Editing, Psychotherapy</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations: Manipulation de Souvenir, Édition de PErsonnalité, Psychothérapie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{RESEARCH} Type: Active, Technical </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{RECHERCHE} Type: Active, Technique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Research is the skill for looking up information on the Mesh: searching, sifting, mining, and interpreting data.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Recherche est la compétence utilisée pour trouver de l'information sur le Mesh: recherche; analyse, exploitation et interprétation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This includes knowing where to look, what links to follow, and how to optimize your queries.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela inclut la connaissance des lieux ou chercher, quels liens suivre, et comment optimiser vos requètes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use the Research skill whenever you need to look up the answer to a question, find databases, search archives, or track down anything online.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Utiliser la compétence Recherche lorsque vous avez besoin de trouver la réponse à une question, trouver des bases de données, fouiller dans des archives ou suivre quelque chose en ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Research is typically a Task Action with the timeframe and difficulty modifier determined by the gamemaster.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Recherche est généralement une Action de Tâche avec un intervalle et un modificateur de difficulté déterminé par le maître de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See the Online Research, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voir Recherche En Ligne, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: Tracking, by information type</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations: Suivre, par type d'information</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{SCROUNGING} Type: Active, Mental </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{FOUILLE} Type: Active, Mentale </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it is: Scrounging is your ability to find things, particularly things of use or value that are concealed, buried, or hard to find.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'est-ce: Fouille est votre capacité à trouver des choses, en particulier les objets cachés, enterrés ou difficile à trouver  pouvant être utiles ou ayant une certaine valeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This includes knowing where to look and what to look for.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela inclut la connaissance des endroits à chercher et ce qu'il faut chercher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Scrounging differs from both Perception and Investigation in that it is about finding items hidden among others, and in most cases about finding something in particular (food, valuables, etc.).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Fouille diffère de Perception et d'Investigation car elle s'occupe de trouver des objets cachés aprmi d'autre, et dans la plupart des cas il s'agit de trouver quelque chose de particulier (nourriture, objets de valeurs, etc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you use it: Use Scrounging to dumpster-dive a meal, search ruins for relics, find bargains at a bazaar, forage berries in the forest, locate a spacesuit in an abandoned ship, etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand l'utiliser: Utilisez Fouille pour trouver de quoi manger dans une poubelle, fouiller des ruines à la recherche de relique, trouver quelque chose d'intéressant dans un bazar, ramasser des baies dans une forêt, localiser une exocombinaison dans un vaisseau abandonné, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Scrounging is typically handled as a Task Action with a timeframe and difficulty modifier determined by the gamemaster.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Fouille est généralement une Action de Tâche avec un intervalle et un modificateur de difficulté déterminé par le maître de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specializations: Bazaars, Forests, Habitats, Ruins</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spécialisations: Bazars, Forêts, Habitats, Ruines</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Character creation</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
