@@ -28294,6 +28294,366 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{SEEKER WEAPONS} &lt;i0&gt;Type:&lt;/i0&gt; Active, Combat &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{ARMES A TÊTE CHERCHEUSE} &lt;i0&gt;Type:&lt;/i0&gt; Active, Combat &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i2&gt;What it is:&lt;/i2&gt; Seeker Weapons covers the use and maintenance of seeker launchers (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i2&gt;Qu'est-ce:&lt;/i2&gt; La compétence Armes à Tête Chercheuse couvre l'utilisation et la maintenance des lanceurs à têtes chercheuses  (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>339) and seeker missiles (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>339) et des missiles à tête chercheuse (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i3&gt;When you use it:&lt;/i3&gt; Use this skill when attacking with a seeker in ranged combat (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i3&gt;Quand l'utiliser:&lt;/i3&gt; Un joueur utilise cett compétence lorsqu'il attaque avec une armeà tête chercheuse en combat à distance (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i4&gt;Specializations:&lt;/i4&gt; Armband, Pistol, Rifle, Underbarrel</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i4&gt;Spécialisations:&lt;/i4&gt; Lanceurs de Poignets, Pistolets, Fusils, Lancuer Sous Canon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{SENSE} &lt;i0&gt;Type:&lt;/i0&gt; Active, Mental, Psi &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{DIVINATION} &lt;i0&gt;Type:&lt;/i0&gt; Active, Mentale, Psi &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i2&gt;What it is:&lt;/i2&gt; Sense is the use of psi to scan egos.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i2&gt;Qu'est-ce:&lt;/i2&gt; Divination est l'utilisation du psi pour analyser les egos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only characters with the Psi trait (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette compétence n'est disponible que pour les personnages avec le trait Psi (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>147) may purchase this skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>147).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What it does: See Psi, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour plus de détails, voir Psi, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{SPRAY WEAPONS} &lt;i0&gt;Type:&lt;/i0&gt; Active, Combat &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{ARMES À SPRAY} &lt;i0&gt;Type:&lt;/i0&gt; Active, Combat &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i2&gt;What it is:&lt;/i2&gt; The Spray Weapons skill covers the use and maintenance of cone-effect ranged weapons (see Spray Weapons, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i2&gt;Qu'est-ce:&lt;/i2&gt; La compétence Armes à Spray couvre l'utilisation et la maintenance des armes à distance ayant une zone d'effet en cône (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i3&gt;When you use it:&lt;/i3&gt; A player uses their Sonic Weapons skill whenever they are attacking with a spray weapon in ranged combat (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i3&gt;Quand l'utiliser:&lt;/i3&gt; Un joueur utilise la compétence Armes à SPray lorsqu'il attaque avec une arme à spray en combat à distance (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i4&gt;Specializations:&lt;/i4&gt; Buzzer, Freezer, Shard, Shredder, Torch</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i4&gt;Spécialisations:&lt;/i4&gt; Buzzer, Freezer, Aiguilles, Éclats, Torche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{SWIMMING} &lt;i0&gt;Type:&lt;/i0&gt; Active, Physical &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{NATATION} &lt;i0&gt;Type:&lt;/i0&gt; Active, Physique&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i2&gt;What it is:&lt;/i2&gt; Swimming is the art of moving and not drowning within fluids.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i2&gt;Qu'est-ce:&lt;/i2&gt; Natation est l'art de se déplacer et de en pas se noyer en milieu liquide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It includes floating, surface swimming, snorkeling, diving, and related equipment use.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela inclus la flottaison, la natation de surface, la plongée en apnée, le plongeon et l'utilisation du matériel lié.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i3&gt;When you use it:&lt;/i3&gt; Use Swimming whenever you need to move and survive in water or another liquid environment.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i3&gt;Quand l'utiliser:&lt;/i3&gt; Utilisez cette compétence quand vous avez besoin de vous déplacer et de survivre dans l'eau ou tout autre environnement liquide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Swimming in a non-threatening environment can be handled as a Simple Success Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nager dans un environnement non dangereux peut être géré par un Test de Succès Simple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Swimming over a long distance could be handled as a Task Action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nager sur une longue distance peut être géré par une Action de Tâche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Diving off a cliff into a lake, preventing yourself from being swept away in a raging river current, or making sure you’ve set a proper gas mix for a deep-sea dive, among other things, requires a Success Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plonger d'une falaise dans un lac, éviter d'être emporter par le courant rageur d'une rivière ou s'assurer que vous avez le bon mélange de gaz pour une plongée en haute-mer, entre auters chsoes, nécessite un Test de Succès.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i4&gt;Specializations:&lt;/i4&gt; Diving, Freestyle, Underwater Diving</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i4&gt;Spécialisations:&lt;/i4&gt; Plonger, Natation Synchronisée, PLongée Sous-Marine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{THROWING WEAPONS} &lt;i0&gt;Type:&lt;/i0&gt; Active, Combat &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{ARMES DE JET} &lt;i0&gt;Type:&lt;/i0&gt; Active, Combat &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i2&gt;What it is:&lt;/i2&gt; Throwing Weapons skill covers the use and maintenance of standard throwing weapons, like grenades (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i2&gt;Qu'est-ce:&lt;/i2&gt; La compétence Armes de Jet couvre l'utilisation et la maintenance des armes de jet standard, comme les grenades (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i3&gt;When you use it:&lt;/i3&gt; Use Throwing Weapons skill whenever you are attacking with a throwing weapon in ranged combat (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i3&gt;Quand l'utiliser:&lt;/i3&gt; Un joueur utilise la compétence Armes de Jet lorsqu'il attaque avec une arme de jet en combat à distance (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i4&gt;Specializations:&lt;/i4&gt; Grenades, Knives, Rocks</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i4&gt;Spécialisations:&lt;/i4&gt; Hâches, Lames Implantées, Couteaux, Épées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{UNARMED COMBAT} &lt;i0&gt;Type:&lt;/i0&gt; Active, Combat &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{COMBAT À MAINS NUES} &lt;i0&gt;Type:&lt;/i0&gt; Active, Combat &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i2&gt;What it is:&lt;/i2&gt; Unarmed Combat is your ability to attack and defend without using weapons.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i2&gt;Qu'est-ce:&lt;/i2&gt; Combat à Mains Nues est votre capacité à attaquer et à vous défendre sans utilsier d'arms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i3&gt;When you use it:&lt;/i3&gt; Use Unarmed Combat whenever you want to attack someone with your fists, feet, elbows, knees, or other body parts in melee combat (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i3&gt;Quand l'utiliser:&lt;/i3&gt; utilisez Combat à Mains Nues lorsque vous attaquez quelqu'un avec vos poings, pieds, coudes, genoux ou d'autres parties de votre corps en combat au contact (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;i4&gt;Specializations:&lt;/i4&gt; Implant Weaponry, Kick, Punch, Subdual</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;i4&gt;Spécialisations:&lt;/i4&gt; Armes Implantées, Coup de Pied, Coup de Poing, Contrôle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>USING KNOWLEDGE SKILLS&lt;/i0&gt; &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>UTILISER LES COMPÉTENCES DE CONNAISSANCES &lt;/i0&gt; &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At first glance, it may seem that Knowledge skills have fewer in-game applications than Active skills.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au premier abrod, il pourrait sembler que les Compétences de Connaissances ont moins d'applications en jeu que les Compétences Actives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To some degree this is the case.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est el cas dans une certaine mesure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The importance of Knowledge skills, however, should not be underestimated.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'importance des Compétences de Connaissances, ne devrait cependant pas être sous-estimé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While they play a role in analyzing clues and solving mysteries, the real value of Knowledge skills is in helping the characters—and the players—understand the world of Eclipse Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors qu'elles jouent un rôle dans l'analyse des indices et la résolution de  mystères, la véritable valeur des Compétences de Connaissances et dans l'aide qu'elles fournissent aux personnages - et aux joueurs - pour comprendre le monde d'Eclipse Phase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In particular these skills can be used to make plans, assess a situation, identify strengths and weaknesses, evaluate worth, make comparisons, forecast probable outcomes, or understand the applicable science, socio-economic factors, or cultural or historical context.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces compétences peuvent être utilisée en aprticulier pour faire des plans, analyser une situation, identifier les forces et les faiblesses, évaluser la valeur, faire des comparaisons, anticiper les issues probables ou comprendre la science appliquée, les facteurs socio-économiques, ou les contexte culturels ou historiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, a group of characters looking to break into a facility could use Profession: Security Procedures to evaluate the defenses, Academic: Architecture to identify covert points of entry, Interests: Sports to plan their infiltration at a time when the guards are likely to be distracted, Interests: Triads to identify a local crime group that can sell them breaking and entering gear, and Art: Sculpture when picking a valuable art piece with which to bribe an insider.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, un groupe de personnage cherchant àpénétrer une installation pourrait utiliser Profession: Procédures de Sécurité pour évaluer les défenses, Académique: Architecture pour identifier les entrées dissimulées, Intérêts: Sports pour planifier leur infiltration au moment où les gardes seron tprobablement distrait, Intérêts: Triades pour identifier un groupe criminel local qui pourrait leur vendre du matériel de cambriolage et Art: Sculpture au moment de prendre une œuvre d'art de valeur avec laquelle acheter du personnel à l'intérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When used appropriately, these skills can be just as beneficial as the Active skills used to break inside, if not more so because the plan is more likely to succeed as a result of this preparation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsqu'elles sont utilisées de manière appropriée, ces compétences peuvent être aussi bénéfique que les Compétences Actives utilisées pour s'infiltrer, si ce n'est plus car le plan à plus de chances de réussir en raison de cette préparation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is largely up to the gamemaster to enforce how useful Knowledge skills are in their game.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est essentiellement au maître de jeu de renforcer le rôle de ces Compétences de Connaissances durant leurs parties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The easiest way to reinforce their relevance is to penalize characters who don’t take advantage of them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La méthode la plus simple pour augmenter leur pertinence est de panéliser les personnages qui ne s'en servent pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, characters who didn’t use their Profession: Security Procedures in the example above might end up being surprised when they run across a security system they are not prepared to deal with, forcing them to improvise or even abandon their plans.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, les personnages qui n'utilisent pas leur compétence Profession: Security Procedures dans l'exemple ci-dessus pourrait se retrouver surpris en traversant un système de sécurité qu'ils n'avaient pas anticipés, les forçant à improviser ou même à abandonner leurs plans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>SPECIAL SKILLS</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>COMPÉTENCES SPÉCIALES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While the preceding list represents the skills most commonly used in Eclipse Phase, there may be certain skills called for in a campaign that are not found in this book.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alros que la liste précédente représente les ocmpétences les plus communément utilisées dans Eclipse Phase, il peut y avoir certaines compétences nécessaire à une campagne et qui ne figurent pas dans ce livre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, the gamemaster may work with the players to create a new skill to fill this void.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, le maître de jeu peu travailler avec le joueur à définir une nouvelle compétence pour remplir le vide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This option should be used sparingly to prevent skill bloat, and all skills are subject to approval by the gamemaster If you choose to create a new skill, keep in mind that it needs to be linked to an existing aptitude and should be a skill that is available to all characters, not just specific to one character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette option ne devrait être utilisée que rarement afin d'éviter une surcharge de compétence, et toutes les compétences doivent être approuvée par le maitre de jeu. Si vous choisissez de créer une nouvelle compétence, gardez en têe qu'elle doit être liée à une aptitude existante et qu'elle devrait être une compétence disponible pour tous les personnages et non pas réservée à un seul d'entre eux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Character creation</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
