@@ -23734,6 +23734,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Movement</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Muovement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Roleplaying Game of Transhuman Conspiracy and Horror</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -47602,6 +47610,1238 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Les mots transpercent mes nouvelles cordes vocalles et s'expulsent de ma gorge désséchée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Action and combat</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Action et Combat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Roleplaying games are about creating drama and adventure, and that usually means action and combat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les jeux de rôles s'articulent autour du drame et de l'aventure, et cela signifie générallement de 'laction et du combat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Action and combat scenes are the moments when the adrenaline really gets pumping and the characters’ lives and missions are on the line.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les scènes d'action et de combat sont les moments où le niveau d'adrénaline explose et où la vie et la mission des personnages sont en jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Combat and action scenarios can be confusing to run, especially if the gamemaster also needs to keep track of the actions of numerous NPCs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les scénarios d'action et de combat peuvent être confus a  jouer, particulièrement si le maître de jeu doit également garder la trace des actions de nombreux PNJ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For these reasons, it’s important for the gamemaster to detail the action in a way that everyone can visualize, whether that means using a map and miniatures, software, a dry-erase board, or quick sketches on a piece of paper.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour ces raisons, il est important que le maître de jeu détaille ces actions d'une manière que tout le monde peut visualier, que cela signifie utiliser des cartes et des figurines, un logiciel, un tableau effaçable ou de rapide schémas sur une feuille de papier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though many of the rules for handling action and combat are abstract --- allowing room for interpretation and fudging results to fit the story --- many tactical factors are also incorporated, so even small details can make a large difference.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que la plupart des règles pour gérer les actiosn et le combat soient abstraites - permettant à l'interprétation et et au bidouillage des résultats de s'adapter à l'histoire - de nombreux facteurs tatciques sont également inclut, et même les plus petits détails peuvent faire la différence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It also helps to have the capabilities of NPCs predetermined and to run them as a group when possible, to reduce the gamemaster’s burden in the middle of a hectic situation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il est aussi utilse d'avoir les capacités des PNJ prédétermiénes et de les gérer en tant que groupe lorsque c'est possible, pour réduire le fardeau du maître de jeu au milieu d'une situation mouvementée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Action turns</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tour d'action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Action scenes in Eclipse Phase are handled in bitesize chunks called Action Turns, each approximately 3 seconds in length.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les scènes d'action dans Eclipse Phase sont gérées en segments atomiques appelés Tour d'Action, chacun durant approximativement 3 secondes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>We say ``approximately'' because the methodical, step-by-step system used to resolve actions does not necessarily always translate realistically to real life, where people often pause, take breaks to assess the situation, take a breather, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nou parlons &quot;d'aproximativement&quot; 3 secondes, car le système méthodoligue et par étape utilisé pour résoudere les actions ne se treanspose pas nécessairement de manière réaliste dans la vraie vie, où les gens prennent souvent des pauses, s'interrompent pour analyser la situation, reprennent leur souffle et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A combat that begins and ends within 5 Action Turns (15 seconds) in Eclipse Phase could last half a minute to several minutes in real life.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un combat qui commence et se termine en 5 Tour d'Action (15 secondes) dans Eclipse Phase pourrait de 30 seconde à plusierus minutes dans la vraie vie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On the other hand, the characters may be in a situation where their breathing environment decompresses to vacuum in 15 seconds, so every second may in fact count.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'un autre cœté, les personnages peuvent être dans une situation où leur environnement est en train de décompresser et sera vide d'air en 15 secondes, chaque seconde peut donc compter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a rule, gamemasters should stick with 3 seconds per turn, but they shouldn’t be afraid to fudge the timing either when a situation calls for it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu devrait se tenir à la règle de 3 secondes par tour, mais ne devraient aps être effrayés de modifier le temps à chaque fois que la situation le demande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Action Turns are meant to be utilized for combat and other situations where timing and the order in which people act is important.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Tour d'Actions devraient être utilisé pour le combat et d'autres situations où le timing et l'ordre d'action est important.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If it is not necessary to keep track of who’s doing what so minutely, you can drop out of Action Turns and return to ``regular'' free form game time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si il n'est pas nécessaire de garder une trace de qui fait quoi de manière si précise, vous pouvez abandonner la structure en Tour d'Action et revenir à la forme de jeu libre &quot;normale&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each Action Turn is in turn broken down into distinct stages, described below</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque Tour d'Action est divisé en plusieurs étapes distinctes, décrites ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Step 1: Roll initiative}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Étape 1: Déterminer l'Initiative}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the beginning of every Action Turn, each PLAYER involved in the scene rolls Initiative to determine the order in which each character acts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>AU débit de chaque Tour d'Action, chaque JOUEUR impliqué dans la scène lance son Initiative pour déterminer l'ordre dans lequel chaque personnage agît.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For more details, see &lt;i0&gt;Initiative&lt;/i0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour plus de détails, voir &lt;i0&gt; Initiative &lt;/i0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Step 2: Begin first action phase}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Étape 2: Commencer la première phase d'action}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once Initiative is rolled, the first Action Phase begins.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois que l'Initiative a été déterminée, la première Phase d'Action commence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Everyone gets to act in the first Action Phase (since everyone has a minimum Speed of 1), unless they happen to be unconscious/dead/disabled, starting with the character with the highest successful Initiative roll.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout le monde peu agir dans la Première Phase d'Action (puisque tout le monde à une Vitesse minimale de 1), sauf si ils sont inconscients/mort/mis hors-jeu, en commençant par le personnage ayant le plus haut résultat d'Initiative réussi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Step 3: Declare and resolve actions}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Éape 3: Déclarer et résoudre les actions}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character going first now declares and resolves the actions they will take during this first Action Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>le personnage qui agît en premier déclare puis résout maintenant les actions qu'il accomplira pendant sa première Phase d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since some actions the character makes may depend on the outcome of others, there is no need to declare them all first --- they may be announced and handled one at a time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Puisque certaines actions que le personnage peut faire peuvent dépendre de l'issue d'autres actions, il n'est pas nécessaire de toutes les déclarer d'abord - elles doivent être annoncé et réglée les unes après les autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As described under Actions (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tel que décrit au chapitre Actions (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>189), each character may perform a varying number of Quick Actions and/or a single Complex Action during their turn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>189), chaque personnage peut effectuer un nombre variable d'Action Rapide et/ou une seule Action Complexe pendant leur tour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alternately, a character may begin or continue with a Task Action, or delay their action pending other developments (see Delayed Actions, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage peut également commencer ou continuer une Actin de Tâche, ou retarder son action en attendant que les choses évoluent (voir Actions Retardée, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character who has delayed their action may interrupt another character at any point during this stage.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage qui a retardé son action peut interrompre un autre personnage à n'importe quel moment de cette étape.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>That interrupting character must complete this stage in full, then the action returns to the interrupted character to finish the rest of their stage.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce personnage interrupteru doit accomplir entièrement son action, puis l'action revient au personnage interrompu qui finti alors le reste de son étape.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Step 4: Rotate and repeat}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Éape 3: Continuer et recommencer}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once the character has resolved their actions for that phase, the next character in the Initiative order gets to go, running through Step 3 for themselves.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois que le personnage a terminé ses actions pour cette phase, le personnage suivant dans l'ordre d'Initiative prend le relai, exécutant l'Étape 3 pour son compte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If every character has completed their actions for that phase, return to Step 2 and go the second Action Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si tous els personnages ont terminés leurs actions de cette phase, retournez à l'Étape 2 et démarrez la deuxième Phase d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every character with a Speed of 2 or more gets to go through Step 3 again, in the same Initiative order (modified by wound modifiers).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque personnage avec une Vitesse de 2 ou plus peut repasser par l'Étape 3, avec el même ordre d'Initiative (modifié par les modificateurs de blessures).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once the second Action Phase is completed, return to Step 2 for the 3rd Action Phase, where every character with a Speed of 3 or more gets to go for a third time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois que la deuxième Phase d'Action est terminée, retournez à l'Étape 2 pour la troisième Phase d'Action, où tous les personnages qui ont une Vitesse de 3 ou plus peuvent agir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finally, after everyone eligible to go in the 3rd Action Phase has gone, return to Step 2 for a fourth and last Action Phase, where every character with a Speed of 4 can act for one final time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Finallement, une fois que toutes les personnegs pouvant agir pendant la troisième Phase d'Action ont agit, retournez à l&quot;Étape 2 pour la quatrième et dernière Phase d'Action, où tout les personnages ayant une Vitesse de 4 peuvent agir une dernière fois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the end of the fourth Action Phase, return to Step 1 and roll Initiative again for the next Action Turn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Arrivé à la fin de la quatrième Phase d'Action, retournez à l'Étape 1 et relancez l'Initiative pour le prochain Tour d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Timing in an Action Turn can be critical --- it may mean life or death for a character who needs to get behind cover before an opponent draws and fires their gun.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le minutage lors des Tours d'Action peut être critique - cela peut être la différence entre la vie et la mort pour un personnage qui a besoin de se mettre à couvert avant qu'un opposant ne dégaine et tire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The process of rolling Initiative determines if a character acts before or after another character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La détermination de l'Inititative permet de savoir dans quel ordre agissent les protagonistes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Initiative order}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Ordre d'Initiative}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character’s Initiative stat is equal to their Intuition + Reflexes aptitudes multiplied by 2.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La stat d'Initiative d'un personnage est égale à la somme de Intuition et Réflexes multipliée par 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This score may be further modified by morph type, implants, drugs, psi, or wounds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce score peut être ensuite modifié par le type de morph, les implants, la drogue, le psi ou les blessures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the first step of each Action Turn, every character makes an Initiative Test, rolling d100 and adding their Initiative stat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lors de la première étape de chaque Tour d'Action, chaque personnage fait un Test d'Initiative, lançant 1d100 et y ajoutant sa stat d'Initiative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Whoever rolls highest goes first, followed by the other characters in descending order, highest to lowest.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Celui qui obtiens le meilleru score agît en premier, suivi par les autres personnages en ordre décraoissanr, du plus élevé au plus bas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the event of a tie, characters go simultaneously.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En cas dégalité, les personnages agissent en simultané.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Adam, Bob, and Cami are rolling Initiative.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Adam, Bob, et Cami lancent leur Initiative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Adam’s Initiative stat is 80, Bob’s is 110, and Cami’s is 60.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La stat d'Initiative d'Adam est de 80, celle de Bob est de 100 et celle de Cami est de 60.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Adam rolls a 38, Bob rolls a 24, and Cami rolls a 76.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Adam obtient un 38, Bob un 24 et Cami un 76.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Adam’s total Initiative score is 118 (80 + 38), Bob’s is 134 (110 + 24), and Cami’s is 136 (60 + 76).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le score d'Initiative total d'Adam est de 118 (80 + 38), celui de Bob est de 134 (110 + 24) et celui de Cami est de 136 (60 + 76).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cami rolled highest, so she goes first, followed by Bob and then Adam. If Cami &lt;u0&gt; Bob had tied, they would both go at the same time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cami a le meilleur score, elle agît donc en premier, suivit de Bob et finalement d'Adam. Si Cami &lt;u0&gt; Bob avaient étés à égalité, ils auraient tous les deux agît en même temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Initiative and damage}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Initiative et dommages}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters who are suffering from wounds have their Initiative score temporarily reduced (see Wounds, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages qui ont des blessures voient leur score d'Initiative temporairement réduit (voir Blessures, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This modifier is applied immediately when the wound is taken, which means that it may modify an Initiative score in the middle of an Action Turn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce modificateur ets appliqué immédiatement lorsque la blessure est reçue, ce qui signifie qu'il peut modifier un score d'Initiative au milieu d'un tour d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a character is wounded before they go in that Action Phase, their Initiative is reduced accordingly, which may mean they now go after someone they were previously ahead of in the Initiative order.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un personnage est blessé avant de pouvoir démarrer une Phase d'Action, son Initiative est réduite en fonction, ce qui peut signifier qu'il va maintenant agir après quelqu'un avant qui il aurait agit dans l'ordre d'Initiative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Before Bob’s Action Phase comes up, Bob takes two wounds, knocking his Initiative down from 134 to 114.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Avat la Phase d'Action de Bob, il prend deux blessures, réduisant son Initiative de 134 à 114.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This means that Adam, with an Initiative of 118, now goes before him.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela signifie qu'Adam, avec une Initiative de 114, peut maintenant agir avant lui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Initiative, Moxie and Criticals}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Initiative, Moxie et Critiques}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character may spend a point of Moxie to go first in an Action Phase, regardless of their Initiative roll (see Moxie, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage peut dépenser un point de Moxie pour agir en premier lors d'une Phase d'Action, peu importe son jet d'Initiative (voir Moxie, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If more than one character chooses this option, then order is determined as normal first among those who spent Moxie, followed by those who didn’t.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si plsu d'un personnage choisit cette option, l'ordre est déterminé normalement parmi ceux qui ont dépensés du Moxie, suivit par ceux qui ne l'ont pas cfait.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Similarly, any character that rolls a critical on Initiative automatically goes first, even before someone who spent Moxie.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, tout personnage qui obtient un critique sur un jet d'Initiative agit automatiquement en premier, même avant ceux qui ont dépensés du Moxie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If more that two characters rolled criticals, determine order between them as normal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si deux personnage ont obtenus des critiques, déterminez l'ordre entre eux de manière normale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Simplifying initiative}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Simplifier l'initiative}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For speedier resolution, simply have characters roll Initiative once for an entire scene.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour des résolutions plsu rapide, demandez au personnage de ne faire un jet d'Initiative qu'une fois pour la scène entière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>That Initiative result stays with them on each Action Turn until the combat or scenario is over.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce résultat d'Initiative reste le leur pour tous les Tour d'Actions jusqu'à la fin du combat ou que le scénario soit terminé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, ignore Initiative modifiers from wounds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, ignorez les modificateurs d'Initiative liés aux blessures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Speed}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Vitesse}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Speed determines how many times a character can act during an Action turn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Vitesse détermine le nombre de fois qu'un personnage peut agir pendant un Tour d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every character starts with a default Speed stat of 1, meaning they can act in the first Action Phase of the turn only.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque personnage démarre avec une VItesse apr défaut de 1, ce qui signifie qu'ils peuvent agir que lors de la première Phase d'Action de chaque tout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Certain morphs, implants, drugs, psi, and other factors may cumulatively increase their Speed to 2, 3, or even 4 (the maximum), allowing them to act in further Action Phases as well.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines morphs, implants, drogues, psi ou d'autres facteurs peuvent augmenter cumulativement la VItesse à 2, 3 ou même 4 (le maximum), leur permettant d'agir lors d'autres Phases d'Actiosn également.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, a character with Speed 2 can act in the first and second Action Phases, and a character with Speed 3 can act in the first through third Action Phases.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, un personnage avec une Vitesse de 2 peut agi lors de la première et de la deuxième Phase d'Action, et un personnage avec une Vitesse de 3 peut agir de la première à la troisième Phase d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character with Speed 4 is able to act in every Action Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un peronnage avec une Vitesse de 4 peut agir dans toutes les Phases d'Actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This represents the character’s enhanced reflexes and neurology, allowing them to think and act much faster than nonenhanced characters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela représente les réflexes et la neurologie améliorés du personnage, lui permettant de penser et d'agir bien plsu vite que les personnages non améliorés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a character’s Speed does not allow them to act during an Action Phase, they can initiate no actions during the pass --- they must simply bide their time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si la Vitesse d'un personnage ne lui permet pas d'agir pendant une Phase d'Action, ile ne peuvent faire aucune action pendant la phase - ils doivent simplement attendre leur tour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character may still defend themself, however, and any automatic actions remain ``on.'' Note that any movement the character initiated is considered to still be underway even during the Action Phases they do not participate in (see &lt;i0&gt;Movement&lt;/i0&gt;, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>le persqonnage peut cependant toujours se défendre et toute acton automatique reste &quot;active.&quot; Notez que tout mouvement démarré par le personnage est toujours considéré comme en cours même durant les Phases d'Actions auquelles les personnages ne participents pas (coir &lt;i0&gt;Mouvement &lt;/i0&gt;, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Delayed actions}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Actions retardées}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When it’s your turn to go during an Action Phase, you may decide that you’re not ready to act yet.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque vent votre tour d'agir pendant une Phase d'Action, vous pouvez décider que vous n'êtes pas encore prêt à agir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may be awaiting the outcome of another character’s actions, hoping to interrupt someone else’s action, or may simply be undecided about what to do yet.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous pouvez être en train d'attendre le résultat d'une autre actiond 'un personnage, espérer interrompre l'action de quelqu'un d'autre ou simplement ne pas savoir quoi faire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, you may opt to delay your action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ces cas là, vous pouvez décider de retarder votre action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you delay your action, you’re putting yourself on standby.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand vous retardez votre action, vous vous mettez en attente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At some later point in that Action Phase, you can announce that you are now taking your action --- even if you interrupt another character’s action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À un moment ultérieur de la Phase d'Action, vous pouvez annoncer que vous effectuez votre action maintenant - même si vous interrompez l'actiond 'un autre personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, all other activity is put on hold until your action is resolved.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, toutes les autres activités sont mises en attentes jusqu'à ce que votre action soit résolue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once your action has taken place, the Initiative order continues on where you interrupted.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois que votre action s'est déroulée, l'ordre d'Initiative reprend là où vous l'avez interrompu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may delay your action into the next Action Phase, or even the next Action Turn, but if you do not take it by the time your next action comes around in the Initiative order, then you lose it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous pouvez retarder votre action jusque dans la prochaien phase d'Action, ou même jusqu'au prochain Tour d'Action, mais si vous ne l'avez prise au moment où arrive votre prochaine action dans l'ordre d'Initiative, alors vous la perdez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additionally, if you do delay your action into another phase or turn, then once you take it you lose any action you might have in that Action Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De plus, si vous délayez votre action dans une autre phase ou tour, vous perdez toute action que vous auriez eu dans cette Phase d'Action au moment où vous la prenez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When it’s your turn to act during an Action Phase, you have many options for what you can do --- far too many to list here.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque c'est à votre tour d'agir lors d'une Phase d'Action, vous avez de nombreuses options pour faire ce que vous voulez - bien trop pour toutes les lister ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There is a limit to what you can accomplish in 3 seconds, however, so some limitations must be adhered to.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a cependant une limite à ce que vous pouvez accomplir en 3 secondes et certaines limitations doivent être respéctées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The first step is to figure out what type of action you want to take.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La première chose est de détermienr quel type d'action vous voulez faire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In Eclipse Phase, actions are categorized as Automatic, Quick, Complex, or Task, based on how much time and effort they entail.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À Eclipse Phase, les actiosn sont catégorisées comme AUtomatique, Rapide, Complexe ou de Tâche, en fonction de la quantité de temps et d'effort ils entraînent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Automatic actions}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Actions automatiques}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Automatic Actions require no effort.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Atcions Automatiques ne nécessitent aucun effort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These are abilities or activities that are ``always on'' (assuming you are conscious) or are otherwise reflexive (they happen automatically in response to certain conditions, with no effort from you).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce sont les capacités ou les activités qui sont &quot;toujours active&quot; (du moment que vous êtes conscients) ou qui sont d'un du niveau des réflexes (elles arrivent automatiquement en réponse à certaines conditions, sans effort de votre part).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Breathing, for example, is an automatic action --- your body does it without conscious effort or thinking on your part.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Respirez, apr exemple, est une action automatique - votre corpos le fait sans effort conscient ou réflexion de votre part.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In most cases, Automatic Actions are not something that you initiate --- they are always active, or at least on standby.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans la plupart des cas, les Actions Automatiques ne sont pas quelque chsoe que vous initiez - elles sont toujours active, ou au moins en attente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Certain circumstances, however, will bring an Automatic Action to bear.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaine circonstance, cependant, peuvent demander de s'occuper des Actiosn Automatiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Such Automatic Actions are invoked and handled immediately whenever they apply, without requiring effort from your character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De telles Actions Automatiques sont gérées immédiatement quand elles entrent en action, sans nécessiter d'effort de votre personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Resistance}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Résistance}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Resisting damage --- whether from combat, a poison, or a psi attack --- is one example of an Automatic Action that occurs in response to something else.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Résister aux dégats - qu'ils viennent du combat, d'un poison ou d'une attaque psi - est l'un des exemples d'Actiosn Automatiques qui se décelncehnt en répponse à quelque chose d'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Basic perception}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Perception basique}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your senses are continuously active, accumulating data on the world around you.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vos sens sont continuellement actifs, accmuluant des données sur le modne autour de vous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Basic perception is considered an Automatic Action, and so the gamemaster can call on you to make a Perception Test whenever you receive sensory input that your brain might want to take notice of (see Perception, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La perception basique est considérée comme une Action Automatique, et le maître de jeu peut vous demander de faire un Test de Perception lorsque vous recevez une entrée sensorielle que votre cerveau peut vouloir prendre en compte (voir perception, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, you may ask the gamemaster at any time --- even during other character’s actions --- to make a basic Perception Test, just to find out what your character is noticing around them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De amnière similaire, vous pouvez demander au maître de jeu à n'importe quel moment - même pendant les actiosn d'autres personnages - de faire un Test de Perception basique juste pouv savoir ce que votre personnage remarque dans son environnement immédiat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Because basic perception is an automatic, subconscious activity, however, you will suffer a -20 modifier for distraction --- your attention is focused elsewhere.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En raison de la nature autoimatique, subconsciente, de la perception basique, vous subirez un modificateur de -20 à cause de la distraction - votre attention est concentrée ailleurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In order to avoid the distraction modifier, you must actively engage in detailed perception or use an oracle implant (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Afin d'éviter le modificateur de distraction vous devez vous concentrer pleinement dans une perception détaillée ou utilisez un oracle implanté (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Quick Actions are fast and simple, and they may often be multi-tasked.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les actions rapide sont simples, elles peuvent donc être exécutées rapidement et simultanément à d'autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They require minimal thought and effort.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elles nécessitent un effort et une concentration minimales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may undertake multiple Quick Actions on your turn during each Action Phase, limited only by the gamemaster’s judgment.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous pouvez effectuer plusieurs Actions Rapide lors de chacun de vos Phases d'Actions, limitées uniquement par le jugement du maître de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you are taking nothing but Quick Actions during an Action Phase, you should be allowed a minimum of 3 separate Quick Actions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous ne faites que des Actiosn Rapides durant une Phase d'Actions, vous devriez avoir le doit de faire au moins 3 Actiosn Rapides distinctes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you are also engaging in a Complex or Task Action during that same Action Phase, you should be allowed a minimum of 1 Quick Action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous effectuez également une Action Complexe ou une Action de Tâche pendant la même Phase d'Action, vous devriez avoir droit à un minimum d'une Action Rapide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ultimately, the gamemaster decides what activity you can or can’t fit into a single Action Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est le maîþre de jeu qui a le dernier mot par rapport à ce que vous pouvez ou ne pouvez pas faire tenir dans une seule Phase d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some examples of Quick Actions include: talking, switching a safety, activating an implant, standing up, dropping prone, gesturing, drawing/readying a weapon, handling an object, or using a simple object.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques exemples d'Actions Rapides incluent: parler, basculer un cran de sureté, activer un implant, se relever, se jetter au sol, communiquer par geste, dégainer/préparer uen arme, manipuler un objet ou utiliser un appareil simple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Aiming}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Ajuster}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aiming is a special case in that it is a Quick Action but requires a degree of concentration that rules out other minor actions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ajuster est un cas particulier car c'est une Action Rapide mais qu'elle nécessite un certain niveau de concentration qui fait exceptions aux autres actions mineures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you wish to aim before making an attack in the same Action Phase, aiming is the only Quick Action you may make during that Action Phase (see Aimed Shots, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous souhaiter ajuster avant d'effectuer une attaque dans la même Phase d'Action, ajuster est la seule ActioN Rapide que vous pouvez prendre pendant cette Phase d'Action (voir Tirs Ajustés, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Detailed perception}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Perception détaillée}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Detailed perception involves taking a moment to actively use your senses in search of information and assess what you are perceiving (see Perception, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La perception détaillée implique de prendre un moment pour utiliser activement vos sens à la recherche d'information et analyser ce que vous percevez (voir Perception, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It requires slightly more effort and brainpower (or computer power) than basic perception, which is automatic.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela recquiert un peu plus d'effort et d'effort cérébral (ou de puissance de calcul) que la perception basique, qui est une automatique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a Quick Action, you may only engage in detailed perception on your turn during an Action Phase, but you do not suffer a modifier for distraction (unless you happen to be in a heavily distracting environment, such as a gunfight or agitated crowd).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En tant qu'Action Rapide, vous ne pouvez vous livrer à une perception détaillée que lors d'une de vos Phases d'Actions, mais vous ne souffrez d'aucun modificateur pour la distraction (à moins que vous ne soyez dans un environnement extrêmement distractif, tels qu'une fusillade ou une foule agitée).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Complex Actions require more concentration and effort than Quick Actions --- they effectively monopolize your attention.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Actions Complexe nécessitent plus de concentration et d'effort que les Actions Rapides - elles monopolisent effectivement votre attention.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may only take one Complex Action on each your Action Phase turns.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous ne pouvez prendre qu'une Action Complexe à chacune de vos Phases d'Actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additionally, you may not engage in a Complex Action and a Task Action during the same Action Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous ne pouvez pas non plus effectuer une Action Complexe et une Action de Tâche pendant la même Phase d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Examples of Complex Actions include: attacking, shooting, acrobatics, full defense, disarming a bomb, using a complex device, or reloading a weapon.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des exemples d'Actions Complexes incluent: attaquer, tirer, faire des acrobaties, défense totale, désamorcer une bombe, utilsier un appareil complexe ou recharger une arme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A Task Action is any activity that requires longer than one Action Turn to complete.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les actions de Tâches sont des actions qui nécessitent plus de temps qu'un Tour d'Action pour se réaliser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each Task Action lists a timeframe for how long the task takes to accomplish.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque action de Tâche possède un intervalle pour déterminer le temps que mets l'action à s'accoplir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This timeframe may range anywhere from 2 Action Turns to 2 years.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cet intervalle peut varier de 2 Tours d'Actions à 2 ans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While engaged in a Task Action, you may not also undertake a Complex Action, though in some cases you may take a break from the task and return to it later.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque vous effectuez une Action de Tâche, vous ne pouvez pas effectuer d'Action Complexe, même si dans certains cas vous pouvez mettre la tâche en pause et y revenir plus tard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For more information, see Task Actions, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour plus d'information, voir Action de Tâche, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Examples of Task Actions include: repairing a device, programming, conducting a scientific analysis, searching a room, climbing a wall, or cooking a meal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des exemples d'Actions de Tâche incluent: réparer un appareil, programmer, mener une analyse scientifique, fouiller une pièce, esacalader un mur ou cuisiner un repas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Movement in &lt;i0&gt;Eclipse Phase&lt;/i0&gt; is handled just like any other action, and may change from Action Phase to Action Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le mouvement dans &lt;i0&gt;Eclipse Phase&lt;/i0&gt; est géré comme n'importe quelel autre action, et peut changer d'une Pahse d'Action à une autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Walking and running both count as Quick Actions, as they do not require your full concentration.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Marcher et courrir comptent tout les deux comme des Actiosn Rapide, car elle ne nécessitent pas tout votre concentration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The same also applies to slithering, crawling, floating, hovering, or gliding.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La même règle s'applique pour le déplacement en ondulant, en rampant, en flottant, ou en glisant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Running, however, may inflict a -10 modifier on other actions that are affected by your jostling movement.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Courrir peut cependant infliger un modificateur de -10 aux autres actions qui peuvent être affecté par votre mouvement de course.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even more, sprinting is an all-out run, and so requires a Complex Action (see Sprinting, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le sprint est, plus que tout, une course tout aziumts et recquière donc uen Action Complexe (voir Sprinter, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the gamemasters discretion, other movement may also call for a Complex Action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À la discrétion du maître de jeu, d'autres mouvements peuvent peuvent nécessiter une Action Complexe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hurdling a fence, pole vaulting, jumping from a height, swimming, or freerunning through a habitat in zero-gravity all require a bit of finesse and attention to detail, so would count as a Complex Action, and would apply the same modifier as running.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Franchir une clotûre, sauter à la perche, sauter d'un aplomb, nager ou traverser un habitat en zéro-g avec le parkour nécessitent un peu de finesse et d'attention, et devraient compter comme une Action Complese et devraient recevoir les mêmes modificateur que la course simple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Flying generally counts as a Quick Action, though intricate maneuvers would call for a Complex Action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voler compte générallement comme une Action Rapide, les manœuvres plus délicates nécessitant une Action Complexe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Movement rates}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Allure}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sometimes it’s important to know not just how you’re moving, but how far.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Parfois il est important de savoir non seulement comment un personnage se déplace, mais à quelle vitesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For most of transhumanity, this movement rate is the same: 4 meters per Action Turn walking, 20 meters per turn running.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour la plupart de la transhumanité, cette allure est la mrme: 4 mètres par Tour d'Action en marchant, 20 en courant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To determine how far a character can move in a particular Action Phase, divide this movement rate by the total number of Action Phases in that turn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour déterminer quelle distance un personnage peut franchir en une Phase d'Action, divisés cette allure par le nombre total de Phase d'Actions dans ce tour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In a turn with 4 Action Phases, that breaks down to 1 meter walking per Action Phase, 5 meters running.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans un tour avec 4 Phases d'Actions, cela se divise en 1 mètre en marchant par Phase d'Action, 5 mètres en courant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Movement such as swimming or crawling benchmarks at about 1 meter per Action Turn, or 0.25 meters per Action Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les déplacement en nageant ou en rampant partnet sur une base d'1 mètre par Tour d'Action, soit 0,25 mètres par Phase d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You can also sprint to increase your movement rate (see Sprinting).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous pouvez aussi Sprinter pour augmenter votre allure (voir Sprinter).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Vehicles, robots, creatures, and unusual morphs will have individual movement rates listed in the format of walking rate/running rate in meters per turn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les véhicules, robots, créatures et morphs inhabituelles peuvent avoir des allures particulières, listées sous la forme vitesse de marche/de course en mètres par tour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These movement rates assume standard Earth gravity of course.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces allures sont valables sur la gravité standard Terrestre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you’re moving in a low-gravity, microgravity, or high-gravity environment, things change.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous vous déplacez en environnement à faible gravité, en microgravité ou en haut-egravité, les choses changent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See &lt;i0&gt;Gravity&lt;/i0&gt;, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voisr &lt;i0&gt; Gravité&lt;/i0&gt;, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Jumping}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Sauter}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters making a running jump can cross SOM $&lt;u0&gt;$ 5 (round up) meters; use SOM $&lt;u1&gt;$ 20 (round up) meters for standing jumps.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages effectuant un saut avec élan peuvent franchir SOM $&lt;u0&gt;$ 5 (arrondissez au suéprieur); mètres utilisez SOM $&lt;u1&gt;$ 20 (arronissez au supérieur) mètre pour les sauts sans élan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Vertical jumping height is 1 meter.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La hauteur de saut verticales est de 1 mètre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters making a Freerunning Test can increase jumping distance by 1 meter (running jump) or 0.25 meters (standing/vertical jumps) per 10 points of MoS.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages faisant un test de Parkour peuvent augmenter la distance de saut de 1 mètre (saut avec élan) ou 0,25 mètres (saust sans élan/saut verticaux) par tranche de 10 points de MdR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Sprinting}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Sprinter}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may use Freerunning to increase the distance you move during an Action Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous pouvez utiliser Parkour pour augmenter votre distance de déplacement lors d'une Phase d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You must spend a Complex Action to sprint and make a Freerunning Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous devez dépenser une Action Complexe pour sprinter et effectuer un test de Parkour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every 10 points of MoS increases your running distance in that Action Phase by 1 meter, to a maximum bonus of +5 meters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque tranceh de 10 points de MdR augmente votre course de distance de cette Phase d'Action d'1 mètre, jusqu'à un maximum de +5 mètres.</seg>
       </tuv>
     </tu>
     <tu>
