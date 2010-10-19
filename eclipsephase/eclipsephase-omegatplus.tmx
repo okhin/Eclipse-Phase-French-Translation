@@ -23734,6 +23734,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Beam weapons}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Armes à Rayons}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Movement</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -48842,6 +48850,1934 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Chaque tranceh de 10 points de MdR augmente votre course de distance de cette Phase d'Action d'1 mètre, jusqu'à un maximum de +5 mètres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sometimes words fail, and that’s when the knives and shredders come out.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Parfois, la discussion échoue, et c'est le moment où les lames et les déchiqueteuse entrent en jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All combat in Eclipse Phase is conducted using the same basic mechanics, whether it’s conducted with claws, fists, weapons, guns, or psi: an Opposed Test between the attacker and defender(s).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tous les combats dans Eclipse Phase respectent la même mécanique de base, qu'ils soient gérés avec des griffes, des poings, des armes, des armes à feu ou du psi: c'estun Test en Oppoistion entre l'attaquant et le(s) défenseur(s).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Resolving combat}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Résoudre le combat}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Use the following sequence of steps to determine the outcome of an attack.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Utilisez la séquence d'étape suivante pour déterminer l'issue d'une attaque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Step 1: Declare an attack}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Étape 1: Déclarer une attaque}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The attacker initiates by taking a Complex Action to attack on their turn during an Action Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>l'attaquant initie son action en prenant une Action Complexe pour attaquer lors de sa Phase d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The skill employed depends on the method used to attack.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La compéternce utilisée dépend de la méthode utilisée pour attaquer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character lacks the appropriate Combat skill, they must default to the appropriate linked aptitude.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le personnage ne possède pas la compétence de Combat appropriée, il peut défausser sur l'aptitude liée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Step 2: Declare defense}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Étape 2: Déclarer la défense}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once the attack is declared, the defender chooses how to respond.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois l'attaque déclarée, le défenseur choisit comment répondre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Defense is always considered an Automatic Action unless the defender is surprised (see Surprise, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Se défendre est toujours considéré comme une Action AUtomatique sauf si le défenseur est surpis (voir Surprise, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>204) or somehow incapacitated and incapable of defending themself.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>204) ou rendu incapable de se défendre d'une manière ou d'une autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Melee:&lt;/i0&gt; A character defending against melee attacks uses Fray skill, representing dodging (if the character lacks this skill, they may default to Reflexes).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Contact:&lt;/i0&gt; Un personnage se défendant contre une attaque au contact utilsie sa compétence Esquive, représentant le fait d'esquiver les coups (si le personnage n'as pas cette compétence, il peut se défausser sur Réflexes).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alternately, the character may use a melee combat skill to defend, representing blocks and parries rather than dodging.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage peut aussi utiliser une compétence de combat au contact pour se défendre, représentant les blocages et les parades au lieu de l'esquive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ranged:&lt;/i0&gt; Against ranged attacks, a defending character may only use half their Fray skill (round down).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À distance:&lt;/i0&gt; Contre les attaques à distance, le personnage se défendant ne peut utiliser que la moitié de sa compétence Esquive (arrondie à l'inférieur).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Full Defense:&lt;/i0&gt; Characters who have taken a Complex Action to go on full defense (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Défense Totale:&lt;/i0&gt; Les personnages ayant utilisé une Action Complexe pour se mettre en défense totale (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>198) receive a +30 modifier to their defensive roll.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>198) reçoivent un modificateur de +30 à leur jet de défense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Psi:&lt;/i0&gt; A character defending against a psi attack rolls WIL $&lt;u0&gt;$ 2 (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Psi:&lt;/i0&gt; Un personange se défendant contre une attaque psi lance VOL $&lt;u0&gt;$ 2 (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A mental sort of full defense may also be rallied against psi attacks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>UNe sorte de défense mentale totale peut également être utilisée contre les attaques psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Step 3: Apply modifiers}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Étape 3: Appliquer les modificateurs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any appropriate modifiers are now applied to the attacker and defender’s skills.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout modificateur approprié est maintenant appliqué à la compétence de l'attaquant et du défenseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See the Combat Modifiers table (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voir la table des Modificateurs de Combat (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>193) for common situational modifiers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>193) pour des modificateurs situationnels communs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Step 4: Make the opposed text}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Étape 4: Faire le test en opposition}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The attacker and defender both roll d100 and compare the results to their modified skill target numbers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'attaquant et le défenseur lancent tous les deux 1d100 et comparent le résultat à leur seuil modifié.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Step 5: Determine outcome}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Étape 5: Déterminez l'issue}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the attacker succeeds and the defender fails, the attack hits.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'attaquant réussit et que le défenseur échoue, l'attaque touche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the attacker fails, the attack misses completely.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si lattaquant échoue, l'attaque rate complètement sa cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If both attacker and defender succeed in their tests, compare their dice rolls.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'attaquant et le défenseur réussissent tous les deux, comaprez leurs résultats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the attacker’s dice roll is higher, the attack hits despite a spirited defense; otherwise, the attack fails to connect.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'attaquant obtiens un résultat plsu élevé, l'attaque touche en dépit d'une défense inspirée; sinon l'attaque rate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Excellent Success:&lt;/i0&gt; If the attacker rolled an Excellent Success (MoS of 30+), a solid hit is struck.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Success Execeptionnel:&lt;/i0&gt; Si l'attaquant obtient un Succès Exceptionnel (MdR de 30+), une frappe solide est infligée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Increase the Damage Value (DV) inflicted by +5.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Augmentez la Valeur de Dommage (VD) infligée de +5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the MoS is 60+, increase the DV by +10.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si la MdR est de 6°+, augmentez la VD de +10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Criticals:&lt;/i0&gt; If the attacker rolls a critical success, the attack is armor-defeating, meaning that the defender’s armor is bypassed completely --- some kink or flaw was exploited, allowing the attack to get through completely.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Critique:&lt;/i0&gt; Si l'attaquant obtient un succès critique, l'attaque surclasse l'armure, signifiant que l'armure du défensuer est complètement ignorée - un défaut ou une faille a été exploitée, permettant à l'attaque de la traverser complètement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the defender rolls a critical success, they dodge with flair, reach cover that protects from follow-up attacks, maneuver to a superior position, or otherwise benefit.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le défenseur obtient un succès critique, il esquive avec brio, atteint un couvert qui le protège des attaques à venir, manœuvre vers une position supérieure ou obtient un bénéfice quelconque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Step 6: Modify armor}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Étape 6: Modifiez l'armure}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the target is hit, their armor will help to protect them against the attack (unless the attacker rolled a critical, see above).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si la cible est touchée, son armure va l'aider à la protéger contre l'attaque (sauf si l'attaquant a obtenu un critique, voir au-dessus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Determine which type of armor is appropriate to defending against that particular attack (see Armor, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Déterminez quelle type d'armure est approprié pour se défendre contre cette attaque (voir Armure, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The attack’s Armor Penetration (AP) value reduces the armor’s rating, however, representing the weapon’s ability to pierce through protective measures.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La valeur de pénétration d'Armure (PA) de l'attaque réduit la valeur de l'armure représentant la capacité de l'arme à transpercer les mesures de protection.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Step 7: Determine damage}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Étape 7: Déterminez les dégâts}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every weapon and type of attack has a Damage Value (DV, see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque arme et tout type d'attaque possède une Valeur de Dégats (VD, voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This amount is reduced by the target’s AP-modified armor rating.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce total est réduit par la valeur de l'armure réduite par la PA de l'attaque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the damage is reduced to 0 or less, the armor is effective and the attack fails to injure the target.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si les dommages sont réduits à 0 ou moins, l'armure est efficace et l'attaque ne aprvient pas à blesser la cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Otherwise, any remaining damage is applied to the defender.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sinon, les dommages supplémentaires sont appliquées au défenseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the accumulated damage exceeds the defender’s Durability, they are incapacitated and may die (see Durability and Health, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si les dégâts accumulés dépasse la Solidité du défenseur, ils sont rendus incapables de bouger et peuvent mourir (voir Solidité et Santé, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that some psi attacks inflict mental stress rather than physical damage (see Mental Health, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que certaines attaques psi infligent du stress mentak au lieu de dommage physique (voir Santé Mentale, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, the Stress Value (SV) is handled the same as DV.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, la Valeur de Stress (VS) et gérée de la même manière que la VD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Step 8: Determine wounds}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Étape 8: Déterminez les blessures}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The damage inflicted from a single attack is then compared to the victim’s Wound Threshold.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les dommages infligés par une seule attaque sont ensuite compérés au Seuild e Blessure de la victime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the armormodified DV equals or exceeds the Wound Threshold, the character suffers a wound.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si la VD modifée par l'armure égale ou dépasse le Seuil de Blessure, le personnage reçoit une blessure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Multiple wounds may be applied with a single attack if the modified DV is two or more factors beyond the Wound Threshold.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des blessurs multiples peuvent être appliquée avec uen seule attaque si la VD modifiée est un multiple du Seuil de Blessure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wounds represent more serious injuries and apply modifiers and other effects to the character (see Wounds, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les blessures représentent des blessures plus sérieuses et infligent des modificateurs et d'autres effets au personnage (voir Blessures, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stoya tried to get off the station quickly, but the Night Cartel’s assassin caught up, surprising her in a microgravity part of the habitat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stoya essayes de se sortir rapidement de la station, mais l'assassin du  Night Cartel l'a repérée et l'a surprise dans la zone en microgravité de l'habitat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The assassin’s INIT is 63, plus a dice roll of 23, for an Initiative of 86.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'INIT de l'assassin est de 63, plus un jet de 23, pour une Initiative de 86.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stoya’s INIT is 55, plus a roll of 27, for an Initiative of 82.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'INIT de Stoya est de 55, plus un jet de 27, pour une Initiative de 82.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The assassin goes first, spending a Quick Action to draw a shredder.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'assassin commence, dépensant une Action Rapide pour dégainer un déchiquetteur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This flechette weapon is in burst-fire mode, so with a Complex Action the assassin can take two shots.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette arme à fléchette est une arme à tir en rafale, avec une Action Complexe l'assassin peut donc tirer deux fois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>His Spray Weapons skill is 65, he’s smartlinked (+10), and they’re at short range (+0), so he needs a 75 or less.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sa compétence d'Armes à Spray est de 65, il a une interface d'arme (+10), et ils sont à portée courte (+0), il a donc besoin de 75 ou moins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stoya is defending with her Fray skill (60) divided by 2, or 30.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stoya se défend avec sa compétence Esquive (60) divisée par 2, soit 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The assassin rolls an 08 with the first shot.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'assassin obtien un 08 avec son premier tir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Amazingly, Stoya rolls a 28.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Étonnament, Stoya obtient un 28.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They both succeeded, but Stoya rolled higher, so she dodges the first shot.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils réussissent tous les deux, mais Stoya a obtenu le meilleur jet, elle esquive donc le premier tir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The assassin rolls a 20 for his second shot, another hit, and this time Stoya rolls an 83, a failure.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>l'assassin obtient un 20 pour son deuxième tir, un autre succès, et cette fois Stoya obtient un 83, un échec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The assassin also scored an Excellent Success with a MoS of 55, increasing the DV by +5.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'assassin a également obtenu un Succès Exceptionnel avec une MdR de 55, augmentant sa VD de +5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The assassin’s base damage is 2d10 + 5, but he’s using burst fire against a single target for +1d10, and it’s also a cone effect weapon at short range, for an additional +1d10, for a total DV of 4d10 + 5.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les dégats de base de l'assassin sont de 2d10 + 5, mais il tir en rafale contre uen seule cible pour +1d10 et c'est également une arme à zone d'effet conique à courte distance pour un +&amp;d10 additionel, pour une VD totale de 4d10 + 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The assassin rolls 4d10 and gets 16, then adds the +5 for a total DV of 21.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'assassin lance 4d10 et obtient 16, il y ajoute ensuite les +5 pour une VD totale de 21.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stoya’s wearing light body armor (AV 10/10), but the shredder’s Armor penetration is -10, so her armor is entirely negated.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stoya porte une armure corporelle légère (VA 10/10) mais la pénétration d'Armure du déchiqueteur est de -10, son armure est donc entièrement annulée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She takes a devastating 21 DV, exceeding her Wound Threshold of 10, not just once, but twice.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle encaisse donc un dévastateur score de 21 de VD, dépassant son Seuil de Blessure de 10. Deux fois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This means Stoya suffers 2 wounds from the shot, suffering -20 to all actions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela signifie que Stoya souffre de 2 blessures suite au tir, subissant un -20 à toutes ses actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In addition, she must make two SOM $&lt;u0&gt;$ 3 Tests, one to avoid knockdown and the other to avoid unconsciousness.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De plus, elle doit fair deux Tests de SOM $&lt;u0&gt;$ 3, l'un pour éviter d'être jettée au sol et l'autre pour éviter de sombrer dans l'incosncience.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Her SOM is 30, meaning she needs a 70 (30 $&lt;u1&gt;$ 3 = 90, 90 $-$ 20 wound modifiers = 70) on both rolls.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sa SOM est de 30, signifiant qu'elle a besoin d'un 70 (30 $&lt;u1&gt;$ 3 = 90, 90 $-$ 20 de modificateurs de blessure = 70) sur ses deux jets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She rolls a 40 and a 27, succeeding both.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle obtient 40 et 27 les réussissant tous les deux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now it’s Stoya’s action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est maintenant à Stoya de joueur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She takes a Quick Action to pull her own weapon: a stunner.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle prend un Action Rapide pour attraper son arme: un assomeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Her Beam Weapons skill is 47, modified by wounds (-20) and a smartlink (+10), for 37.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sa compétence d'Armes à Rayon est de 47, modifiée par ses vlessure s(-20) et une interface d'arme (+10) pour 37.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The assassin’s Fray is 48, divided by 2 for 24 against a ranged attack.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La compétence d'Esquive de l'assassin est de 48, divisée par 2 pour un 24 contre les attaques à distances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stoya rolls a 22 --- a critical hit --- and the assassin rolls a 68.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stoya obtient un 22 - un succès critique - et l'assassin obtiens un 68.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The stunner only inflicts 1d10 $&lt;u0&gt;$ 2 DV, but since the attack is a critical hit, this is armor defeating.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'assomeur n'inflige qu'1d10 $&lt;u0&gt;$ 2 de VD, mais puisque l'attaque est un succès critique, elle surclasse l'armure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stoya rolls an 8, for 4 points of DV, below the assassin’s Wound Threshold of 7.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stoya obtient un 8, pour 4 point de VD, en-dessous du Seuil de Blessure de l'assasin de 7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stunners, however, are shock weapons, so the assassin must make a DUR + Energy Armor Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les assomeurs sont cependat des armes à choc, l'assassin doit donc fair un Test de SOL + Armure Énergétique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>His DUR is 35 and he’s wearing an armor vest (AV 6/6), so his target number is 41.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sa SOL est de 35 et il porte une veste blindée (VA 6/6), son seuil est donc de 41.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>He rolls a 71 --- a Margin of Failure of 30, meaning he is immediately incapacitated for 3 Action Turns.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il obtient un 71 - Une MdE de 30, signifiant qu'il est immédiatement incapable d'agir pour 3 Tours d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Having disabled her opponent, Stoya takes the time to make a hasty getaway.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ayant vaincu son opposant, Stoya en profite pour s'échapper rapidement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Combat summary}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Résumé de combat}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ego stats&lt;/i0&gt; &lt;n1&gt; &lt;u0&gt; Attacker rolls attack skill +/- modifiers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Stats d'ego&lt;/i0&gt; &lt;n1&gt; &lt;u0&gt; L'attaquant lance sa compétence d'attaque +/- les modificateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u1&gt; Melee: Defender rolls Fray or melee skill +/- modifiers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u1&gt; Contact: Le défenseur lance Esquive ou sa compétence de combat au contact +/- les modificateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u2&gt; Ranged: Defender rolls (Fray skill $&lt;u8&gt;$ 2, round down) +/- modifiers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u2&gt; A distance: Le défenseur lance (Esquive $&lt;u8&gt;$ 2, arrondi à l'inférieur) +/- les modificateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u3&gt; If attacker succeeds and rolls higher than the defender, the attack hits.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u3&gt; Si l'attaquant réussit et obtient un meilleur score que le défenseur, l'atatque touche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u4&gt; Critical hits are armor-defeating (armor does not apply).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u4&gt; Les résultats critique surclassent l'armure (l'armure n'est pas prise en compte).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u5&gt; Armor is reduced by the attack’s Armor Penetration value (AP).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u5&gt; L'armure est réduite par la valeur de Pénétration d'Armure (PA) de l'attaque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u6&gt; The weapon’s damage is reduced by the target’s modified Armor rating (unless the attack is armor-defeating).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u6&gt; Les dégats de l'arme sont réduit par la valeur d'Armure modifiée de la cible (sauf si l'attaque surclasse l'armure).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u7&gt; If the damage exceeds the target’s Wound Threshold, a wound is also scored.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u7&gt; Si les dégats dépassent le Seuil de Blessure de la cible, une blessure est également notée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(If the damage exceeds the Wound Threshold by multiple factors, multiple wounds are inflicted.)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>(Si les dégats dépassent le Seuil de Blessure de plusieurs facteurs, de multipls blessures sont infligées.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{2}{|c|}{&lt;i0&gt;Combat modifiers&lt;/i0&gt;}	&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{2}{|c|}{&lt;i0&gt;Modificateurs de Combat&lt;/i0&gt;} &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>General</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Situation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Modifier&lt;/i0&gt;	&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Modificateur&lt;/i0&gt;	&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character using off-hand</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage utilsie sa mauvaise main</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character wounded/traumatized</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage ets blessé/traumatisé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>-10 per wound/trauma	&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>-10 par blessure/trauma	&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character has superior position</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage a une position supérieure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Touch-only attack</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Attaque de toucher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Called shot</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tir visé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character wielding two-handed weapon with one hand</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage manie une armes à deux mains d'une seule main</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Small target (child-sized)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Petite cible (taille d'un enfant)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Very small target (mouse or insect)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Trés petite cible 'souris ou insecte)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Large target (car sized)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Grosse cible (taille d'une voiture)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Very large target (side of a barn)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Trés grosse cible (taille d'une grange)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Visibility impaired (minor: glare, light smoke, dim light)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Visibilité génée (mineur: reflet, fumée légère, faible lumière)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Visibility impaired (major: heavy smoke, dark)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Visibilité génée (majeur: fumée épaisse, obscurité)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Blind attack</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Attaque aveugle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Melee Combat</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Combat au contact</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character has reach advantage</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage a une meilleure allonge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character charging</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage charge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character receiving a charge</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage réceptionne une charge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ranged combat (attacker)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Combat à distance (attaquant)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Attacker using smartlink or laser sight</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'attaquant utilise une interface d'arme ou un viseur laser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Attacker behind cover</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'attaquant est derrière un couvert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Attacker running</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'attaquant court</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Attacker in melee combat</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'attaquant est en combat au contact</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Defender has minor cover</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le défenseur a un couvert mineur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Defender has moderate cover</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le défenseur a un couvert modéré</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Defender has major cover</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le défenseur a un couvert majeur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Defender prone and far (10+ meters)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le défenseur est à plat ventre et loin (10+ mètres)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Defender hidden</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le défenseur est caché</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aimed shot (quick)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tir ajusté (action rapide)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aimed shot (complex)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tir ajusté (actoin complexe)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sweeping fire with beam weapon</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tir de balayage avec une arme à rayon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>+10 on second shot	&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>+10 sur le deuxième tir	&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Multiple targets in same Action Phase</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cibles multiples en une seule Phase d'Action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>-20 per additional target &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>-20 par cible additionnelle &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Indirect fire</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tir indirect</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Point-blank range (2 meters or less)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tire à bout portant (2 mètres ou moins)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Short range</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Portée courte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Medium range</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Portée moyenne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Long range</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Portée longue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Extreme range</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Portée extrême</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Action and combat complications</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Complication d'action et de combat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Combat isn’t quite as simple as deciding if you hit or miss.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le combat n'est pas aussi simple que de décider qi vous touchez ou ratez votre cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Weapons, armor, ammunition, and numerous other factors may impact an attack’s outcome.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les armes, armures, munitions et de nombreux autres facteurs peuvent influer l'issue d'une attaque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Like- wise, various factors can impact an action scene, such as fire or microgravity effects.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De même, de nombreux facteurs peuvent avoir un impact sur une scène d'action, telles que le feu ou l'effet de la microgravité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Aimed shots}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Tirs ajustés}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As noted under Aiming, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme noté au paragraphe AJuster, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>190, a character can sacrifice their other Quick Actions to concentrate on targeting a ranged attack and receive a +10 modifier on the attack.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>190, un personnage peut sacrifier leur Action Rapide pour se concentrer sur la visée d'une attaque à distance et recevoir un modificateur de +10 à l'attaque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You can also sacrifice an entire Complex Action to fix your aim on a target.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous pouvez également sacrifier une Action Complexe complète pour verrouiller votre mire sur la cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, as long as the target remains in your sights until your next Action Phase, you receive a +30 modifier to hit.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, et tant que la cible reste en vue jusqu'à la prochaine Phase d'Action, vous recevez un modificateur de +30 pour toucher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Ammunition and reloading}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Munitions et recharger}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every weapon has a listed ammunition capacity that indicates how many shots the weapon can carry or holds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque armes possède une capacité de munitions qui indique combien de tir l'arme peut effectuer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When this ammo runs out, a new supply must be loaded in.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque ces munitions sont épuisés, une nouveau stock doit être chargé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Players should keep track of the shots they fire.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les jouerus devraient garder une trace des tirs qu'ils effectuent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Reloading almost always requires a Complex Action, whether you are slapping in a new clip of bullets or a fresh battery for a laser.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Recharger nécessite presque toujours une Action Complexe, que vous eneclenchier un nouveau chargeur de cartouches ou une batterie neuve pour laser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the gamemaster’s discretion, a reload that is immediately accessible (such as a new clip reverse-taped to the loaded clip, so that reloading just requires that you reverse the taped clips and slot the new one in) will only take a Quick Action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A la discrétion du maître de jeu, une recharge qui est immédiatement accessible (tel qu'un nouveau chargeur scotché à l'envers au chargeur enclenché, afin que la recharge n'écessite juste de retourner le chargeur et d'enclencher le plein) peut ne nécessiter qu'une Action Rapide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Archaic weapons such as magazine-fed rifles may require longer to fully load.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les armes archaîques telles que les fusil à magasins peuvent nécessiter plus de temps pour être complètement rechargés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Area effect weapons}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Armes à aire d'effet}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some ranged attack weapons are designed to affect more than one target at a time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines attaques à distances sont conçue pour affecter plus d'une cible à la fois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These weapons fall into three categories: blast, uniform blast, and cone.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces armes se répartissent en trois catégories: souffle, souffle réparti et cône</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Blast effect}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Effet de souffle}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Blast weapons include items like grenades, mines, and other explosives that expand outward from a central detonation point.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les armes à effet de souffle telles que les grenades, les mines et les autres explosifs qui s'étendent autur d'un point de déflagration central.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most blast attacks expand outward in a sphere, though certain shaped charges may direct an explosion in one direction only.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des attaques à souffle se développent en sphère, bien que certaines charge peuvent diriger une explosion dans une seule direction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The explosive force is stronger near the epicenter and weaker near the outer edges of the sphere.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La force d'explosion ets plus forte près de l'épicentre et s'affaiblit près des bors de la sphère.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For every meter a target is from the center, reduce the damage of a blast weapon by -2.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Poru chaque mètre de distance entre une cible et le centre, réduisez les dommages d'une armes à souffle de -2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Uniform blast}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Souffle uniforme}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Uniform blast attacks distribute their power evenly throughout the area of effect.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les attaques à souffle uniforme distibuent leur puissance de manière équitable sur toute la surface de l'effet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Examples include fuelair explosives and thermobaric weapons that disperse an explosive mixture in a vapor cloud and ignite it all at once.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela inclut par exemple les bombes à vide et les arems thermobariques qui dispersent une mixture explosive dans un nuage de vapeur puis le fait détonner en une fois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All targets within the noted blast radius suffer the same damage.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toutes els cibles dans le rayon d'explosion souffrent des même dommages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Damage against targets outside of the main blast sphere is reduced by -2 per meter.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les dommages contre les cibles hors de la sphère principale d'explosion sont réduits de -2 par mètres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Cone}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Cône}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Weapons with a cone effect have an area effect that begins with the tip of the weapon and expands outward in a cone.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les armes à effet de cône ont une aire d'effet qui commence au bout de l'arme et s'étend vers l'extérieur en un cône.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At short range, this attack effects 1 target; at medium range it affects 2 targets within a meter of each other; and at long or extreme range it affects 3 targets within a meter of the next.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Â courte portée, cette attaque affecte 1 cible; a portée moyenne elle en affecte 2 distante de moins d'un mètre; et à portée longue ou extrême elle affecte 3 cible ayant un écart maximal d'un mètre entre deux d'entre elles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cone effect attacks do +1d10 damage at short range and -1d10 damage at long and extreme range.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les attaque à effet de cône font +1d10 de dégat à courte portée et -1d10 à portée longue et extrème.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Just as weapons technologies have advanced, so too has armor quality, allowing unprecedented levels of protection.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les armures ont rpogressé au même rythme technologique que les armes, permettant d'atteindre des niveaux de protectiosn sans précédents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As noted in Step 7: Determine Damage (see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme décrit à l'Étape 7: Déterminez les Dégats (voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>192), the armor rating reduces the damage points of the attack.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>192), la valeur d'armure réduit les points de dégats d'une attaque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For a full listing of armor types and values, see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour une liste complète des types d'armures et de leur valeur, voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Energy vs. Kinetic}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Énergétique contre Cinétique}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each type of armor has an Armor value (AV) with two ratings --- Energy and Kinetic --- representing the protection it applies against the respective type of attack.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque type d'armure à une Valeur d'Armure (VA) avec deux valeurs - Énergétique et Cinétique - représentant la protection qu'elle fournit contre chaque type d'attaque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These are listed in the format of ``Energy armor/Kinetic armor.'' For example, an item with listed armor ``5/10'' provides 5 points of armor against energy-based attacks and 10 points of armor against kinetic attacks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elles sont listées sous la forme &quot;Armure Énergétique/Armure Cinétique.&quot; Par exemple, un objet ayant une valeur d'armure &quot;5/10&quot; fournit 5 points d'armure contre les attaques éngertique et 10 points contre les attaques cinétiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Energy damage includes that caused by beam weapons (laser, microwave, particle beam, plasma, etc.) as well as fire and high-energy explosives.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les dégats énergétiques incluent ceux qui sont causés par les armes à rayons (laser, micro-onde, faisceau de particule, plasma, etc) ainsi que le feu et les explosifs à haute énergie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Armor that protects against this damage is made of material that reflects or diffuses such energy, dissipates and transfers heat, or ablates.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les armures protégeant contre ce type de dégats sont fait de matériaux qui reflètent ou diffusent une telle énergie, dissipent et transfèrent la chaleur et les matériaux ablatifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Kinetic damage is the transfer of damaging energy when an object in motion (a fist, knife, club, or bullet, for example) impacts with another object (the target).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les dégats cinétiques sont le transfert d'une énergie dévastatrice lorsqu'un objet en mouvement (tel qu'un point, un couteau, une massue ou une balle par exemple) entre en collision avec un autre objet(la cible).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most melee and firearms attacks inflict kinetic damage, as would a rolling boulder, swinging pendulum, or explosion-driven fragments.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La pluaprt des armes de mélée et des armes à feu infligent des dégats cinétqiues, comme le font les rochers, les pendules ou les fragments propulsés par une explosion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Kinetic armors include impact-resistant plates, shear-thickening liquid and gels that harden upon impact, and ballistic and cutproof fiber weaves.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les armures cinétiques incluent des plaques résistante à l'impact, des fluides réoépaississant et des gels qui se durcissent à l'impact, ainsi que les fibres ballistique et renforcées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Armor penetration}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Pénétration d'armure}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some weapons have an Armor Penetration (AP) rating.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines armes disposent d'une valeur de Pénétration d'Armure (PA).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This represents the attack’s ability to pierce through protective layers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette valeur représente la capacité d'une attaque à percer les différentes couches protectrices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The AP rating reduces the value of armor used to defend against the attack (see Step 6: Modify Armor, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La valeur d'AP réduit la valeur de l'armure utilisée pour se défendre contre l'attaque (voir Étape 6: Modifier l'Armure, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Layered armor}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Armures superposée}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If two or more types of armor are worn, the armor ratings are added together.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si deux tyeps d'armure ou plus sont portées, les valeurs d'armures sont additionnées les unes aux autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, wearing multiple armor units is cumbersome and annoying.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, porter de multiples couches d'armure est peu pratique et encombrant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Apply a -20 modifier to a character’s actions for each additional armor layer worn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appliquez un modificateur de -20 aux actions du personnage pour chaque couche d'armure additionnelle portée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that items specifically noted as armor accessories --- helmets, shields, etc. --- do not inflict the layered armor penalty, they simply add their armor bonus.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que les objest spécifiquement notés comme étant des accessoires d'armures - casques, boucliers, etc - n'infligent pas de la pénalité d'armure superposés, ils ajoutent simplement leur bonus d'armur au total.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note also that the armor inherent to a synthetic morph or bot’s frame does not constitute a layer of armor (i.e., you may wear armor over the synthetic shell without penalty).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez également que l'armure inhérente à une synthmorph ou à la structure d'un bot ne constituent pas une couche d'armure (càd que vous pouvez porter une armure sur une coque synthétique sans pénalité).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Asphyxiation}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Asphyxie}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The average transhuman can hold their breath for two minutes before blacking out.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le transshumain moyen peut retenir sa repsiration pour deux minutes avant de s'évanouir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Strenuous activity reduces the amount of time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une activité fatiguante réduit dce total de temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For every 30 seconds after the first minute a biomorph is prevented from breathing, they must make a DUR Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour chaque intervalle de 30 seconde après la première minute où une biomorph est empéchée de respirer, elle doit faire un Test de SOL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Apply a cumulative -10 modifier each time this test is rolled.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appliquez un modificateur cumulatif de -10 à chaque fois que ce test est effectué.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character fails the test, they immediately fall unconscious and begin to suffer damage from asphyxiation, at the rate of 10 points per minute, until they die or are allowed to breathe again.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le personnage échoue au test, il tombe immédiatement inconscient et commence à souffrir des dommages de l'asphycie, au rythme de 10 oints par minutes, jusqu'à ce qu'il décède ou qu'il puisse respirer de nouveau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This damage does not cause wounds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces dégats ne causent pas de blessure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Asphyxiating is a terrible process, often leading to panic.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'asphyxie est un processus horrible, menant souvent à la panique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters who are being asphyxiated must make a WIL $&lt;u0&gt;$ 3 Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages qui ont été asphyxié doivent faire un Test de VOL $&lt;u0&gt;$ 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If they fail, they suffer 1d10 $&lt;u2&gt;$ 2 (round up) mental stress and cannot perform any effective action to rescue themselves that Action turn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si ils échouent, ils souffrent de 1d10 $&lt;u2&gt;$ 2 (arrondissez au supérieur) point de stress mental et ne peuvent effectuer aucune action pour s'aider ce Tour d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character who succeeds may attempt to rescue themselves, and in fact they must make a WIL $&lt;u1&gt;$ 3 Test to perform any other action not directly related to rescuing themselves (attacks against another character, a creature, or an object holding the character underwater are exempt from this rule).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage qui réussit peuvent essayer de s'aider, et ils doivent en fait réussir un Test de VOL $&lt;u1&gt;$ pour effectuer toute action non directement reliée à leur survie immédiate (attaquer un autre personnage, une créature ou un objet maintenant le personnage sous l'eau sont exemptées de cette règle).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Due to emitting a continuous beam of energy rather than single projectiles, beam weapons are easier to ``home in'' on a target.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les arems à rayons sont plus facile à &quot;pointer&quot; sur la cible, en raison du rayon d'énergie continu qu'elles émettent en lieu et place des porjectiles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This means one of the following two rules may be used when making beam weapon attacks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela signifie que l'une des deux règles suivantes peut-être utilisée lorsque vous attaquez avec une arme à rayons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These options are not available for ``pulse'' beam weapons (like the laser pulser), as such weapons emit energy in pulses rather than a continuous beam.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces options ne sont pas disponibles pour les armes à &quot;impulsions&quot; (comme les pluseurs lasers), car de telels armes émettent des impulsions énergétique au lieu d'un faisceau continu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Sweeping fire}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Tir de balayage}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An attacker who is making two semi-auto (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un attaquant effectuant deux attaques semi-automatiques (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>198) attacks with a beam weapon with the same Complex Action and who misses with the first attack may treat that attack as a free Aim action (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>198) avec une arme à rayon dans la même Action Complexe et qui rate sa première attaque peu traiter cette attaque comme une Action Rapide AJuster (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>190), receiving a +10 modifier for the second attack.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>190), recevant un modificateur de +10 sur sa deuxième attaque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In other words, though the first attack misses, the character takes the opportunity to sweep the beam closer to the target for the second attack.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En d'autres terme, même si la première attaque rate sa cible, le personnage profite de l'opportunité pour balayer le fasiccau pour le rapprocher de la cible lors de la deuxième atatque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This only applies when both attacks are made against the same target.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela ne s'applique que lorsque les deux attaques sont effectéues contre la même cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Concentrated fire}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Tir concentré}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character firing a semi-auto beam weapon who hits with the first attack may choose to keep the beam on and concentrate their fire, cooking the target.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage utilisant une arme à rayon semi-automatqiue et qui touche avec sa première atatque peut choisir de maintenir le rayon et de concentrer le faisceau, cuisant la cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, the character foregos their second semi-auto attack with that Complex Action, but automatically bolsters the DV of the first attack by $&lt;u0&gt;$ 1.5 (round up).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, si le personnage abandonne sa deuxième attaque semi-atutomatique de cette Action Complexe, mais augmente automatique la VD de sa première atatque by $&lt;u0&gt;$ 1,5 (arrondissez au supérieur).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This decision must be made before the damage dice are rolled.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette décision doit être prise avant que les dés de dégâts ne soient lancés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Blind attacks}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Attaques aveugle}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Attacking a target that you cannot see is difficult at best and a matter of luck at worst.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Attaquer une cible que vous ne pouvez aps voir est, au mieux, difficile et est une questiond e chance dans le pire des cas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you cannot see, you may make a Perception Test using some other available sense to detect your target.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous ne pouvez pas voir, vous devez faire un test de Perception en utilisant un autre sens disponible pour détecter votre cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this succeeds, you attack with a -30 modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si ce test est un succès, vous subissez un modificateur de -30 à votre attaque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If your Perception Test fails, your attack is primarily based on chance --- your target number for the attack test is equal to your Moxie stat (no other modifiers apply).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si votre Test de Perception échoue, votre ataque est essentiellement basée sur la chance - le seuil de votre attaque est égal à votre stat Moxie (sans aucun autre modificateur).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Indirect fire}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Tir indirect}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>With the help of a spotter, you may target an enemy that you can’t see using indirect fire.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Avec l'aide d'un désignateur, vous pouvez cibler un ennemi que vous ne pouvez pas voir en utilisant le tir indirect.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case you must be meshed with a character, bot, or sensor system that has the target in its sights and which feeds you targeting data (the gamemaster may require a Perception Test from the spotter).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas vous devez être meshé avec un personnage, un bot ou un système de cpateur qui a la cible en vue et qui vous pousse les donéns de ciblage (le maître de jeu peu demander un Test de Perception pour le désignateur).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Indirect attacks suffer a -30 modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les attaques indirectes souffrent d'un modificateur de -30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Seeker missiles (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les missiles à tête chercheuse (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>340) can home in on a target that is ``painted'' with reflected energy from a laser sight (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>340) peuvent atterir sur une cible qui est &quot;éclairée&quot; par l'énergie réfélchie d'un viseur laser (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>342) or similar target designator system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>342) ou d'un système de désignation de cible similaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An ``attack'' must first be made to paint the target with the laser sight using an appropriate skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une &quot;atatque&quot; doit d'abord être effectuée pour élcairer la cible avec le viseur laser en utilisant une compétence appropriée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this succeeds, it negates the -30 indirect fire modifier for the seeker launcher’s attack test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'attaque réussit, cela annule le modificateur de -30 du tir indirect pour le test d'attaque du lanceur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>the target must be held in the spotter’s sights (requiring a Complex Action each Action Phase) until the seeker strikes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La ible doit rester en vue du désignateur (nécessitant une Action Complexe à chaque Phase d'Action) jusqu'à ce que le chercheur touche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Bots, synthmorphs and vehicles}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Bots, synthmorphs et véhciules}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI-operated robots and synthetic morphs are a common sight in Eclipse Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les robots manœuvrés par des IA et les morphs syntéhtique sont des choses commune à Eclipse Phase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Robots are used for a wide range of purposes, from surveillance, maintenance, and service jobs to security and policing --- and so may often play a role in action and combat scenes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les robots sont utilisés pour une grande variété de tâches, de la surveillance, la maintenance et les services à la sécurité et à ploce - et peuvent donc souvent jouer un rôle dans les scènes d'actions et de combats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though less common (at least in habitats), AI-piloted vehicles are also frequently used and encountered.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que moins courants (au moins dans certains habitats), les véhicuels pilotés apr des IA sont également fréquemment utilisés et rencontrés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that the difference between a robot, vehicle, and synthetic morph is in many ways semantic.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que la différence entre un bots, un véhicule et une synthmorph est essentiellement sémantique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Robots are simply synthetic bodies controlled by an AI.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les robots sont simplements des corps synthétique contrôlés par une IA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Vehicles are also robotic --- AI controlled --- but the term ``vehicle'' is used to denote that they carry passengers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les véhicules sont également des robots - contrôlé par IA - mais le terme &quot;vhciule&quot; dénote leur capacité à transporter des passagers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Both bots and vehicles can be used as synthetic morphs --- that is, inhabited by a transhuman ego --- assuming they are equipped with a cyberbrain (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les bots et les véhciules peuvent être utilisés comme morph synthétique - c'est à dire, habitées par un ego transhumain - du moment qu'ils sont équipés d'un cybercerveau (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For the purpose of these rules, the term ``shell'' is used to refer to bots, vehicles, and synthetic morphs alike.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans le cadre de ces règle, le mot &quot;coque&quot; est tilisé pour faire référence aux bots, aux véhicule et aux synthmorphs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Like synthmorphs, bots and vehicles are treated just like any other character: they roll Initiative, take actions, and use skills.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme les synthmorphs, le sbot ste les véchiules sont traités comme tous les autres personnages: ils lancent leur Initiative, effectuent des actoins et utilisent des compétences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few specific aspects of these shells needs special consideration, however, covered below.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques aspects de ces coques nécessitent cependant des considérations particulière qui sont couvertes ci-dessous.</seg>
       </tuv>
     </tu>
     <tu>
