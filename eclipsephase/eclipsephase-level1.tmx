@@ -23742,6 +23742,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Grenades and seekers}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Grenades et têtes chercheuses}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Movement</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -26585,7 +26593,7 @@
         <seg>This skill is used when sleeved in or jamming a winged or otherwise flight-capable morph (manual and remote-control flight are handled using Pilot skill).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Cette compétence est utilisée lorsque vous êtes incarnés dans ou que vous interceptez ou morph ailée ou capable de voler (le vol manuel et téléguidé sont gérés par la compétence Piloter).</seg>
+        <seg>Cette compétence est utilisée lorsque vous êtes incarnés dans ou que vous interceptez une morph ailée ou capable de voler (le vol manuel et téléguidé sont gérés par la compétence Piloter).</seg>
       </tuv>
     </tu>
     <tu>
@@ -50778,6 +50786,2310 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Quelques aspects de ces coques nécessitent cependant des considérations particulière qui sont couvertes ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Shell stats}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Stats des coques}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Just like synthmorph characters, certain bot and vehicle stats (Durability, Wound Threshold, etc.) and stat modifiers (Initiative, Speed, etc.) are determined by the actual physical shell.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout comme les personnages en synthmorph, certaines stats des bots et de véhicules (Solidité, Seuil de Blessure, etc) et modificateur de stats (Initiative, Vitesse, etc) sont en fait déterminées par la coque physique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other stats are determined by the bot/vehicle’s operating AI (in place of an ego).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autre stats sont déterminés par l'IA contrlant le bot/véhciule (en lieu et place d'un ego).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bots and vehicles may also have traits that apply to their AI or physical shell.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les bots et les véhciules peuvent également avoir des traits qui s'appliquent à leur IA ou à leur coque physique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For sample bots and vehicles, see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour des exemples de bto sou de véhicules, voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>342 of the Gear chapter.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>342 du chapitre Équipement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Handling: Bots and vehicles have a special stat called Handling, which is a modifier applied to all tests made to pilot the bot/vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Maniabilité: Le sbots et les véhicules ont une stat particulière appellée Maniabilité, qui est un modifictauer appliqué à tous les tests fait pour piloter le bot/véhicule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This represents the bot/ vehicle’s maneuverability.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ell représente la manœuvrabilité du bot/véhicule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Shell skills}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Compétences des coques}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The skills and aptitudes used by a bot or vehicle are those possessed by its AI.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les compétences et aptitudes utilisés par un bot ou un véhicule sont ceux possédés par son IA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See AIs and Muses, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voir IA et Muses , p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Shell movement}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Déplacement des coques}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Like characters, bots and vehicles have a walking and running Movement rate.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme les personnages, les bots et les véhicules ont un score de Mouvement pour la marche et pour la course.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is used whenever the bot/vehicle is engaged in action or combat scenes with other characters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils sont utilisés lorsque le bot/véhicule est impliqué dans une scène d'action ou de combat avec d'autres personnages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shells that are capable of greater speeds will also have a Maximum Velocity listed --- this is the highest rate at which the shell may safely move, listed in kilometers per hour.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les coques qui sont capables d'atteindre des vitesses plus élevées ont aussi une Vitesse Maximale - c'est la vitesse la plus élevé à laquelle la coque peut se déplacer de manière sûre, indiquée en kilomètre par heure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the gamemaster’s discretion, some shells may push their limits and accelerate further, but at significant risk --- the gamemaster should apply appropriate penalties to Pilot Tests and other tests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À la discrétion du maître de jeu, certaines coque peuvent dépasser leur limite et accélérer au-delà, masi avec une prise de risqaue significative - le mæître de jeu devrait appliquer des pénalités appropriées aux test de Piloter et aux autres tests.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Chases}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Poursuites}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shells that are moving faster than their running Movement rate (up to their Max.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les coques qui se déplacent plus vite que leur score de course de Mouvement (jusqu'à leur Vitesse Max.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Velocity) are generally considered to be moving too fast for standard action and combat interaction with other characters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>) sont gnéralement considérés comem se déplaçant trop vite pour intergair de manière normale avec les autres personnages lors de l'action ou du combat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is when the action enters ``chase scene'' mode --- a traveling narrative of maneuvering choices and tests with various outcomes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est le moment ou la scène passe dans le mode &quot;scène de poursuite&quot; - un mouvement narratif composé de choix de maœuvre et de test avec différentes issues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Whether or not a chase is actually occurring, the gamemaster should remember that Max Velocity is not the only factor in high-speed situations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'une poursuite soit réellement en cours ou non, le maître de jeu devrait garder en tête que la Vitesse Maximale n'est pas le seul facteur à prendre en compte pour les situatiosn à haute-vitesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Environmental factors like terrain, weather conditions, navigation, pedestrians, and traffic can provide obstacles for shells to overcome.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les facteur senvironneemntaux comme le terrain, les conditions météorologiques, la navigation, les piétons et le traffic peut fournir des obstacles que les coques doivent franchir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A shell tearing across a habitat in order to reach a bomb before it detonates should have to make several decisions and tests that may affect whether it gets there in time or not.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une coque devant taverser un habitat pour atteindre une bombe avant qu'elle n'explose devra prendre plusieurs décisions et faire quelques tests qui détermineront si elle arrive à temps ou non.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, a shell seeking to shake off some hot pursuit will have to pull off some fancy maneuvering and hopefully find a shortcut or two in order to outrace their opponents.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, une coque cherchant à semer des poursuivants devra effectuer quelques manœuvres imaginative et espérer trouver un raccourci ou deux pour semer ses opposants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Crashing}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{S'écraser}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shells that suffer wounds during combat or chases may be force to make a Pilot Test to avoid crashing or may crash automatically.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les coques qui subissent des blessures en combat ou en poursuite pourraient être forcées de faire un Test de Piloter pour éviter de s'écraser ou s'écraser automatiquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The exact circumstances of a crash are left up to the gamemaster, as best fits the story --- the shell may simply skid to a stop, plow into a tree, fall from the sky, or flip over and land on a group of bystanders.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les circonstances exacte d'un crash sont laissées à l'appréciation du maître de jeu en fonction de ce qui colle le mieux à l'histoire - la coque pourrait simplement s'arréter en glissant, percuter un arbre, tomber du ciel ou faire un tonneau et atterir sur un groupe de passants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shells that strike other objects when they crash typically take further damage from the collision (see Collisions).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les coques qui percutent d'autres objets lorsqu'elles s'écrasent prennent générallement des dégats supplémenataire suite à la collision (voir Collisions)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a shell crashes into or intentionally rams a person or object, someone is likely to get hurt.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si une coque s'écrase dans ou percute volontairement une personne ou un objet, quelqu'un sera blessé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To determine how much DV is inflicted, roll 1d10 and add the shell’s DUR divided by 10 (round up).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour déterminer la quantité de VD infligée, lancez 1d10 et ajoutez-y la SOL de la coque divisée par 10 (arrondit au supérieur).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is the damage applied at walking speeds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela représente les dommages infligés à la vitesse de marche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the shell was moving at running speeds, multiply the DV by 2.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si la coque se déplaçait à la vitesse de coruse, multipliez la VD par 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the shell was moving at chase speeds, multiply the DV by the shell’s velocity $$ 10 in meters per turn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si la coque se déplaçait à une vitesse de poursuite, multipliez la VD par la vitesse de la coque $$ 10 en mètres par tour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Both the shell and whatever it strikes suffer this damage, assuming the collision is with something equal dense and hard.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La coque et tout ce qu'elle percute subissent ces dégats, du moment que la collision a lieu vaec quelques choses équivalent en densité et en dureté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Soft and squishy objects like biomorphs will be less damaging to a shell (unless they happen to be in a hardsuit or battlesuit), in which case the shell will only suffer half damage from the collision.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les objets mous et déformable comem les biomoprhs feront moins de dégats à la coque (sauf si elles se trouvent dans une tenue rigide ou en armure de bataille), auquel cas la coque ne subira que la moitié des dommages suite à la collision.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Kinetic armor defends against crash DV.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les armures Cinétiques sont utilisées pour résister à la VD d'un crash.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If two moving shells collide head-on, calculate the damage from both and inflict to both.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si deux coques se percutent en face à face, calculez les dégats infligés par chacune d'elle et infligez les au deux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If two shells moving in the same direction collide, only count the difference in velocity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si deux coques qui se déplacent dans la même sens, se percutent ne prenez en compte que la différence de vitesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Passengers in a vehicle may also be damaged by collisions if they are not wearing proper safety restraints.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les passagers dans les véhicules peuvent aussi être endommagés apr les collisions si ils n'utilisent pas les mesures de sécurité correctes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They suffer one half the DV applied to their vehicle (less their own Kinetic armor).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils ne subissent que la moitié de la VD subie par leur véhciule (réduite de leur propre armure Cinétique).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{2}{|c|}{Collision damage}	</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{2}{|c|}{Dégats de Collision}	</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Base Collision DV</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>VD de Collision de Base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1d10 + (DUR $$ 10)	</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1d10 + (SOL $$ 10)	</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Running</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Course</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>DV $$ 2	</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>VD $$ 2	</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Chase Speeds</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vitesses de Poursuites</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>DV $$ (velocity $$ 10)	</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>VD $$ (vitesse $$ 10)	</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Attacking passenger vehicles}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Attaque des passagers des véhicules}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>During combat, passengers within a vehicle may be targeted separately from the vehicle itself.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pendant le combat, les passagers à l'intérieur d'un véhciule peuvent être ciblés séparément du véhicule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Attacks made against passengers this way do not harm the vehicle itself (unless an area effect weapon is used).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les attaques effectués contre les passagers de cette manière n'infligent aucun dégât au véhicule (à l'exception des armes à aire d'effet).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Targeted passengers benefit both from cover (usually Major, -30) and from the vehicle’s structure, adding the vehicle’s Armor Value to their own.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les passagers ciblés bénéficient à la fois d'un couvert (généralemennt Majeur, -30) et de la structure du véhciule, ajoutant l'Armure du Véhciule à la leur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Passengers within a vehicle are generally not harmed by attacks made against the vehicle itself.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les passagers à l'intérieur d'un véhciule ne sont généralement pas blessés par les attaques effectuées contre le véhciule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Area effect weapons are an exception to this rule, but in this case the passengers also benefit from the vehicle Armor Value.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les armes à aire d'effet sont une exception à cette règle, mais dans ce cas les apssagers bénéficient aussi de toute l'Armure du Véhicule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Shell remote control}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Coque contrôllées à distance}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any shell (or biomorph) with a puppet sock (also included with all cyberbrains) may be remote controlled, either by a character or a remote AI.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toute coque (ou biomorph) avect l'option marionnette (inclut dans tous els cybercerveaux) peut être contrôllée à distance, soit par un personnage soit par une IA distante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This requires a communications link between the teleoperator and the shell (the ``drone”).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela nécessite un lien de communication entre le téléopérateur et la coque (le &quot;drône&quot;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The teleoperator controls the drone via an entoptic interface, and receives sensory input and other data via the drone’s mesh inserts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le téélopérateur contrôlle le drône grâce à une interface entoptique, et reçoit les retour sensorielles et les autres données grâce à l'insert de mesh du drône.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When under direct control, the shell’s AI (or resident ego) is subsumed and put on standby.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque soumis à un contrôlle direct, l'IA (ou l'égo résident) de la coque est surchargé et mis en veille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The drone only acts as instructed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le drône n'agît que selon les instructiosn reçues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each instruction counts as a Quick Action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chauqe instruction coûte une Action Rapide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this situation, the drone acts with the same Initiative as the teleoperator.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dance cette situation, le drône agît avec la même Initiative que le téléopérateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The teleoperator’s skills and stats are used in place of the shell AI’s.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les compétences et stats du téléopérateur ont utilisés en lieu et place de ceux de l'IA de la coque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Due to the nature of remote operation, however, all tests are made with a -10 modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En raison de la nature des opérations distantes tous les tests sont cependant fait avec un modificateur de -10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Multiple drones may be controlled at once, but commanding them requires separate Quick Actions unless they are receiving the same command.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plusieurs drônes peuvent être contrôllés en même temps, mais leur donner des ordres nécessite une Action Rapide distincte à moins qu'ils ne reçoivent la même commande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Direct control teleoperation is not very feasible at extreme distances, due to the light-speed lag with communications.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le contrôle direct par téélopération 'est pas faisable sur des distances extrêmes, en raison de l'impact du décalage temporel sur les communications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alternately, the teleoperator can put the drone in autonomous mode, allowing the shell’s AI to resume normal operations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le téléopérateur peut également mettre led drœne en mode autonome, permettant à l'IA de le coque de reprendre sona ctivité normale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The drone still follows the teleoperator’s commands to the best of its abilities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le drône continue de suivre les ordres du téléopérateurs dans la mesure de ses capacités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this mode, the drone functions normally, using its own Initiative and AI skills and stats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce mode, le drœne fonctionne normalement, utilisant sa propre initiative et les compétences et stats de l'IA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Shell jamming}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Interception de  coque}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>``Jamming'' is the colloquial term for a more direct form of remote-control, using VR and XP technology.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'&quot;interception&quot; est le terme familier pour une forme plus directe de contrôle distant, en utilisant les technologies de RV et d'XP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When jamming, the drone’s puppet sock feeds the drone’s sensory data directly to the teleoperator’s mesh inserts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pendant l'interception, le port marionnette du drône alimente directement l'insert de mesh du téléopérateur en données sensorielles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The teleoperator subsumes themself in the drone’s sensorium, essentially ``becoming'' the drone.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le téléopérateur se surcharge au sensorium du drône, &quot;devenant&quot; le drône.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, the teleoperator surrenders control of their own morph, which slumps inertly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, le téléopérateur abandonne le contrôle de leur propre morph, qui devient inerte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While jamming, they suffer -60 on all Perception Tests or attempts to take action with their morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pendant qu'il intercepte, il subit un modificateur de -60 sur tous les Test de Perception ou sur toute tentative d'agir avec sa morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jamming takes a Complex Action to engage and disengage.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Intercepter nécessite une Action Complexe pour se connecter, et une autre pour se déconnecter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A jamming teleoperator controls a drone as if it were their own morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un téléopérateur intercepteur contrôle un drône comme si il était dans sa propre morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Like direct control teleoperation, the jammer’s own skills and Initiative are used in place of the drone’s AI.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme pour la téléopération en contrôle direct, les compétences et Initiative de l'intercepteur sont utilisées en lieu et place de l'IA du drône.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jammers do not suffer any teleoperation modifiers, but only one drone may be jammed at a time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'intercepteur ne subit atcun modificateur de téléopération, mais un seul drône peut être intercepté à la fois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the drone is killed or destroyed, the jammer is immediately dumped from their connection, resuming control of their own morph as normal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le drône est tué ou détruit, l'intercepteur est immédiatement éjecté de sa connexion, reprenant le contrôle de sa propre morph comme d'habitude.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Getting dumped in this manner is extremely jarring, not the least because the jammer experienced being killed/destroyed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Être éjecté de cette manière est extrêmement perturbant, au moins parce que l'intercepteur expérimente le fait d'être tué/détruit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a result, the jammer suffers 1d10 mental stress.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'intercepteur subit donc 1d10 points de stress mental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Called shots}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Tirs visés}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sometimes it’s not enough to just hit your target --- you need to shoot out a window, knock the knife out of their hand, or hit that hole in their armor.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Parfois il n'est pas suffisant de simplement toucher sa cible - vous devez tirer à travers une fenêtre, désarmer un adversaire ou tirer dans ce trou dans l'armure de votre cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may declare that you are making a called shot before you initiate an attack, choosing one of the outcomes noted below.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous devez déclarer que vous faites un tir visé avant de commencer votre attaque, en choisissant l'une des possibilités notées ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Called shots suffer a -10 modifier and require an Excellent Success (MoS 30+).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les tirs visés subissent un modificateur de -10 et nécessitent un Succès Exceptionnel (MdR 30+).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you beat that margin, you succeed with the called shot, and the results noted below apply.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous dépassez cette marge, vous réussissez votre tir visé et les résultats notés ci-sessous s'appliquent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you don’t beat the margin but still succeed in the attack, you simply strike your target as normal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous réussissez mais que vous ne dépassez aps la marge reuise, vous touchez votre cible de manière habituelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Bypassing armor}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Contourner l'armure}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Called shots may be used to target a hole or weak point in your opponent’s armor.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les tirs visés peuvent être utilisés pour cibler un trou ou une faiblesse dans l'armure de votre adversaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you beat the MoS, you strike an armor-defeating hit, and their armor does not apply.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous dépasez la MdR, vous obtenez un tir surclassant l'armure, et son armure ne s'applique pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that in certain circumstances, a gamemaster may rule that an opponent’s armor simply doesn’t have a weak spot or unprotected area, and so disallow such called shots.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que dans certaines circonstances, un maître de jeu peut décider que l'armure d'una dversaire n'a tout silmplement pas de point faible ou de zone non protégées, interdisant de tels tir visés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Disarming}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Désarmer}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may take a called shot to attempt to knock a weapon out of an opponent’s hand(s).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous pouvez effectuer un tir visé pour tenter de faire tomber une arme des mains de votre adversaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you beat the MoS, the victim suffers half damage from the attack (reduced by armor as normal) and must make a SOM $$ 3 Test with a -30 modifier to retain hold of the weapon.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous battez la MdR, la victime subit la moitié des dégats de l'attaque (réduit par l'armure comme d'habitude) et doit ensuite réussir un Test de SOM $$ 3 avec un modificateur de -30 pour conserver sa prise sur l'arme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Specific targeting}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Ciblage spécifique}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may make a called shot with the intention of hitting a specific location or component on your target --- for example: disabling the sensor unit on a bot, sweeping someone’s leg, or poking someone in the eye.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous pouvezeffectuer un tir visé dans le but de toucher un endroit spécifique ou un composant de votre cible - par exemple pour désactiver les senseurs d'un bot, balayer la jambe de quelqu'un ou taper dans l'œil d'une personne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you beat the MoS, you hit the specific targeted spot.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous battez la MdR, vous touchez le point spécifiquement visé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster determines the result as appropriate to the attack and target --- the component may be destroyed, the opponent may fall or be temporarily blinded, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maîþre de jeu détermine le résultat de manière appropriée à l'attaque et à la cible - le composant peut-être déteuit, l'adversaire peut tomber ou temporairement aveuglé, et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Charging}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Charger}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An opponent who runs and attacks an opponent in melee combat in the same Action Phase is considered to be charging.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un adversaire qui court puis attaque un adversaire au corps à corps dans la même phase d'Action est considéré comme chargeant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A charging attacker still suffers the -10 modifier for running, but they receive a damage bonus on account of their momentum: increase the damage they inflict by +1d10.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un attaquant charegant souffre toujours du modificateur de -10 pour la course, mais ils reçoivent un bonus de dégats grâce au moment cinétique engendré: augmentez les dommages infligés de +1d10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Receiving a charge}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Réceptionner une charge}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may delay your action (see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous pouvez retarder votre action (voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>189) in order to receive a charge, bracing yourself for impact, interrupting their action, and striking right before your charging does.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>189) afin de réceptionner une charge, vous préparant à l'impact, interrompant l'action et frappant juste avant que l'attaquant ne le fasse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this situation, you receive a +20 modifier for striking the charging opponent.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans cette situation, vous recevez un modificateur de +20 pour frapper l'adevrsaire qui vous charge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Demolitions}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Démolitions}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The most common use of the Demolitions skill is the placement, disarming, or manufacture of explosive devices, such as superthermite charges (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'utilisation la plus commune de la compétence Démolitions est le placemen t, le désarmement et la fabricatoin d'appareils explosifs, telels que les charges de superthermites (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>330) or grenades (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>330) ou les grenades (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Placing explosives}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Placer des explosifs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A skilled demolitionist can place charges in a manner that will boost their effect.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un démolisseur compétent peut placer des charges d'une manière qui va aigmnter leurs effets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They can identify structural vulnerabilities and weak points and focus a blast in these areas.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il peut identifier les vulnérabilité structurelle et les poinst faibles et concentrer une explosion sur ces zones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They can determine how to blast open a safe without destroying the contents.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il peut déterminer comment faire exploser un coffre sans end étruire le contenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They can focus the force of an explosion in a particular direction, increasing the directed force while minimizing splash effects.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il peut concentrer la force de l'explosion dans une direction aprticulière, augmentant la force dirigée tout en réduisant les effets de souffle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each of these scenarios calls for a successful Demolitions Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chacun de ces scénarios demande un Test de Démolitions réussi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The exact result is determined by the gamemaster according to the specific scenario.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le résultat exact est déterminé par le maître de jeu en fonction des spécificités du scénario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, using the examples above, targeting a weak point could double the damage inflicted on that structure.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, en utiliant les exemples ci-dessus, cibler un point faible peut doubler les dommages infligés sur cette structure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shaping the charge to direct the force can triple the damage in that direction, as noted in the superthermite description (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Modeler la charge pour orinter sa force peut tripler les dommages dans une direction, tel que noté dans la description de la superthermite (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An Excellent Success is likely to increase an explosive’s damage by +5, whereas a critical success would allow the blast to ignore armor.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un Succès Exceptionnel augmentera les dommages de l'explosif de +5, alors qu'un succès critique permettra à l'explosion d'ignorer l'armure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Disarming an explosive device is handled as an Opposed Test between the Demolitions skills of the disarmer and the character who set the bomb.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Désarmer un apapreil explosif est géré par un Test en Opposition entre les compétences Démolitions du démineur et de l'artificier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Making explosives}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Farbiquer des explosifs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character trained in Demolitions can make explosives from raw materials.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage entraîné dans la Démolitions peut fabriquer des explosifs à partir de matériau bruts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These materials can be gathered the traditional way or they can be manufactured using a nanofabricator.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces matériau peuvent être assemblés de manière traditionnelle ou être fabriqués en utilisant un nanofabeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even nanofabbers with restricted settings to prevent explosives creation can be used, as explosives can be constructed from all manner of mundane chemicals and materials.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même les nanofabeurs ayant des configurations restreintes pour empêcher la création d'explosifs peuvent être utilisés, les explosifs pouvant êtres construit de bien des manières différentes à aprtir de produits chimiques et de matériau inoffensifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The timeframe for making explosives is 1 hour per 1d10 points of damage the explosive will inflict.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'intervalle pour fariquer des explosifs est de 1 heure pour 1d10 points de dégat que l'explosif infligera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a critical failure is rolled, the demolitionist may accidentally blow himself up, or the charge may be extremely weaker or more potent than expected (whichever is more likely to be disastrous).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le démolisseur obtiens un échec critique, il peut se faire sauter accidentellement à moins que la charge ne soit extrêmement faible ou beaucoup plus puissante que prévu (quelle que soit al situation la plus désastreuse).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Falling}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Tomber}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a character falls, use the Falling Damage table to determine what injuries they suffer.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un personnage tombe, utilisez la table des Dégats de Chute pour déterminer quelles blessures il va subir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Kinetic armor will mitigate this damage at half its value (round down).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'armure cinétqiue absorbera les dégats en utilisant la moitié de sa valeur (arrondissez à l'inférieur).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gamemasters may also reduce this damage if anything helped to break the fall (branches, soft surface) at their discretion.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À la discrétion du maître de jeu, les dégats peuvent aussi être réduits si quelquechose ralenti la chute (branches, surface molles).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{2}{|c|}{Falling damage}	</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{2}{|c|}{Dégâts de chute}	</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Distance fallen</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Distance de chute</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Damage	</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dégâts	</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1-2 meters</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1-2 mètres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>3-5 meters</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>3-5 mètres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>6-8 meters</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>6-8 mètres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Over 8 meters</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plus de 8 mètres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>+1 per meter	</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>+1 par mètre	</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Fire}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Feu}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Objects that come into contact with extreme heat or flames may catch fire at the gamemaster’s discretion, keeping in mind both the flammability of the material and the strength of the heat/flames.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les objets qui entrent en contact avec une chaleur extême ou avec des flammes peuvent s'enflammer à la discrétion du maître de jeu, gardez à l'esprit à la fois le caractère inflammable de l'objet et la force de la chaleur/des flammes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Burning items (or characters) will suffer 1d10 $$ 2 (round up) damage each Action Turn unless otherwise noted.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les objets (ou les personnages) qui brûlent souffrent de 1d10 $$ 2 (arrondissez au supérieur) points de dégats à chaque Tour d'Action à moins que quelquechose d'autre ne soit précisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Energy armor will protect against this damage, though it too may catch fire, reducing its value by the damage inflicted.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les armures énergétiques vous protègerosn contre ces dommages, même si elles peuvent prendre feu, réduisant les dégats subit de leur valeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending on the environmental conditions, fires are likely to grow larger unless somehow abated.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Enf onction des conditions environnementalers, les feux ont tendance à grandir à moins que quelquechose ne cherche à le réduire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every 5 Action Turns, increase the DV inflicted (first to 1d10, then 2d10, then 3d10, then by increments of +5).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tous les 5 Tours d'Actions, augmentez la VD infligée (d'abord à 1d10, puis à 2d10, ensuite à 3d10 et enfin par incrément de +5).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Adverse conditions (such as rain) or efforts to extinguish the blaze will reduce the DV accordingly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des oncidtions défavorables (telels que la pluie) ou des efforts pour éteindre le foyer réduiront la VD de manière appropriée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that fire does not burn in vacuum.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que le feu ne brûle pas dans le vide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In microgravity, fire burns in a sphere and grows more slowly, as expanding gases push away the oxygen (increase the DV every 10 Action Turns).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En microgravité, le feu brûle dans une sphère et se développe plsu lentement, les gazs d'expansions éloignant l'oxygène (augmentez la VD tous les 10 Tours d'Actions).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If there is a lack of air circulation, some microgravity fires may extinguish themselves.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si il y a un manque de circulation d'air, des feux en microgravité peuvent s'éteindre d'exu-même.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Firing modes and rate of fire}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Modes de tir et cadence de tir}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every ranged weapon in Eclipse Phase comes with one or more firing modes that determines their rate of fire.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toute les armes à distance d'Eclipse Phase possèdent un ou plusieurs mode de tir qui détermine leur cadence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These firing modes are detailed below.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces modes de tirs sont détaillés ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Single shot(SS)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Coup par coup (CC)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Single shot weapons may only be fired once per Complex Action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les amres en coup par coup ne peuvent faire feu qu'une fois par Action Complexe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These are typically larger or more archaic devices.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce sont typiquement les armes els plus grosses ou les plus archaïques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Semi-automatic (SA)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Semi-automatique (SA)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Semi-automatic weapons are capable of quick, repeated fire.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les armes semi-automatiques sont capable de tri rapide et répétés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They may be fired twice with the same Complex Action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle peuvent effectuer deux tirs avec la même Action Complexe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each shot is handled as a separate attack.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque tir est considéré comme une attaque séparés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Burst fire (BF)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Tir en rafale (TR)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Burst fire weapons release a number of quick shots (a ``burst”) with a single trigger pull.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les amres qui peuvent tirer en rafales peuvent libérer plusierus tirs rapide (une &quot;rafale&quot;) avec une seule pression de la détente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Two bursts may be fired with the same Complex Action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Deux rafales peuvent être tirées avec la même Action Complexe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each burst is handled as a separate attack.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque rafale est gérée comem une attaque distincte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bursts use up 3 shots worth of ammunition.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les rafales tirent jusqu'à 3 munitions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A burst may be shot against a single target (concentrated fire), or against two targets who are standing within one meter of each other.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une rafale peut être tirée sur une seule cible (tir concentré) ou contre deux cibles écartées de moins d'un mètre l'une de l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the case of concentrated fire against a single target, increase the DV by +1d10.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En ca de tir concentré contre une seule cible, augmenéte la VD de +1d10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Full Automatic (FA)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Tir Automatique (TA)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Full-auto weapons release a hail of shots with a single trigger pull.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les armes automatiques peuvent libérer une grêle de tirs avec une seule pressions sur la gachette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only one full-auto attack may be made with each Complex Action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une seule attaque en tir automatique ne peut être fait avec chaque Action Complexe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This attack may be made a single target or against up to three separate targets, as long as each is within one meter of another.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cetet attaque peut être effectuée sur une à trois cibles différentes, tant qu'elles ne sont pas éloignées de plus d'un mètre l'une de l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the case of a concentrated fire on a single individual, increase the DV by +1d10 + 10.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans le cas d'un tir concentré sur une seule cible, augmentée la VD de +1d10 +10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firing in full automatic mode uses up 10 shots.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tirer en automatique utilise 10 munitions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Full defense}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Défense Totale}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you’re expecting to come under fire, you can expend a Complex Action to go on full defense.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous vous attendez à être sous le feu, vous pouvez dépenser une Action Complexe pour apsser en défense totale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This represents that you are expending all of your energy to dodge, duck, ward off attacks, and otherwise get the hell out of the way until your next Action Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela représente le fait que vous dépensez toute votre énergie à esquiver, plonger, à parer les attaques et de manière générale à vous sortir de là jusqu'à votre prochaine Phase d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>During this time, you receive a +30 modifier to defend against all incoming attacks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pendant ce temps, vous recevez un modificateur de +30 pour vous défendre contre les attaques en cours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters who are on full defense may use Freerunning rather than Fray skill to dodge attacks, representing the gymnastic movements they are making to avoid being hit.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages qui sont en défense totale peuvent utilsier leur compétence Parkour au lieu de leur compétence Esquive pour esquiver les attaques, représentant les mouvements acrobatiques qu'ils font pour éviter d'être touchés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Gravity}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Gravité}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most characters in Eclipse Phase have considerable experience maneuvering in low gravity or microgravity and can perform normal actions without penalties.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupaert des personnages dans Eclipse Phase ont une expérience importantes des manœuvres en faible ou micro gravité et peuvent y effectuer des actiosn normales sans pénalités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even characters who grew up on planetary bodies or in rotating habitats have some familiarity with alternate gravities thanks to childhood training in simulspace educational scenarios.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même les personanges qui ont grandit sur un corps planétaires ou dans des habitats tournant sont relativement familier aves le gravités alternatives grâce aux entraînements dans les systèmes éducatifs en simulspace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The same is also true in reverse; characters who grew up in free fall have likely experienced simulations of life in a gravity well.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La même chsoe est également vraie dans l'autre sens; les personnages qui ont grandit en chute libre ont vécus des simulations de la vie dans un puit gravitationnel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the gamemaster’s discretion, characters who have spent long periods acclimating to one range of gravity may find a shift in conditions a bit challenging to cope with, at least until they grow accustomed to the new gravity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À la discrétion du maître de jeu, les personnages qui ont passé de lingue périodes à s'acclimater à un type de gravité peuvent avoir du mal à s'habituer à un changement de gravité, au moins jusqu'à ce qu'ils se soient habitués à la nouvelle gravité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, the gamemaster can apply a -10 modifier to both physical and social skills.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, le maître de jeu peut appliquer un modificateur de -10 aux compétences sociales et physiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The physical penalty results from simple difficulties in maneuvering.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La pénalité physique est la résultante des difficultés à manœuvrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The social penalty applies because it’s hard to look impressive, intimidating, or seductive when you haven’t figured out how to arrange your clothes so that they don’t float up into your face.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La pénalité sociale s'appliquent parcequ'il est difficile d'avori l'air impressionant, intimidant ou séduisant lorsque vous n'avez pas trouvé comment arranger vos habits pour qu'ils ne flottent pas devant vos yeux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The physical penalty can be increased to -20 for situations involving combat skills and skills requiring fine manipulation, building, or repairing of items.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La pénalité physique peut être augmentée à -20 pour les situatiosn impliquant des compétences de combat et des compétences nécessitants la manipulation rpécise, la construction ou la réparation d'objets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These penalties will apply until the character adjusts, which typically takes about 3 days.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces pénalités s'aplliquent jusqu'à ce que le personnage finisse par s'adpater, généralement en 3 jours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any biomorph with basic biomods (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toute biomorph ayant les biomods de bases (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>300) is immune to ill health from the effects of long-term exposure to microgravity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>300) est immunisée au mal de l'espace et des effets de l'exposition à long-terme à la micro-gravité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Microgravity}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Microgravité}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Microgravity includes both zero-G and gravities that are slightly higher but negligible.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La microgravité inclut les environnements zéro-G ainsi que ceux qui ont une gravité légèrement plus élevée mais négligeable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These conditions are found in space, on asteroids and some small moons, and on (parts of) spaceships and habitats that are not rotated for gravity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces conditions sont trouvés dans l'espace, sur les astéroïdes et les petites lune ainsi que sur (une aprtie) des vaisseaux et habitats qui ne tournent pas pour générer de la gravité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Objects in microgravity are effectively weightless, but size and mass are still factors.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les objets en microgravité n'ont pas de poids, mais leur taile et leur masse sont toujours des facteurs à considérer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Things behave differently in microgravity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les choses se comportent différement en microgravité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example:</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Objects not anchored down will tend to drift off in whatever direction they were last moving.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les objets qui ne sont pas attachés ont tendance à dériver dans la direction de leur dernier déplacement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Floating objects will eventually settle in the direction of the densest part of the habitat or spacecraft.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les objets flottants peuvent éventuellement se diriger vers la aprtie la plus dense de l'habitat ou du vaisseau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> Thrown or pushed items will travel in a straight line until they hit something.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Les objets lancés ou poussés vont voyager en ligne droite jusqu'à ce qu'ils percutent quelque chose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> Smoke does not rise in streams.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> La fumée ne s'élève pas en un flot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Instead, it forms a roughly spherical halo around its source.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle forme plutôt des halos vaguement sphérique autour de leur source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> Liquids have little cohesion, scattering into clouds of tiny droplets if released into the air.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Les liquides n'ont que peu de cohésion, se répandant en nuage de petites gouttes si ils sont libérés dans l'air.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Drinks come in sealed bulbs or bottles.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les boissions sont préparés dans des ampoules ou des bouteilles scellés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Food is eaten so that sauces and bits of liquid don’t escape.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La nourriture est mangée d'une manière qui empêches les sauces et les parties liquide de s'échapper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Blood goes everywhere.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le sang se propage partout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Movement and maneuvering in microgravity is handled using Free Fall skill (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Se déplacer et manœuvrer en microgravité est géré par la compétence Shute Libre (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most everyday activity in free fall does not require a test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des activités quotidienne en chute libre ne nécessite pas de test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster can, however, call for a Free Fall Test for any complicated maneuvers, flying across major distances, sudden changes in direction or velocity, or when engaged in melee combat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu peu cependant demander un test de Chute Libre pour toute les manœuvre complexes, voler à travers de grandes distances, changer brutalement de direction ou de vitesse ou pour le combat au contact.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A failed roll means the character has miscalculated and ends up in a position other than intended.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un échec signifie que le personnage a mal caculé sa trajectoire et termine dans une poistion qui n'était pas celle voulue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A Severe Failure means the character has screwed up badly, such as slamming themselves into a wall or sending themselves spinning off into space.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un Échec Catastrophique signifie que le personnage s'est complètement planté, se fracassant dans un mur ou s'éjectant dans l'orbite en tourbillonant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For convenience, most microgravity habitats feature furniture covered with elastic loops, mesh pockets to keep individual objects from floating all over the place, and moving beltways with hand loops for major thoroughfares.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour faciliter les choses, la plupart des habitats en microgravité ont des meubles recouvert de sangles élastiques et sont maillés de poches pour empêcher les objets de flotter dans tous els sens, ainsi que des bandes périphériques mobiles équipées de poignées le long des principales voies de circulations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Magnetic or velcro shoes are also used to walk around, rather than climbing or flying.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les chaussures magnétiques ou à velcro sont également utilisée pour se promener plutôt que d'escalader ou de voler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Zero-g environments are often designed to make maximum use of space, however, taking advantage of the lack of ceilings and floors.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les environnements en zéro-g sont souvent conçus pour utiliser l'espace au maximum et tirent parti de l'absence de plafonds et de planchers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Because object are weightless, characters can move even massive objects around easily.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme les objets n'ont pas de poids, les personnages peuevnt même déplacer facilement des objets massifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Movement Rate: Characters who are climbing, pulling, or pushing themselves along move at half their movement rate (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Allure: Les personnages qui grimpent, tirent ou se propulsent eux-même se déplace à la moitié de leur allure (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>191) in microgravity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>191) en microgarvité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Terminal Velocity: It is not difficult to reach escape velocity on small asteroids and similar bodies- something to keep in mind with thrown objects and projectile weapons.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vitesse Terminale: Il n'est pas difficile d'atteindre la vitesse d'échappement sur les petits astéroïdes et les corps similaires - c'est quelque chose qu'il faut garder en tête avec les objets lancés et les armes à projectile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In some cases, characters who move fast enough and jump can reach escape velocity themselves, though these situations are left up to the gamemaster.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans certains cas, les personnages qui se déplacent suffisament rapidement et qui sautent peuvent atteindre la vitesse d'échappement, bien que ces situations soient laissées à l'appréciation du maître de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Low gravity}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Faible gravité}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Low gravity includes anything from 0.5 g to microgravity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La faible gravité inclut tout ce qui va de 0,5g à la microgravité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These conditions are found on Luna, Mars, Titan, and the rotating parts of most spun spacecraft and habitats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>On trouve ces conditions sur la Lune, sur Mars, sur Titan et sur les parties rotatives de la plupart des vaisseuax et habitats tournant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Low gravity is not that different from standard gravity, though characters may jump twice as far and thrown/projectile objects have a longer range (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le faible gravité n'est pas trés différente de la gravité standard, bien que les personanges peuvent sauter deux fois plus loin et que les projectiles et objets lancés ont une portée plus longue (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Increase the running rate for characters in low gravity by x1.5.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Augmenter l'allure de course des personnages en faible gravité de x1,5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{High gravity}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Gravité élevée}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>High gravity is anything significantly stronger than standard Earth gravity (1.2 g +).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La gravité élevée est tout ce qui est significativement plus élevée que la gravité Terrestre standard (1,2g et plus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>High gravity in Eclipse Phase is typically only found on exoplanets.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La gravité élevée à Eclipse Phase n'existe typiquement que sur les exoplanètes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>High gravity can be particularly hard on characters as their bodies are strained because they carry more weights, muscles are fatigued from needing to push more around, and the heart must work harder to pump blood.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La gravité élevée peut être particvulièrement dure pour les personnages, leur corps étant soumis à des contraintes plus élevés en raison du poids plus important, les muscles se fatiguent à cause de la poussée supplémentaire nécessaire pour se déplacer et le cœur doit battre plsu fort pour envoyer le sang aprtout dans l'organisme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For every 0.2 g over 1 that a character is not acclimated to, treat it as if the character is suffering from the effects of 1 wound.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour tous les 0,2g au delà de 1 pour lequel un personnage 'nest pas acclimaté, considéré que le prsonnage souffre des effets d'1 blessure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the gamemaster’s discretion, movement rates may also be modified.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A la discrétion du maîþre de jeu, les allures de déplacement peuvent également être modifiées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Modern grenades, seekers, and similar explosives do not necessarily detonate the instant they are thrown or strike the target.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les grenades, amres à tête chercheurse et explosifs simialire moderne ne détonnent pas forcément au moment où ils sont lancés ou lorsqu'ils touchent leur cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In fact, several trigger options are available, each set by the user when deploying the weapon.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fait, plusieurs options de déclenchement sont disponible, chacune configurée par l'utilisateur lorsqu'il déploit l'arme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Missed attacks, or attacks that do not explode in transit or when they strike, are subject to scatter (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les attaques ratées ou celles qui n'explsoent ni pendant le trajet ni à l'impact, sont sujettes à la dispersion (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Airburst: Airburst means that the device explodes in mid-air as soon as it travels a distance programmed at launch.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Explosion aérienne: l'explosion aérienne signifie que l'appareil explose en l'air dés qu'il a parcouru une distance programmée au lancement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, the explosive’s effects are resolved immediately, in that user’s Action Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, les effets de l'exposion sont résolu immédiatement, lors de cette Phase d'Action de l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that airburst munitions are programmed with a safety feature that will prevent detonation if they fail to travel a minimum precautionary distance from the launcher, though this can be overridden.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que les munitions à explosion aérienne sont programmées avec une sûreté qui empéchera la détaonation si elles n'arrivent pas à parcourir une distance minimale de précuation depuis le lanceur, bien que ceci puisse être contourné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Impact: The grenade or missile goes off as soon as it hits something, whether that be the target, ground, or an intervening object.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Impact: La grenade ou le missile explose aussitôt qu'il touche quelque chose, que ce soit la cible, le sol ou un objet interrompant la trajectoire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Resolve the effects immediately, in the user’s Action Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Résolvez les effets imméditament, lors de cette Phase d'Action de l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Signal: The munition is primed for detonation upon receiving a command signal via wireless link.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Signal: La munition est préparée pour détonner lorsqu'elle reçoit un signal de commande par un lien sans-fil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The device simply lays in wait until it receives the proper signal (which must include the cryptographic key assigned when the grenade was primed), detonating immediately when it does.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'appareile reste simplement en attente jusqu'à ce qu'il reçoive le signal correct (qui doit inclure la clef de chiffrement qui lui a été assigné lorsque la grenade a été préparée), détonnant immédiatement lorsqu'il le reçoit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Timer: The device has a built-in timer allowing the user to adjust exactly when it detonates.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Minuteur: l'appareil possède un miniteur inerne permettant à l'utilisateur de régler précisément le moment de la détonnation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This can be anywhere from 1 second to days, months, or even years later, effectively using the device like a bomb, but also increasing the likelihood it will be discovered and neutralized.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela peut-être n'improte quand entre 1 seconde et plusieurs jours, mois ou années plus tard, transformant dans les fait l'appareil en bombe, mais augmentant également la probabilité qu'il soit découvert et neutralisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The minimum detonation period-1 second-means that the munition will detonate on the user’s (current) Initiative Score in the next Action Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La période dee détoantion minimale - 1 seconde- fait que la munition explosera avec le Score d'Initiative (actuel) de l'utilsiateur lors de la prochaine Phase d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A 2-second delay would last two Action Phases, a 3-second delay three Action phases, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un délai de 2 seconde durera deux phases d'Actions, un délai de 3 seconde dure trois Phases d'Action et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Throwing back grenades}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{RRenvoyer les grendades}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is possible that a character may be able to reach a grenade before it detonates and throw it back (or away in a safe direction).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il est possible qu'un personnage soit capable d'atteindre une grande avant qu'elle n'explose et qu'il al relance à son expéditeur (ou qu'il l'envoie au lieu, dans une direction sûre).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character must be within movement range of the grenade’s location, and must take a Complex Action to make a REF + COO + COO Test to catch the rolling, sliding grenade.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage doit être à portée de mouvement de la localisation de la grenade, et doit dépenser une Action Complexe pour tenter un test de REF + COO + COO pour attraper la grenade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If they succeed, they may throw the grenade off in a direction of their choice with the same action (treat as a standard throwing attack).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si il réussit, il peut relancer al grenade dans la direction de son choix avec la même action (considérez l'action comme une attaque de lancer standard).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character fails the test, however, they may find themselves at ground zero when it detonates.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le eprsonnage rate le test il peut cependant se trouver à l'épicentre de l'explosion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Jumping on}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Sauter sur l'explosion}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Given the possibility of resleeving, a character may decide to take one for the team and throw themselves on a grenade, sacrificing themselves in order to protect others.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Étant donné les possibilités offertes par la réincarnation, un personnage peut décider de se sacrifier pour l'équipe et de se jetter sur une grenade, se sacrifiant dans le but de protéger les autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character must be within movement range of the grenade’s location, and must take a Complex Action to make a REF + COO + WIL Test to fall on the grenade and cover it with their morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage doit être à portée de mouvement de la localisation de la grenade, et doit dépenser une Action Complexe pour tenter un test de REF + COO + VOL pour sauter sur la grenade et la recouvrir avec sa morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This means the character suffers an extra 1d10 damage when the grenade detonates.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela implique que le personnage subisse 1d10 de dégats supplémentaire lorsque la grenade explose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On the positive side, the grenade’s damage is reduced by the sacrificing character’s armor + 10 when its damage effects are applied to others within the blast radius.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le côté positif est que les dégats de la grenade sont réduits par l'armure du eprsonnage +10 lorsque ses effets sont appliqués aux autres dans le rayon de l'explosion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the gamemaster feels it appropriate, a WIL $$ 3 Test might be called for in order for a character to sacrifice themselves in this manner.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le maîþre de jeu pense que c'est approprié, un Test de VOL $$ 3 peut être demandé pour qu'un personnage se sacrifient de cette manière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Hostile environments}  The solar system might be friendly to life on a grand scale, but if you’re stranded in the gravity well of Jupiter during a magnetic storm, trying to breathe without a respirator on Mars, or swimming in hard vacuum without a space suit, it doesn’t seem so friendly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Environnements hostiles}  Le système solaire a beau être un point de départ idéal pour le développement de la vie, si vous vous retrouvez coincé dans le puits gravitationnel de Jupiter pendant une tempête magnétique, que vous essayer de respirer sans filtre sur Mars ou que vous essayez de nager dans le vide sans combinaison spatiale, il ne semble plus aussi amical.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This section describes a few of the hostile environments that characters in Eclipse Phase might face.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette section décrit quelques uns des environnements hostiles auquel les personnages d'Eclipse Phase pourraient bien avoir à faire face.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Atmospheric contamination}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Contamination atmosphérique}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Habitats sometimes fall ill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les habitats tombent parfois malades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The effects of a habitat suffering from ecological imbalance or out-of-control pathogens can range from mildly allergenic habitat atmospheres to rampaging environmental sepsis.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les effets d'un habitat souffrant d'un déséquilibre écologique ou de pathogène hors de contrôle peuvent aller des atmosphères légèrement allergène aux infections environnementales dévastatrice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters without breathing or filtration gear in a contaminated environment should suffer penalties to physical and possibly social skills, ranging from -10 (mild contamination) to -30 (severely septic atmosphere).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les personnages sans système de respiration ou de filtration dans les environnements contaminés devraient subir des pénalités aux compétences physiques et, probablement, sociale allant de -10 (allergie légère) à -30 (atmosphère sévèrement infecté).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending on the contamination, other effects may apply, as the gamemaster sees fit.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fonction de la contamnination, d'autres effets peuvent également s'appliquer en fonction des souhaits du maître de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Extreme heat and cold}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Températures extrêmes}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Planetary environments can range from the extremely hot (Venus, Mercury’s day side) to the extremely frigid (Neptune, Titan, Uranus).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les environnements planétaires varient de l'etrêmement chaud (Vénus, face ensolleillée de Mercure) à l'extrêmement froid (Neptune, Titan, Uranus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Both are likely to kill an unprotected and unmodified biomorph within minutes, if not seconds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les deux sont capables de tuer une biomorph non protégée et non adaptée en quelques minute, voire quelques secondes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Synthmorphs and vehicles fare better, especially in the cold, but even they are likely to quickly succumb to the blazing furnaces of the inner planets without strong heat shields and cooling systems.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les synthmorpsh et les véhicules s'en sortent mieux, particulièrement dans le froid, mais même eux ont des chances de rapidement succomber aux fournaises flamboyantes des planètes intérieures sans de gros boucliers thermique et des systèmes de refroidissements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Extreme pressure}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Pression extrême}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Similarly, the atmospheric pressures of Jupiter, Saturn, and Venus quickly become crushingly deadly anywhere beyond the upper levels.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, la presison atmosphérique de Jupiter, Saturne et vénus devient rapidement mortellement écrasante après les premiers niveaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only synthmorphs and vehicles with special pressure adaptations can hope to survive such depths.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Seuls les synthmorphs et les véchicules adaptés pour ces pressions extrêmes peuvent espérer survivre à de telles profondeurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Gravity transition zones}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Zones de transition gravitationnelle}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The widespread use of artificial gravity in space habitats means that characters will often encounter places where the direction of down suddenly changes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>l'usage important de la gravité artificielle dans les habitats spatiaux signifie que les personnages rencontrerons souvent des endroits où la direction du bas change brutalement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In most rotating habitats, the standard design includes an axial zone where spacecraft can dock in microgravity and a carefully designed and marked transition zone (usually an elevator) where people and cargo coming and going from the axial spaceport can orient to local ``down'' and be standing in the right place when gravity takes effect.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans la plupart des habitats rotatifs, la conception standard incluent une zone axiale où les vaisseaux spatiaux peuvent s'arrimer en microgravité et une zone de transition balisée et minutieusement concçues (géénralement un ascensseur) dans lqeulle els personnes et les cargaisons allant et venant vers le spatioport axial peuvent s'orienter vers le &quot;bas&quot; local et se tenir au bon endroit lorsque la gravité prend effet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gravity transitions in rotating habitats are almost always gradual but can be very dangerous if a character encounters them in the wrong place or time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les transitions gravitationnelle dans les habitats sont rpesque toujours graduelles mais peuvent être extrêmement danegreuses si un personnage les franchit en étant au mauvais endroit au mauvais moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character cast adrift in the microgravity zone at the axis of a rotating space habitat will slowly drift outward until they begin to encounter gravity, at which point they will fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage qui se retrouve à dériver dans la zone de microgravité axiale d'un habitat spatial rotatif va dériver lentement vers l'extérieur jusqu'à ce qu'il commence à subir la gravité, moment à partir duqeul il tombera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How long this takes varies on the size of the habitat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le temps que prends ce phénomnèe varie en fonction de la taille de l'habitat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A good rule of thumb is that for each kilometer of diameter possessed by the habitat, the character has 30 seconds before they begin to fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une bonne règle de base est que pour chaque kilomètre de diamètre de l'habitat, le personnage a 30 seconde avent de commencer à tomber.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character was given a good push out from the axis when set adrift, this time should be halved, quartered, or more at the gamemaster’s discretion.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le personnage a reçu une bonne poussée hors de l'axe lorsqu'il a commencé à dériver, ce temps devrait être divisé par deux, quatre ou plus, à la discrétion du maîþre de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Magnetic fields}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Champs magnétiques}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Magnetism isn’t a direct problem for most characters; transhumans need to worry more about the radiation generated by a powerful magnetosphere.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le magnétismen'est pas un problème direct pour la plupart des personnages; les transhumains n'ont pas besoin de s'inquiéter des radiations générées par une magnétosphère puissante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For unshielded electronic devices and similarly unshielded transhumans sporting titanium, however, the effects of strong magnetic fields can be devastating.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour les appareils électroniques non blindés et les transhumains non protégés arborant du titanium les effets des champs magnétiques puissants peuvent être dévastateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that many of the conditions that result in vehicles, bots, and gear being exposed to strong magnetic field activity coincide with strong radioactivity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que la plupart des problèmes réusltatnts de l'expositions des véhicules, du matériel et des bots à une forte activité magéntique coincide avec une radioactivité élevée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Magnetic fields affect synthmorphs, robots, vehicles, cybernetic implants, and electronics after 1 minute of exposure.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les champs magnétiques affectent les synthmorphs, les robots, les véhicules, les implants cybernétiques et l'électronique après 1 minute d'exposition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Like radiation exposure, these effects can vary drastically.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme l'exposition aux radiations, ces effets peuvent varier de manière radicale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the low end, communication and sensors will suffer interference and shortened ranges; at high ends, electronic systems will simply suffer damage and fail.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au minimum, les communications et les capteurs souffrirontd 'interférence et de portée réduite: au maximum, les systèmes électoniques vont simplement subir des dégâts et tomber en panne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ionizing radiation is one of the more prevalent hazards in the solar system and one of the most difficult problems for transhumanity to defeat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les radiations ionisantes sont l'un des dangers les plus fréquemments rencontrés dans le système solaire et l'un de sproblèmes les plus difficiles à vaincre pour la transhumanité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Radiation damages genetic material, sickens, and kills by ionizing the chemicals involved in cell division within the human body.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les radiations abîment les matériaux génétiques, rendent malades et tuent en ionisant les composés chimiques impliqués dans la division cellullaire à l'intérieur du corps humain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Effects range from nausea and fatigue to massive organ failure and death.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les effets s'étendent la nausée et la fatigue à des défectiosn d'organes massives et la mort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, radiation sickness is not solely a somatic phenomenon.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les maladies radiactives ne sont pas qu'un phénomène somatique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The real terror of radiation for transhumans, especially at high dose levels such as those experienced on the surface of Ganymede and other Jovian moons, is damage to the neural network.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La véritable terreur des radiations pour les transhumains, particulièrement ceux aux niveaux de dosage ls plus élevés tels qu'à la surface de ganylède ou d'autres lunes Jovienne, sont les dommages aux réseaux de neurones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This can lead to flawed uploads and backups.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela peu amener à des uploads et des sauvegardes buguées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nanomedicine that can rapidly reverse the ionization of cellular chemicals and new materials that offer thinner and better shielding help, but the sheer magnitude of the radiation put out by some bodies in the solar system defeats even these.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La nanomédecine peut rapidement inverser l'ionisation des composés cellullaire et les nouveaux matériaux permettant une protection plus fine et de meilleru qualité aident, mais la simple magnitude de la radiation émise par certains corps dans le système solaire surapsse même ces derniers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Radiation poisoning is a complicated affair, and detailed rules are beyond the scope of this book.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'empoisonnemetn par radioations est uen affaire complexe, et des règles détaillées sont hors du spectre de ce livre.</seg>
       </tuv>
     </tu>
     <tu>
