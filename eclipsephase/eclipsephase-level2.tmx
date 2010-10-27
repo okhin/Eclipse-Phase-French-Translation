@@ -23726,10 +23726,42 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Armor</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Armure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Flight</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Vol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Weapons</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Armes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Damage value (DV)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Valeur de dégats (VD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Average DV</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>VD moyenne</seg>
       </tuv>
     </tu>
     <tu>
@@ -23746,6 +23778,22 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>{Grenades et têtes chercheuses}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AP</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>PA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Durability</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Solidité</seg>
       </tuv>
     </tu>
     <tu>
@@ -25777,7 +25825,7 @@
         <seg>Throwing Weapons</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Armes de Lancer</seg>
+        <seg>Armes de Jet</seg>
       </tuv>
     </tu>
     <tu>
@@ -41601,7 +41649,7 @@
         <seg>&lt;u5&gt; Margin of Success of 30+ is an Excellent Success.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;u5&gt; Une Marge de Réussite de 30+ est un Succès Exceptionnel.</seg>
+        <seg>&lt;u5&gt; Une Marge de Réussite de 30+ est une Réussite Exceptionnel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49105,7 +49153,7 @@
         <seg>Excellent Success:&lt;/i0&gt; If the attacker rolled an Excellent Success (MoS of 30+), a solid hit is struck.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Success Execeptionnel:&lt;/i0&gt; Si l'attaquant obtient un Succès Exceptionnel (MdR de 30+), une frappe solide est infligée.</seg>
+        <seg>Réussite Execeptionnelle:&lt;/i0&gt; Si l'attaquant obtient un Succès Exceptionnel (MdR de 30+), une frappe solide est infligée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49369,7 +49417,7 @@
         <seg>The assassin also scored an Excellent Success with a MoS of 55, increasing the DV by +5.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>L'assassin a également obtenu un Succès Exceptionnel avec une MdR de 55, augmentant sa VD de +5.</seg>
+        <seg>L'assassin a également obtenu une Réussite Exceptionnelle avec une MdR de 55, augmentant sa VD de +5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51465,7 +51513,7 @@
         <seg>Called shots suffer a -10 modifier and require an Excellent Success (MoS 30+).</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Les tirs visés subissent un modificateur de -10 et nécessitent un Succès Exceptionnel (MdR 30+).</seg>
+        <seg>Les tirs visés subissent un modificateur de -10 et nécessitent une réussite Exceptionnelle (MdR 30+).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51729,7 +51777,7 @@
         <seg>An Excellent Success is likely to increase an explosive’s damage by +5, whereas a critical success would allow the blast to ignore armor.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Un Succès Exceptionnel augmentera les dommages de l'explosif de +5, alors qu'un succès critique permettra à l'explosion d'ignorer l'armure.</seg>
+        <seg>Une Réussite Exceptionnelle augmentera les dommages de l'explosif de +5, alors qu'un succès critique permettra à l'explosion d'ignorer l'armure.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53090,6 +53138,958 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>L'empoisonnemetn par radioations est uen affaire complexe, et des règles détaillées sont hors du spectre de ce livre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sources of radiation include the Earth’s Van Allen belt, Jupiter’s radiation belt, Saturn’s magnetosphere, cosmic rays, solar flares, fission materials, unshielded fusion or antimatter explosions, and nuclear blasts, among others.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les sources de radiations incluent entre autres la ceinture Van Allen de la Terre, la ceinture radiocative de Jupiter, la magnétosphère de Saturne, les rayons cosmiques, les éruptions solaires, les matériaux fissibles, les explosions de fusion ou d'antimatière non protégée et les explosions nucléaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Effects can vary drastically depending on the strength of the source, the amount of time exposed, and the level of shielding available.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les effets peuvent varier drastiquement en fonction de la force de la source, le temps d'exposition et le niveau de protection disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The immediate effects on biomorphs (manifesting anywhere from within minutes to 6 hours) can include nausea, vomiting, fatigue (reduced SOM), as well as both physical damage and minor amounts of mental stress.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les effets immédiats sur les biomorphs (mettant de quelques minutes à 6 heures pour apparaître) incluent les nausées, les vomissements, la fatigue (SOM réduite) ainsi que des dégats physique et un faible montant de stress mental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is followed by a latency period where the biomorph seems to get better, lasting anywhere from 6 hours to 2 weeks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette phase est suivi d'une période qui ressemblant à une rémission, durant de 6 heures à 2 semaines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>After this point, the final effects kick in, which can include hair loss, sterility, reduced SOM and DUR, severe damage to gastric and intestinal tissue, infections, uncontrolled bleeding, and death.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Après cette étape, la phase terminale démarre, ce qui peut inclure une perte de pillosité, la stérilité, une SOM et une SOL réduites, des dommages importants aux tissus intestinaux et gastriques, des infections, des hémorragies incontrôlées puis la mort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Synthmorphs are not quite as vulnerable as biomorphs, but even they can be damaged and disabled by severe radiation dosages.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les synthmorphs ne sont pas aussi vulnérable que les biomorphs, mais elles peuvent être endommagées et handicapées par de trés fortes doses de radiations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Toxic atmosphere}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Atmosphère toxique}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Neptune, Titan, Uranus, and Venus all have toxic atmospheres.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Neptune, Titan, Uranus, et Vénus ont toutes des atmosphères toxiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Similar atmospheres may be found on some exoplanets, or might be intentionally created as a security measure within a habitat or structure.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des atmosphères similaires peuvent être trouvées sur certaines exoplanète, ou avoir été intentionnellement créée comme mesure de sécurité dans un habitat ou une structure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character who is unaware of atmospheric toxicity and does not immediately hold their breath (requiring a REF $&lt;u0&gt;$ 3 Test) suffers 10 points of damage per Action Turn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage qui ignore la toxicité de l'atmosphère et qui ne retiens pas immédiatement sa respiration (nécessitant un Test de REF $&lt;u0&gt;$ 3) subit 10 points de dégats par Tour d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character who manages to hold their breath can last a bit longer; apply the rules for asphyxiation (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage qui aprvient à retenir sa repsiration peut tenir un peu plus longtemps; appliquez les règles d'asphixie (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Corrosive Atmospheres:&lt;/i0&gt; In addition to being toxic, Venus has the only naturally occurring corrosive atmosphere in the system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Atmosphères Corrosive:&lt;/i0&gt; En plus d'être toxique, l'atmosphère de Vénus est la seule natturelement corrosive dans le système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Corrosive atmospheres are immediately dangerous: characters take 10 points of damage per Action Turn, regardless of whether they hold their breath or not.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les amtopshères corrosives sont immédiatement dangereuse: les personnages subissent 10 points de dégats par Tour d'Action, peu importe qu'ils retiennent leur respiration ou pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Corrosive atmospheres also damage vehicles and gear not equipped with anticorrosive shielding.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les atmosphères corrosives endommagent également les véhicule et l'équipement ne disposant pas de protection anticorrosive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Such items take 1 point of damage per minute.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De tels objets subissent 1 points de dégat par minute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At greater concentrations, such as in the dense sulfuric acid clouds in the upper atmosphere of Venus, items takes 5 points of damage per minute.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Avec des concentrations plsu élevée, telles que dans les nuages denses d'acide sulfurique de la haute atmosphère Vénusienne, les objets subissent 5 points de dégats par minute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Unbreathable atmosphere}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Atmosphère irrespirable}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Very few of the planetary bodies in the solar system actually have toxic atmospheres.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De très rare corps planétaire dans le système solaire ont réellement des atmosphère toxiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In most unbreathable atmospheres, the primary hazard for transhumans without breathing apparatus or modifications to their morph is lack of oxygen.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans la plupart des atmosphère irrespirable, le danger principal pour les transhumains ne possédant pas les modifications ou le système respiratoire nécessaire est le manque d'oxygène.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Treat exposure to unbreathable atmospheres the same as asphyxiation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Coinsidérez l'exposition à une atmosphère irrespirable de la même manière que l'asphyxie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Underwater}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Sous l'eau}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In general, any physical skill performed underwater suffers a -20 penalty due to the resistance of the medium.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En général, toute compétence physique utilisée sous l'eau subit une pénalité de -20 en raison de la résistance du milieu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Skills relying on equipment not adapted for underwater use may be more difficult or impossible to use.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les compétences reposant sur l'équipement non adapté à l'utilisation sous-marine peuevent être encore plus difficile voire impossible à utiliser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character’s movement rate while swimming or walking underwater is one quarter their normal rate on land.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'allure d'un personnage en angeant ou en marchant sous l'eau et le quart de leur allure normale sur la terre ferme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a character begins to drown underwater, follow the rules for asphyxiation (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un personnage comemnce à se noyer sous-l'eau, utilisez les règles d'asphixie (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that drowning characters do not immediately recover if rescued from the water; they will continue to asphyxiate until medical treatment is applied to clear the water from their lungs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que les personnages en train de s noyer ne récupère pas immédiatement si ils sont sortis de l'eau; ils continueront à s'asphyxier jusqu'à ce qu'un traitement médical soit utilisé pour vider l'eau de leur poumon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Vacuum}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Vide}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Biomorphs without vacuum sealing (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les biomorphs dépourvues de système d'étanchéité au vide (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>305) can spend one minute in the vacuum of space with no ill effects, provided they curl up into a ball, empty their lungs of air, and keep their eyes closed (something kids in space habitats learn at a very young age).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>305) peuvent passer uen minute dans le vide spatial sans effet secondaire, du moment qu'ils se recroqueveillent en boule, vident leur poumons et gardent leurs yeux fermés (c'est quelque chose que les enfants des ahabitats spatiaux aprennent trés tôt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Contrary to popular depictions in pre-Fall media, a character exposed to hard vacuum does not explosively decompress, nor do their internal fluids boil (other than relatively exposed liquids such as saliva on the tongue).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Contrairement aux croyances populaires liés aux médias pré-Chute, un personnage exposé au vide total n'explose pas en décompression, de même que ses fluides internes n'entrent pas en ébulitions (autres que les liquides relativement exposs, comme la salive sur al langue).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rather, the primary danger for characters on EVA sans vacsuit is asphyxiation due to lack of oxygen and associated complications such as edema in the lungs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fait, le danger principal pour les personnages dans le vide sans exocombi est l'asphyxie due au manque d'oxygène et les complications associées telles qu'un œdème des poumons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>After one minute in space, the character begins to suffer from asphyxiation (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au delà d'une minute dans l'espace, le personnage commence à subir de l'asphyxie (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Damage is doubled if the character tries to hold air in their lungs or is not curled up in a vacuum survival position as described above.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les dégats sont doublés si le personnage essaye de garder de l'air dans ses poumons ou qu'il n'est aps recroquevillé dans une position de survie dans le vide telle que décrite plus-haut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additionally, characters trapped in space without adequate thermal protection suffer 10 points of damage per minute from the extreme cold.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Additionnelement, les personnages piégés dans l'espace sans protection thermique adéquate subissent 10 points de dégats par minute en raison du froid extrême.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Improvised weapons}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Armes improvisées}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sometimes characters are caught off-guard and they must use whatever they happen to have at hand as a weapon-or they think they look cool wailing on someone with a meter of chain.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelque fois les personnages seront pris par surprise et ils devront utiliser ce qu'ils auront sous la main comme arme - à moins qu'ils ne pensent avoir l'air cool à tabasser quelqu'un avec un mètre de chaines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Improvised Weapons table offers statistics for a few likely ad-hoc items.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La table des Armes Improvisées propose des statistiques pour quelques objets susceptibles d'être utilisés comme arme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gamemasters can use these as guidelines for handling items that aren’t listed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les maitres de jeu peuvent utiliser ces guides pour gérer les objets non listés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{5}{|c|}{&lt;i0&gt;Improvised weapons&lt;/i0&gt;} &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{5}{|c|}{&lt;i0&gt;Armes improvisées&lt;/i0&gt;} &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Skill&lt;/i0&gt;	&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Compétence&lt;/i0&gt;	&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Baseball</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Balle de baseball</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Throwing weapons	&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Armes de jet	&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bottle</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bouteille</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1 + (SOM $&lt;u0&gt;$ 10), breaks after 1 use</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1 + (SOM $&lt;u0&gt;$ 10), Se casse après une utilisation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Clubs or throwing weapons	&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Massues ou armes de jets	&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bottle (broken)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bouteille (cassée)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Blades	&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lames	&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Chain</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaînes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Exotic melee	&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Armes de mélée exotique&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Helmet</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Casque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Clubs or Throwing weapons	&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Massues ou armes de jets	&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Plasma torch</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Torche à plasma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Exotic ranged	&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Arme à Distance Exotique &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wrench</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pied de biche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Clubs	&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Massues	&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Knockdown/knockback}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Projetter}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If an attacker’s intent is to simply knock an opponent down or back in melee, rather than injure them, roll the attack and defense as normal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le but d'un attaquant est simplement de mettre à terre ou d'éloigner un adversaire au contact au lieu de le blesser, lancer l'attaque et la défense comme d'habitude.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the attacker succeeds, the defender is knocked backward by 1 meter per 10 full points of MoS.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'attaquant réussit, le défenseur est projetté en arrière d'1 mètre par tranche complète de 10 points de MdR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To knock an opponent down, the attacker must score an Excellent Success (MoS 30+).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour jetter à terre un adversaire, l'attaquant doit obtenir une Réussite Exceptionnelle (MdR de 30+)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A knockback/knockdown attack must be declared before dice are rolled.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une attaque de projection doit être déclarée avant que les dés ne soient jettés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unless the attacker rolls a critical success, no damage is inflicted with this attack, the defender is simply knocked down.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À moins que l'attaquant n'obtiennent une réussite critique, aucun dégâts n'est infligé avec cette attaque, le défenseur est juste projetté/mis à terre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the attacker rolls a critical hit, however, apply damage as normal in addition to the knockback/knockdown.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, si l'attaquant obtient une réussite critique, appliqez les dégats comme d'habitude en plus de l'effet de projection.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that characters wounded by an attack may also be knocked down (see &lt;i0&gt;Wound Effects&lt;/i0&gt;, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez qu'un personnage blessé par une attaque peut également être jetté à terre (voir &lt;i0&gt;Effets des Blessures &lt;/i0&gt;, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Melee and thrown damage bonus}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Bonus de dégat en mélée et des armes de jets}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every successful melee and thrown weapon attack, whether unarmed or with a weapon, receives a damage bonus equal to the attacker’s SOM $/div$ 10, round down.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque attaque réussit au corps à corps et avec les armes de jet, que ce soit à mains nue ou avec des armes, reçoit un bonus égal à la SOM de l'attaquant $/div$ 10, arrondissez à l'inférieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See &lt;i0&gt;Damage Bonus&lt;/i0&gt;, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voir &lt;i0&gt;Bonus de dommage &lt;/i0&gt;, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Multiple targets}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Cibles multiples}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When doling out the damage, there’s no reason not to share the love.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque vous infligez des dégâts, il n'y a aucune raison de ne pas partager avec les autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Melee combat}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Combat au contact}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character taking a Complex Action to engage in a melee attack may choose to attack two or more opponents with the same action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage qui prend une Action Complexe pour démarrer une attaque de mélée peut choisir d'attaquer deux adversaire ou plus avec la même action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each opponent must be within one meter of another attacked opponent.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque adversaire doit être à moins d'un mètre d'une autre cible de l'attaquant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These attacks must be declared before the dice are rolled for the first attack.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces attaques doivent être déclarée avant que les dés ne soient lancés pour la première attaque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each attack suffers a cumulative -20 modifier for each extra target.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque attaque souffre d'un modificateur cumulatif de -20 pour chaque cible supplémentaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>So if a character declares they are going to attack three characters with the same action, they suffer a cumulative -60 on each attack.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage qui déclare qu'il va attaquer trois personnes avec la même action subira un modificateur cumulatif de -60 sur chaque attaque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Ranged combat}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Combat à distance}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character firing two semi-auto shots with a Complex Action may target a different opponent with each shot.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un eprsonnage faisant feu deux fois avec uen arme semi-automatique lors d'une Actrion Complexe peut cibler différent adversaire à chaque tir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, the attacker suffers a -20 modifier against the second target.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, l'attaquant subit un modificateur de -20 contre la deuxième cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character firing a burst-fire weapon may target up to two targets with each burst, as long as those targets are within one meter of one another.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage tirant en rafale peut cibler jusqu'à deux cibles à chaque rafale, tant que ces cibles sont éloignées d'un mètre maximum l'une de l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is handled as a single attack; see &lt;i0&gt;Burst Fire&lt;/i0&gt;, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela est considéré comme une seule atatque; voir &lt;i0&gt;Tir en Rafale&lt;/i0&gt;, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character firing a burst-fire weapon twice with one Complex Action may target a different person or pair with each burst.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage tirant en rafale deux fois avec une Action Complexe peut cibler une personne différente ou une paire d'autres personne à chaque rafale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, the second burst suffers a -20 modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, la deuxième rafale subit un modificateur de -20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This modifier does not apply if the same person/pair targeted with the first burst is targeted again.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cce modificateur ne s'applique pas si la même personne/pair de personne ciblée avec la première rafale est de nouveau ciblée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Full-auto attacks may also be directed at more than one target, as long as each target is within one meter of the previous target.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les attaques en mode automatique peuvent aussi être dirigée sur plus d'une cible, tant que chaque cible est à moins d'un mètre la précédente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is handled as a single attack; see &lt;i0&gt;Full Auto&lt;/i0&gt;, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela est considéré comme une seule atatque; voir &lt;i0&gt;Tir Automatique&lt;/i0&gt;, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Objects and structures}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Objets et structures}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As any poor wall in the vicinity of an enraged drunk can tell you, objects and structures are not immune to violence and attrition.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme tout apuvre mur dans le vosiinnage d'une violente fusillade pourra vous le dire, les objets et les structures ne sont pas immunisés à la violence et à la dégradation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To reflect this, inanimate objects and structures are given Durability, Wound Threshold, and Armor scores, just like characters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour refléter ceci, les objets inanimés et les structures ont des scores de Solidité, de Seuil de Blessure et d'Armure, tout comme les personnages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Durability measures how much damage the structure can take before it is destroyed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Solidité mesure la quantité de dommage que peut subir la structure avant d'être détruite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Armor reduces the damage inflicted by attacks, as normal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'Armure réduit les dommages infligés par les attaques, comme pour les personnages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For simplicity, a single Armor rating is given that counts as both Energy and Kinetic armor; at the gamemaster’s discretion, these may be modified as appropriate.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour simplifier, un seul score d'Armure est donné et compte à la fois comme une Armure Cinétique et une Armure Énergétique; à la discrétion du maître de jeu, ces scores peuvent être modifiées en focntion de al situation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wounds suffered by objects and structures do not have the same effect as wounds inflicted on characters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Blessures subient par les objets et les structures n'ont aps les mêmes effets que les blessures infligés aux auttres personnages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each wound is simply treated as a hole, partial demolition, or impaired function, as the gamemaster sees fit.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque blessure est simplement considérées comme un trou, une démolition partielle ou une fonctionnalité réduite selon ce que le maître de jeu pense convenir le mieux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alternately, a wounded device may function less effectively, and so may inflict a negative modifier on skill tests made while using that object (a cumulative -10 per wound).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière alternative, un appareil endommagé peut fonctionner de manière moisn efficace, et donc infliger un modificateur négatif aux tests de compétences fait pendant l'utilisation de cet objet (un modificateur cumulatif de -10 par blessure).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the case of large structures, it is recommended that individual parts of the structure be treated as separate entities for the purpose of inflicting damage.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans le cas des grosses structures, il est recommander de traiter les parties individuelles de la structure comme des entités séparées dans le cadre des dégats subit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Ranged attacks}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Attaques à distance}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ranged combat attacks inflict only one-third their damage (round down) on large structures such as doors, walls, etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les attaques à distance n'infligent qu'un tiers de leurd égats (arrondisse à l'inférieur) aux grosse structures telles que les portes, les murs, etc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This reflects the fact that most ranged attacks simply penetrate the structure, leaving minor damage.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela reflète le fait que la plupart des attaques à distance ne font que pénétrer la structure, ne faisant que des dégats mineurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Agonizers and stunners have no effect on objects and structures.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les agoniseurs et les étourdisseurs n'ont aucun effets sur les objets et les structures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Shooting through}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Tirer à travers}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a character attempts to shoot through an object or structure at a target on the other side, the attack is likely to suffer a blind fire modifier of at least -30 unless the attack has some way of viewing the target.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un personnage essaye de tirer à travers un objet ou une structure sur une cible de l'autre cpté, l'attaque subira un modificateur de tir en aveugle d'au moins -30 sauf si l'attaquant peut voir sa cible d'une manière ou d'une autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On top of this, the target receives an armor bonus equal to the object/structure’s Armor rating $&lt;u0&gt;$ 2.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En plus de ce modificateur, la cible recçoit un bonus d'armure égal au score d'Armure $&lt;u0&gt;$ 2 de l'objet/la structure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{4}{|c|}{&lt;i0&gt;Sample objects and structures&lt;/i0&gt;} &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{4}{|c|}{&lt;i0&gt;Exemple d'objets et de structures&lt;/i0&gt;} &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Object/structure</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Objet/structure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wound threshold&lt;/i0&gt;	&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Seuil de blessure&lt;/i0&gt;	&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Advanced composites (ship/habitat hull)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Composites avancées (coque de vaisseau/d'habitat)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aerogel (walls, windows etc)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aérogel (murs, fenêtre, etc)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Airlock door</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Porte de sas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alloys, concrete, hardened polymers (reinforced doors/walls)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alliage, bétons, polymère renforcés (portes/murs renforcés)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Armored glass</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Verre blindé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Counter</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comptoir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Desk</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bureau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ecto link</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lien ecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Metallic foam (walls, doors etc)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mousse metallique (murs, portes, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Metallic glass</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vitres métalliques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Polymer or wood (walls, doors, furniture etc)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Polymère ou bois (murs, portes, meubles, etc)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Quantum farcaster link</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lien de farcast quantique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transparent Alumina (walls, furniture)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aluminium transparent (murs, meubles)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tree</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Arbre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Window</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Fenêtre</seg>
       </tuv>
     </tu>
     <tu>
