@@ -7,10 +7,10 @@ Total
   Caractères: 1622165 : + espaces
 
 Restants
-    Segments:   10238
-        Mots:  123370
-  Caractères:  646589 : - espaces
-  Caractères:  759882 : + espaces
+    Segments:    9996
+        Mots:  120227
+  Caractères:  630664 : - espaces
+  Caractères:  741063 : + espaces
 
 Uniques
     Segments:   16205
@@ -19,10 +19,10 @@ Uniques
   Caractères: 1603697 : + espaces
 
 Restants uniques
-    Segments:    8114
-        Mots:  120955
-  Caractères:  646485 : - espaces
-  Caractères:  748993 : + espaces
+    Segments:    7896
+        Mots:  117861
+  Caractères:  630488 : - espaces
+  Caractères:  730434 : + espaces
 
 Mesures des documents
 
@@ -30,7 +30,7 @@ Mesures des documents
      581     581    3451    3451    3979    3979 - 0-credits.tex
     8100       1   38376      40   45753      40 - 1-lack.tex
    20340   20338  104177  104165  123063  123050 - 10-accelerated-future.tex
-   41348   41298  217187  216899  254578  254272 - 11-gear.tex
+   41348   41268  217187  216720  254578  254080 - 11-gear.tex
    29962   29945  158228  158172  186322  186265 - 12-game-information.tex
        1       1       6       6       6       6 - 13-tables.tex
        1       1      10      10      10      10 - 14-references.tex
@@ -39,7 +39,7 @@ Mesures des documents
     9902      68   49182     356   58478     358 - 4-mechanics.tex
    16622      93   85947     479  101263     485 - 5-character-creation.tex
     8618     169   46366     761   54224     779 - 6-skills.tex
-   21717    9754  109826   49871  129634   58608 - 7-action-combat.tex
+   21717    6641  109826   34125  129634   39981 - 7-action-combat.tex
    11891     316   62399    1430   73548    1717 - 8-mind-hacks.tex
    22333   20544  119673  109090  140610  128329 - 9-mesh.tex
       64      32     378     219     415     233 - ep.tex

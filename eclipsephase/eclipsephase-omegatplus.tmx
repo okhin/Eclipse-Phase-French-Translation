@@ -23766,6 +23766,46 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Light Pistol</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pistolet Léger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Medium Pistol</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pistolet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Heavy Pistol</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pistolet Lourd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Machine Gun</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mitrailleuse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sniper Rifle</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Fusil de Précision</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Beam weapons}</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -23774,10 +23814,82 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Laser Pulser</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Laser à Impulsion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Microwave Agonizer</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Agoniseur à Micro Ondes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Particle Beam Bolter</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bolter à Particule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Plasma Rifle</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Fusil à Plasma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stunner</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Étourdisseur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Freezer</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Geleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shredder</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Déchiquetteur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sprayer</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spray</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Torch</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Torche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Grenades and seekers}</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Grenades et têtes chercheuses}</seg>
+        <seg>{Grenades et chercheurs}</seg>
       </tuv>
     </tu>
     <tu>
@@ -25793,7 +25905,7 @@
         <seg>Seeker Weapons</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Armes à Tête Chercheuse</seg>
+        <seg>Armes Chercheuses</seg>
       </tuv>
     </tu>
     <tu>
@@ -28369,7 +28481,7 @@
         <seg>{SEEKER WEAPONS} &lt;i0&gt;Type:&lt;/i0&gt; Active, Combat &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{ARMES A TÊTE CHERCHEUSE} &lt;i0&gt;Type:&lt;/i0&gt; Active, Combat &lt;br0&gt;</seg>
+        <seg>{ARMES CHERCHEUSES} &lt;i0&gt;Type:&lt;/i0&gt; Active, Combat &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28377,7 +28489,7 @@
         <seg>&lt;i2&gt;What it is:&lt;/i2&gt; Seeker Weapons covers the use and maintenance of seeker launchers (p.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;i2&gt;Qu'est-ce:&lt;/i2&gt; La compétence Armes à Tête Chercheuse couvre l'utilisation et la maintenance des lanceurs à têtes chercheuses  (p.</seg>
+        <seg>&lt;i2&gt;Qu'est-ce:&lt;/i2&gt; La compétence Armes Chercheuses couvre l'utilisation et la maintenance des lanceurs à têtes chercheuses  (p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28393,7 +28505,7 @@
         <seg>&lt;i3&gt;When you use it:&lt;/i3&gt; Use this skill when attacking with a seeker in ranged combat (p.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>&lt;i3&gt;Quand l'utiliser:&lt;/i3&gt; Un joueur utilise cett compétence lorsqu'il attaque avec une armeà tête chercheuse en combat à distance (p.</seg>
+        <seg>&lt;i3&gt;Quand l'utiliser:&lt;/i3&gt; Un joueur utilise cett compétence lorsqu'il attaque avec une arme chercheuses en combat à distance (p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50705,7 +50817,7 @@
         <seg>Seeker missiles (p.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Les missiles à tête chercheuse (p.</seg>
+        <seg>Les missiles chercheurs (p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52649,7 +52761,7 @@
         <seg>Modern grenades, seekers, and similar explosives do not necessarily detonate the instant they are thrown or strike the target.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Les grenades, amres à tête chercheurse et explosifs simialire moderne ne détonnent pas forcément au moment où ils sont lancés ou lorsqu'ils touchent leur cible.</seg>
+        <seg>Les grenades, chercheurs et explosifs moderne similaires ne détonnent pas forcément au moment où ils sont lancés ou lorsqu'ils touchent leur cible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54090,6 +54202,1638 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Fenêtre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Range}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Portée}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every type of ranged weapon has a limited range, beyond which it is ineffective.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque type d'arme a une portée limitée, au-delà de laquelle elle devient inefficace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The effective range of the weapon is further broken down into four categories: Short, Medium, Long, and Extreme.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La portée efficace d'une arem est ensuite divisée en quatre catégories: Courte, MOyenne, Longue et Extrême.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A modifier is applied for each category, as noted on the Combat Modifiers table, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un modificateur est appliqué pour chaque catégorie, tel que noté dans la table des Modificateurs de Combats, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For examples of specific weapon ranges, see the Weapon Ranges table.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour des exemples de portée d'arme spécifique, reportez-vous à la table des Portées d'Armes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{5}{|c|}{&lt;i0&gt;Weapon ranges&lt;/i0&gt;} &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{5}{|c|}{&lt;i0&gt;Portée d'Armes&lt;/i0&gt;} &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Weapon (type)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Arme (type)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Short</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Courte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Medium (-10)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Moyenne (-10)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Long (-20)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Longue (-20)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Extreme (-30)&lt;/i0&gt;&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Extrême (-30)&lt;/i0&gt;&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{5}{|l|}{&lt;i0&gt;Firearms&lt;/i0&gt;} &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{5}{|l|}{&lt;i0&gt;Armes à feu&lt;/i0&gt;} &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>SMG</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mitraillette</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Assault Rifle</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Fusil d'Assaut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{5}{|l|}{&lt;i0&gt;Railguns&lt;/i0&gt;}&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{5}{|l|}{&lt;i0&gt;Armes à rails&lt;/i0&gt;}&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{5}{|l|}{as Firearms but increase the effective range in each category by +50%} &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{5}{|l|}{identique aux Armes à Feu mais augmentez la portée effective de chaque catéogrie de +50%} &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{5}{|l|}{&lt;i0&gt;Beam Weapons&lt;/i0&gt;} &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{5}{|l|}{&lt;i0&gt;Armes à Rayon&lt;/i0&gt;} &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cybernetic Hand Laser</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Laser de Main Cybernétique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{5}{|l|}{&lt;i0&gt;Seekers&lt;/i0&gt;} &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{5}{|l|}{&lt;i0&gt;Chercheurs&lt;/i0&gt;} &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Seeker Micromissile</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Micromissile Chercheur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Seeker Minimissile</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Minimissile Chercheur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Seeker Standard Missile</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Missile Chercheur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{5}{|l|}{&lt;i0&gt;Spray Weapons&lt;/i0&gt;} &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{5}{|l|}{&lt;i0&gt;Armes à Spray&lt;/i0&gt;} &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shard Pistol</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pistolet à Aiguilles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Vortex Ring Gun</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Canon Vortex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{5}{|l|}{&lt;i0&gt;Thrown Weapons&lt;/i0&gt;} &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{5}{|l|}{&lt;i0&gt;Armes de Jets&lt;/i0&gt;} &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To SOM $&lt;u0&gt;$ 5</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Jusqu'à SOM $&lt;u0&gt;$ 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To SOM $&lt;u0&gt;$ 2</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Jusqu'à SOM $&lt;u0&gt;$ 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To SOM</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Jusqu'à SOM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To SOM $&lt;u0&gt;$ 2 &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Jusqu'à SOM $&lt;u0&gt;$ 2 &lt;/br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To SOM $&lt;u0&gt;$ 3 &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Jusqu'à SOM $&lt;u0&gt;$ 3 &lt;/br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Standard Grenades</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Grenades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Range, gravity and vacuum}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Portée, gravité et vide}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ranges listed on the Weapon Ranges table are for Earth-like gravity conditions (1 g).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les portées listées dans la table des Portées d'Armes sont valable pour lees gravités de type Terrienne (1g).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While the effective ranges of kinetic, seeker, spray, and thrown weapons can potentially increase in lower gravity environments due to lack of gravitational forces or aerodynamic drag, accuracy is still the defining factor for determining whether you hit or miss a target.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alros que la portée effective des armes cinétiques, chercheuses, à spray et de jets peuvent potentiellement augmenter dans les environnements en faible gravité en raison du manque de forces gravitationnelle ou de frain aérofynamique, la précision reste le facteur déterminant si vous toucher la cible ou non.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In lower gravities, use the same effective ranges listed, but extend the maximum range by dividing it by the gravity (for example, a max range of 100 meters would be 200 meters in 0.5 g).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En gravité réduite, utilisés les mêmes portées effectives que celles listées, mais étendez la portée maximale en la divisant apr la gravité (par exemple, une portée maximale de 100 mètre, sera de 200 mètres en 0,5g).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In microgravity and zero g, the maximum range is effectively line of sight.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En microgravité et en zéro-g, la portée maximale est la ligne de vue effective.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, under high-gravity conditions (over 1 g), divide each range category maximum by the gravity (e.g., a short range of 10 meters would be 5 meters in 2 g).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, dans les environnements en haute-gravité (au-delà de 1g), divisez le maximum de chaque catégorie de portée  par la gravité (i.e, une portée courte de 10 mètres sera réduite à 5 en 2 g).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Beam weapons are not affected by gravity, but they do fare much better in non-atmospheric conditions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les arems à rayons ne sont pas affectées par la gravité, mais sont bien plus efficace dans des conditions non-atmosphérique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Maximum beam weapon range in vacuum is effectively line of sight.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La portée maximale des armes à rayon dans le vide est la ligne de vue effective.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Reach}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Allonge}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some weapons extend a character’s reach, giving them a significant advantage over an opponent in melee combat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines armes augmentent l'allonge d'un personnage, lui donnant un avantage significatif face à un adversaire en combat de mélés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This applies to any weapon over half a meter long: axes, clubs, swords, shock batons, etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela s'applique à toutes les armes de plsu d'un mètre de long: haches, masses, épées, bâtons chocs, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Whenever one character has a reach advantage over another, they receive a +10 modifier for both attacking and defending.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsqu'un personnage a l'avantage de l'allonge sur son adversaire, il reçoit un modificateur de +10 en attaque et en défense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Scatter}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Dispersion}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you are using a blast weapon, you may still catch your target in the blast radius even if you fail to hit them directly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque vous utilisez une arme à explosion, vous pouvez toujours toucher votre cible grâc au souffle même si vous ne parvenez pas à la toucher directement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Weapons such as grenades must go somewhere when they miss, and exactly where they land may be important to the outcome of a battle.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les arems telles que les grenades doivent aller quelquepart lorsqu'elle ratent, et leur position exacte peut être importante pour l'issue de la bataille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To determine where a missed blast attack falls, the scatter rules are called into play.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour déterminer où aterri une attaques à explosion ratée, la règle de dispersion entre en jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To determine scatter, roll a d10 and note where the die ``points'' (using yourself as the reference point).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>pour déterminez la dispersion, lancer 1d10 et notez dans quelle direction &quot;pointe&quot; le dé (en vous servant de votre position comme référence).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is the direction from the target that the missed blast lands.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est la direction par rapport à la cible dans laquelle l'explosif va finalement aterrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The die roll also determines how far away the blast lands, in meters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le résultat du dé détermine également la distance de dispersion, en mètre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the MoF on the attack is over 30, this distance is doubled.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si la MdE de l'attaque est de plus de 30, cette distance est doublée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the MoF exceeds 60, the distance is tripled.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si la MdE dépasse 60, la distance est triplée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This point determines the epicenter of the blast; resolve the effects of damage against anyone caught within its sphere of effect as normal (see &lt;i0&gt;Blast Effect&lt;/i0&gt;, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce point détermine l'épicentre de l'explosion; résolvez les effets des dommages contre tout ceux qui sonr pris dans la sphère d'effet comme d'habitude (voir &lt;i0&gt;Effets de Souffle&lt;/i0&gt;, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Shock attacks}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Attaque de choc}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shock weapons use high-voltage electrical jolts to physically stun and incapacitate targets.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les armes chocs utilisent des décharges électriques à haute tension pour étourdir physiquement et handicaper les cibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shock weapons are particularly effective against biomorphs and pods, even when heavily armored.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les armes à chocs sont particulièrement efficaces contre les biomorphs et les pods, même si ils sont lourdement protégés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Synthmorphs, bots, and vehicles are immune to shock weapon effects.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les synthmorphs, les bots et les véhciules sont immunisés aux effets des armes à chocs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A biomorph struck with a shock weapon must make a DUR + Energy Armor Test (using their current DUR score, reduced by damage they have taken).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une biomorph piégées par une armes à chocs doit fair un Test de SOL + Armure Énergétique (utilisant leur score actuel de SOL, réduit par les dégats déjà subit).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If they fail, they immediately lose neuromuscular control, fall down, and are incapacitated for 1 Action Turn per 10 full points of MoF (minimum of 3 Action Turns).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si il échoue, il perd immédiatement le contrôle neuromusculaire, tombe, et est paralysé pendant 1 Tour d'Action par tranche complète de 10 points de MdS (minimum de 3 Tours d'Actions)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>During this time they are stunned and incapable of taking any action, possibly convulsing, suffering vertigo, nausea, etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pendant cette période, il est étourdi et incapable d'accomplir la moindre action, il convulse probable, souffre de vertige, de nausées, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>After this period, they may act but they remain stunned and shaken, suffering a -30 modifier to all actions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Après cette épriode, il peut agir mais il reste étourdit et en état de choc, subissant un modificateur de -30 à toutes ses actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This modifier reduces by 10 per minute (so -20 after 1 minute, -10 after 2 minutes, and no modifier after 3 minutes).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce modificateur réduit de 10 par minutes (et passe donc à -20 après 1 minutes, -10 après 2 minutes et disparaît au bout de 3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many shock weapons also inflict DV, which is handled as normal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup d'armes à chocs infligent également une VD, qui est gérée de manière normale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A biomorph that succeeds the DUR Test is still shocked but not incapacitated.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une biomorph qui réussit son test de SOL est toujours choquée mais n'est pas paralysée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They suffer half the listed DV and suffer a -30 modifier until the end of the next Action Turn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle souffre de la moitié de la VD indiquée et subit un modificateur de -30 jusqu'à la fin du prochain Tour d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This modifier reduces by 10 per Action Turn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce modificateur réduit de 10 par Tour d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Modifiers from additional shocks are not cumulative, but will boost the modifier back to its maximum value.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les modificateurs d'autres chocs ne sont pas cumulatif, mais ils élèveront le modificateur à sa valeru maximale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Subdual}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Contrôle}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To grapple an opponent in melee combat, you must declare your intent to subdue before making the die roll.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour saisir un advesaire en combat au contact, vous devez déclarez votre intention de le contrôller avant de lancer les dés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any appropriate melee skill may be used for the attack; if wielding a weapon, it may be used as part of the grappling technique.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toute compétence de mélée appropriée peut être utilisée pour l'attaque; si une arem est utilisée, elle peut être utilisée comme faisant parti de la technique de prise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you succeed in your attack with an Excellent Success (MoS of 30+), you have successfully subdued your opponent (for the moment, at least).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous réussissez votre attaque avec une Réussite Exceptionnelle (MdR de 30+), vous avez réussit à contrôler votre adversaire (du moins, pour le moment).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Grappling attacks do not cause damage unless you roll a critical success (though even in this case you can choose not to).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les attaques de saisie n'infligent aps de dégats sauf si vous obtenez un succès critique (et même dans ce cas là, vous pouvez décider de ne pas faire de dégâts).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A subdued opponent is temporarily restrained or immobilized.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un adversaire contrôlé est temporairement maîtrisé ou immobilisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They may communicate, use mental skills, and take mesh actions, but they may not take any physical actions other than trying to break free.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il peut communiquer, utiliser des compétences mentales et agir sur le mesh, mais ils ne peuvent faire aucune action physique autre que de tenter de s'échapper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(At the gamemaster’s discretion, they may make small, restrained physical actions, such as reaching for a knife in their pocket or grabbing an item dropped a few centimeters away on the floor, but these actions should suffer at least a -30 modifier and may be noticed by their grappler).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>(À la discrétion du maîþre de jeu, il peut toujours faire de pettites actions physique restreinte, telle qu'essayer d'attraper un couteau dans leur poche ou saisir un objet lancé à quelques centimètre sur le sol, mais ces actions devraient subir un modificateur d'au moins -30 et seront remarqué par le contrôleur).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To break free, a grappled character must take a Complex Action and succeed in either an Opposed Unarmed Combat Test or an Opposed SOM $&lt;u0&gt;$ 3 Test, though the subdued character suffers a -30 modifier on this test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour se libérer, un personnage saisi doit prendre une Action Complexe et réussir soit un Test en Opposition de Combat à Mains Nues ou un Test en Opposition de SOM $&lt;u0&gt;$ 3, bien que le personnage contrôlé souffre d'un modificateur de -30 sur son test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Suppressive fire}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Tir suppressif}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character firing a weapon in full-auto mode (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage tirant avec une arme en mode automatqiue (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>198) may choose to lay down suppressive fire over an area rather than targeting anyone specifically, with the intent of making everyone in the suppressed area keep their heads down.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>198) peut choisir d'utiliser un tir suppressif sur une zone au lieu de viser quelqu'un spécifiquement, dans le but de forcer tout ceux qui sont dans la zone de rester à couvert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This takes a Complex Action, uses up 20 shots, and lasts until the character’s next Action Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela prend une Action Complexe, utilise 20 munitions et dure jusqu'à la prochaine Phase d'Action du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The suppressed area extends out in a cone, with the widest diameter of the cone being up to 20 meters across.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La zone balayée s'étend en cône, le diamètre le plus large du cône pouvant faire jusqu'à 20 mètres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any character who is not behind cover or who does not immediately move behind cover on their action is at risk of getting hit by the suppressive fire.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout personnage qui n'est pas derrière un couvert ou qui ne se met pas immédiatement à couvert lors de son action risque de se faire toucher par le tir suppressif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If they move out of cover inside the suppressed area, the character laying down suppressive fire gets one free attack against them, which they may defend against as normal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>S'il sort d'un couvert à l'intérieur de la zone de feu, le personange qui déclenche le tir suppressif gagne une attaque gratuite contre lui, attaque dont ils peuvent se défendre comme d'habitude.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Apply no modifiers to these tests except for range, wounds, and full defense.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aucun modificateurs ne sont à appliquer à ces tests, exceptés ceux liés à la portée, aux blessure et à la défense totale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If hit, the struck character must resist damage as if from a single shot.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si il est touché, le personnage doit résister aux dégats comme si ils s'agissaient de ceux d'un tir unique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters who wish to ambush another must seek to gain the advantage of surprise.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages désirant tendre une embuscade à d'autres doivent chercher à bénéficier de l'avantage de la surprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This typically means sneaking up on, lying in wait, or sniping from a hardto- perceive position in the distance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela signifie en général de se faufiler discrètement, d'attendre dans les ombres ou de camper depuis une position éloignée difficile à percevoir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any time an ambusher (or group of ambushers) attempts to surprise a target (or group of targets), make a secret Perception Test for the ambushee(s).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À chaque fois qu'un embusqué (ou un groupe d'embusqués) tentent de surprendre une cible (ou un groupe de cible), faites un test de Perception secret pour les cibles de l'embuscade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unless they are alert for surprises, this test should suffer the typical -20 modifier for being distracted.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À moins qu'ils ne s'attendent à une surprise, ce test devrait typiquement subir le modificateur de -20 pour être distrait.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is an Opposed Test against the ambusher(s) Infiltration skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il s'agît d'un Test en Opposition contre la compétence Infiltration de l'embusqué/des embusqués.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending on the attacker’s position, other modifiers may also apply (distance, visibility, cover, etc.).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fonction de la position de l'attaquant, d'autres modificateurs peuvent également s'appliquer (distance, visibilité, couvert, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the Perception Test fails, the character is surprised by the attack and cannot react to or defend against it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le Test de Perception échoue, le personnage est surpris par l'attaque et ne peux pas y régair ou se défendre contre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, simply give the attacker(s) a free Action Phase to attack the surprised character(s).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, donnez simplement aux attaquants une Phase d'Action gratuite pour attaquer les personnages surpris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once the attackers have taken their actions, roll Initiative as normal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois que les attaquants ont effectués leurs actions,lancez l'Intitiative comme d'habitude.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the Perception Test succeeds, the character is alerted to something a split-second before they are ambushed, giving them a chance to react.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le Test de Perception réussit, le personnage est alerté une fraction de seconde avant qu'il ne tombe dans l'embuscade, lui donnant une chance de réagir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, roll Initiative as normal, but the ambushed character(s) suffers a -30 modifier to the Initiative Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, lancez l'Initiative de manière normale, mais les personnages embusqués subissent un modificateur de -30 à leur Test d'Initiative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ambushed character may still defend as normal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages embusqués peuvent toujours se défendre de manière normale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In a group situation, things can get more complicated when some characters are surprised and others aren’t.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les situations de groupe, les choses peuvent devenir plsu complexe lorsque certains personnages sont surpris et que d'autres ne le sont pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, roll Initiative as normal, with all non-ambushers suffering the -30 modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, déterminez l'Inititaive de manière normale, avec tous les personnages non-embusqués subissant un modificateur de -30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any characters who are surprised are simply unable to take action on the first Action Phase, as they are caught off-guard and must take a moment to assess what’s going on and get caught up with the action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tous les personnages qui sont surpris ne peuvent tout simplement pas agir lors de la première Phase d'Action, ils sont sans défense et doivent prendre un instant pour évaluer la situation et rattraper leur retard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As above, surprised characters my not defend on this first Action Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme au-dessus, les personnages surpris ne peuvent pas se défendre lors de leur première Phase d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Tactical networks}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Réseaux tactiques}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tactical networks are specialized software programs used by teams that benefit from the sharing of tactical data.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les réseaux tactiques sont des logiciels spécialisés utilsiés par les équipes qui bénéficient du partage de données tactiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are commonly used by sports teams, security outfits, military units, AR gamers, gatecrashers, surveyors, miners, traffic control, scavengers, and anyone else who needs a tactical overview of a situation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils sont fréquemment utilisés par les équipes sportives, les équipes de sécurités, les unités militaires, les joueurs RA, les resquilleurs, les surveillants, le smineurs, les crontrôlleurs du traffics, les récupérateurs et quiconque nécessite d'un aperçu tactique de la situation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firewall teams regularly take advantage of them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les équipes de Firewall profitent régulièrement des avantages de tels logiciels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In game terms, tacnets provide specialized software skills and tools to a muse or AI, as best fits their tactical needs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En terme de jeu, les tacnets fournissent des compétences et des outils logiciels spécialisés aux muses ou aux IA, en fonction de ce qui convient le mieux aux besoin tactiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These tools link together and share and analyze data between all of the participants in the network, creating a customizable entoptics display for each user that summarizes relevant data, highlights interactions and priorities, and alerts the user to matters that require their attention.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces outils se connectent les uns aux autres et partagent et analysent les données entre tous les participants du réseau, créant un affichage entoptique configurable pour chaque utilisateur qui résume les donnés capitales, mets en évidence les interactions et les priorités, et alerte l'utilsie des choses qui nécessitent son attention.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Combat tacnets} The following list is a sample of a typical combat tacnet’s features.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Tacnets de combat} la liste suivante est un exemple des caractéristique standard d'un tacnet de combat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gamemasters are encouraged to modify and expand these options as appropriate to their game:</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les maîtres de jeu sont encouragés à modifier et à étendre ces options de manière appropriée à leur jeu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Maps:&lt;/i0&gt; Tacnets assemble all available maps and can present them to the user with a bird’s eye view or as a three-dimensional interactive, with distances between relevant features readily accessible.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cartes:&lt;/i0&gt; Les tacnets assemblent toutes les cartes disponible et peuvent les présenter à l'utilisateur avec un point de vue aérien ou comme un ensemble tridimensionnele et interactif, les distances entre les caractéristiques intéressantes étant facilement acessible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The AI or muse can also plot maps based on sensory input, breadcrumb positioning systems (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'IA ou la muse peut également tracer des cartes en se basant sur les netrées sensorielles, les systèmes de fils d'arianne (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>332), and other data.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>332), et d'autres données.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Plotted paths and other data from these maps can be displayed as entoptic images or other AR sensory input (e.g., a user who should be turning left might see a transparent red arrow or feel a tingling sensation on their left side).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des chemins et d'autres données de ces cartes peuvent être affichées comem image entoptique ou par d'autres données RA (par ex, un utrilisateur qui doit trouner à gauche pourrait voir une flêche rouge transparente ou sentir un picotement sur leur côté gauche).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u1&gt; &lt;i1&gt;Positioning:&lt;/i1&gt; The exact positioning of the user and all other participants are updated and mapped according to mesh positioning and GPS.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u1&gt; &lt;i1&gt;Positionnement:&lt;/i1&gt; Le positionnement exact de l'utilisateur et de tous les autres participants sont mis à jour et cartographié grâce au positionnement apr mesh et par GPS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, the positioning of known people, bots, vehicles, and other features can also be plotted according to sensory input.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, le positionnement de personnes connues, de bots, de véchiukes et d'autres caractéristiques peuvent également être indiquées en fonction des entrées sensorielles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u2&gt; &lt;i2&gt;Sensory Input:&lt;/i2&gt; Any sensory input available to a participating character or device in the network can be fed into the system and shared.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u2&gt; &lt;i2&gt;Entrée Sensorielle:&lt;/i2&gt; Toute entrée sensorielle disponible pour un des personnage participant ou un appareil dans le réseau peut alimenter le système et être partagée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This includes data from cybernetic senses, portable sensors, smartlink guncams, XP output, etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela inclut les données des sens cybernétique, les senseurs portables, les caméra des smartlink, les sorties XP, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This allows one user to immediately call up and access the sensor feed of another user.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela permet à un utilisateur d'accéder immédiatement au flux sensoriel d'un autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u3&gt; &lt;i3&gt;Communications Management:&lt;/i3&gt; The tacnet maintains an encrypted link between all users and stays wary both of participants who drop out or of attempts to hack or interfere with the communications link.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u3&gt; &lt;i3&gt;Gestion de Communications:&lt;/i3&gt; Le tacnet maintiens un lien chiffré entre tous les utilisateurs et reste conscient à la fois des utilisateurs qui se retirent ou des tentatives d'intrusion ou d'interférer avec le lien de communication.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u4&gt; &lt;i4&gt;Smartlink/Weapon Data:&lt;/i4&gt; The tacnet monitors the status of weapons, accessories, and other gear via the smartlink interface or wireless link, bringing damage, shortages, and other issues to the user’s attention.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u4&gt; &lt;i4&gt;Données de Smartlink/d'Armes:&lt;/i4&gt; Le tacnet supervise l'état des armes, des accessoires et d'autres équipement via l'interface smartlink ou un lien sans fil, rapportant les dégat, les épuisements de munitions et les autres problèmes à l'attention de l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u5&gt; &lt;i5&gt;Indirect Fire:&lt;/i5&gt; Members of a tacnet can provide targeting data to each other for purposes of indirect fire (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u5&gt; &lt;i5&gt;Tir Indirect:&lt;/i5&gt; Les membres d'un tacnet peuvent fournir ds données de ciblage aux autres dans le but de tirs indirects (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u6&gt; &lt;i6&gt;Analysis:&lt;/i6&gt; The muses and AIs participating in the tacnet are bolstered with skill software and databases that enable them to interpret incoming data and sensory feeds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u6&gt; &lt;i6&gt;Analyse:&lt;/i6&gt; Les muses et les IA participant au tacnet sont propulsées par des logiciles d compétences et des bases de données qui leur permettent d'interpréter les données entrantes et les flux sensoriels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Perhaps the most useful aspect of tacnets, this means that the muse/AI may notice facts or details individual users are likely to have overlooked.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est probablement l'aspect le plus utile des réseaux tactiques. Cela signifie que les muses/IAs peuvtn remarquer des faits ou des détails que les utilisateurs indivicuels n'auraient pas remarqués.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, the tacnet can count shots fired by opponents, note when they are likely running low, and even analyze sensory input to determine the type of weaponry and ammunition being used.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, le tacnet peut compter les tir effectués par un adversaire, noter lorsqu'ils vont se retrouver à cours, et même analyser les entrées sensorielles pour déterminer le type d'armement et de mhnitions utilisées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Opponents and their gear can also be scanned and analyzed to note potential weaknesses, injuries, and capabilities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les adversaires et leur matériel peuvent également être scannés et analysé pour noter les faiblesses potentielles, les blessures et les capacités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If sensor contact with an opponent is lost, the last known location is memorized and potential movement vectors and distances are displayed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un contact sensoreil avec un adversaire ets perdu, sa dernière position connue esst mémorisé et les vecteurs de mouvements potentiels ainsi que les distances sont affichés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Opponent positioning can also identify lines of sight and fields of fire, alerting the user to areas of potential cover or danger.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le positionnement des adversaire peut également identifier leur lignes de vue et les champs de tirs, signalant les couverts potentiel ou les  zones de danger à l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The tacnet can also suggest tactical maneuvers that will aid the user, such as flanking an opponent or acquiring better elevation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le tacnet peut également suggérer des manœuvres tactiques qui aiderons l'utilisateur, telles que le contournement d'un adversaire ou la possibilité de récupérer une postition plus élevée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many of these features are immediately accessible to the user via their AR display; other data can be accessed with a Quick Action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart de ces caractéristiques sont immédiatement disponible à l'utilisateur via leur afficage RA; d'autres données peuvent être accédée avec une Action Rapide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, the gamemaster decides when the muse/AI provides important alerts to the user.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, le maître de jeu décides quand la muse/l'IA fournit des alertes importantes aux utilisateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the gamemaster’s discretion, some of these features may apply modifiers to the character’s tests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À la discrétion du maître de jeu, certaines de ces caractéristiques peuvent ajouter des modificateurs aux tests des personnages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Touch-only attack} &lt;n0&gt; Some types of attacks simply require you to touch your target, rather than injure them, and are correspondingly easier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Attaque de toucher} &lt;n0&gt; Certains type d'attaque nécessite simplement que vous touchiez votre cible au lieu de les blesser, et sont donc plus facile à réaliser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This might apply when trying to slap them with a dermal drug patch, spreading a contact poison on their skin, or making skin-to-skin contact for the use of a psi sleight.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela devrait s'appliquer lorsque vous essayer de coller un patch dermal à quelqu'un, que vous essayez de répandre un poison de contact sur sa peau ou que vous essayez d'obtenir un contact peau à peau pour utilsier un exploit psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In situations like this, apply a +20 modifier to your melee attacks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ces situations, appliquez un modificateur de +20 aux attaques au contact.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Two-handed weapons}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Armes à Deux Maines}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any weapon noted as two-handed requires two hands (or other prehensile limbs) to wield effectively.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toute arme indiquée comme étant à deux mains nécessite l'usage de deux mains (ou autres membres préhensile) pour être maniée efficacement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This applies to some archaic melee weapons (large swords, spears, etc.) in addition to certain larger firearms and heavy weapons.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela est avalbles pour certaines armes de mélée archaïque (épée longue, lance, etc) ainsi qu'à certaines armes à feu plus grosse et aux armes lourdes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any character that attempts to use such a weapon single-handed suffers a -20 modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout personaneg qui tente d'utiliser de telles armes d'une seule main subit un modificateur de -20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This modifier does not apply to mounted weapons.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce modificateur ne s'applqiue pas aux armes montées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Weilding two or more weapons}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Manier deux armes ou plus}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is possible for a character to wield two weapons in combat, or even more if they are an octomorph or multi-limbed synthmorph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il est possible qu'un personnage manie deux armes en combat, ou même plus si c'est une octomorph ou une synthmorph ayant plusieurs membres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, each weapon that is held in an off-hand suffers a -20 off-hand weapon modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, chaque arme supplémentaire maniée sur une mauvaise main subit le modificateur de mauvaise main de -20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This modifier may be offset with the Ambidextrous trait (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce modificateur peut être annulé par le trait Ambidextre (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Extra melee weapons}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Arme de mélée supplémentaire}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The use of two or more melee weapons is treated as a single attack, rather than multiple.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'utilisation de deux armes de mélée ou plus est traitée comme une seule attaque et non comme plusieurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each additional weapon applies +1d10 damage to the attack (up to a maximum +3d10).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque armes additionelle ajoute +1d10 de dégats à l'attaque (jusqu'à un amximum de +3d10).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Off-hand weapon modifiers are ignored.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les modificateurs de mauvaises mains sont ignorés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character attacks multiple targets with the same Complex Action (see &lt;i0&gt;Multiple Targets&lt;/i0&gt;, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le personnage attaque des cibles multiples avec la même Action Complexe (voir &lt;i0&gt;Cibles Multiples&lt;/i0&gt;, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>202), these bonuses does not apply.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>202), ces bonus ne s'appliquent pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The attacker must, of course, be capable of actually wielding the additional weapons.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'attaquant doit, bien entendu, être capable de manier l'arme additionelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A splicer with only two hands cannot wield a knife and a two-handed sword, for example.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un spliceur avec seulement deux mains ne peut pas manier un couteau et une épée à deux mains par exemple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, the gamemaster may ignore this damage bonus for extra weapons that are too dissimilar to use together effectively (like a whip and a pool cue).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, le maître de jeu peut ignorer le bonus de dégats pour les armes supplémentaires qui sont trop différentes pour être utilisées ensemble efficacement (comme un fouet et une queue de billard).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that extra limbs do not count as extra weapons in unarmed combat, nor do weapons that come as a pair (such as shock gloves).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que ni les membres supplémentaires, ni les armes qui sont concues par paires commes les gants chocs) ne comptent comme une arme supplémentaire. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character using more than one melee weapon receives a bonus for defending against melee attacks equal to +10 per extra weapon (maximum +30).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage utilisant plus du'ne arme de mélée reçoit un bonus pour se défendre contre les attaques de mélée égal à +10 par armes supplémentaires (maximum +30).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Extra ranged weapons}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Armes à distance supplémentaire}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Similarly, an attacker can wield a pistol in each hand for ranged combat, or larger weapons if they have more limbs (an eight-limbed octomorph, for example, could conceivably hold four assault rifles).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un attaquant peu également manier un pistolet dans chaque main pour le combat à distance, ou de plsu grosses armes si ils ont plus de membres (un poulpe à huit membre peut, par exemple, manier quatres fusils d'assaut).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These weapons may all be fired at once towards the same target.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces armes doivent toutes faire feu en une fois sur la même cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, each weapon is handled as a separate attack, with each off-hand weapon suffering a cumulative off-hand weapon modifier (no modifier for the first attack, -20 for the second, -40 for the third, and -60 for the fourth), offset by the Ambidextrous trait (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, chaque arme est gérée comme une attaque séparée, chaque armes dans une mauvaise main subissant un modificateur cumulatif de mauvaise main de -20 (pas de modificateur sur la première attaque, -20 pour la deuxième, -40 pour la troisième et -60 pour la quatrième), compensés par le trait Ambidextre (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>145) as usual.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>145) comme d'habitude.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Physical health</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Santé Physique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In a setting as dangerous as &lt;i0&gt;Eclipse Phase&lt;/i0&gt;, characters are inevitably going to get hurt.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans un cadre aussi dangereux que celui d' &lt;i0&gt;Eclipse Phase&lt;/i0&gt;, les personnages vont inévitablement être blessés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Whether your morph is biological or synthetic, you can be injured by weapons, brawling, falling, accidents, extreme environments, psi attacks, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Que votre orph soit biologique ou synthétique, vous pouvez être blessés par des armes, une bagarre, une chute, des accidents, des environnements extrêmes, des attaques de psi et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This section discusses how to track such injuries and determine what effect they have on your character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette section traite de la façon de garder une trace de telles blessures et de déterminer quels effets elles auront sur votre peronnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Two methods are used to gauge a character’s physical health: damage points and wounds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Deux méthodes sont utilisées pour mesurer la santé physique de votre personnage: points de dégats et blessures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Damage points}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Points de dégats}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any physical harm that befalls your character is measured in damage points.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toute blessure physique infligée à votre personnage est mesurée en points de dégats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These points are cumulative, and are recorded on your character sheet.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces points sont cumulatifs, et sont notés sur votre fiche de personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Damage points are characterized as fatigue, stun, bruises, bumps, sprains, minor cuts, and similar hurts that, while painful, do not significantly impair or threaten your character’s life unless they accumulate to a significant amount.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les points de dommage sont caractérisés par la fatigue, l'étoudissement, les bleus, les chocs, les entorses, les petites coupures et les autres blessures qui, tout en étant douloureuse, ne vont pas géner ou menacer significativement la vie de votre personnage à moins qu'elles ne s'accumulent jusqu'à un certain niveau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any source of harm that inflicts a large amount of damage points at once, however, is likely to have a more severe effect (see &lt;i0&gt;Wounds&lt;/i0&gt;, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toute source de blessure qui inflige une grosse quantité de points de dégats en une fois peut cependant avoir un effet plus important (voir &lt;i0&gt;Blessures&lt;/i0&gt;, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Damage points may be reduced by rest, medical care, and/or repair (see &lt;i0&gt;Healing and Repair&lt;/i0&gt;, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les points de dommages peuvent être réduits par le repos, l'attention médicale, et/ou la réparation (voir &lt;i0&gt;Soins et Réparations &lt;/i0&gt;, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Damage types}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Types de dégats}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Physical damage comes in three forms: Energy, Kinetic, and Psi.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les dégats physiques sont de trois type: Énergétique, Cinétique et Psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Energy damage}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Dégats énergétiques}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Energy damage includes lasers, plasma guns, fire, electrocution, explosions, and others sources of damaging energy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les dégats énergétiques incluent les lasers, les armes à plasma, le feu, l'électrocution, les explosions et d'autres sources de dégats énergétiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Kinetic damage}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Dégats cinétiques}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Kinetic damage is caused by projectiles and other objects moving at great speeds that disperse their energy into the target upon impact.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les dégats cinétiques sont causés par les projetciles et les objets se déplaçant à haute vitesse et qui transfèrent leur énegrie à la cible au moment de l'impact.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Kinetic attacks include slug-throwers, flechette weapons, knives, and punches.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les attaques cinétqiues incluent les frondes, les armes à fléchettes, les couteau et les coups.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Psi damage}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Dégats Psi}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Psi damage is caused by offensive psi sleights like Psychic Stab (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les dégats Psi sont causés par les exploits psi offensifs comme Attaque Psychic (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Durability and health}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Solidité et santé}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your character’s physical health is measured by their Durability stat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La santé physique de votre personnage est mesurée par leur stat de Solidité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For characters sleeved in biomorphs, this figure represents the point at which accumulated damage points overwhelm your character and they fall unconscious.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour les personnages incarnés dans des biomorphs, ce nombre représente le niveau à partir duquel les dégats accumulées submergent votre personnage et qu'il sombre dans l'inconscience.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once you have accumulated damage points equal to or exceeding your Durability stat, you immediately collapse from exhaustion and physical abuse.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois que vous avez accumulés un nombre de points de dégats supérieur ou égal à votre stat Solidité, vous vous effondrez immédiatement sous l'épuisement et la violence physique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You remain unconscious and may not be revived until your damage points are reduced below your Durability, either from medical care or natural healing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous demeurez inconscient et ne pouvez être réveillez tant que vos points de dégats n'ont pas été réduits sous votre Solidité, grâce à des soins médicaux ou par guérison naturelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you are morphed in a synthetic shell, Durability represents your structural integrity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous êtes morphé dans une coque synthétique, la Solidité représente votre intégrité structurelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You become physically disabled when accumulated damage points reach your Durability.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous devenez physiquement invalide lorsque vos points de dégats accumulez atteignent votre Solidité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though your computer systems are likely still functioning and you can still mesh, your morph is broken and immobile until repaired.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que les systèmes informatiques sseront probablement toujours fonctionnels, vous pouvez continuer d'accéder au mesh, mais votre morph est cassé et immobile jusqu'à ce qu'elle soit réparée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Death}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Mort}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An extreme accumulation of damage points can threaten your character’s life.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une accumulation extrême de points de dégats peut menacer la vie de votre personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the damage reaches your Durability $&lt;u0&gt;$ 1.5 (for biomorphs) or Durability $&lt;u1&gt;$ 2 (for synthetic morphs), your body dies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si les dégâts atteignent votre Solidité $&lt;u0&gt;$ 1.5 (pour les biomorphs) ou Solidité $&lt;u1&gt;$ 2 (pour les morphs synthétiques), votre corps décède.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This known as your Death Rating.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce seuil est appelé votre Seuil de Mort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Synthetic morphs that reach this state are destroyed beyond repair.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les morpsh synthétiques qui atteignent cet état sont détruites au-delà de toute réparation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Damage value}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Valeur de dégats}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Weapons (and other sources of injury) in &lt;i0&gt;Eclipse Phase&lt;/i0&gt; have a listed Damage Value (DV) --- the base amount of damage points the weapon inflicts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les armes (et les autres sources de blessures) dans &lt;i0&gt;Eclipse Phase&lt;/i0&gt; ont toutes une Valeur de Dégats (DV) - le montant de base de points de dégats infligés par l'arme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is often presented as a variable amount, in the form of a die roll; for example: 3d10.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette valeur est souvent présentée comme une quantité variable, sous le forme d'un jet de dé; par exemple: 3d10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, you roll three ten-sided dice and add up the results (counting 0 as 10).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, vous lancez trois dés à dix faces et vous additionnez els résultats (encomptant le 0 comme un 10).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sometimes the DV will be presented as a dice roll plus modifier; for example: 2d10 + 5.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Parfois la VD sera présentée comme un jet de dé plus un modificateur; par exemple: 2d10 + 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case you roll two ten-sided dice, add them together, and then add 5 to get the result.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas vous lancez deux dés à dix faces, les additionnez, puis y ajoutez 5 pour obtenir le résultat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For simplicity, a static amount is also noted in parentheses after the variable amount.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour simplifier, une quantité statique de dommage est également notée entre parenthèse après la valeur variable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you prefer to skip the dice rolling, you can just apply the static amount (usually close to the mean average) instead.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous préférez supprimer le lancer de dés, vous pouvez simplement apppliquez la valeur statique(générallement proche de la médiane) à la place.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, if the damage were noted 2d10 + 5 (15), you could simply apply 15 damage points instead of rolling dice.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, si les dégats sont notés 2d10 + 5 (15), vous pouvez simplement appliquer 15 points de dégâts au lieu de lancer le dé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When damage is inflicted on a character, determine the DV (roll the dice) and subtract the modified armor value, as noted under &lt;i0&gt;Step 7: Determine Damage&lt;/i0&gt; (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque des dégats sont infligés à un personnage, déterminez la VD (lancer les dés) et soustrayez la valeur d'armure telle que noté à &lt;i0&gt;Étape 7: Déterminez les Dégâts&lt;/i0&gt; (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Wounds}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Blessures}</seg>
       </tuv>
     </tu>
     <tu>
