@@ -15993,7 +15993,7 @@
         <seg>Suryas are protected by layers of liquid water “blubber” that capture harmful ions, which internal medichines extract and eject, while maintaining useful elements such as oxygen and hydrogen, from which more water can be synthesized.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Les Suryas sont protégés par des couches de &quot;barboteur&quot; d'eau liquide qui capture les ions dangereux, qui sont extraits et rejettés apr une médication interne, toute en maintenant les éléments utiles tels que l'oxygène et l'hydrogène, qui permettent à leur tour de syntéhtiser encore plus d'eau.</seg>
+        <seg>Les Suryas sont protégés par des couches de &quot;barboteur&quot; d'eau liquide qui capture les ions dangereux, qui sont extraits et rejettés par des méchidaments internes, toute en maintenant les éléments utiles tels que l'oxygène et l'hydrogène, qui permettent à leur tour de syntéhtiser encore plus d'eau.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19065,7 +19065,7 @@
         <seg>Extropia is a neutral free city whose infrastructure and social fabric is maintained by a loose association of anarcho-syndicalist affinity groups.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Extropia eszt une cité libre neutre dont l'infrastructure et le tissu social est maintenu par une association informelle de groupes d'affinité anarcho-syndicaliste.</seg>
+        <seg>Extropia est une cité libre neutre dont l'infrastructure et le tissu social sont maintenus par une association informelle de groupes d'affinité anarcho-syndicaliste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19073,7 +19073,7 @@
         <seg>Extropia's neutrality hinges on strategic alliances between key local figures, their networks, and an unusual array of outside interests that include the Lunar banks, technolibertarian factions, and outer system colonies dependent upon raw materials exported from the belt.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>La neutralité d'Extropia dépend des allaiances stratégiques entre les personnages clefs locaux, leur réseau et un nombre inhabituel d'intérêt extérieur incluant les banques Lunaires, les factions technolibertarienne et les colonnies du système extéireur dépendant des matériaux bruts importés de la ceinture.</seg>
+        <seg>La neutralité d'Extropia dépend des alliaances stratégiques entre les personnages clefs locaux, leur réseau et un nombre inhabituel d'intérêt extérieur incluant les banques Lunaires, les factions technolibertarienne et les colonnies du système extéireur dépendant des matériaux bruts importés de la ceinture.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19089,7 +19089,7 @@
         <seg>There are no laws or government as such; visitors are advised to register with an insurance and security provider.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Il n'y a pas de lois ou de gouvernemetn en tan t que tel; on conseille aux visiteurs de souscrire à une assurance et à un prestataire de sécurité.</seg>
+        <seg>Il n'y a pas de lois ou de gouvernement en tan t que tel; on conseille aux visiteurs de souscrire à une assurance et à un prestataire de sécurité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23994,6 +23994,14 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>AST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Implants: Adrenal Boost, Carapace Armor (11/11), Chameleon Skin, Cyberclaws, Drug Glands, Endocrine Control, Enhanced Hearing, Enhanced Smell, Enhanced Vision, Grip Pads, Hardened Skeleton, Medichines, Muscle Augmentation, Neurachem (Rating 2), Oxygen Reserve, Poison Gland, Prehensile Feet, Prehensile Tail, Respirocytes, Temperature Tolerance, Toxin Filters, Vacuum Sealing, plus any other mods the gamemaster feels appropriate </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Implants: Adrenal Boost, Carapace Armor (11/11), Chameleon Skin, Cyberclaws, Drug Glands, Endocrine Control, Enhanced Hearing, Enhanced Smell, Enhanced Vision, Grip Pads, Hardened Skeleton, Méchidaments, Muscle Augmentation, Neurachem (Rating 2), Oxygen Reserve, Poison Gland, Prehensile Feet, Prehensile Tail, Respirocytes, Temperature Tolerance, Toxin Filters, Vacuum Sealing, plus any other mods the gamemaster feels appropriate </seg>
       </tuv>
     </tu>
     <tu>
@@ -42433,7 +42441,7 @@
         <seg>Gone.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Disparues.</seg>
+        <seg>Parti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55834,6 +55842,1038 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>{Blessures}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wounds represent more grievous injuries: bad cuts and hemorrhaging, fractures and breaks, mangled limbs, and other serious damage that impairs your ability to function and may lead to death or long-term damage.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les blessures représentent des belssures plus sérieuses: mauvaises coupures et hémoragie, fractures et cassures, membrs mutilés et autres dommages sérieux qui handicapent votre capacité à fonctionner et peuvent se terminer par la mort ou des dégats à long terme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any time your character sustains damage, compare the amount inflicted (after it has been reduced by armor) to your Wound Threshold.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À chaque fois que votre personnage encaisse des dégâts, comaprez le total infligé (arpès l'avoir réduit par l'armure) à votre Seuil de Blessure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the modified DV equals or exceeds your Wound Threshold, you have suffered a wound.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si la VD modifiée atteint ou surpasse votre Seuil de Blessure, vous subissez une blessure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the inflicted damage is double your Wound Threshold, you suffer 2 wounds; if triple your Wound Threshold, you suffer 3 wounds; and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si les dommages infligés font le double de votre Seuil de Blessure, vous subissez 2 blessures; si c'est le triple, vous subissez 3 blessures; et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wounds are cumulative, and must be marked on your character sheet.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les blessurs sont cumulatives, et doivent être notée sur votre fiche de personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that these rules handle damage and wounds as an abstract concept.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que cs règles gèrent les dégats et les blessure comme étant un concept abstrait.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For drama and realism, gamemasters may wish to describe wounds in more detailed and grisly terms: a broken ankle, a severed tendon, internal bleeding, a lost ear, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour des raisons dramatiques et de réalisme, le maître de jeu peut souhaiter décrire les blessure d'une manière plus détaillée et macabres: une cheville cassée, un tendon sectionné, des hémorragies internes, une oreille perdue, et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The nature of such descriptive injuries may help the gamemaster assign other effects.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La nature de ces blessures descriptives peuvent aider le maître de jeu à aasigner d'autres effets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, a character with a crushed hand may not be able to pick up a gun, someone with excessive blood loss may leave a trail for their enemies to follow, or someone with a cut eye may suffer an additional visual perception modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, un personnage avec une main broyée pourrait ne pas être capable d'attraper une arme, quelqu'un ayant perdu beaucoup de sang peut laisser une piste que ses ennemis peuvent suivre, ou quelqu'un ayant un œil arraché pourrait subir des modificateurs de perception visuelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, such details may impact how a character is treated or heals.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces détails peuvent également impacter la manière dont un personnage sera traité ou soigné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Wound effects}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Effets des blessures}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each wound applies a cumulative -10 modifier to all of the character’s actions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque blessure applique un modificateur de -10 à toutes les actions du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character with 3 wounds, for example, suffers -30 to all actions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage ayant 3 blessurs, par exemple, subit un modificateur de -30 à toutes ses actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some traits, morphs, implants, drugs, and psi allow a character to ignore wound modifiers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains traits, morphs, implants, drogues et psis permettent à un personnage d'ignorer les modificateurs de blessures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These effects are cumulative, though the maximum amount of wound modifiers that may be negated is -30.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces effets sont cumulatifs, bien que le total de modificateurs de blessure pouvant être annulés est -30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Knockdown: Any time a character takes a wound, they must make an immediate SOM $$ 3 Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Jetté au sol: À chaque fois qu'un personnage prend une blessure, il doit immédiatement faire un Test de SOM $$ 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wound modifiers apply.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les modificateurs de Blessures s'appliquent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If they fail, they are knocked down and must expend a Quick Action to get back up.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si il échoue, il est jetté à terre et doit dépenser une Action Rapide pour se relever.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bots and vehicles must make a Pilot Test to avoid crashing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les bots et les véhicules doivent réussir un Test de Piloter pour éviter de s'écraser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unconsciousness: Any time a character receives 2 or more wounds at once (from the same attack), they must also make an immediate SOM $$ 3 Test; wound modifiers again apply.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Incsonscience: Â chaque fois qu'un personnage reçoit 2 blessure ou plus en une fois (de la même attaque), ils doivent également faire immédiatement un Test de SOM $$ 3; les modificateurs de blessures s'appliquent également.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If they fail, they have been knocked unconscious (until they are awoken or heal).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si il échoue, il sombre dans l'inconscience (jusqu'à ce qu'ils soient réveillés ou soignés).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bots and vehicles that take 2 or more wounds at once automatically crash (see Crashing, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les bots et les véhicules qui subissent 2 blessures ou plus en une seule fois s'écrasent automatiquement (voir S'Écraser, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bleeding: Any biomorph character who has suffered a wound and who takes damage that exceeds their Durability is in danger of bleeding to death.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Saigner: Toute les personnages en biomorph qui ont subit une belssure et qui suboissent des dégâts qui dépassent leur Solidité court le risque de saigner à mort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They incur 1 additional damage point per Action Turn (20 per minute) until they receive medical care or die.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils subissent 1 point de dégats supplémentaires par Tour d'Action (20 par minutes) jusqu'à ce qu'ils reçoivent des soins médicaux ou qu'ils meurent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Death} For many people in Eclipse Phase, death is not the end of the line.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Mort} Pour beaucoup de gens dans Eclipse Phase, la mort n'est pas le bout du tunnel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character’s cortical stack can be retrieved, they can be resurrected and downloaded into a new morph (see Resleeving, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si la pile corticale du personnage peut-être récupérée, il peut être ressuscité et téléchargé dans une nouvelle morph (voir Réincarnation, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This typically requires either backup insurance (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela nécessite en général une assurance sauvegarde (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>269) or the good graces of whomever ends up with their body/stack.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>269) ou les bonnes grâces de quiconque finit par récupérer le corps/la pile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the cortical stack is not retrievable, the character can still be re-instantiated from an archived backup (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si la pile corticale n'est pas récupérable, le personnage peut toujours être ré-instantié depuis une sauvegarde archivée (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Again, this either requires backup insurance or someone who is willing to pay to have them revived.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela nécessite toujours soit une assurance sauvegarde soit quelqu'un qui voudra bien payer pour le faire revivre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character’s cortical stack is not retrieved and they have no backup, then they are completely and utterly dead.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si la pile corticale du personnage n'est pas récupée et qu'il n'a pas de sauvegarde, ils sont complètement et définitivement mort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Kaput.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Kapout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(Unless they happen to have an alpha fork of themselves floating around somewhere; see Forking and Merging, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>(Sauf si ils ont un fork alpha se balladant quelque part; voir Forker et Fusionner, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Healing and repair</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Soins et réparations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Use the follow rules for healing and repairing damaged and wounded characters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>utilisez les règles suivantes pour soigner et réparer les personnages blessés et endommagés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Biomorph healing}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Soin des biomorphs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thanks to advanced medical technologies, there are many ways for characters in biological morphs (including pods) to heal injuries.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Grâce aux technologies médicales avancée, il y a beauocupd e manière pour les personnages en biomorphs (incluant les pods) de guérir de leur blessure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Medichine nanoware (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les méchidaments nanoscopiques (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>308) helps characters to heal quickly, as do nanobandages (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>308) aide les personnages à se soigner rapidement, de même que les nanobandages (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Healing vats (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les cuves de soin (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>326) will heal even the most grievous wounds in a matter of days, and can even restore characters who recently died or have been reduced to just a head.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>326) soigenront même les blessures les plus graves en quelques jours, et peuvent même restaurer les personnages récemmenet décédés ou n'ayant plus que leur tête.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters without access to these medical tools are not without hope, of course.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>bein enetendu, les personnages n'ayant pas accès à ces outils médicaux ne sont pas sans espoir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The medical skills of a trained professional can abate the impact of wounds, and over time bodies will of course heal themselves.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les compétences médicales de professionnels entraînés peuvent réduire l'impact des blessures et les corps se guérissent d'eux-même avec le temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Medical care}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Attention médicale}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters with an appropriate Medicine skill (such as Medicine: Paramedic or Medicine: Trauma Surgery) can perform first aid on damaged or wounded characters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages ayant une compétence Médecine appropriée (telle que Madecine: Premiers Soins ou Médecine: Chirurgie traumatique) peuvent feffecteur les premiers soins sur les prsonnages blessés ou endommagés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A successful Medicine Test, modified as the gamemaster deems fit according to situational conditions, will heal 1d10 points of damage and will remove 1 wound.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un test de Médecine réussit, modifié de manière approprié en fonction de la situation, soignera 1d10 points de dégat et supprimera 1 blessure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This test must be made within 24 hours of the injury, and any particular injury may only be treated once.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce test doit être effectué dans les 24 heures suivant la blessure, et chaque blessure ne peut être traitée qu'une fois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character is later injured again, however, this new damage may also be treated.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le personnage est blessé de nouveau un peu plus tard, ces nouveaux dégâts peuvent également être traités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Medical care of this sort is not effective against injuries that have been treated with medichines, nanobandages, or healing vats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les soins médicaux de ce type ne sont aps efficace contre les blessures qui ont été traitées avec des méchidaments, des nanobandages ou des cuves de soins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Natural healing}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Guréison naturelle}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters trapped far from medical technology --- in a remote station, the wilds of Mars, or the like --- may be forced to heal naturally if injured.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages coincés loins de toute technologie médicale - dans une station éloignée, dans les étendues sauvages de Mars ou n'importe quel équivalent - puevent être forcés de guérir naturellement si ils sont blessés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Natural healing is a slow process that’s heavily influenced by a number of factors.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La guérison naturelle est un processuss lent qui est largement influencé par un grand nombre de facteurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In order for a character to heal wounds, all normal damage must be healed first.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Afin qu'un personnage soigne ses blessures, tous les dégâts normaux doivent être soignés d'abord.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Consult the Healing table.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Consultez la table de Guérison.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Surgery}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Chirurgie}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In Eclipse Phase, most grievous injuries can be handled by time in a healing vat (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À Eclipse Phase, la plupart des blessures graves peuvent être soignées en passant du temps dans une cuve de guérison (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>326) or simply rest and recovery.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>326) ou simplement en se reposant et en récupérant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In circumstances where a healing vat is not available, the gamemaster may decide that a particular wound requires actual surgery from an intelligent being (whether a character or AI-driven medbot).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les circonstances où une cuve de guérison n'est pas disponible, le maître de jeu peut décider qu'une blessure particulière nécessite de la chirurgie pratiéquée apr un organisme conscient (qu'il s'agisse d'un personnage ou d'un bot de soin piloté par IA).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Usually in this case the character will be incapable of further healing until the surgery occurs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ces cas là, le personnage sera incapable de se soigner tant qu'il n'aura pas pu bénéficier de la chirurgie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The surgery is handled as a Medical Test using a field appropriate to the situation and with a timeframe of 1-8 hours.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La chirurgie est gérée par un Test de Meédecine utilisant un domaine approprié à la situation et avec un intervalle de 1 à 8 heures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If successful, the character is healed of 1d10 damage and 1 wound and recovers from that point on as normal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le teste réussit, le personnage est soigné d'1d10 point de dégats et d'1 blessure et récupère ensuite depuis cette étape de manière normale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{3}{|c|}{Healing} </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{3}{|c|}{Guérison} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character situation</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>État du personnage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Damage healing rate</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vitesse de guérison des dégats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wound healing rate </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vitesse de guérison des blessures </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character without basic biomods</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Personnage sans biomods de base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1d10 (5) per day</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1d10 (5) tous les  jours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1 per week	</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1 toutes les semaines	</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character with basic biomods</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Personnage avec des biomods de base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1d10 (5) per 12 hours</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1d10 (5) toutes les 12 heures</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1 per 3 days	</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1 tous les 3 jours	</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character using nanobandage</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Personnage utilisant des nanobandages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1d10 (5) per 2 hours</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1d10 (5) toutes les 2 heures</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1 per day	</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1 tous les jours	</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character with medichines</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Personnage avec des méchidaments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1d10 (5) per 1 hour</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1d10 (5) toutes les heures</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1 per 12 hours	</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1 toutes les 12 heures	</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Poor conditions (bad food, not enough rest/heavy activity, poor shelter and/or sanitation)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mauvaises conditions (malbouffe, pas assez de repos/activité importante, mal abrité/mauvaise conditions d'hygiène)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>double timeframe</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>doublez l'intervalle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>double timeframe </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>doublez l'intervalle </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Harsh conditions (insufficient food, no rest/strenuous activity, little or no shelter and/or sanitation)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Conditions horiibles (malnutrition, pas de repos/activité stressante, pas ou peu d'abri et/ou d'hygiène)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>triple timeframe</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>triplez l'intervalle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>no wound healing </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>pas de guérison des blessures</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Synthmorph and Object repair}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Réparation des synthmoprhs et des objets}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unlike biomorphs, synthetic morphs and objects do not heal damage on their own and must be repaired.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Contrairement aux biomorphs, les synthmorphs et les objets ne guérissent pas des dégâts par eux-même et doivent être réparés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some synthmorphs and devices have advanced nanotech selfrepair systems, similar to medichines for biomorphs (see Fixers, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques synthmorphs et périphériques ont des systèmes d'autoréparation nanotechnologique, similaire au méchidaments des biomorphs (voir Réparateurs, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Repair spray (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les spray de Réparations (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>333) may also be used to conduct fixes and is an extremely useful option for non-technical people.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>333) peuvent également être utilsiés pour faire des réparations et est une option extrêmement utile pour les personnes non-techniciennes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Barring these options, technicians may also work repairs the old-fashioned way, using their skills and tools (see Physical Repairs, below).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En plus de ces options, les techniciens peuvent également réparer à l'ancienne, utilisant leurs compétences et outils (voir Réparations Physique, ci-dessous).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a last resort, synthmorphs and objects may be repaired in a nanofabrication machine with the appropriate blueprints (using the same rules as healing vats, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En dernier recours, les synthmorphs et les objets peuvent être réparés dans un nanofabeur avec les schémas appropriés (en utilisant les mêmes règles que pour les cuves de soins, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Physical repairs}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Réparation physique}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manually fixing a synthmorph or object requires a Hardware Test using a field appropriate to the item (Hardware: Robotics for synthmorphs and bots, Hardware: Aerospace for aircraft, etc.), with a -10 modifier per wound.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Réparer manuellement une synthmorphs ou un objet nécessite un Test de Matériel avec un domaine approprié à l'objet (Matériel: Robotique pour les synthmorpsh et les bots, Matériel: Aéropspatial pour les avions, etc), avec un modificateur de -10 par blessure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Repair is a Task Action with a timeframe of 2 hours per 10 points of damage being restored, plus 8 hours per wound.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Réparer est une Action de Tâche avec un intervalle de 2 heures par tranche de 10 points de dégats à réparer, augmenté de 8 heure par blessures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Appropriate modifiers should be applied, based on conditions and available tools.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des modificateurs appropriés peuvent être appliqués, basés sur les conditions et les outils disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, utilitools (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exmemples, les outils universels (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>326) apply a +20 modifier to repair tests, while repair spray applies a +30 modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>326) appliquent un modificateur de +20 aux tests de réparation, et les spray de réparation donnent un modificateur de +30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Repairing armor}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Réparation d'armure}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Armor may be repaired in the same manner as Durability, however, wounds do not impact the test with modifiers or extra time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les armures peuvent être réparées de la même manière que la Solidité mais les blessures n'affectent pas les modificateurs ou la durée du test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mental health</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Santé mentale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In a time when people can discard bodies and replace them with new ones, trauma inflicted on your mind and ego --- your sense of self --- is often more frightening than grievous physical harm.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À une époque dans laquelle les personnes peuvent abandonner leurs corps et les remplacer avec un nouveau, les traumatismes infligés à votre esprit et à votre ego - votre perception de soi - sont souvent plus effrayants que les plus graves des dégâts physiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are many ways in which your sanity and mental wholeness can be threatened: experiencing physical death, extended isolation, loss of loved ones, alien situations, discontinuity of self from lost memories or switching morphs, psi attack, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a de nombreuses situations qui peuevnt menacer votre intégrité et votre santé mentale: faire l'expérience de la mort, l'isolation prolongée, la perte des gens aimés, les situatiosn étrangères, la discontinuité de sa personne due à la perte de souvenirs ou au changement de morph, les attaques psi et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Two methods are used to gauge your mental health: stress points and trauma.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Deux méthodes sont utilisées pour mesurer votre santé mentale: les points de stress et les trauma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Stress points}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Points de stress}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stress points represent fractures in your ego’s integrity, cracks in the mental image of yourself.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les points de stress représentent les fractures dans l'intégrtité de votre égo, les fissures dans l'image mentale de vous-même.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This mental damage is experienced as cerebral shocks, disorientation, cognitive disconnects, synaptic misfires, or an undermining of the intellectual faculties.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les dommages mentaux sont vécus comme des chcos cérébraux, de la désorientation, des déconnexions cognitives, des courts-circuits synaptique ou une perte des facultés intellectuelles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On their own, these stress points do not significantly impair your character’s functioning, but if allowed to accumulate they can have severe repercussions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces stress points en eux-même n'handicapent pas significativement le focntionnement de votre personnage, mais si ils commencent à s'accumuler ils peuvent avoir de sérieuses répercussions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additionally, any source that inflicts a large amount of stress points at once is likely to have a more severe impact (see Trauma).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Additionellement, toute source qui inflige un montant élevé de points de stress en une seule fois à de bonnes cahnces d'avoir un impact plus grave (voir Trauma).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stress points may be reduced by long-term rest, psychiatric care, and/or psychosurgery (see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les points de stress peuvent être réduit à long-terme par du repos, des soins psychiatrique et/ou de la psychochirurgie (voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Lucidity and stress}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Stress et lucidité}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your Lucidity stat benchmarks your character’s mental stability.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Votre stat Lucidité mesure la stabilité mentale de votre personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you build up an amount of stress points equal to or greater than your Lucidity score, your character’s ego immediately suffers a mental breakdown.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous accumulez un total de points de stress supérieur ou égal à votre score de Lucidité, l'ego de votre personnage souffre immédiatement d'une dérpession nerveuse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You effectively go into shock and remain in a catatonic state until your stress points are reduced to a level below your Lucidity stat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous enrez en état de chocs et restez dans un état catatonique jusqu'à ce que vos points de stress soient réduits à un niveau inférieur à votre stat de Lucidité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Accumulated stress points will overwhelm egos housed inside synthetic shells or infomorphs just as they will biological brains --- the mental software effectively seizes up, incapable of functioning until it is debugged.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les points de stress accumlés surchargeront les egos hébergés dans des coques synthétiques ou des infomorphs de la mrme manière que pour les cerveaux bilogiques - le logiciel mental tombe effectivement en panne, incpabale de fonctionner jusqu'à ce qu'il soit débugué.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Insanity rating}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Seui de folie}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Extreme amounts of built-up stress points can permanently damage your character’s sanity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le montant extrême de points de stress subit peut endommanger la santé mentale de votre personnage de mnaière permanente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If accumulated stress points reach your Lucidity $$ 2, your character’s ego undergoes a permanent meltdown.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si les points de stress accumulé atteignent votre Lucidité $$ 2, l'ego de votre personnage subit un effondrement permanent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your mind is lost, and no amount of psych help or rest will ever bring it back.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Votre esprit est perdu, et aucune quantité d'aide psychologique ou de repos ne pourra le ramener.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Stress value}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Valeur de stress}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any source capable of inflicting cognitive stress is given a Stress Value (SV).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toute source capable d'inliger un stress cognitif a une Valeur de Stress (VS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This indicates the amount of stress points the attack or experience inflicts upon a character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle indique le nombre de points de stress que l'attaque ou l'expérience inflige à un personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Like DV, SV is often presented as a variable amount, such as 2d10, or sometimes with a modifier, such as 2d10 + 10.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme la VD, la VS est souvent présenté comme une valeur variable, telle que 2d10, ou parfois avec un modificateur, telle que 2d10 + 10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Simply roll the dice and total the amounts to determine the stress points inflicted in that instance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lancez simplement les dés et additionnez en les résultats pour déterminer les points de stress  infligés par cet évènement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To make things easier, a static SV is also given in parentheses after the variable amount; use that set amount when you wish to keep the game moving and don’t want to roll dice.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour simplifier les choses, une VS statique est également proposée entre parenthèse juste après le montant variable; utilisez cette valeur lorsque vous voulez garder le rythme de la partie et ne voulez pas lancer de dés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mental trauma is more severe than stress points.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les tramuamtismes mentaux sont bien plus grave que les poitns de stress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Traumas represent severe mental shocks, a crumbling of personality/self, delirium, paradigm shifts, and other serious cognitive malfunctions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les traumas représentent des chocs mentaux graves, un effondrement de la personnalité/du soi, le délire, les changements de apradigmes et tous les autres disfonctionnement cognitifs graves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Traumas impair your character’s functioning and may result in temporary derangements or permanent disorders.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lestraumas perturbent le fonctionnement de votre personnage et peuvent générer des dérangements temporaires ou des troubles permanents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If your character receives a number of stress points at once that equals or exceeds their Trauma Threshold, they have suffered a trauma.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si votre personnage reçoit en une seule fois un nombre de points de stress supérieur ou égal à son Seuil de Traume, il subit un trauma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the inflicted stress points are double or triple the Trauma Threshold, they suffer 2 or 3 traumas, respectively, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si les points de stress infligés font le double ou le triple de votre Seuil de Trauma, vous subissez 2 ou 3 traumas respectivements, et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Traumas are cumulative and must be recorded on your character sheet.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les traumas sont cumulatives, et doivent être notée sur votre fiche de personnage.</seg>
       </tuv>
     </tu>
     <tu>
