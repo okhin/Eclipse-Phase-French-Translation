@@ -54449,7 +54449,7 @@
         <seg>To SOM $&lt;u0&gt;$ 2 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Jusqu'à SOM $&lt;u0&gt;$ 2 &lt;/br0&gt;</seg>
+        <seg>Jusqu'à SOM $&lt;u0&gt;$ 2 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -54457,7 +54457,7 @@
         <seg>To SOM $&lt;u0&gt;$ 3 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Jusqu'à SOM $&lt;u0&gt;$ 3 &lt;/br0&gt;</seg>
+        <seg>Jusqu'à SOM $&lt;u0&gt;$ 3 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -56657,7 +56657,7 @@
         <seg>Two methods are used to gauge your mental health: &lt;i1&gt;stress points&lt;/i1&gt; and &lt;i2&gt;trauma&lt;/i2&gt;.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Deux méthodes sont utilisées pour mesurer votre santé mentale: les &lt;i1&gt;points de stress&lt;/i1&gt; et les &lt;i1&gt;trauma&lt;/i2&gt;.</seg>
+        <seg>Deux méthodes sont utilisées pour mesurer votre santé mentale: les &lt;i1&gt;points de stress&lt;/i1&gt; et les &lt;i2&gt;trauma&lt;/i2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56874,6 +56874,1470 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Les traumas sont cumulatives, et doivent être notée sur votre fiche de personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Trauma effects}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Effets des traumas}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each trauma applies a cumulative -10 modifier to all of the character’s actions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque trauma applique un modificateur de -10 à toutes les actions du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character with 2 traumas, for example, suffers -20 to all actions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, un personnage avec 2 traumas subit -20 à toutes ses actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These modifiers are also cumulative with wound modifiers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces odificateurs se cumulent également avec les modificateurs de blessures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Disorientation:&lt;/i0&gt; Any time a character suffers a trauma, they must make an immediate WIL $&lt;u0&gt;$ 3 Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Désorientation:&lt;/i0&gt; À chaque fois qu'un personnage souffre d'un trauma, il doit immédiatement faire un Test de VOL $&lt;u0&gt;$ 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Trauma modifiers apply.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les modificateurs de Traumas s'appliquent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If they fail, they are temporarily stunned and disoriented, and must expend a Complex Action to regain their wits.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si il échoue, il est temporairemen étourdi et désorienté, et doit dépenser une Action COmplexe pour reprendre ses esprits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Derangements and Disorders:&lt;/i0&gt; Any time a character is hit with a trauma, they suffer a temporary derangement (see &lt;i1&gt;Derangements&lt;/i1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Troubles et Désordres:&lt;/i0&gt; À chaque fois qu'un personnage est frappé d'unt rauma, il souffre d'un trouble temporaire (voir &lt;i1&gt;Troubles Mentaux&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The first trauma inflicts a &lt;i2&gt;minor&lt;/i2&gt; derangement.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le premier trauma inflige un trouble &lt;i2&gt;mineur&lt;/i2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a second trauma is applied, the first derangement is either upgraded from minor to a &lt;i3&gt;moderate&lt;/i3&gt; derangement, or else a second minor derangement is applied (gamemaster’s discretion).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un deuxième trauma est appliqué, le premier troubme passe soit d'un mineur à un trouble &lt;i3&gt;modéré&lt;/i3&gt;, ou un deuxième trouble mineur est appliqué (à la discrétion du maître de jeu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, a third trauma may upgrade that derangement from moderate to &lt;i4&gt;major&lt;/i4&gt; or else inflict a new minor.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, un troisième dérangement fera passer un trouble de modéré à &lt;i4&gt;majeur&lt;/i4&gt; ou en infligera sinon un mineur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is generally recommended that derangements be upgraded in potency, especially when result from the same set of ongoing circumstances.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il est recommandé de choisir d'augmenter le niveau des troubles, particulièrement si ils sont la conséquence d'un même ensemble de circonstances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the case of traumas that result from distinctly separate situations and sources, separate derangements may be applied.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans le cas des traumas qui résultent de situations et sources distinctes, des troubles différents peuvent être appliqués.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Disorder:&lt;/i0&gt; When four or more traumas have been inflicted on a character, a major derangement is upgraded to a disorder.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Désordres:&lt;/i0&gt; Lrosque quatre trauma ou plus sont infligé à un personnage, un trouble majeur se transforme en désordre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Disorders represent long-lasting psychological afflictions that typically require weeks or even months of psychotherapy and/or psychosurgery to remedy (see &lt;i1&gt;Disorders&lt;/i1&gt;, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les désordre représentent des afflictions psychologiques à long-terme, qui nécessitent géénralement des semaiens ou des mois de psychothérapie et/ou de psychochirurgie pour être soignés (coir &lt;i1&gt;Désordres Mentaux&lt;/i1&gt;, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Derangements}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> {Troubles mentaux}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Derangements are temporary mental conditions that result from traumas.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les troubles metaux sont une condition mentale temporaire qui sont la conséquence des traumas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Derangements are measured as Minor, Moderate, or Major.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les dérangements sont Mineur, Modéré ou Majeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster and player should cooperate in choosing which derangement to apply, as appropriate to the scenario and character personality.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maîþre de jeu et le joueur devrait coopérer pour choisir quel dérangement appliqué, de manière appropriée au scénario et à la personalité du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Derangements last for 1d10 $&lt;u0&gt;$ 2 hours (round down), or until the character receives psychiatric help, whichever comes first.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les dérangements durent pendant 1d10 $&lt;u0&gt;$ 2 heures (arrondissez à l'inférieur) ou jusqu'à ce que le personnage reçoive une aide psychiatrique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the gamemaster’s discretion, a derangement may last longer if the character has not been distanced from the source of the stress, or if they remain embroiled in other stress-inducing situations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A la discrétion du maître de jeu, un trouble pourrait durer plus longuement si le personnage n'as aps distancé la source de stress, ou si il reste empétré dans une situation stressante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Derangement effects are meant to be role-played.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les effets des troubles mentaux sont fait pour être interprétés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The player should incorporate the derangement into their character’s words and actions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage devrait intégrer le dérangement aux paroles et actions de leur personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the gamemaster doesn’t feel the player is stressing the effects enough, they can emphasize them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le maître de jeu pense que le joueur n'intégre pas suffisament les effets, il peut les renforcer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the gamemaster feels it is appropriate, they may also call for additional modifiers or tests for certain actions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le maître de jeu le pense approprié, il peut également utiliser des modificateurs ou des tests pour certaines actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Anxiety (minor)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Anxiété (mineur)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You suffer a panic attack, exhibiting the physiological conditions of fear and worry: sweatiness, racing heart, trembling, shortness of breath, headaches, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous subissez une attaque de panique, exhibant les conditions physiologique de peur et d'inquiétude: transpiration, poul accéléré, tremblement, insuffisance respiratoire, migraines, et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Avoidance (minor)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Fuite (mineur)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You are psychologically incapable with dealing with the source of the stress, or some circumstance related to it, so you avoid it --- even covering your ears, curling up in a ball, or shutting off your sensors if you have to.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous êtes psychologiquement incapable de gérer la source de stress ou des circonstances en lmien avec cette source, et vous l'éviter dans la mesure du possible - allant jusqu'à couvrir vos oreilles, vous mettre en boule ou éteignez vos senseurs si il faut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Dizziness (minor)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Vertige (mineur)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The stress makes you light-headed and disoriented.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous êtes pris de vertige et désorienté par le stress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Echoalia (minor)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Écholalie (mineur)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You involuntarily repeat words and phrases spoken by others.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous répétez involontairement les mots et les phrases prononcés par d'autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Fixation (minor)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Fixation (mineur)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You become fixated on something that you did wrong or some circumstance that led to your stress.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous devenez obsédé par quelque chose que vous avez raté ou par les circonstances qui ont amené à ce stress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You obsess over it, repeating the behavior, trying to fix it, running scenarios through your head and out loud, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous êtes complètement obsédé par cela, répétant le comportement, essayant de le réparer, répétant les scénarios dans votre tête à voix haute, et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Hunger (minor)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Affamé (mineur)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You are suddenly consumed by an irrational yet overwhelming desire to eat something --- perhaps even something unusual.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous êtes soudainement consumé par une un désir écrasat de manger quelque chose - peut-être même quelque chose d'inhabituel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Indecisiveness (minor)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Indécision (mineur)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You are flustered by the cause of your stress, finding it difficult to make choices or select courses of action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous êtes énervé par les causes de votre stress, trouvant difficile de faire des choix ou de choisir une suite d'action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Logorrhoea (minor)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Logorrhoée (mineur)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your response to the trauma is to engage in excessive talking and babbling.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Votre réponse au trauma est de vous lancez dans une conversation excessive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You don’t shut up.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous ne pouvez pas vous taire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Nausea (minor)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Nausée (mineur)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The stress sickens you, forcing you to fight down queasiness.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les tress vous rend malade, vous froçant à combattre le malaise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Chills (moderate)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Frissons (modéré)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your body temperature rises, making you feel cold, and shivering sets in.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Votre température corporelle augmente, vous faisant avoir froid et les frissons s'installent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You just can’t get warm.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous ne pouvez pas vous réchauffer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Confusion (moderate)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Confusion (modéré)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The trauma scrambles your concentration, making you forget what you’re doing, mix up simple tasks, and falter over easy decisions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le trauma brouille votre concentration, vous faisant oublier ce que vous étiez en train de faire, vous faisant rater des tâches simples et hésiter face à des décisions simple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Echpraxia (moderate)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Échopraxie (modéré)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You involuntarily repeat and mimic the actions of others around you.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous répétez et imitez involontairement les actions des autres autour de vous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Mood swings (moderate)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Lunatisme (modéré)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You lose control of your emotions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous perdez le contrôle de vos émotions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You switch from ecstasy to tears and back to rage without warning.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous basculez de l'extase aux larmes et entrez dans un état de colère sans avertissement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Mute (moderate)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Mutisme (modéré)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The trauma shocks you into speechlessness and a complete inability to effectively communicate.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le trauma vous mets dans l'incapacité de perler et dans une incapacité totale à communiquer efficacement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Narcissism (moderate)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Narcissisme (modéré)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the wake of the mental shock, all you can think about is yourself.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les secousses du choc mental, la seule chose à laquelle vous arrivez à penser c'est vous-même.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You cease caring about those around you.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous cessez de vous occupez des autres autour de vous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Panic (moderate)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Panique (modéré)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You are overwhelmed by fear or anxiety and immediately seek to distance yourself from the cause of the stress.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous êtes saturés par la peur et l'énaxiété et cherchez immédiatement à distancer la cause du stress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Tremors (moderate)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Tramblements (modéré)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You shake violently, making it difficult to hold things or stay still.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous tremblez violement, vous empéchant de rester immobile ou de tenir des choses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Blackout (major)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Trou noir (majeur)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You operate on auto-pilot in a temporary fugue state.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous fonctionnez en auto-pilote pendant un état de fugue temporaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Later, you will be incapable of recalling what happened during this period.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plus tard, vous serez incapable de vous rappeller ce qui est arrivé pendant cette épriode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(Synthetic shells and infomorphs may call up memory records from storage.)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>(les coques synthétique et les infomorphs peuvent faire appel à des enregistrements mémoriel depuis une zone de stockage).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Frenzy (major)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Frénésie (majeur)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have a major freak out over the source of the stress and attack it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous êtes terrifiés par la source du stress et l'attaquez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Hallucinations (major)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Hallucinations (majeur)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You see, hear, or otherwise sense things that aren’t really there.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>VOus voyez, entendez ou percevez d'une manière ou d'une autre des choses qui ne sont pas là.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Hysteria (major)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Hystérie (majeur)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You lose control, panicking over the source of the stress.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous perdez le contrôle, paniquant vis à vis de la source du stress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This typically results in an emotional outburst of crying, laughing, or irrational fear.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela amène typiquement à des crises émotionnelles de pleurs, de rire ou de peur irrationelles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Irrationality (major)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Irrationalité (majeur)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You are so jarred by the stress that your capacity for logical judgment breaks down.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous êtes tellemen noyé par le stress que votre capacité pour le jugement logique s'effondre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You are angered by imaginary offenses, hold unreasonable expectations, or otherwise accept things with unconvincing evidence.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous êtes énervé par des offenses imaginaires, vous attendez des autres des choses déraisonnables ou vous acceptez des faits sans preuve convaincantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Paralysis (major)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Paralysie (majeur)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You are so shocked by the trauma that you are effectively frozen, incapable of making decisions or taking action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous êtes tellement sonné par le trauma que vous êtes effectivement gelé, incapable de prendre des décision ou d'agir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Psychosomatic crippling (major)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Handicap psychosomatique (majeur)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The trauma overwhelms you, impairing some part of your physical functioning.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le trauma vous écrase, handicapant une partie de votre fonctionnement physique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You suffer from an inexplicable blindness, deafness, or phantom pain, or are suddenly incapable of using a limb or other extremity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous souffrez de maux inexpliqués telles que la perte de la vue ou de l'ouïe, des douleurs fantômes ou l'incapacité à utiliser un mmebre ou toute autres extrémité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Disorders}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Désordres mentaux}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Disorders reflect more permanent madness.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les désordres reflettent une folie plus permanente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, ``permanent” does not necessarily mean forever, but the condition is ongoing until the character has received lengthy and effective psychiatric help.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, &quot;permanent&quot; ne signifie pas nécessairement pour toujours, mais la maladie durea jusqu'à ce que le personnage reçoive une aide psychiatre longue et efficace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Disorders are inflicted whenever a character has accumulated 4 traumas.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les désordres sont infligés lorsqu'un personnage accumule 4 traumas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster and player should choose a disorder that fits the situation and character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>le maîþre de jeu et le joueur devrait choisir un désordre qui correspond à la situation et au personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Disorders are not always ``active'' --- they may remain dormant until triggered by certain conditions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les désordres ne sont pas toujours &quot;actifs&quot; - ils restent dormant jusqu'à ce qu'ils soient déclenchés par certaines conditions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While it is certainly possible to act under a disorder, it represents a severe impairment to a person’s ability to maintain normal relationships and do a job successfully.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien qu'il soit toujorus possible d'agir en subissant un désordre, il représente un handicap important à la capacité d'une personne à maintenir des relations normales et à accomplir un travail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Disorders should not be glamorized as cute role-playing quirks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les désordres ne devraient pas être valorisé comme étant de mignones bizarreries d'interprétation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They represent the best attempts of a damaged psyche to deal with a world that has failed it in some way.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle représente la meilleure tentative d'une psyché endommagé à gérer un monde qui s'est effondré d'une certaine manière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additionally, people in many habitats, particularly those in the inner system, still regard disorders as a mark of social stigma and may react negatively towards impaired characters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De plus, les personnes de beaucoup d'habitats, particulièrement ceux du système intérieur, considèrent toujours les désordres comme une marque de stigmatisation sociela et régaissent généralement négativement vis à vis des personnages handicapés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters that acquire disorders over the course of their adventures may get rid of them in one of two ways, either through in-game attempts to treat them (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages ayant acquis en cours d'aventures des désordres peuevnt essayer de s'en débarasser de deux manières différentes, soit par des tentatives de les traiter en jeu (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>214) or by buying them off as they would a negative trait (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>214) ou en les rachetant comme ils le feraient avec un trait négatif (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Addiction as a disorder can refer to any sort of addictive behavior focused toward a particular behavior or substance, to the point where the user is unable to function without the addiction but is also severely impaired due to the effects of the addiction.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'addiction est un dsordre qui peut faire référence à toute sorte de comportement addictif concentré sur un comportement ou une substance particulière, au point où l'utilisateur est incapable de fonctionner sans l'addiction et où il est sévèrement handicapé en raison des effets de l'addiction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is marked by a desire on the part of the subject to seek help or reduce the use of the addicting substance/act, but also by the subject spending large amounts of time in pursuit of their addiction to the exclusion of other activities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>l'addiction est marquée par un désir de la part du sujet de chercher de l'aide ou à réduire l'utilisation de la substance/acte addictive, mais également par le fait que le sujet peut apsser beaucoup de temps à chercher à satisfaire leur addiction à l'exclusion de toutes activité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is a step up from Addiction negative trait listed on p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est un cran au-dessu du trait négatif Addiction listé à la p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>148 --- this is much more of a crippling behavior that compensates for spending time away from the addiction.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>148 - c'est un comportement bien plus paralysant qui compense le fait de passer du time loin de l'addiction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Addictions are typically related to the trauma that caused the disorder (VR or drug addictions are encouraged).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les addictiosn sont généralement en lien avec le trauma qui a casué le désordre (addictions à la RV ou aux drogues sont encouragées).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Suggested Game Effects:&lt;/i0&gt; The addict functions in only two states: under the influence of their addiction or in withdrawal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Effets Suggérés en  Jeu:&lt;/i0&gt; L'accroc ne fonctionne que dans deux états: sous l'influence de leur addiction ou en état de manque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additionally, they spend large amounts of time away from their other responsibilities in pursuit of their addiction.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De plus, ils peuvent passer une bonne aprtie du temps à ignorer leurs autres responsabilité en cherchant à satisfaire leur addiction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Atavism}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Atavisme}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Atavism is a disorder that mainly affects uplifts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'atavisme est un désordre qui affecte principalement les élevés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It results in them regressing to an earlier un- or partially- uplifted state.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela résulte en une régressoin vers un stade précode de non- ou de partiellement-élevé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They may exhibit behaviors more closely in line with their more animalistic forbears, or they may lose some of their uplift benefits such as the ability for abstract reasoning or speech.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils peuvent faire preuve d'un comportement plus proche de leurs instcints animaux, à moins qu'ils ne perdent une apr de leurs bénéfices d'être élevés tels que la capacité au raisonnement abstrait et au dialogue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Suggested Game Effects:&lt;/i0&gt; The player and gamemaster should discuss how much of the uplift’s nature is lost and adjust game penalties accordingly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Effets Suggérés en Jeu:&lt;/i0&gt; Le jouer et le maître de jeu devrait décider du point auquel l'élevé a regressé et ajuster les pénalités de jeu de manière appropriée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is important to note that other uplifts view atavistic uplifts with something akin to horror and will usually have nothing to do with them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il est important de noter que d'autres élevés perçoivent les élevés atavistes d'une manière teintée d'horreur et éviterosn en général d'avoir à faire à eux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Attention deficit hyperactivity disorder (ADHD)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Trouble du déficit de l'attention/hypercativité (TDAH)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This disorder manifests as a marked inability to focus on any one task for an extended period of time, and also an inability to notice details in most situations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce désordre se manifeste comme une incapacité marqué à se concentrer sur une seule tâche pur une période de temps étendues, et comme une incapacité à remarquer les détails dans la plupart des situations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sufferers may find themselves starting multiple tasks, beginning a new one after only a cursory attempt at the prior task.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les malades ont tendance à démarrer de nombreuses tâches, en commençant une nouvelle juste après avoir commencé une tâche précédente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ADHD suffers may also have a manic edge that manifests as confidence in their ability to get a given job done, even though they will quickly lose all interest in it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les malades atteints du TDAH peuvent aussi avoir un comportement maniaque qui se manifeste comme uen confiance dans leur capacité à terminer un travail, même si ils vont rapidment y perdre tout intérêt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Suggested Game Effects:&lt;/i0&gt; Perception and related skill penalties.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Effets Suggérés en Jeu:&lt;/i0&gt; Pénalité à la Perception et aux compétences associées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Increased difficulty modifiers to task actions, particularly as the action drags on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Augmentez le modificateur de difficulté pour les actiosn de tâches, partciulièrement si l'action s'éternise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Autophagy}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Autophagie}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is a disorder that usually only occurs among uplifted octopi.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'ets un dérangement qui n'apparaît générallement que chez les poulpes élevés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is a form of anxiety disorder characterized by self-cannibalism of the limbs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est une foprme de désordre anxieux charactisé par l'auto cannibalisation des membres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Subjects afflicted with autophagy will, under stress, begin to consume their limbs, if at all possible, causing themselves potentially serious harm.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les sujets affligé par l'autophagie vont, lorsqu'ils sont soumis au stress, commencé à manger leurs mmebres, si c'est possible, pouvant leur causer de séirueses blessures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Suggested Game Effects:&lt;/i0&gt; Anytime an uplifted octopi with this disorder is placed in a stressful situation they must make a successful WIL $&lt;u0&gt;$ 3 Test or begin to consume one of their limbs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Effets Suggérés en Jeu:&lt;/i0&gt; A chaque fois qu'un poulpe élevé souffrant de ce désordres est placé dans une situation stressante, il doit réussir un Test de VOL $&lt;u0&gt;$ 3 ou commencer à manger l'un de ses membres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Bipolar disorder}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Bipolarité}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bipolar disorder is also called manic depression.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La bipolarité est également connus sou le nom de maladie maniaco-dépressive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is similar to depression except for the fact that the periods of depression are interrupted by brief (a matter of days at most) periods of mania where the subject feels inexplicably ``up” about everything with heightened energy and a general disregard for consequences.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle est similaire à la dépression excepté que les périodes de dpéression sont interrompues par de brèves (quelques jours au plus) périodes maniaque pendant lesquelles le sujet se sentira inexplicablement &quot;en forme&quot; avec une énergie renforcée et généralement peu de considérations pour les conséquences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The depressive stages are similar in all ways to depression.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les phases dépressives sont simialires par tous leurs aspect à la dépression.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The manic stages are dangerous since the subject will take risks, spend wildly, and generally engage in behavior without much in the way of forethought or potential long term consequences.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les phases maniaques sont dangereuse puisque le sujet prendra des risques, dépensera sans faire attention, et se lancera de manière globale dans un comportement sans réellement réfléchir aux implication ou aux conséquence à long-terme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Suggested Game Effects:&lt;/i0&gt; Similar to depression, but when manic the character must make a WIL $&lt;u0&gt;$ 3 Test to not do some action that may be potentially risky.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Effets Suggérés en Jeu:&lt;/i0&gt; Similaire à la dépression, sauf lorsque le personnage est en phase maniaque, auquel cas il doit réussir un Test de VOL $&lt;u0&gt;$ 3 pour ne pas faire certaines actions qui pourraient être dangereuse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They will also try to convince others to go along with the idea.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils essaieront également de convaincre les autres de les suivre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Body dysmorphia}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Dysmorphie corporelle}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Subjects afflicted with this disorder believe that they are so unspeakably hideous that they are unable to interact with others or function normally for fear of ridicule and humiliation at their appearance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les sujets affectés par ce désordre pensent qu'ils sont tellement hideux qu'ils sont incapable d'interagir avec les autres ou d'agir normalement par peur du ridicule et de l'humiliation en raison de leur apparence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They tend to be very secretive and reluctant to seek help because they are afraid others will think them vain --- or they may feel too embarrassed to do so.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils tendent à être discret et répugnent à chercher de l'aide car ils sont terrifiés par ce que les autres penseront d'eux - à moins qu'ils ne se sentent trop embarassés pour le faire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ironically, BDD is often misunderstood as a vanity-driven obsession, whereas it is quite the opposite; people with BDD believe themselves to be irrevocably ugly or defective.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ironiquement, ce désordre est souvent perçu comme une obsession égoîstes, alors que c'est plutôt l'inverse; les personnes souffrant de dysmoprhie corporelle se perçoivent comme étant horrible ou défectueux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A similar disorder, gender identity disorder, where the patient is upset with their entire sexual biology, often precipitates BDD-like feelings.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un désordre similaire, désordre d'identité sexuelle, dans lequel un patient est en désaccord avec sa biologie sexuelle, précède souvent la dysmorphie corporelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gender identity disorder is directed specifically at external sexually dimorphic features, which are in constant conflict with the patient’s internal psychiatric gender.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le désordre de l'identité sexuelle est généralement dirigées contre les caractéristiques sexuelles dysmorphiques externe, qui sont en conlfit constant avec le genre psychiatrique interne du patient.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Suggested Game Effects:&lt;/i0&gt; Because of the nature of Eclipse Phase and the ability to swap out and modify a body, this is a fairly common disorder.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Effets Suggérés en Jeu:&lt;/i0&gt; En raison de la nature d'Eclipse Phase et de la possibilité de changer et de modifier un corps, c'est un désorbre relativement commun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is suggested that characters with this suffer increased or prolonged resleeving penalties since they are unable to fully adjust to the reality of their new morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il est suggéré que les personnage avec ce désordre souffrent de pénalités de réincarnation prolongée ou augmentée puisqu'ils sont incapable de s'adapté complètement à la réalité de leur nouvelle morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Borderline personality disorder}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Personnalité borderline}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This disorder is marked by a general inability to fully experience one’s self any longer.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce désordre est amrqué par une ioncapacité globale a se supporter plus longtemps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Emotional states are variable and often marked by extremes and acting out.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les états émotionnels sont variable est souvent extrêmes et impressionant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Simply put, the subject feels like they are losing their sense of self and seeks constant reassurance from others around them, yet is not fully able to act in an appropriate way.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En bref, le sujet pense qu'il perd son sens de soir et cherche à être constamment rassuré par les autres, tout en étant incapable d'agir de manière appropriée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They may also engage in impulsive behaviors in an attempt to experience some sort of feeling.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils peuvent également se lancer dans des copmportemenst impulsif dans une tentative de faire l'expérience de sentiments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In extreme cases, there may be suicidal thoughts or attempts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans des cas extrêmes, ils peuvent avoir des pensées suicidaire ou tenter de mettre fin à leur jour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Suggested Game Effects:&lt;/i0&gt; The character needs to be around others and will not be left alone, however they also are not quite able to relate to others in a normal way and may also take risks or make impulsive decisions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Effets Suggérés en Jeu:&lt;/i0&gt; le personnage a besoin d'être avec d'autre personne et n'aime pas être laissé seul, il n'est cependant pas capable de se comproter avec eux de manière normale et prendra également des risques ou fera des décisions impulsives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Depression}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Dépression}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Clinical depression is characterized by intense feelings of hopelessness and worthlessness.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La dépression clinique est caractérisée par un sentîment intense d'absence d'espoir et de but.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Subjects usually report feeling as though nothing they do matters and no one would care anyway, so they are disinclined to attempt much in the way of anything.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les malades font référence à leur sentiment comme si rien de ce qu'ils font n'a d'importance et que personne ne s'y intéresse de toute manière, et ils ne sont donc pas enclin a tenter quoi que ce soit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character is depressed and finds it difficult to be motivated to do much of anything.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage est déprimé et trouve difficile d'être motivé pour faire quoi que ce soit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even simple acts such as eating and bathing can seem to be monumental tasks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même des actes simpels comme manger ou prendre un bain peuvent paraître être des tâches monumentales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Suggested Game Effect:&lt;/i0&gt; Depressives often lack the will to take any sort of action, often to the point of requiring a WIL $&lt;u0&gt;$ 3 Test to engage in sustained activity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Effets Suggérés en Jeu:&lt;/i0&gt; Les dépressifs manquent souvent de volonté pour faire n'importe quelle action, souvent au point de nécessiter un Test de VOL $&lt;u0&gt;$ pour se lancer dans une activité continue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character enters into a fugue state where they display little attention to external stimuli.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage entre dans un état de fugue dans lequel ils n'affichent que peu d'attention envers les stimulis extérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They will still function physiologically but refrain from speaking and stare off into the distance, unable to focus on events around them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il fonctionne toujours d'un point de vue physiologique mais se retiens de parler et reste à fixer le vague, incapable de se concentrer sur les évènement autour de lui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unlike catatonia, a person in a fugue state will walk around if lead about by a helper, but is otherwise unresponsive.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Contrairement à la catatonie, une personne en état de fugue peut marcher si un assistant le dirige, mais il a tendance à ne pas réagir d'une quelconque manière que ce soit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The fugue state is usually a persistent state, but it can be an occasional state that is triggered by some sort of external stimuli similar to the original trauma that triggered the disorder.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'état de fugue est habituellemnt un état persistant, mais il peut s'agir d'un état occasionel déclenché par une sorte de stimuli externe similaire au trauma original qui a déclenché le désordre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Suggested Game Effects:&lt;/i0&gt; Characters in a fugue state are totally non-responsive to most stimuli around them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Effets Suggéré en Jeu:&lt;/i0&gt; Les personnages en état de fugue ne répondent pas à la plupart des stimuli les entourant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They will not even defend themselves if attacked and will usually attempt to curl into a fetal position if physically assaulted.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils ne se défendront pas d'eux-même si ils sont attaqués et tenteront généralement de se recroqueviller en position phœtale si ils sont agressés physiquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{General anxiety disorder (GAD)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Anxiété généralisée}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>GAD results in severe feelings of anxiety about nearly everything the character comes into contact with.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'anxiété généralisée est un fort sentiment d'anxiété à propos de tout ce avec quoi le personnage entre en contact.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even simple tasks represent the potential for failure on a catastrophic scale and should be avoided or minimized.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même de simple tâches constituent la base d'un échec potentiel à une échelle catastrophique et doivent être évitées ou minimisées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additionally, negative outcomes for any action are always assumed to be the only possible outcomes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De plus, les issues négatives de n'importe quelle action sont toujours considérées comme étant la seule issue possible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Suggested Game Effects:&lt;/i0&gt; A character with GAD will be almost entirely useless unless convinced otherwise, and then only for a short period of time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Effets Suggérés en Jeu:&lt;/i0&gt; Un personnage souffrant d'anxiété généralisé sera presque totalement inutile à moins de le convaincre du contraire, et ne sera alors effiace que pendant une courte période de temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Another character can attempt to use a relevant social skill to coax the GAD character into doing what is required of them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un autre personnage peut tenter d'utiliser une compétence sociale adéquate pour amadouer le personnage souffrant d'anxiété de faire ce qui est nécessaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character with the disorder fails at the task, however, all future attempts to coax them will suffer a cumulative -10 penalty.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le personnage souffrant du désordre finit par rater la tâche, toute tentative future d'amadouer le personnage souffrira d'une pénalité de -10 cumulative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Hypochondria}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Hypochondrie}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hypochondriacs suffer from a delusion that they are sick in ways that they are not.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les hypochondriaques délirent à propos de maladies qu'ils pensent avoir et dont ils ne souffrent pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They will create disorders that they believe they suffer from, usually to get the attention of others.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il créeront les troubles et maladies dont ils pensent souffrir, généralement pour attirer l'attention des autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Often hypochondriacs will inflict harm on themselves or even ingest substances that will aid in producing symptoms similar to the disorder they believe they have.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les hypocondriaque peuvent également s'infliger des belssurs ou ingérer des substances qui produiront des symptomes similaires aux désordres qu'ils sont persuads avoir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These attempts to simulate symptoms can and will cause actual harm to hypochondriacs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces tentatives pour simuler les symptomes peuvent blesser et blesseront réellement les hypocondriaques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Possible Game Effects:&lt;/i0&gt; A subject that is hypochondriac will often behave as though they are under the effects of some other disorder or physical malady.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Effets Suggérés en Jeu:&lt;/i0&gt; Un sujet hypochondriaque se comportera souvent comme si ils sont affectés par un autre désordre ou une maladie physique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This can be consistent over time or can be different and ever changing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce trouble simulé peut être constant ou changer perpétuellement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They will react with hostility to claims that they are faking or not actually ill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les sujets réagiront de manière hostile vis à vis de ceux qui prétendent qu'il simulent ou ne sont pas réellement malades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Impulse control disorder}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Désordre du contrôle des pulsions}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Subjects have a certain act or belief that they must engage in a certain activity that comes into their mind.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les sujets ont une croyance qu'ils doivent accomplir une activité particulière lorsqu'elle leur vient en tête.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This can be kleptomania, pyromania, sexual exhibitionism, etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il peut s'agir de kleptomanie, de pyromanie, d'exhibitionnisme, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They feel a sense of building anxiety whenever they are prevented from engaging in this behavior for an extended period (usually several times a day to weekly, depending on the impulse) and will often attempt to engage in this behavior at inconvenient or inappropriate times.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils développent une anxiété grandissante quand ils sont empéchés de se laisser aller à ce comportement pendant des périodes de temps prolongées (habituellement plusieurs fois par jour jusqu'à une fois par semaine, en fonction de la pulsion).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is different from OCD in the sense that OCD is usually a single contained behavior that must be engaged in to reduce anxiety.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est différent des TOC car les TOC sont habituellement un seul comportement défini qui foit être fait pour réduire l'anxiété.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Impulse control disorder is a variety of behaviors and can be virtually any sort of highly inappropriate action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le trouble de contrôle des pulsions regroupe une variété de comportement et peut virtuellement être tout type d'action fortement inappropriée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Suggested Game Effects:&lt;/i0&gt; Similar to OCD, if the character doesn’t engage in the behavior they will grow increasingly disturbed and suffer penalties to all actions until they are able to engage in the compulsion that alleviates their anxiety.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Effets Suggérés en Jeu:&lt;/i0&gt; Comme pour les TOC, si le personnage ne peut se livrer au comportement qu'ils désirent, ils cont devenir extrêmement dérangés et souffiront de pénalités à toutes leurs actions jusqu'à ce qu'isl soient capable de se laisser aller à la compulsion qui alimente leur anxiété.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Insomnia}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Insomnie}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insomniacs find themselves unable to sleep, or unable to sleep for an extended period of time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>le sinsomniaques se trouvent régulièrement incapable de dormir, ou incapable de dormir sur de longues périodes de temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is most often due to anxiety about their lives or as a result of depression and the accompanying negative thought patterns.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela est souvent du à de l'anxiété à propos de leur vie ou comme une conséquence de la dépression et des schémas de pensée négative associés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is not the sort of sleeplessness that is brought about as a result of normal stress but rather a near total inability to find rest in sleep when it is desired.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce n'est pas le type de manque de sommeil qui est la conséquence du stress normal mais plutôt une incapacité presque totale à trouver le repos dans le sommeil lorsque désiré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insomniacs may find themselves nodding off at inopportune times, but never for long, and never enough to gain any restful sleep.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les insomniaques peuvent se trouver en train de piquer du nez lors de situations inopportunes, mais jamais pour longtemps et n'en ont jamais suffisament pour profiter d'un sommeil récupérateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a result, they are frequently lethargic and inattentive as their lack of sleep robs them of their edge and eventually any semblance of alertness.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En conséquence, ils sont fréquemment létahrgique et inattentif car leur manque de sommeil leur vole leur acuité et éventuellement tout semblant d'alerte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additionally, insomniacs are frequently irritable due to being on edge and unable to rest.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De plus, les insomniaques sont fréquemment irritables car ils sont sur les nerfs et incapable de se reposer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Suggested Game Effects: &lt;/i0&gt;Due to the lack of meaningful sleep, insomniacs should suffer from blanket penalties to perception related tasks or anything requiring concentration or prolonged fine motor abilities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Effets Suggérés en Jeu: &lt;/i0&gt;En raison du manque de sommeil significatif, les insomniaques souffrent de grosse pénalités aux tâches liées à la perception ou à tout ce qui nécessite de la concentration ou un contrôle moteur précis sur le long terme.</seg>
       </tuv>
     </tu>
     <tu>
