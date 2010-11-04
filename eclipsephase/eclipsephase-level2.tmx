@@ -54449,7 +54449,7 @@
         <seg>To SOM $&lt;u0&gt;$ 2 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Jusqu'à SOM $&lt;u0&gt;$ 2 &lt;/br0&gt;</seg>
+        <seg>Jusqu'à SOM $&lt;u0&gt;$ 2 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -54457,7 +54457,7 @@
         <seg>To SOM $&lt;u0&gt;$ 3 &lt;br0&gt;</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Jusqu'à SOM $&lt;u0&gt;$ 3 &lt;/br0&gt;</seg>
+        <seg>Jusqu'à SOM $&lt;u0&gt;$ 3 &lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -56241,7 +56241,7 @@
         <seg>{Natural healing}</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>{Guréison naturelle}</seg>
+        <seg>{Guérison naturelle}</seg>
       </tuv>
     </tu>
     <tu>
@@ -56657,7 +56657,7 @@
         <seg>Two methods are used to gauge your mental health: &lt;i1&gt;stress points&lt;/i1&gt; and &lt;i2&gt;trauma&lt;/i2&gt;.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Deux méthodes sont utilisées pour mesurer votre santé mentale: les &lt;i1&gt;points de stress&lt;/i1&gt; et les &lt;i1&gt;trauma&lt;/i2&gt;.</seg>
+        <seg>Deux méthodes sont utilisées pour mesurer votre santé mentale: les &lt;i1&gt;points de stress&lt;/i1&gt; et les &lt;i2&gt;trauma&lt;/i2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57033,7 +57033,7 @@
         <seg>Derangements last for 1d10 $&lt;u0&gt;$ 2 hours (round down), or until the character receives psychiatric help, whichever comes first.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Les dérangements durent pendant 1d10 &lt;$u0&gt;$ 2 heures (arrondissez à l'inférieur) ou jusqu'à ce que le personnage reçoive une aide psychiatrique.</seg>
+        <seg>Les dérangements durent pendant 1d10 $&lt;u0&gt;$ 2 heures (arrondissez à l'inférieur) ou jusqu'à ce que le personnage reçoive une aide psychiatrique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58338,6 +58338,926 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Effets Suggérés en Jeu: &lt;/i0&gt;En raison du manque de sommeil significatif, les insomniaques souffrent de grosse pénalités aux tâches liées à la perception ou à tout ce qui nécessite de la concentration ou un contrôle moteur précis sur le long terme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Megalomania}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Mégalomanie}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A megalomaniac believes themselves to be the single most important person in the universe.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un mégalomane est persuadé d'être la personne la plus importante de l'univers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nothing is more important than the megalomaniac and everything around them must be done according to their whim.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Rien n'est plus important que le mégalomane et tout ce qui se passe autour d'eux doit être fait en accord à leur volonté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Failure to comply with the dictates of a megalomaniac can often result in rages or actual physical assaults by the subject.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ne pas réussir à satisfaire les diktats d'un mégalomane peut souvent amener à des accès de colère ou a des agressions physiques de la part du sujet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Suggested Game Effects:&lt;/i0&gt; A character that has megalomania will demand attention and has diffi- culty in nearly any social situation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Effets Suggérés en Jeu:&lt;/i0&gt; Un personnage mégalomane demandera l'attention des autres et rencontrera beaucoup de difficulté dans quasiment toutes les situations sociales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additionally, they may be provoked to violence if they think they are being slighted.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De plus, il peut devenir violent si il pense qu'il a été négligé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Multiple personality disorder}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Personnalité multiples}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is the development of a separate, distinct personality from the original or control personality.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce désordre est le dévelopement d'une personnalité séparée, distincte de la personnalité d'origine ou de contrôle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The personalities may or may not be aware of each other and ``conscious” during the actions of the other personality.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnalités peuvent ou peuvent ne pas être consciente l'une de l'autre et &quot;consciente&quot; lors des actions de l'autre personnalité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Usually there is some sort of trigger that results in the emergence of the non-control personality.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a habituellement une sorte de déclencheur qui provoque l'émergence de la personnalité secondaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most subjects have only a single extra personality, but it is not unheard of to have several personalities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des sujets n'auront qu'une seule personnalité supplémentaire, mais il existe des cas de patients ayant de plus de deux personnalité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is important to note that these are distinct individual personalities and not just crude caricatures of the Dr. Jekyll/Mr. Hyde sort.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il est important de noter que ces personnalités sont des personnaliutés distinctes et non pas de grossières caricatures de type Dr. Jekyll/Mr. Hyde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each personality sees itself as a distinct person with their own wants, needs, and motivations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque personnalité se perçoit comme une personne distincte avec ses propres envies, besoin et motivations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additionally, they are usually unaware of the experiences of the others, though there is some basic information sharing (such as language and core skill sets).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Additionnellement, elles sont habituellement inconsciente des expériences des autres, même si il y a une sorte de partage d'information basique (telle que les langues et les compétences principales).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Suggested Game Effects:&lt;/i0&gt; When the player is under the effects of another personality, they should be treated as an NPC.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Effets Suggérés en Jeu:&lt;/i0&gt; Lorsque le joueur est sous les effets d'une autre personnalité, il doit être considéré comme un PNJ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In some rare cases the player and the gamemaster can work out the second personality and allow the player to roleplay this.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans de rares cas, le joueur et le maître de jeu peuvent s'accorder sur la seconde personnalité et permettre au joueru de l'interpréter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This does not however constitute an entire new character that can be ``turned on” at will.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela ne constitue cependant pas un nouveau personnage qui peut êþre &quot;activé&quot; à volonté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Obsessive compulsive disorder (OCD)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Trouble obsessionel compulsif (TOC)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Subjects with OCD are marked by intrusive or inappropriate thoughts or impulses that cause acute anxiety if a particular obsession or compulsion is not engaged in to alleviate them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les sujets souffrant de TOC sont marqués par des pensées ou des pulsions intrusive ou inappropriées qui peut déclencher un pic d'anxiété si une obsession ou une coimpulsion particulière ne peut être accomplie pour les soulager.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These obsessions and compulsions can be nearly any sort of behavior that must be immediately engaged in to keep the rising anxiety at bay.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces obsessions et compulsions peuvent être à peu près n'importe quel type de comportement qui doit être immédiatement assouci pour garder le pic d'anxiété à un seuil tolérable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Players and gamemasters are encouraged to come up with a behavior that is suitable.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les joueurs et le maître de jeu sont encouragé a développer une manie adéquate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Examples of common behaviors include repetitive tics (touching every finger of each hand to another part of the body, tapping the right foot twenty times), pathological behaviors such as gambling or eating, or a mental ritual that must be completed (reciting a book passage).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des exemples de manie courantes incluent des tics répétitifs (toucher une partie de son corps avec chaque doigt de chaque main, taper du pied 20 fois), des comportements pathologiques tels que le jeu ou le fait de manger, ou un rituel mental qui doit être réalisé (réciter des passages d'un livre).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Suggested Game Effects:&lt;/i0&gt; If the character doesn’t engage in the behavior they will grow increasingly disturbed and suffer penalties to all actions until they are able to engage in the compulsion that alleviates their anxiety.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Effets Suggérés en Jeu:&lt;/i0&gt; Si le personnage ne succombe pas à ses pulsions il sera de plus en plus dérangés et subira des pénalités à toutes leurs actions en jeu jusqu'à ce qu'il soit capable d'assouvir la pulsion qui évacue son anxiété.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Post traumatic stress disorder (PTSD)}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Stress Post traumatique (SPT)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>PTSD occurs as a result of being exposed to either a single incident or a series of incidents where the sufferer had their own life, or saw the lives of others, threatened with death.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le SPT est une conséquence de l'exposition soit ç un incident isolé ou une érie d'incidents lors desquels la vie de la victime, ou la vie d'autres personnes, a été menacée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These incidents are often marked by an inability on the part of the victim, either real or perceived, to do anything to alter the outcomes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces incidents sont souvent marqués par une incapacité de la victime, réelle ou perçue, de faire quoi que ce soir pour modifier l'issue de la situation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a result, they develop an acute anxiety and fixation on these incidents to the point where they lose sleep, become irritated or easily angered, or are depressed over feelings that they lack control in their own lives.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il développe donc une anxiété aigüe et une fixation sur ces incidents au point où il ne peut plus dormir, s'irrite et devient facilement énervé, ou est déprimé par le sentiment de perte de contrôle de sa propre vie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Suggested Game Effects:&lt;/i0&gt; Penalties to task actions, also treat situations similar to the initial episodes that caused the disorder as a phobia.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Effet Suggérés en Jeu:&lt;/i0&gt; Des pénalités aux actions de tâches, traitez également tout épisode similaire au trauma initial comme une phobie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Schizophrenia}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Schizophrénie}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While schizophrenia is generally acknowledged as a genetic disorder that has an onset in early adulthood, it also seems to develop in a number of egos that undergo frequent morph changes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même si la schyzophrénie est générallement perçue comme un désordre génétique qui a se révèle à l'adolescence, il semble se développer dans un nombre croissant d'égo qui vivent de fréquent changement de morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It has been theorized that this is due to some sort of repetitive error in the download process.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il a été théorisé que ce serait lié à une sorte de répétitions d'erreur dans le processuss de téléchargement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Regardless, it remains a rare, yet persistent danger of dying and being brought back.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela reste un désordre rare, en dépit du risque persistent de mourir et d'être ramené à la vie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Schizophrenia is a psychotic disorder where the subject loses their ability to discern reality from unreality.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La schyzophrénie est un désordre psychotique où le sujet perd sa capacité a discerner le réel et l'irréel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This can involve delusions, hallucinations (often in support of the delusions), and fragmented or disorganized speech.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle peut impliquer le délire, des hallucinations (souvent en soutien du délire), et une fragementation ou désorganisation verbale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The subject will not be aware of these behaviors and will perceive themselves as functioning normally, often to the point of becoming paranoid that others are somehow involved in a grand deception.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le sujet n'a pas conscience de ce comportement et se perçoivent comme fonctionnement normalement, souvent jusqu'au pont de devenir paranoïaque vis à vis des autres, eprsuadé qu'ils font parti d'un vaste mensonge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Suggested Game Effects:&lt;/i0&gt; Schizophrenia represents a total break from reality.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Effets Suggérés en Jeu:&lt;/i0&gt; La schizophrénie représente une rupture totale avec la réalité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character that is schizophrenic may see and hear things and act on those delusions and hallucinations while seeing attempts by their friends to stop or explain to them as part of a wider conspiracy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage qui est schizophrène peut voir et entendre des chose et agir en fonction de ces délire et hallucinations toute en voyant les tentatives de ses amis pour arréter ou expliquer le délire comme faisant part d'une conspiration à grande échelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Adding to this is the difficulty of communicating coherently.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des diffcultés à communiquer de manière cohérente s'ajoutent à ça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters that have become schizophrenic are only marginally functional and only for short periods of time until they have the disorder treated.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les personnages devenus schizophréniue sont seulement partiellement fonctionnel et seulement pour de courtes périodes de temps jusqu'à ce que le désordre ait été traité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Stressful situations}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Situations stressantes}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The universe of &lt;i0&gt;Eclipse Phase&lt;/i0&gt; is ripe with experiences that might rattle a character’s sanity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'univers de &lt;i0&gt;Eclipse Phase &lt;/i0&gt; est fait d'expériences qui peuvent agresser la santé mentale d'un personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some of these are as mundane and human as extreme violence, extended isolation, or helplessness.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines sont banale et humaine telle que la violence extrême, l'isolation étendue ou l'impuissance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Others are less common, but even more terrifying: encountering alien species, infection by the Exsurgent virus, or being sleeved inside a non-human morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres sont moins commune, mais encore plus terrifiante: rencontrer des espèces étrangères, se faire infecter par le virus Exsurgent ou être incarné dans une morph non humaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Willpower stress tests}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Test de stress}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Whenever a character encounters a situation that might impact their ego’s psyche, the gamemaster may call for a (Willpower $&lt;u0&gt;$ 3) Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A chaque fois qu'un personnage rencontre une situation qui pourrait impacter la psyché de leur ego, le maîþre de jeu peut demander un Test de (Volonté $&lt;u0&gt;$ 3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This test determines if the character is able to cope with the unnerving situation or if the experience scars their mental landscape.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce test détermine si le personnage est capable de gérer la situation stressante ou si elle défigure leur paysage mental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If they succeed, the character is shaken but otherwise unaffected.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le test est une réussite, le personnage est secoué mais reste non affecté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If they fail, they suffer stress damage (and possibly trauma) as appropriate to the situation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le test est un échec, ils subissent des dégats de stress (et peut-être des traumas) de manière approprié à la sutuation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A list of stress-inducing scenarios and suggested SVs are listed on the Stressful Experiences table, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une liste de scnéarios générateur de stress et les VS suggérées sont listés sur al table des Expériences Stressantes, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster should use these as a guideline, modifying them as appropriate to the situation at hand.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maîþre de jeu devrait les utiliser comme des guides, les modifiant de manière approprié à la situation en cours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that some incidents may be so horrific that a modifier is applied to the character’s (Willpower $&lt;u0&gt;$ 3) Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que crtains incidents peuvent être suffisament horrifique qu'un modificateur est appliqué au Test de (Volonté $&lt;u0&gt;$ 3) du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{2}{|c|}{&lt;i0&gt;Stressful Experiences&lt;/i0&gt; } &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{2}{|c|}{&lt;i0&gt;Expériences Stressantes&lt;/i0&gt; } &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>SV&lt;/i0&gt; &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>VS&lt;/i0&gt; &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Failing spectacularly in pursuit of a motivational goal</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Rater de manière spectaculaire en cherchant à atteindre un objectif motivationnel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1d10 $&lt;u0&gt;$ 2 (round down)	&lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1d10 $&lt;u0&gt;$ 2 (arrondissez à l'inférieur)	&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Helplessness</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Impuissance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Betrayal by a trusted friend</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tahison d'un ami de confiance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Extended isolation</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Isolation prolongée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Extreme violence (viewing)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Violence extrême (spectateur)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Extreme violence (committing)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Violence extrême (participant)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Awareness that your death is imminent</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Conscience que la mort est proche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Experiencing someone’s death via XP</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vivre la mort de quelqu'un via l'XP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Losing a loved one</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Perdre l'être aimé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Watching a loved one die</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Être témoin de la mort de l'être aimé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Being responsible for the death of a loved one</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Être responsable de la mort de l'être aimé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Encountering a gruesome murder scene</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Arriver sur une scène de meurtre particulièrment violente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Torture (viewing)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Torture (témoin)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Torture (moderate suffering)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Torture (douleur modérée)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Torture (severe suffering)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Torture (douleur critique)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Encountering aliens (non-sentient)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Rencontres des aliens (non-conscient)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Encountering aliens (sentient)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Rencontres des aliens (conscient)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Encountering hostile aliens</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Rencontres des aliens hostiles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Encountering highly-advanced technology</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Rencontres une technologie trés en avance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Encountering Exsurgent-modified technology</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Rencontres une technologie modifiée par le virus Exsurgent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Encountering Exsurgent-infected transhumans</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Rencontrer des transhumains infectés par le virus Exsurgent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Encountering Exsurgent life forms</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Rencontrer des formes de vie exsurgentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Exsurgent virus infection</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Se faire infecter par le virus Exsurgent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Varies; see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Variable; voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Witnessing psi-epsilon sleights</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Être témoin d'exploit epsilon-psi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Hardening}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Endurcissement}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The more you are exposed to horrible or terrifying things, the less scary they become.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plsu vous êtes exposé à des choses horrible et terrifiante, moins elles deviennent effrayantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>After repeated exposure, you become hardened to such things, able to shake them off without effect.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Après une exposition répétée, vous devenez endurci à de telles choses, capable de les supporter sans effet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every time you succeed in a Willpower Test to avoid taking stress from a particular source, take note.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque fois que vous réussissez un Test de Volonté pour éviter de subir du stress d'une source particulière, prenez en note.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you successfully resist such a situation 5 times, you become effectively immune to taking stress from that source.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous réussissez à résister à une telle situation 5 fois, vous devenez effectivement immunisé au stress généré par cette source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The drawback to hardening yourself to such situations is that you grow detached and callous.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'inconvénient de l'endurcissement et que vous devenez plus rude et détaché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In order to protect yourself, you have learned to cut off your emotions --- but it is such emotions that make you human.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Afin de vous protéger, vous avez appri à couper vos émotions - mais ce sont ces émotions qui vous rendent humain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have erected mental walls that will affect your empathy and ability to relate to others.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous avez érigé des barrières mentales efficaces qui affecterons votre empathie et votre capacité à vous référer aux autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each time you harden yourself to one source of stress, your maximum Moxie stat is reduced by 1.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À chaque fois que vous vous endurcissez à une source de stress, le maximum de votre stat moxie est réduit de 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Psychotherapy may be used to overcome such hardening, in the same way a disorder is treated.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La psychothérapie peut être utilisé pour vaincre un tel endurcissement, de la même manière que l'on traite les désordres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Mental healing and psychotherapy}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Soins mentaux et psychothérapie}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stress is trickier to heal than physical damage.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>le stress est plus complexe a traiter que les dégâts physique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are no nano-treatments or quick fix options (other than killing yourself and reverting to a non-stressed backup).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>I n'y a pas de nano-traitement ou d'option de réparation rapide (autres que le suicide pour retourner à un backup non-stressé).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The options for recuperating are simply natural healing over time, psychotherapy, or psychosurgery.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les options de récupérations sont réduite à la guérison naturelle avec le temps, à la psychothérapie et à la psychochirurgie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Phychotherapy care}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Attention psychothérapique}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters with an appropriate skill --- Medicine: Psychiatry, Academics: Psychology, or Professional: Psychotherapy --- can assist a character suffering mental stress or trauma with psychotherapy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personanges avec une compétence appropriée - Médecine: Psychiatrie, Académique: Psychologie ou Profession: Psychothérapeute - peuvent aider un personnage souffrant de stress mental ou d'un trauma avec la psychothérapie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This treatment is a long-term process, involving methods such as psychoanalysis, counseling, roleplaying, relationship-building, hypnotherapy, behavioral modification, drugs, medical treatments, and even psychosurgery (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce traitement et un procédé à long-terme, impliquant des méthodes telles que la psychoanalyse, le conseil, le jeu de rôle, la construction relationnelle, l'hypnothérapie, les modifications comportementales, les drogues, les traitements médicaux et même la psychochirurgie (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AIs skilled in psychotherapy are also available.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des IA compétentes en psychothérapie sont également disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Psychotherapy is a task action, with a timeframe of 1 hour per point of stress, 8 hours per trauma, and 40 hours per disorder.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>la Psychothérapie est une action de tâche avec un intervalle de 1 heure par point de stress, 8 heures par trauma et 40 heures par désordre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that this only counts the time actually spent in psychotherapy with a skilled professional.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que cela ne prend en compte que le temps effectivement passé en psychothérapie avec un proffessionel compétent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>After each psychotherapy session, make a test to see if the session was successful.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Après chaque session de psychothérapie, faites un test pour voir si la session est une réussite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Successful psychosurgery adds a +30 modifier to this test; at the gamemaster’s discretion, other modifiers may apply.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une psychochirurgie réussi ajoute un modificateur de +30 à ce test; à la discrétion du maître de jeu, d'autres modificateurs peuvent s'appliquer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, each disorder the character holds inflicts a -10 modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque désordre du personnage ajoute également un modificateur de -10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Traumas may not be healed until all stress is eliminated.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les traumas ne peuvent être soignés tant que tout le stress n'est pas éliminé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When a trauma is healed, the derangement associated with that trauma is eliminated or downgraded.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsqu'un trauma est soigné, le dérangement associé est éliminé ou diminué.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Disorders are treated separately from the trauma that caused them, and may only be treated when all other traumas are removed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les désordres sont traités séparément du trauma qui les ont causés, et ne peuvent être traités que lorsque tous les autres traumas ont été supprimés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gamemaster and players are encouraged to roleplay a character’s suffering and relief from traumas and disorders.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu et les joueurs sont encouragé à interpréter la souffrance d'un personnage et la rémission des traumas et des désordres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each is an experience that makes a profound impact on a character’s personality and psyche.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A chaque fois, il s'agît d'une expérience qui aura un impact fort sur la personnalité et la psyché d'un personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The process of treatment may also change them, so in the end they may be a transformed from the person they once were.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le process de soin peut également changer un personnage, il pourrait donc devenir une personnae différente de ce qu'il était.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even if treated, the scars are likely to remain for some time to come.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même si le personnage est soigné, les cicatrices resteront probablement pendant un certain temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>According to some opinions, disorders are never truly eradicated, they are just eased into submission ... where they may linger beneath the surface, waiting for some trauma to come along.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'après certaines opinion, les désordres ne sont jamais complètement éradiqués, ils sont juste maintenus sous contrôle ... et ils peuvent donc reposer juste sous la surface, attendant qu'un trauma vienne les réveiller.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters who eschew psychotherapy can hopefully work out the problems in their head on their own over time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages qui cherchent à éviter la psychothérapie peut travailler le problème par eux-même, sur leur temps libre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For every month that passes without accruing new stress, the character may make a WIL $&lt;u0&gt;$ 3 Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À chaque mois qui passe sans causer de nouveau stress, le personnage doit faire un test de Vol $&lt;u0&gt;$ 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If successful, they heal 1d10 points of stress or 1 trauma (all stress must be healed first).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si il réussit, il soigne 1d10 point de stress ou 1 truam (tout le stress ayant du être soigné d'abord).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Disorders are even more difficult to heal, requiring 3 months without stress or trauma, and even then only being eliminated with a successful WIL Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les désordres sont encore plus dur à soigner, nécessitant 3 mois sans subir de stress ou de trauma, et ne pouvant être ensuite éliminé qu'en réussissant un Test de VOL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a result, disorders can linger for years until resolved with actual psychotherapy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De fait, les désordres peuvent trainer pendant des années avant d'être soignés par psychothérapie.</seg>
       </tuv>
     </tu>
     <tu>

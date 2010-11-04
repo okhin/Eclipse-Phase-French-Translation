@@ -59142,6 +59142,126 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Successful psychosurgery adds a +30 modifier to this test; at the gamemaster’s discretion, other modifiers may apply.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une psychochirurgie réussi ajoute un modificateur de +30 à ce test; à la discrétion du maître de jeu, d'autres modificateurs peuvent s'appliquer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, each disorder the character holds inflicts a -10 modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque désordre du personnage ajoute également un modificateur de -10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Traumas may not be healed until all stress is eliminated.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les traumas ne peuvent être soignés tant que tout le stress n'est pas éliminé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When a trauma is healed, the derangement associated with that trauma is eliminated or downgraded.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsqu'un trauma est soigné, le dérangement associé est éliminé ou diminué.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Disorders are treated separately from the trauma that caused them, and may only be treated when all other traumas are removed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les désordres sont traités séparément du trauma qui les ont causés, et ne peuvent être traités que lorsque tous les autres traumas ont été supprimés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gamemaster and players are encouraged to roleplay a character’s suffering and relief from traumas and disorders.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu et les joueurs sont encouragé à interpréter la souffrance d'un personnage et la rémission des traumas et des désordres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each is an experience that makes a profound impact on a character’s personality and psyche.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A chaque fois, il s'agît d'une expérience qui aura un impact fort sur la personnalité et la psyché d'un personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The process of treatment may also change them, so in the end they may be a transformed from the person they once were.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le process de soin peut également changer un personnage, il pourrait donc devenir une personnae différente de ce qu'il était.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even if treated, the scars are likely to remain for some time to come.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même si le personnage est soigné, les cicatrices resteront probablement pendant un certain temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>According to some opinions, disorders are never truly eradicated, they are just eased into submission ... where they may linger beneath the surface, waiting for some trauma to come along.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'après certaines opinion, les désordres ne sont jamais complètement éradiqués, ils sont juste maintenus sous contrôle ... et ils peuvent donc reposer juste sous la surface, attendant qu'un trauma vienne les réveiller.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters who eschew psychotherapy can hopefully work out the problems in their head on their own over time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages qui cherchent à éviter la psychothérapie peut travailler le problème par eux-même, sur leur temps libre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For every month that passes without accruing new stress, the character may make a WIL $&lt;u0&gt;$ 3 Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À chaque mois qui passe sans causer de nouveau stress, le personnage doit faire un test de Vol $&lt;u0&gt;$ 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If successful, they heal 1d10 points of stress or 1 trauma (all stress must be healed first).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si il réussit, il soigne 1d10 point de stress ou 1 truam (tout le stress ayant du être soigné d'abord).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Disorders are even more difficult to heal, requiring 3 months without stress or trauma, and even then only being eliminated with a successful WIL Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les désordres sont encore plus dur à soigner, nécessitant 3 mois sans subir de stress ou de trauma, et ne pouvant être ensuite éliminé qu'en réussissant un Test de VOL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a result, disorders can linger for years until resolved with actual psychotherapy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De fait, les désordres peuvent trainer pendant des années avant d'être soignés par psychothérapie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Mind Hacks</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
