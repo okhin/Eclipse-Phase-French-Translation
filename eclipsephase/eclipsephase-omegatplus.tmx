@@ -42110,6 +42110,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Social Networks}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Réseaux Sociaux}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Lack</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -66258,6 +66266,278 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>A partir de ce point , l'utilisateur s'immerge dans l'environnement de réalité virtuelle, devenant leur simulmorph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Experience Playback}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Lecture d'Expérience}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every morph with mesh inserts has the capability to transmit or record their experiences, a form of technology called experience playback, or XP.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque morph doté d'insert de mesh à la possibilité de transmettre ou d'enregistrer ses expériences, une technologie appelée lecture d'expérience ou XP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since the first programs were developed that provide a simple interface to ``snapshot'' one's experiences, it has become extremely popular to share XP with friends and social networks, or with the online public at large.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Depusi que les premiers programmes permettant de fournir un &quot;aperçu&quot; des expériences de quelqu'un ont été développés, le fait de partager ses XP avec ses amis et ses réseaux sociaux, ou avec le public en-ligne d'une manière plus générale, est devenu extrêmement populaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The level of experiences depends on how much of the recorded sensory perception is kept when the clip is made.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le niveau d'expérience dépend de la quantité de perception sensorielle enregistrée et conservée lorsque el clip est réalisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Full XP includes exteroceptive, interoceptive, and emotive tracks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les XP complet incluent les pistes extéroceptives, intéroceptives et émotionnelles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Exteroceptive tracks include the traditional senses of sight, smell, hearing, touch, and taste that process the outside world.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les pistes extéroceptives incluent les sens traditionel de la vue, de l'odorat, de l'ouïe, du toucher et du goûtqui viennent du monde extérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Interoceptive tracks include senses originating within the body, such as balance, a sense of motion, pain, hunger and thirst, and a general sense of the location of one's own body parts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les pistes interoceptives incluent les sens interne au corps tels que l'équilibre, la perception du mouvement, la douleur, la faim et la soif, et un sens général de la localisation des partie de son corps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Emotive tracks include the whole spectrum of emotions which can be aroused in a transhumans.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les pistes émotionnelles incluent tout le spectre des émotions qui peuevnt être déclenchée chez un transhumain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Due to the biological requirements (neuronal and endocrine systems) of expressing emotions, hardcore XP aficionados deem only the experience in and from biomorphs as the real deal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En raison des prérequis biologique (systèmes endocriniens et neuronaux) pour exprimer les émotions, les aficionados hardcore de XP ne jurent que par les biomorphs pour en faire l'expérience.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mesh Uses</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Usages du Mesh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are many reasons people use the mesh.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a beaucoup de raisons pour lesquelles les personnes utilise le mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The foremost is communication: voice and video calls (typically displaying avatars rather than actual video), electronic messaging (e-mail, instant messaging microblogging), and file and data transfers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La principale utiliation est la communication: appels vocaux et vidéo (affichant généralement l'avater plutôt qu'une vidéo réelle), messagerie électronique (e-mail, microbloging, messagerie instantanée) et transfert de fichiers et de données.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Socializing is also key, handled via social and reputation networks, personal profiles, lifelogging, chats and conferences (both AR and VR), and discussion groups and forums.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La socialisation est également importante, gérée par les réseaux sociaux et réputationnels, les profils personnels, les lifelog, les chats et les conférences (en RA et en RV) et les groueps de discussions et forums.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Information gathering is also at the top, whether its browsing the popular Solarchive or other databases and directories, tapping the latest newsfeeds, browsing mesh sites, tracking your friends, taking lessons in VR, or looking up just about anything conceivable.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La collece d'information occupe également une bonne partie du mesh, qu'il sagisse de l'exploration du trés populaire Solarchive ou d'autres basses de données et répertoires, de s'abonner aux derniers flux d'infos, de parcourir des sites mesh, de prendre des cours en RV ou simplement de chercher tout ce que l'on peut imaginer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Recreation rounds out the pack, covering everything from gaming (AR and VR) to experiencing other people's lives (XP) to VR tourism and club-hopping.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le divertissement ferme le paquet, couvrant tout du jeu (en RA et en RV) à faire l'expérience de la vie d'autres personnes (XP) en passant par le tourisme et le clubbing RV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Personal Area Networks}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Réseaux Personnels (PAN)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since everything a person carries is meshed, most people maintain personal area networks that route all of these devices through their mesh inserts or ecto, which acts as a hub.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Puisque tout ce qu'une personne porte est meshé, la plupart des personnes maintiennt un réseau personnel qui redirige tout le traffic de ces appareils par leur insert de mesh ou leur ecto qui se comporte alors comme un concentrateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is both a security measure, ensuring they maintain control over their own accessories and a convenience factor, as it focuses all of the controls in one place.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il s'agît à la fois d'une mesure de sécurité, peremttant à l'utilisateur de s'assurer du contrôle sur ses accessoires, et un facteur pratique, car tout les contrôle sont concentrés en un seul endroit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Virtual Private Networks}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Réseaux Privés Virtuels}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Virtual private networks (VPNs) are communications networks tunneled through the mesh, which are dedicated for a specific group of people.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les réseaux privés virtuels (Virtual Private Network, VPN) sont des réseaux de communication encapsulés à travers le mesh et qui sont dédiés à un groupe de personne spécifique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The primary use of VPNs is to create privacy and security for its users, and so they typically use security</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'utilisation principale d'un VPN est de créer un espace privé et sécurisé pour ses utilisateurs, et ils utilisent donc généralement des</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>features such as ego authentication and public key encryption.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>systèmes de sécurité tes que l'identification des egos et des chiffrement par clefs publiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>VPNs are regularly used to mesh mobile offices into a corporate network or mesh people together who work on or contribute a certain project.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les VPN sont régulièrment utilisés pour mesher des bureaux mobiles en un réseau corporatiste ou pour mesher ensemble des personens qui travaillent ou qui contribuent à certains projets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other VPNs—particularly social networks and rep networks—operate with minimal security features, simply serving as a network of specific users within the mesh and making it easier to keep in touch, transfer information, make updates, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dautres VPN - en particulier les réseau sociaux et réputationnel - fonctionnent avec un minimum de sécurité, servant simplement de réseau d'utilisateur spécifique à l'intérieur du mesh et facilitant le contact, le transfert d'information, les mises à jour et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most VPNs come as specialized software suites that run custom environmental software that integrates into the user's normal mesh interface and AR.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des VPN sont fournit comme des suites de logiciels spécialisés qui font tourner des logiciels environnementaux spécifiques et qui s'intègrent aux interface de mesh et de RA classique des utilisateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Social networks are the fabric of the mesh, weaving people together.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les réseaux sociaux constituent la trame du mesh, tissant les personnes les unes aux autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are the means by which most people keep in contact with their friends, colleagues, and allies, as well as current events, the latest trends, new memes, and other developments in shared interests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils sont le moyen permettnt à la plupart des personnes de rester en conatct avec leurs amis, collègues et alliés, ainsi que de se tenir au courant des évènements actuels, des dernièree tendances, des nouveaux mèmes et d'autres développement d'intérêts communs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are an exceptionally useful tool for online research, getting favors, and meeting new people.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils sont des outils exceptionnellement utile pour les chercher en ligne, obtenir des faveurs et rencontrer de nouvelles personnes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In some cases, they are useful for reaching or mobilizing masses of people (as often illustrated by anarchists and pranksters).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans certains cas, ils sont utiles pour atteindre ou mobiliser les masses (comme l'illustrent régulièrement les anarchistes et les blagueur).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are thousands of social networks, each serving different cultural and professional interests and niches.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il existe des milliers de réseaux sociaux, chacun ciblant différent intérêts et niches culturelles et professionelles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most social networks allow users to feature a public profile to the entire mesh and a private profile that only those close to them can access.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des réseaux sociaux permettent aux utilisateurs d'avoir un profil public pour l'ensemble du mesh et un profil privé auquel seuls ceux suffisament proches d'eux peuvent accéder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Reputation plays a vital part in social networks, serving as a measure of each person's social capital.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La réputations joue un rôle vital dans les réseaus sociaux, servant de mesure du capital social de chaque personne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each person's reputation score is available for lookup, along with any commentary posted by people who favored or disfavored them and rebuttals by the user.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque score de réputation est disponible pour la consultation, avec les commentaires postés par les personnes ayant favorisé ou défavorisé l'utilisateur ainsi que les refus de celui-ci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many people automate their reputation interactions, instructing their muse to automatically ping someone with a good review after a positive action and to likewise provide negative feedback to people with whom the interaction went poorly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup de personnes automatisent leurs interactiosn réputationnelles, demandant à leur muse de pinger automatiquement quelqu'un avec un commentaire positif après une action positive et de fournir un retour négatif aux personnes avec lesuqle els interactions se sont mal passées.</seg>
       </tuv>
     </tu>
     <tu>

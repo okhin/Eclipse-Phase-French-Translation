@@ -42110,6 +42110,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Social Networks}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Réseaux Sociaux}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Lack</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -66258,6 +66266,662 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>A partir de ce point , l'utilisateur s'immerge dans l'environnement de réalité virtuelle, devenant leur simulmorph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Experience Playback}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Lecture d'Expérience}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every morph with mesh inserts has the capability to transmit or record their experiences, a form of technology called experience playback, or XP.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque morph doté d'insert de mesh à la possibilité de transmettre ou d'enregistrer ses expériences, une technologie appelée lecture d'expérience ou XP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since the first programs were developed that provide a simple interface to ``snapshot'' one's experiences, it has become extremely popular to share XP with friends and social networks, or with the online public at large.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Depusi que les premiers programmes permettant de fournir un &quot;aperçu&quot; des expériences de quelqu'un ont été développés, le fait de partager ses XP avec ses amis et ses réseaux sociaux, ou avec le public en-ligne d'une manière plus générale, est devenu extrêmement populaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The level of experiences depends on how much of the recorded sensory perception is kept when the clip is made.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le niveau d'expérience dépend de la quantité de perception sensorielle enregistrée et conservée lorsque el clip est réalisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Full XP includes exteroceptive, interoceptive, and emotive tracks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les XP complet incluent les pistes extéroceptives, intéroceptives et émotionnelles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Exteroceptive tracks include the traditional senses of sight, smell, hearing, touch, and taste that process the outside world.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les pistes extéroceptives incluent les sens traditionel de la vue, de l'odorat, de l'ouïe, du toucher et du goûtqui viennent du monde extérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Interoceptive tracks include senses originating within the body, such as balance, a sense of motion, pain, hunger and thirst, and a general sense of the location of one's own body parts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les pistes interoceptives incluent les sens interne au corps tels que l'équilibre, la perception du mouvement, la douleur, la faim et la soif, et un sens général de la localisation des partie de son corps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Emotive tracks include the whole spectrum of emotions which can be aroused in a transhumans.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les pistes émotionnelles incluent tout le spectre des émotions qui peuevnt être déclenchée chez un transhumain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Due to the biological requirements (neuronal and endocrine systems) of expressing emotions, hardcore XP aficionados deem only the experience in and from biomorphs as the real deal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En raison des prérequis biologique (systèmes endocriniens et neuronaux) pour exprimer les émotions, les aficionados hardcore de XP ne jurent que par les biomorphs pour en faire l'expérience.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mesh Uses</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Usages du Mesh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are many reasons people use the mesh.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a beaucoup de raisons pour lesquelles les personnes utilise le mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The foremost is communication: voice and video calls (typically displaying avatars rather than actual video), electronic messaging (e-mail, instant messaging microblogging), and file and data transfers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La principale utiliation est la communication: appels vocaux et vidéo (affichant généralement l'avater plutôt qu'une vidéo réelle), messagerie électronique (e-mail, microbloging, messagerie instantanée) et transfert de fichiers et de données.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Socializing is also key, handled via social and reputation networks, personal profiles, lifelogging, chats and conferences (both AR and VR), and discussion groups and forums.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La socialisation est également importante, gérée par les réseaux sociaux et réputationnels, les profils personnels, les lifelog, les chats et les conférences (en RA et en RV) et les groueps de discussions et forums.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Information gathering is also at the top, whether its browsing the popular Solarchive or other databases and directories, tapping the latest newsfeeds, browsing mesh sites, tracking your friends, taking lessons in VR, or looking up just about anything conceivable.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La collece d'information occupe également une bonne partie du mesh, qu'il sagisse de l'exploration du trés populaire Solarchive ou d'autres basses de données et répertoires, de s'abonner aux derniers flux d'infos, de parcourir des sites mesh, de prendre des cours en RV ou simplement de chercher tout ce que l'on peut imaginer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Recreation rounds out the pack, covering everything from gaming (AR and VR) to experiencing other people's lives (XP) to VR tourism and club-hopping.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le divertissement ferme le paquet, couvrant tout du jeu (en RA et en RV) à faire l'expérience de la vie d'autres personnes (XP) en passant par le tourisme et le clubbing RV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Personal Area Networks}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Réseaux Personnels (PAN)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since everything a person carries is meshed, most people maintain personal area networks that route all of these devices through their mesh inserts or ecto, which acts as a hub.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Puisque tout ce qu'une personne porte est meshé, la plupart des personnes maintiennt un réseau personnel qui redirige tout le traffic de ces appareils par leur insert de mesh ou leur ecto qui se comporte alors comme un concentrateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is both a security measure, ensuring they maintain control over their own accessories and a convenience factor, as it focuses all of the controls in one place.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il s'agît à la fois d'une mesure de sécurité, peremttant à l'utilisateur de s'assurer du contrôle sur ses accessoires, et un facteur pratique, car tout les contrôle sont concentrés en un seul endroit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Virtual Private Networks}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Réseaux Privés Virtuels}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Virtual private networks (VPNs) are communications networks tunneled through the mesh, which are dedicated for a specific group of people.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les réseaux privés virtuels (Virtual Private Network, VPN) sont des réseaux de communication encapsulés à travers le mesh et qui sont dédiés à un groupe de personne spécifique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The primary use of VPNs is to create privacy and security for its users, and so they typically use security</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'utilisation principale d'un VPN est de créer un espace privé et sécurisé pour ses utilisateurs, et ils utilisent donc généralement des</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>features such as ego authentication and public key encryption.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>systèmes de sécurité tes que l'identification des egos et des chiffrement par clefs publiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>VPNs are regularly used to mesh mobile offices into a corporate network or mesh people together who work on or contribute a certain project.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les VPN sont régulièrment utilisés pour mesher des bureaux mobiles en un réseau corporatiste ou pour mesher ensemble des personens qui travaillent ou qui contribuent à certains projets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other VPNs—particularly social networks and rep networks—operate with minimal security features, simply serving as a network of specific users within the mesh and making it easier to keep in touch, transfer information, make updates, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dautres VPN - en particulier les réseau sociaux et réputationnel - fonctionnent avec un minimum de sécurité, servant simplement de réseau d'utilisateur spécifique à l'intérieur du mesh et facilitant le contact, le transfert d'information, les mises à jour et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most VPNs come as specialized software suites that run custom environmental software that integrates into the user's normal mesh interface and AR.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des VPN sont fournit comme des suites de logiciels spécialisés qui font tourner des logiciels environnementaux spécifiques et qui s'intègrent aux interface de mesh et de RA classique des utilisateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Social networks are the fabric of the mesh, weaving people together.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les réseaux sociaux constituent la trame du mesh, tissant les personnes les unes aux autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are the means by which most people keep in contact with their friends, colleagues, and allies, as well as current events, the latest trends, new memes, and other developments in shared interests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils sont le moyen permettnt à la plupart des personnes de rester en conatct avec leurs amis, collègues et alliés, ainsi que de se tenir au courant des évènements actuels, des dernièree tendances, des nouveaux mèmes et d'autres développement d'intérêts communs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are an exceptionally useful tool for online research, getting favors, and meeting new people.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils sont des outils exceptionnellement utile pour les chercher en ligne, obtenir des faveurs et rencontrer de nouvelles personnes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In some cases, they are useful for reaching or mobilizing masses of people (as often illustrated by anarchists and pranksters).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans certains cas, ils sont utiles pour atteindre ou mobiliser les masses (comme l'illustrent régulièrement les anarchistes et les blagueur).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are thousands of social networks, each serving different cultural and professional interests and niches.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il existe des milliers de réseaux sociaux, chacun ciblant différent intérêts et niches culturelles et professionelles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most social networks allow users to feature a public profile to the entire mesh and a private profile that only those close to them can access.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des réseaux sociaux permettent aux utilisateurs d'avoir un profil public pour l'ensemble du mesh et un profil privé auquel seuls ceux suffisament proches d'eux peuvent accéder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Reputation plays a vital part in social networks, serving as a measure of each person's social capital.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La réputations joue un rôle vital dans les réseaus sociaux, servant de mesure du capital social de chaque personne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each person's reputation score is available for lookup, along with any commentary posted by people who favored or disfavored them and rebuttals by the user.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque score de réputation est disponible pour la consultation, avec les commentaires postés par les personnes ayant favorisé ou défavorisé l'utilisateur ainsi que les refus de celui-ci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many people automate their reputation interactions, instructing their muse to automatically ping someone with a good review after a positive action and to likewise provide negative feedback to people with whom the interaction went poorly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup de personnes automatisent leurs interactiosn réputationnelles, demandant à leur muse de pinger automatiquement quelqu'un avec un commentaire positif après une action positive et de fournir un retour négatif aux personnes avec lesuqle els interactions se sont mal passées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Mobile Offices}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Bureaux Mobiles}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Due to the lack of office space and the wireless accessibility of most information, most businesses now operate virtually, with few or no fixed offices or even assets.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En raison du manque de place pour des bureaux et de l'accessibilité sans fil de la plupart de l'information, la plupart des affaires sont maintenant gérées virtuellement, avec trés peu ou pas de bureaux fixe ou d'actifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Instead, individuals have become their own mobile office.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les individus sont devenus leur propre bureau mobile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bit-pushers and bureaucrats like hypercorp executives, clerical workers, accountants, and researchers—as well as innovators like artists, writers, engineers, and designers—work wherever they want to.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les pousse-boutons et bureaucrates que sont les cadres hypercorporatistes, les employés de bureau, les comptable et les chercheurs - ainsi que les innovateurs comme les artistes, écrivains, ingénieurs et concepteurs - travaillent où ils ont envie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The most prominent example of this phenomenon are the bankers of the Solaris hypercorp.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'exemple le plus important de ce phénomène sont les banquiers de l'hypercorp Solaris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each employee acts as a mobile one-person banking office, managing transactions via Solaris's robust VPN.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque employé se comporte comme un guichet de banque mobile mono-personnel, gérant les transaction via les VPN solide de Solaris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On rare occasions, office environments are run in simulspace with time dilation to maximize efficiency Since this requires the workers to access a centralized wired network and leave their bodies unattended while accessing simulspace, however, it requires an extra level of physical security that is typical only of some governmental installations and corporate habitats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En de rares occasions, les environnements de bureau sont exécuté dans des simulspace avec une dilatation temporelle pour maximiser l'efficacité. Comme cela nécessite que les travailleurs accèdent à un réseau centralisé et filaire et qu'ils abandonnent leurs corps pendant qu'ils accèdent au simulspace, cela nécessite cependant un niveau de sécurité physique telle que seules certaines organisation gouvernementale ou habitats corporatistes peuvent s'en offrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Islands In The Net</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des Îles Dans Le Réseau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the time of &lt;i0&gt;Eclipse Phase,&lt;/i0&gt; information can become outdated quite fast, and the accessibility of new information depends on your location.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À l'époque de &lt;i0&gt;Eclipse Phase,&lt;/i0&gt; l'information peut être périmée relativement rapidement, et l'accès à de l'information récnte dépend de votre localisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It's easy to keep up-to-date on your local habitat/city or planetary body, but keeping current on events elsewhere is typically reliant on the speed of light.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il ets facile de se tenir au courant de se qu'il se passe dans votre habitat/cité ou sur votre corps planétaie, mais rester au courant de ce qu'il se passe ailleurs dépend typiquement de la vitesse de le lumière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you happen to be in a station in the Kuiper Belt, on the edge of the solar system 50 astronomical units from the terrestrial inner planets, waiting on a message from Mars, the signal carrying the message will be roughly seven hours old when it reaches you.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous vous trouvez sur une station dans la Ceinture de Kuiper, à la limite du système solaire à 50 unité astronomiques des planètes intérieure, attendant un message de Mars, le signal portant le message sera vieux de sept bonnes heures quand il vous atteindra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Of course it will only reach you that fast if you are using quantum farcast, which is only limited by the speed of light (not to mention rare and expensive in most habitats).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien sûr, il ne vous atteindra à cette vitesse que si vous utilisez un farcasteur quantique, qui n'est limité que par al vitesse de la lumière (en plus d'être rare et cher dans la plupart des habitats).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you are not using a quantum farcaster, the signal may take even longer and is prone to interference and noise, deteriorating the quality and possibly losing some of the content, especially over major distances.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous n'utilisez par de farcasteur quantique, le signal prendra encore plus de temps et est sujet au bruit et aux interférences, déteriorant la qualité et perdant probablement une partie du contenu, particulièrement sur les distances les plus grandes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Whenever you start dealing with communication between habitats, you have to factor in the light-speed lag, the amount of time it takes even the fastest transmission to reach you.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quand vous commencez à vous frotter à la communication inter-habitat, vous devez prendre en compte le décalage induit par la vitesse de la lumière, le temps que mettent même les communications les plus rapide à vous joindre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This lag works both ways, so trying to hold a conversation with someone just 5 light-seconds away means that you're waiting at least 10 seconds to get the reply to whatever you just said.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce décalage est valabke dans les deux sens, essayer de garder une conversation avec quelqu'un qui est à peine à 5 seconde signifie que vous attendrez au moins 10 secondes pour avoir la réponse à ce que vous venez de dire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For this reason, AR and VR communications are almost always conducted locally while standard messaging is used for nonlocal communications.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour cette raison, les communication RA et RV sont presque toujours des communictaiosn locales, alors que la messagerie standard est utilisée pour les communications distantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For detailed discussions, it is often simpler to send a fork of yourself (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Poru des discussions détaillées, il est souvent plus simple d'envoyer un fork (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>273) to have the conversation and then return.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>273) pour faire la conversation, puis le réintégrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Quantum-entanglement communicators (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les communicateurs à intrication quantique (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>314) are one solution to this light-speed lag, although a burdensome and expensive one.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>314) sont une solution à ce reatrd de la vitesse lumière, même si c'ets une solution pénible et coûteuse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>QE comms allow for faster-than-light communication to an entangled communicator, though each transmission uses up a precious amount of quantum-entangled bits, which are in limited supply.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les coms IQ permettent des communications plus rapide que al lumièrevers un communicateur intriqué, même si chaque transimission utilises une quantité précieuses de qubits intriqués, qui sont disponibles en quantité limité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transmissions made between habitats almost always occur via each station's massive data relays, where they are then distributed into the local mesh.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les transmission effectuées entre les habitats passent presque toujours par les gros relais de données de chaque station, et sont ensuite distribués sur le mesh local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This bottleneck is often used by authoritarian habitats to monitor data transmissions and even filter or censor certain public non-encrypted content.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce goulet d'étranglement est souvent utilisé par les habitats autoritaires pour surveiller les transmissions de données et même filtré ou censuré certains contenus publique non chiffré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some messages are also prioritized over others, potentially meaning further delays.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains mesages ont également une priorité plus élevées que d'autres, impliquant potentiellement des délais supplémentaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The method of transmission between habitats also sometimes matters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La méthode de transmission ntre les habitats a également un impact.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Radio and neutrino broadcasts can be intercepted by anyone, whereas tight-beam laser or microwave links are specifically used as a point-to-point method that minimizes interception and eavesdropping.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les émissions radio ou de neurtinos peuvent être interceptées par n'importe qui, alors que les liens laser ou à micro-onde sont utilisés spécifiquement comme méthode de transmission point-à-point qui minimise les interceptions et les écoutes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The use of quantum farcasting using neutrino systems is completely secure, however, and is the most frequently-used intra-habitat link.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant l'utilisation de farcasteur quantique ayant des systèmes à neutrinos est entièrement sécurisé et est donc le lien intra-habitats le plus utilisé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What these lags, bottlenecks, and prioritizations mean is that some news and data takes a particularly long-time to trickle from one local mesh network to another, passing slowly from habitat to habitat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce que ces retards, goulets et sytsème de priorisation signifient c'est qu'il y a des informations et des données qui peuvent mettre un temps particulièrement long pour voyager d'un mesh local à un autre, passant lentement d'un habitat à l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This means that there are always gradients of information available to different local mesh networks, typically depending on proximity and the importance of the information.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela veut dire qu'il y a toujours différents degrés d'information disponible sur différent réseaux locaux meshé, dépendant typiquement de la proximité et de l'importance de l'information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some data even gets lost along the way, never making it further than a habitat or two before it is lost in the noise.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains données se perdent même en cours de route, n'allant jamais plus loin qu'un habitat ou deux avant d'être perdue dans le bruit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The only way to retrieve such information is to track it down to its source.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La seule façon de récupérer ces informatiosn est de les pister jusqu'à la source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>``Darkcasts'' are ranged communications that go outside of legal and approved channels.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les &quot;darkcasts&quot; sont des communications longue distancequi sortent des canaux légaux et approuvés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since certain habitats have strict regulations on transmission content, forking, egocasting, infomorphs, muse abilities, and AGI code, underworld groups like the ID crew profit by offering illegal data transmission services.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Étant donnée que certains habitats ont des règles strictes sur les transmissions de contenu, le fork, l'égocast, les infomorph, les capacités des muses et le code des IAG, des groupes clandestins comme l'ID crew vivent des services illégaux de transmission de données.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Primarily used for censored data and banned content (like illegal XPs or malware), local organized crime factions also often offer egocasting services complete with resleeving and leasable morphs, allowing egos that prefer discretion to enter or leave a habitat without drawing attention.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Principalement utilisé pour les données censorée et le contenu banni (comme les XP illégaux ou les malwares), des factions du crime organisées locales proposent également des services d'egocast complet avec la réincarnation et la location de morph, permettant aux egos préférant la discrrétion d'entrer ou de quitter un habitat sans attirer l'attention.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though such authorities hunt down these darkcast networks whenever they get a chance, many habitats have a sophisticated darkcast infrastructure that makes use of decoys, temporary communications lines, relays, and regular transmitter relocation—not to mention judicious bribing and blackmailing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même si de telles autorités traquent ces réseaux de darkcast dés qu'ils le peuvent, beaucoup d'habitats ont une ionfrastructure de darkscast sophistiquée qui utilise des leurres, des lignes de communicatiosn temporaire, des relais et la relocalisation de transmetteur standard - sans mentionner une corruption judicieuse et un chantage efficace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mesh Abuses</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Abus du Mesh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As with all things, the mesh has its darker side.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comem avec toute chose, le mesh a son côté obscur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the basic level, this amounts to flamewar-starting trolls, stalkers, or griefers whose intent is to mess with others for a laugh.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À un niveau basique, cela se rinclut les trolls lanceur de flamewar, les haceleurs ou les fauteurs de troubles dont le seul but est de se jouer des autres pour rire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the more organized level, it expands to illicit or criminal enterprises that utilize the mesh, such as selling black/snuff/porn XPs, illegal software, pirated media, or even egos.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À un niveau plus organisé, cela s'étend aux opérations illégales ou criminelles qui utilisent le mesh, comme la vente d'XP noire/snuff/porno, de logiciels illégaux, de médias piratés ou même d'égos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The most infamous threats—thanks both to the Fall and to the continuous sensationalism applied by media and stern authorities—are, of course, malware and hackers Given the capabilities of modern hackers and the vulnerability of many habitats—where damage to life support systems could kill thousands—the threat may not be over-exaggerated.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La menace la plus cléèbre - grâce à la fois à la Chute et au sensationnalisme continu des médias et des autorités derrière eux - sont, bien entendu, les malware et les hackeurs. Étant donné la possibilité des hackeurs modernes et la vulnérabilité de nombreux habitat - où les dégâts infligés aux systèmes de survie peuvent tuer des milliers de personnes, la menace n'est probablement pas sur-exagérée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Hackers}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Hackeurs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Whether individuals who are genuinely interested in exploring new technologies and seeking ways to break them in order to make them better, hacktivists who utilize the mesh in order to undermine the power of authorities, or ``black hats'' who seek to circumvent network security for malicious or criminal intent, hackers are a permanent fixture of the mesh.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qu'il s'agisse d'individus qui sont réellement interessé par l'exploration des nouvelles technologie et qui cherchent des moyens de les démonter afin de les améliorer, des hacktivistes qui utilisent le mesh afin de saper le pouvoir d'une autorité, ou les &quot;blacks hats&quot; qui cherchent à défaire la sécurité des réseaux dans un but criminel ou malicieux, les hackeurs font partis des meubles du mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unauthorized network break-ins, infiltration of VPNs, muse subversion, cyberbrain hijacking, data theft, cyber-extortion, identity fraud, denial of service attacks, electronic warfare, spime hijacking, entoptic vandalism—these are all common occurrences on the mesh.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les brèches non autorisés dans les réseaus, l'infiltration de VPN, la subversion de muse, le détournement de cybercerveaux, le vol de donnée, le racket-cyber, la fraude identitaire, les attaques par déni de service, la guerre élecronique, le détournement de spime, le vandalisme entoptique - tout ces crimes sont fréquent sur le mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thanks to smart and adaptive exploit programs and assisting muses, even a moderately skilled hacker can be a threat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Grâce à des programme d'exploitation intelligent et adaptatifs et l'assistance des muses, même un hackeur modéremment compétent peu représenter une menace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In order to counter hacking attempts, most people, devices, and networks are protected by a mix of access control routines, automated software intrusion prevention systems, encryption, and layered firewalls, typically overseen by the user's muse who plays the role of active defender.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Afin de contrer les tentatives de hack, la plupart des personnes, appareils et réseaux sont protégés par un mélange de routine de contrôle d'accès, de systèmes de prévention d'intrusion automatisé, de chiffrement et de firewall en couche, typiquement supervisé par la muse de l'utilisateur qui joue le rôle du défenseur actif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Extremely sensitive</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les systèmes extrèmement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>systems—such as space traffic control, life support, power systems, and hypercorporate research facilities—are usually limited to isolated, tightly-controlled, heavily-monitored, hard-wired networks to minimize the risk of intrusion from snoopers and saboteurs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>sensibles - tels que le contrôle du traffic, les systèmes de survie, l'énergie et les installation de recherche hypercorporatistes - sont généralement limité à des réseaux filaires isolés, surveillés de près et lourdement monitorés pour minimiser le risque d'intrusion de curieux ou de saboteurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Various countermeasures may be applied against such intruders, ranging from locking them out of the system to tracking them back and counterhacking.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Différentes contre mesure sont utiulisées contre de telles intrus, allant du verouillage hors du système au pistage en passant par le contre-hack.</seg>
       </tuv>
     </tu>
     <tu>
