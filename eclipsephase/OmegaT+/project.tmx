@@ -23742,6 +23742,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Software}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Logiciels}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Weapons</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -66922,6 +66930,1486 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Différentes contre mesure sont utiulisées contre de telles intrus, allant du verouillage hors du système au pistage en passant par le contre-hack.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The number of worms, virii, and other malware programs that ripped through computer systems during the Fall was staggering.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La quantité de vers, de virus et d'autres logiciels malveillants qui se sont infiltré dans les systèmes informatique pendant la Chute était stupéfiant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many of these were part of the netwar systems prepared by old Earth nation-states and corporations and unleashed on their enemies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart d'entre eux faisait parti des cyberarmes préparées par les état nation de la vielle Terre et les corporations qu'ils ont libérés contre leurs ennemis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Others were products of the TITANs, subversive programs that even the best defenses had trouble stopping.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres étaient le produit des TITANs, des programmes subversifs que même les meillerues défense avaient du mal a arréter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even 10 years later, many of these are still reappearing, brought back to life by the accessing of some long-forgotten data cache or the accidental infection of a scavenger mucking through old ruins.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même 10 ans après, la plupart d'entre eux réapparaissent régulièrement, ramenés à la vie par l'accès à des données oubliées depuis longtemps ou par l'infection accidentelle d'un charognard errant dans de vieilles ruines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>New ones pop every day, of course, many of them programmed by criminal hacker outfits, while others that enter circulation are modifications and variations of suspected TITAN designs, perhaps implying that certain parties are intentionally tinkering with this code and releasing it into the wild.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien entendu, de nouveaux malware appariassent tous les jours la plupart programmés par des associations de hackeurs criminels, alors que d'autres qui entrent dans le circuit ne sont que des modifications et des variations de conception supposée des TITAN, impliquant peut-être que certains groupes utilisent intentionellement ce code et le lâche dans la nature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rumors and whispers circulate that some of these TITAN worms are even more potent and frightening than previously hinted at, with stunning adaptive capabilities and intelligence.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des rumeurs et des murmures circulent sur le fait que ces vers des TITANs seraient encore plus puissant et effrayant que ce que l'on supposait, avec des capacités d'adptation et d'intelligence stupéfiantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These rumors are steadfastly denied by authority figures and security experts ... who then quietly turn around and do their best to ensure that their own networks remain safe.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces rumeurs sont rapidement démenties par les figures d'autorités et les experts en sécurité ... qui vont ensuite silencieusement vérifier la rumeur et s'assurer que leurs propres réseaux restent sûrs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI And Infolife</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>IA et Infolife</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Self-aware helper programs were originally designed and realized to augment transhuman cognitive abilities These specialized-focus AIs were then developed into the more complete, independent digital consciousnesses known as AGIs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les programmes d'assistance ayant conscience de leur existence, ont été originellement conçus et réalisé pour augmenter les capacités cognitives transhumaines. Ces IA hyper-spécialisées ont enuite été développée en une conscience numérique plus complète et indépendante connues sous le nom d'IAG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The further evolution of these digital life forms into seed AIs unfortunately led to the emergence of the TITANs and then the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'évolution subséquente de ces formes de vie numérique en IA germe à malheureusement amener à l'amergence des TITANs puis de la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This created a rift in transhuman society as fear and prejudice turned popular opinion against unrestricted AGIs, an attitude of mistrust that still lingers to this day.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela a créé un schisme dans la société transhumaine, la peur et le préjudice ayant tourné l'opinion populaire contre les IAG non restreintes, une attitude de méfiance qui existe toujours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{AI}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{IA}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The term AI is used to refer to narrow, limited-focus AIs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le terme IA est utilisé pour faire référence au IA restreinte et hyper-spécialisée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These digital minds are expert programs with processing capabilities equal to or even exceeding that of a transhuman mind.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces esprits numériques sont des programmes expert avec des capacités de traitement équivalente ou surpassant celles d'un esprit transhumain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though they have a personality matrix with individual identities and character, and though they are (usually) conscious and self-aware, their overall complexity and capabilities are limited.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien qu'elles aient une matrice de personnalité avaec une identité individuelle et un caractère, et bien qu'elles soient (habituellement) consciente et qu'elles aient conscience d'elle même , les complexité globale ainsi que leurs possibilités sont limitées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The programmed skills and abilities of AIs are typically very specific in scope and aligned towards a particular function, such as piloting a vehicle, facilitating mesh searches, or coordinating the functions of some habitat sub-system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les compétences et capacitées programmées des IA sont généralement dans limités à un spectre trés spécifique et orientés vers un but particulier, tel que la conduite de véhicule, les recherches sur le mesh, ou la coordination des sous-systèmes fonctionnels d'un habitat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some AIs, in fact, can only barely be considered sapient, and their emotional programming is usually narrow or non-existent.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines IA sont en fait à la limite de la conscience, et leur programmation émotionnelle est habituellement limitée ou inexistente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AIs have a number of built-in safety features and programmed limitations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les IA ont un des mesures de sécurité interne et des limitaions fonctionnelles codées en dur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They must serve and obey the instructions of authorized users within their normal functioning parameters and (in the inner system at least) must also obey the law.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle doivent répondre et obéir aux ordres des utilisateurs autorisés dans les limites de leurs paramètres de fonctionnement normal et (au moins dans le système intérieur) elle doivent respecter la loi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They lack self-interest and self-initiative, though they have limited empathy and may be programmed to anticipate the needs and desires of users and pre-emptively take action on their behalf.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elles manquent d'intérêt et d'initiative personnelles, bein qu'elles aient des fonctions limitée d'empathie et qu'elles puissent être programmée pour anticiper les besoins et les désirs des utilisateurs et d'agir de manière pré-emptive en leur nom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Perhaps most importantly, however, is that their psychological programming is specifically based on universal human modes of thought and an understanding and support of transhuman goals and interests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le plus improtant reste cependant que leur programmation psychologique est spécifiquement basée sur les modes de pensés universels et humains et sur une compréhension des objetctifs et intérêts transhumains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is part of an initiative to engineer so-called ``friendly AIs,'' who are programmed with sympathy towards transhumanity and all life and seek out their best interests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela fait parti d'une inititative pour concevori des &quot;IA amicales,&quot; programmée pour être sympathique vis à vis de la transhumanité et des autres formes de vie et pour cehrher à satisfaire leurs meilleurs intérêts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In most societies, basic AIs are considered ``things'' or property rather than people and are accorded no special rights.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans la plupart des sociétés, les IA de base sont considérées comme des &quot;objets&quot; ou des biens plutôt que comme des personnes et n'ont aps de droits particuliers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Muses are a specific type of AI designed to function as a personal aide and companion.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les muses sont un type particulier d'IA conçues pour fonctionner comme une assistance personnelle et un compagnon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most people in &lt;i0&gt;Eclipse Phase&lt;/i0&gt; have grown up with a muse at their virtual side.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des personnes dans &lt;i0&gt;Eclipse Phase&lt;/i0&gt; ont grandi avec une muse à leur côté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Muses tend to have a bit more personality and psychological programming than standard AIs and over time they build up an extensive database of their user's preferences, likes and dislikes, and personality quirks so that they may more effectively be of service and anticipate needs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les muses tendent à avoir un peu plus de programme de personalité et de psychologie que els IA standard et elles alimentent une base de données complète des préférences de leur utilisateur au fil du temps, ses préférences et ses traits de personnalités afin qu'elle soit plus efficace à servir et anticiper les besoins de son utilisateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Muses generally have names and reside within the character's mesh inserts or ecto, where they can manage the character's personal area network, communications, data queries, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les muses ont générallement des noms et résident dans l'insert de mesh ou l'ecto de l'utilisateur, où elles peuvent gérer le réseau personnel de l'utilisateur, ses communications, ses demandes de données et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What Your Muse Can Do For You&lt;/i0&gt; &lt;n1&gt; &lt;u0&gt; Make Research Tests to find information for you.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce Que Votre Muse Peut Faire Pour Vous&lt;/i0&gt; &lt;n1&gt; &lt;u0&gt; Faire des Tests de Recherche pour vous trouver de l'information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u1&gt; Scan newsfeeds and mesh updates for keyword alerts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u1&gt; Analyser des flux d'info et des mise à jour sur le mesh pour déclencher des laertes sur des mots clefs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u2&gt; Monitor your mesh inserts/ecto/PAN and slaved devices for intrusion.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u2&gt; Surveiller vos inserts de mesh/ecto/PAN et les appareils asservis pour contrer les intrusions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u3&gt; Launch countermeasures against intruders.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u3&gt; Lancer des contremesures contre les intrus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u4&gt; Teleoperate and command robots.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u4&gt; Téléopérer et commander des robots.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u5&gt; Monitor your Rep score and alert you to drastic changes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u5&gt; Surveiller vos scores de Rep et vous prévenir de changement drastique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u6&gt; Automatically provide feedback for other people’s Rep scores.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u6&gt; Fournir des retours automatique aux scores de Rep des autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u7&gt; Run audio input through an online, real-time language translation system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u7&gt; Fournir une traduction audio grâce à de ssystèmes temps réel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u8&gt; Put you in privacy mode and/or proactively stealth your wireless signal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u8&gt; Activer votre mode privé et/ou dissimuler proactivement votre signal sans fil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u9&gt; Falsify/fluctuate your mesh ID.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u9&gt; Falsifier/varier votre ID mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u10&gt; Track people for you.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u10&gt; Pister des personnes pour vous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u11&gt; Anticipate your needs and act accordingly, pre-empting your requests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u11&gt; Anticiper vos besoins et agir de manière appropriée, pré-emptant vos requètes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{AGI}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{IAG}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AGIs are complete and fully operational digital consciousnesses self-aware and capable of intelligent action at the same level as any transhuman.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les IAG sont des consciences numériques entièrement opérationnelle, consciente d'elles-même et capable d'actiobn intelligente de même niveau que n'importe quel transhumain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most have full autonomy and the capacity for self-improvement by a processing similar to learning—a slow optimization and expansion of their code that features programmed limitations to prevent it from achieving the self-upgrading capabilities of seed AIs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart sont entièrement autonome et ont des capacités d'auto-améliorations via un procédé similaire à l'apprentissage - une lente optimisation et une augmentation de leur code limités par des barrières logicielles pour l'empêcher d'atteindre les capacités d'auto-améliorations des IA germes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They have more fully-rounded personalities and emotional/ empathic abilities than standard AIs, due in part to a development process where they are literally raised within a VR simulation analogous to the rearing of transhuman children, and so are more fully socialized.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elles ont des personnalité plus subtiles et de meilleures capacités émotionnelles/empathiques que les IA standard, aprtiellement en raison du processus de développement basé sur une croissance en simulspace RV analogue à l'éductaion des enfants transhumains, et sont donc mieux socialisées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a result, they have a fairly human outlook, though some deviation is to be expected, and sometimes is apparent in great degrees.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En conséquence, elles ont un comportement relativement humain, bien que certaines déviations sont à anticipier et apparaissent parfois à des degrés élevés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Despite this attempt to humanize AGIs, they do not have the same evolutionary and biological origins that transhumans have, and so their social responses, behavior, and goals are sometimes off-mark or decidedly different.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En dépit de ces tentatives d'humaniser les IAG, elles n'ont pas les même origines évolutionnaire et biologique que les transhumains, et leurs réponses sociales, leur comportement et leurs objectifs sont parfois hors-repère ou complètement différents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AGIs bear the social stigma of their non-biological origin and are often met with bias and mistrust.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les IAG portent la stigmatisation sociale de leur origine non biologique et sont souvent perçue avec défiance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some habitats have even outlawed AGIs or subject them to</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques habitats ont même rendues les IAG illégales ou les ont forcés à</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>strict restrictions, forcing such infolife to hide their true natures or illegally darkcast to enter habitats or stations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>subir des restriction strictes, forçant de telles infolife à dissimuler leur vrai nature ou à se darkcaster illégalement pour entrer dans les habitats ou les stations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AGI mind programming emulates transhuman brain patterns sufficiently well that they can be sleeved into biomorphs if they choose.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La programmation de cerveaux IAG émule les motifs cérébraux transhumains de manière suffisament efficace pour qu'elle puisse s'incarner dans des biomorphs si elles le décident.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Non-Standard AIs And AGIs</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>IA et IAG non-standards</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Not all AIs and AGIs were programmed and designed to adhere to human modes of thought and interests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toutes les IA et IAG ne sont aps programmées et conçues pour adhérer aux modes de pensées et aux intérêts humains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Such creations are illegal in some jurisdictions, as they are considered a potential threat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De telles créations sont illégales dans certaines juridictions, car elles sont considérées comme des menaces potentielles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Several hypercorps and other groups have initiated research into this field, however, with varying results.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plusieurs hypercorps et d'autres groupes ont cependant démarrés des recherches dans ce domaine avec des résultats variables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In some cases these digital minds are so different from human mindsets that communication is impossible.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans certains cas, ces esprits numériques sont tellement différent des schémas humains que la communication est impossible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In others, enough crossover exists to allow limited communication, but such entities are invariably quite strange.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans d'autres, il existe suffisament de croisement pour autoriser une communications limitées, mais de telles entités sont invariablement relativement étrange.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rumors persist that some AIs began their life as transhuman backups or forks, who were then heavily edited and pruned down to AI-level intelligences.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des rumeurs persistent à propos de certaines IA qui auraient commencé leurs vie comme transhum:ain ou forks et qui auraient ensuite été lourdement éditée et réduite à un niveau d'intelligence IA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Seed AI}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{IA germe}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Due to the capability for unlimited self-upgrading, seed AIs have the capacity to grow into god-like digital entities far beyond the level of transhumans or AGIs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En raison de leur capacité d'auto-amélioration ilimitée, les IA graines ont la possibilité de s'élever au niveau d'entité numérique divine bien au delà du niveau des transhumains et des IAG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They require massive processing power and are always increasing in complexity due to a continual metamorphosis of their code.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elles nécessitent une capacité de traitement gigantesque et augmentent en permanence en complexité en raison de la métamorphose continue de leur code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Seed AIs are too complex to be downloaded into a physical morph, even a synthetic one.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les IA germe sont trop complexe pour être téléchargées dans une morph physique, même dans une morph synthétique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even their forks require impressive processing environments, so doing so is rare.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même leur fork nécessitent un environnement de traitement impressionant, et ce phénomène reste donc rare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In fact, most seed AIs require the capacities of hard-wired networks to survive.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fait, la pluaprt des IA germe ont besoin d'un réseau filaire pour survivre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The only seed AIs known to the public are the infamous TITANs who are widely regarded as being responsible for the Fall.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les seules IA germe connues du public sont les ignoble TITAN qui sont largement considérés comme les responsables de la Chute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In truth, the TITANs were not the first seed AIs and will probably not be the last.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>EN fait, les TITAN ne sont pas les premières IA germes et ne seront probablement pas les dernières.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are no publicly known TITANs (or other seed AIs) currently residing in the solar system, despite circulating rumors of damaged TITANs who were left behind on Earth, speculated TITAN activity under the clouds of Venus, or whispers of new seed AIs hidden away in secret networks on the edges of the system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il n'y a pas de TITAN (ou d'autre IA germe) connu du public et résidant actuellement dans le système solaire, en dépit de rumerus de TITAN endommagés qui auraient été abandonnés sur Terre, d'activité TITAN supposées sous les nuages de Vénus ou de murmure de nouvelles IA germe dissimulée dans des réseaux secrets aux limites du système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Transhuman Infomorphs}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Infomorphs transhumaines}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For thousands of infugees, embodying a digital form is their only choice.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour des milliers d'infugiés, assumer une forme numérique était le seul choix possible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some of these are locked away in mesh-separated virtual holding areas or even inactive storage, locked up by habitats who didn't have enough resources to handle them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains d'entre eux sont enfermés à l'écart dans des zones de stockages isolés du mesh ou même dans du stockage inactif, enfermés apr des habitats qui n'avaient pas assez de ressources pour les gérer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Others are imprisoned inside simulspaces, killing time in whatever way they choose until an opportunity to resleeve comes their way.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres sont emprisoné dans des simulsapces, tuant le temps de la manière qu'ils veulent jusqu'à ce qu'une opportunité de éincarnation passe à portée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Quite a few are free to roam the mesh, interacting with physically-sleeved transhumans, keeping up with current events, and sometimes even forming activist political blocs to campaign for infomorph rights or interests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une petite part d'entre eux sont libre de parcourir le mesh, interagissant avec les transzhumains physiquement incarnés, se maintenant au courant des derniers évènements et parfois formant des blocs politique activistes qui font campagne pour les droits et les intérêts des infomorphs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Still others find or are forced into virtual careers, slaving away in the digital sweatshops of hypercorps or criminal syndicates.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres encore trouve ou sont forcé de faire une carrière virtuelle, s'asservissant dans un atelier de misère hypercorporatiste ou pour un syndicat criminel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few find companions who are willing to bring them along in their ghostrider module and become an integral part of their lives, much like a muse.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques uns trouvent un compagnon qui ceut bien les emmener avec eux dans leur module ghostrider et deviennent une part intégrale de leurs vie, un peu comme une muse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some transhumans willingly choose the infomorph lifestyle, either for hedonism (custom simulspace and VR games until the end of time), escapism (loss of a loved ones leads them to write off physical concerns for awhile), freedom (go anywhere the mesh takes you—some have even beamed copies of themselves to far distant solar systems, hoping someone or something will receive their signal when they arrive), experimentation (forking and merging, running simulations, and weirder things), or because it is ensured immortality.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains transhumains choisissent volontairement le style de vie des infomorph, soit par hédonisme (des simulspace et des jeux RV personnalisé jusqu'à la fin des temps), par volonté de s'échapper (la perte de la personne aimée tends à vouloir abandonner les préoccupations physique pendant un temps), par soif de liberté (aller n'importe où le mesh peut vous emmener - certains ont même émis des copies d'eux-mêmes vers des système solaire trés éloignés, espérant que quelqu'un ou quelque chose recevra leur signal lorsqu'ils arriveront), pour expérimenter (forker et fusionner, exécuter des suimulations et auters choses étranges) ou parceque cela leur assure l'immortalité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Everyday Mesh Mechanics</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mécanismes du Mesh au Quotidien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Everyone (and everything) is meshed in &lt;i0&gt;Eclipse Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout et tout le monde est meshé dans &lt;i0&gt;Eclipse Phase&lt;/i0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;/i0&gt; The following rules and concerns apply to standard mesh use.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;/i0&gt; Les règles suivantes s'appliquent aux utilisations standard du mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that various mesh-related terms are explained, along with other &lt;i1&gt;Eclipse Phase &lt;/i1&gt;concepts, under &lt;i2&gt;Terminology,&lt;/i2&gt; p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que les différents termes liés au mesh sont détaillés, ainsi que d'autres termes spécifiques à &lt;i1&gt;Eclipse Phase&lt;/i1&gt;, dans le chapitre &lt;i2&gt;Terminologie,&lt;/i2&gt; p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Mesh Interface}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Interface Mesh}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters have a choice of which interface to use, the entoptic interface of basic mesh inserts or the haptic interface of an ecto.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages ont le choix de l'interface à utiliser, l'interface entoptique des inserts basique de mesh ou l'interface haptique d'un ecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The basic mesh inserts used by most users allows them to interact with AR, VR, XP, and the mesh at the</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'insert basique de mesh utilisé par la plupart des utilisateurs leur permet d'intergair avec la RA, la RV, l'XP et le mesh à la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>speed of thought.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>vitesse de la pensée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is the default method of mesh use and suffers no modifiers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'et la méthode utilsié sur le mesh pard éfaut et ne souffre d'aucun modificateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are, however, more prone to visual and operative impairments (virtual illusions denial-of-service effects) when hacked.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elles sont cependant plus sensibles à générer des handicaps visuels et opréationnels (effets de déni de service par illusion) lorsqu'elles sont piratées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters who use the haptic interface of an ecto, however, suffer a slight delay on their mesh activities due to manual toggling, physical controls, and physical interaction with virtual controls.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages qui utilisent l'interface haptique d'un ecto subissent cependant un léger délai sur leur activités sur le mesh en raison des manipulations manuelles, des contrôles physiques et des interactions avec des contrôles virtuels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In game terms, the use of haptics imposes a –10 skill modifier to all mesh tests where timing is rushed (particularly combat and or any sort of mesh use under pressure).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En terme de jeu, l'utilisation d'une interface haptique impose un modificateur de compétence de -10 à tous les tests de mesh lorsque le temps est important (particulièrement en combat et/ou pour toutes utilisation du mesh sous pression).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additionally, increase the timeframe for mesh-based Task Actions by +25% when interfacing via haptics.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Augmentez également l'intervalle de toute Action de Tâche basée sur le mesh de +25% lorsque vous utilisez une interface haptique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On the positive side, ectos can be easily removed and discarded if compromised—for this reason, many hackers and security-conscious users use an ecto in addition to their mesh inserts, routing all high-risk traffic through the ecto as an extra line of defense.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Du côté positif, les extos peuvent être facilement retirés et abandonné si ils sont compromis - pour cette raison, beaucoup de hackeurs et d'utilisateurs faisant attention à leur sécurité utilisent un ecto en plus de leur insert de mesh, routant tout le traffic à haut risque dasn l'ecto comme ligne de féense supplémentair de défense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Mesh ID}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{ID Mesh}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every mesh user (and, in fact, every device) has a unique code called their &lt;i0&gt;mesh ID.&lt;/i0&gt; This ID distinguishes them from all other users and devices, and is the mechanism by which others can find them online, like a combination phone number, email address, and screen name.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque utilisateur du mesh (et, en fait, chaque appareil) possède un code unique appelé &lt;i0&gt;ID mesh.&lt;/i0&gt; Cet ID le différencie des autres utilisateur et appraiels et est le mécanisme permettant aux autres de retourver l'utilisateur en-ligne, comme la combinaison d'un numéro de téléphone, d'une adresse mail et d'un pseudo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mesh IDs are used in almost all online interactions which are often logged, meaning that your activities online leave a datatrail that can be tracked (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les ID mesh sont utilisés dans presque toutes les interactions en ligne qui sont souvent enrgeistrées, ce qui implique que votyre activité en ligne laisse une piste de donnée qui peut-être pistée (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fortunately for Firewall sentinels and others who value their privacy, there are ways around this (see &lt;i1&gt;Privacy and Anonymity,&lt;/i1&gt; p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Heureusement pour les sentinelles de Friewall et ceux qui donnent de la valeur à leur vie privée, il y a des moyens de contourner ce problème (voir &lt;i1&gt;Vie privée et Anonymité,&lt;/i1&gt; p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AIs, AGIs, and infomorphs also each have their own unique mesh ID.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>IA, IAG et infomorphs ont également chacune leur propre ID mesh unique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Accounts And Access Privileges}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Comptes Et Privilèges d'Accès}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Devices, networks (such as PANs, VPNs, and hardwired networks), and services require that every user that accesses them does so with an account.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les appareils, les réseaux (tels que les PAN, les VPN et les réseaux filaires), ainsi que les services nécessitent que chaque utilisateurs y accédant le fasse avec un compte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The account serves to identify that particular user, is linked to their mesh ID, and determines what access privileges they have on that system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce compte sert à identifier cet utilisateur particulier, il est lié à l'ID mesh et il détermine quel privilège d'accès l'utilisateur possède sur ce système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are four types of accounts: &lt;i0&gt;public, user, security,&lt;/i0&gt; and &lt;i1&gt;admin.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a quatre type de comptes: &lt;i0&gt;public, utilisateur, sécurité; &lt;/i0&gt; et &lt;i1&gt;admin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Elite Exploits</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Exploits de l'Élite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The mesh gear quality rules allow for players and gamemasters to make a distinction between software tools, separating the open-source, stock-repertoire exploit tools of amateur hackers from cutting-edge military-grade penetration wares.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La qualité de léquipement meshé permet aux joueurs et aux maîtres de jeu de faire la distinction entre les outils logiciels, séparant les outils d'exploitation open-source et mal dégrossi des hackeurs amateurs des softs de pénétration à la pointe de la technologie militaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While many characters will simply buy or otherwise acquire such programs, a hacker with the do-it-yourself ethic is likely going to want to design their own personalized applications, based on their playbook of closely-guarded intrusion/ counterintrusion methods.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que beaucoup de personnages achèterons ou acquérirons simplement de tels programmes, un hackeur ayant pour éthique le fait-le-toi-même voudra trés probablement concevoir ses propres applications personnalisées, basés sur leur guide personnel de méthodes de contre-intrusions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To reflect the efforts a hacker character makes by designing, coding, and modifying their own customized personal arsenals, they may make a Task Action Programming Test with timeframe of 2 weeks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour refléter les effort d'un personnage hackeur pour faire la conception, le code et la modification de leur propres arsenals personnels il peut faire un Test de programmation en Action de Tâche avec un intervalle de 2 semaines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If they succeed, they upgrade one of their software tools by one level of quality (i.e., from +0 to +10).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si ils réussissent, ils améliorent la qualité de l'un de leur outils logiciel (par exmeple de +0 à +10).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Multiple Programming Tests can be made to enhance a program, but for each level add the target modifier as a negative modifier to the test (so upgrading a +0 suite to +10 is a –10 modifier on the Programming Test).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plusieurs test de Programmation peuvent être fait pour améliorer un programme, mais pour chaque niveau, ajoutez le modificateur cible comme modificateur négatif auy test (amliorer une suite de +0 à +10 donne un modificateur de -10 au Test de Programmation).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Similarly, at the gamemaster’s discretion, software tools—particularly exploits—may degrade in quality over time, reflecting that they have become outdated.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, et à la discrétion du maître de jeu, les outils logiciels - et en particulier les exploits - peuvent se dégrader en qualité au fil du temps, reflétant le fait qu'ils sont devenus dépassés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a general rule, such programs should degrade in quality about once every 3 months.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En général, de tels programmes devraient se dégrader une fois tout les 3 mois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Public Accounts}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Comptes Publics}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Public accounts are used for systems that allow access (or access to parts of their system) to anyone</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les comptes publics sont utilisés pour les systèmes qui autorise l'accès (ou l'accès à des parties du système) à n'importe qui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>on the mesh.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>sur le mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Public accounts do not require any sort of authentication or login process, the user's mesh ID is enough.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les comptes publics ne nécessitent aucun type d'identification ou de système de connexion, l'ID mesh de l'utilisateur est suffisant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These accounts are used to provide access to any sort of data that is considered public: mesh sites, forums, public archives, open databases, social network profiles, etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces comptes sont utilisés pour fournir un accès à tout type de données qui est considéré public: sites mesh, forums, archives publiques, bases de données ouvertes, profils de réseaux sociaux, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Public accounts usually have the ability to read and download data, and sometimes to write data (forum comments, for example), but little else.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les comptes publics ont ganaralement la possibilité de lire et de télécharger des données, et parfois d'en écrire (commentaires des forums, par exemples), mais guère plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{User Accounts}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Comptes Utilisateurs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>User accounts are the most common accounts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les comptes utilisateurs sont les comptes les plus fréquents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>User accounts require some form of authentication (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les comptes utilisateurs nécessitent une forme d'identification (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>253) to access the device, network, or service.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>253) pur accéder à l'appareil, au réseau ou au service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each user account has specific access privileges allotted to it, which are tasks the user is allowed to perform on that system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque compte utilisateur a des privilèges d'accés spécifique associés, lesquels sont les tâches que l'utilisateur peut accomplir sur le système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, most users are allowed to upload and download data, change basic content, and use the standard features of the system in question.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, la plupart des utilisateurs ont le droit d'uploader et de télécharger des données, de changer les contenus de base et d'utiliser les fonctions standard du système en question.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are not, however, usually allowed to alter security features, add new accounts, or do anything that might impact the security or functioning of the system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il n'ont cependant généralement pas le droit de modifier les fonctions de sécurité, d'ajouter de nouveaux comptes ou de faire quoi que ce soit qui pourrait avoir un impact sur la sécurité ou le fonctionnement du système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As some systems are more restrictive than others, the gamemaster decides what privileges each user account provides.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains systèmes étant plus restrictifs que d'autres, le maîþre de jeu décide quels provilèges sont disponible pour chaque compte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Security Accounts}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Comptes de Sécurité}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Security accounts are intended for users that need greater rights and privileges than standard users, but who don't need control over the entire system, such as security hackers and muses.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les comptes de sécurités sont destinés aux utilisateurs qui ont besoin de plus de droits et de privilèges que les utilisateurs standards, mais qui n'ont pas besoin de d'avoir un contrôle de tout le système, tels que les hackeurs de sécurité et les muses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Security access rights usually allow for reading logs, commanding security features, adding/deleting accounts, altering the data of other users, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les droits des comptes de sécurité autorisent générallement la lectur de log, le pilotage des fonctions de sécurité, l'ajout/suppression de compte, la modification de données des autres utilisateurs et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Admin Accounts}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Comptes Administrateurs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Admin accounts provide complete control over the system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lec omptes administrateurs fournissent un contrôle complet du système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters with admin rights can do everything security accounts can, plus they can shut down/ reboot the system, alter access rights of other users, view and edit all log files and statistics, and stop or start any software available on the system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages ayant des droits administrateurs peuvent faire tout ce que peuvent faire les comptes de sécurité, plus l'extincion/redémarrage du système, la modification des droits d'accès des autres utilisateurs, la visualisation et l'édition de tous les fichiers de logs et des statistiques, et peuvent arréter ou démarrer n'importe quel logiciel disponible sur le système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Mesh Gear Quality}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Qualité de l'Équipement Meshé}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Not all gear is created equal, and this is especially true of computers and software, where new innovations are made on a daily basis.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout les équipements en sont pas égaux, et c'est particulièrement vrai pour les ordinateurs et les logiciels, domaine où des nouvelles innovation sont faites sur une base quotidienne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Keeping up-to-date with the last specs isn't too difficult, but on occasion the characters will get their hands on some old relic or find themselves in secluded or decrepit places with local systems and gear that aren't up to date.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Se maintenir à jour avec les dernières specs n'est pas trop difficile, mais les personnages pourront occasionnellement mettre les mains sur une vieille relique ou se retrouver dans des endroits reclus ou décrépie avec des systèmes locaux et de l'équipement qui ne soit pas à jour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, they may acquire some cutting-edge gear straight from the labs or may run up against a state-of-the-art installation with next-generation defenses.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, ils peuvent acquérir de l'équipement directement depusi un labo ou devoir mener un assaut que une installation à la pointe équippées de défense de prochaine génération.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To reflect this, mesh tests can be modified according to the state of the hardware or software being used, as noted on the Mesh Gear Modifiers table.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour refléter ce phénomène, les tests de mesh peuvent être modifiée en fonction de l'état du matériel ou du logiciel utilisé, tels que noté sur la table des Modificateur d'Équipement Meshé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{2}{|c|}{&lt;i0&gt;Mesh Gear Modifiers&lt;/i0&gt;} &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{2}{|c|}{&lt;i0&gt;Modificateurs d'Équipement Meshé&lt;/i0&gt;} &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Modifier</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Modificateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Software/Hardware&lt;/i0&gt; &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Logiciel/Matériel&lt;/i0&gt; &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bashed-up devices, no-longer-supported software, relics from Earth or the early expansion into space &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appareils défoncés, logiciels plus supportés, relique de la Terre ou du début de l'expansion spatiale &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Malfunctioning/inferior devices, buggy software, pre-Fall technology &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appareils avec des dysfonctionnement/inférieur, logiciels buggués, technologie pré-Chute &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Outdated and low quality systems &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Systèmes dépassés et de mauvaise qualité &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Standard ectos, mesh inserts, and software &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ectos, inserts de mesh et logiciels standards&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>High-quality goods, standard security-grade products &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Marchandise de haute qualité, produits standard de sécurité &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Next-generation devices, advanced software &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appareil de future génération, logiciels avancés &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Newly-developed, state-of-the-art, top-of-the-line technology &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Technologie nouvellement développée, de haut de gamme, à la pointe &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>TITANs and/or alien technology &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Technologie des TITAN et/ou étrangère&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Computer Capabilities}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Capacités des Ordinateurs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Computerized electronics can be broken down into three simple categories: &lt;i0&gt;peripherals, personal comput-&lt;/i0&gt; &lt;i1&gt;ers, &lt;/i1&gt;and &lt;i2&gt;servers.&lt;/i2&gt; In game terms, all are collectively referred to as &lt;i3&gt;devices.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'électronique informatisée peut-être séparée en trois catégories simple: &lt;i0&gt;périphériques, ordinateurs personnels&lt;/i0&gt;&lt;i1&gt;&lt;/i1&gt; et &lt;i2&gt;serveurs.&lt;/i2&gt; En terme de jeu, il est fait référence au trsoi sous le terme &lt;i3&gt;appareils.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Peripherals}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Périphériques}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Peripherals are micro-computerized devices that don't need the full processing power and storage capacity of a personal computer, but benefit from online networking and other computerized functions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les périphériques sont des apapreils micro-informatisé qui n'ont pas besoin de toute la puissance de calcul et de stockage d'un ordinateur personnel, mais bénéficie des réseaux en-ligne et d'autres fonctions de calculs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Peripherals may run software, but the gamemaster may decide that too many programs (10+) will degrade the system's performance AIs and infomorphs are incapable of running on peripherals, though they may access them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les périphériques peuvent exécuter des logiciels, mais le maître de jeu peu décider que trop de ces programmes (10+) dégraderonT les performances du système. Les IA et les infomorphs sont incapable de fonctionner sur des périphériques, bien qu'ils puissent y accéder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Peripherals only have public and user accounts (users accounts include security and admin functions; see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les périphériques n'ont que des comptes publics et utilisateurs (les comptes utilisateurs incluent les fonctions de sécurité et d'administartion; voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Common peripherals include: spimes, appliances, most cybernetic implants, individual sensors, and weapons.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les périphériques courants incluent: les spimes, les appliances, la plupart des implants cybernétique, les capteurs individuels et les armes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Personal Computers}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Ordinateurs Personnels}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Personal computers account for a wide range of computer types, but essentially account for anything that has the capabilities evolved from generations and generations of personal computers to meet an everyday user's needs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les ordinateurs personnels regroupent une gamme large d'ordinateurs, mais sont essentiellement tout ce qui a des possibilités issues de lévolution de générations d'ordinateurs personnels pour satisfaire les besoin de l'utilisateur lambda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most personal computers are portable and tailored for use by multiple users at a time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des ordinateurs personnels sont portables et dimensionnés pour être utilisés par plusieur personnes en même temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Personal computers may run one AI or infomorph at a time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les ordinateurs personnels peuvent faire fonctionner une seule IA ou infomorph à la fois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They may not run simulspace programs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils ne peuvent pas faire fonctionner de programmes de simulspace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Common personal computers include: mesh inserts, ectos, and vehicles.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les ordinateurs personnels courants incluent: les inserts de mesh, les ectos et les véhicules.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Servers}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Serveurs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Servers have much greater processing power and data management capabilities than personal computers They are capable of handling hundreds of users, multiple AIs and infomorphs, and they may run</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les serveurs ont une capacité de traitement et de gestion de données bien supérieure aux ordinateurs personnels. Ils sont capable de gérer des centaines 'utilisateurs, de multiple IA et infomorphs et ils peuvent héberger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>simulspace programs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>des programmes de simulspace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though few are portable, some of them come close.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que peu soient portables, le splus petits d'entre eux n'en sont pas loin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A wide manner of software is available for mesh users, from firewalls and AIs to hacking and encryption tools to tacnets and skillsofts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une grande gamme de logiciels sont disponible pour les utilisateurs du mesh, des parefeux et IA aux outils de piratage et de chiffrement en pasant par les réseaux tactiques et les logiciels de compétences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These programs are listed on p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces programmes sont listés à la p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>331 of the &lt;i0&gt;Gear &lt;/i0&gt;chapter.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>331 du chapitre sur &lt;i0&gt;l'Équipement&lt;/i0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Like other gear, software may enable a character to perform a task they could not otherwise.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme le reste du matériel, le logiciel peut permettre à un personnage d'effectuer une tâche qu'ils ne pourraient pas faire sinon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The quality of the software may also be a factor, applying a modifier as appropriate (see &lt;i1&gt;Mesh &lt;/i1&gt; &lt;i2&gt;Gear Quality,&lt;/i2&gt; p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>KLa qualité du logiciel peut également être un facteur, appliquant un moificaeur approprié (voir &lt;i1&gt;Qualité de &lt;/i1&gt; &lt;i2&gt;l'Équipement Meshé&lt;/i2&gt; p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some software is equipped with digital restrictions to prevent it from being copied and shared with others.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains logiciels sont équipés avec des restrictions numériques qui empêche de le copier et de le partager avec d'autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These restrictions may be defeated, but it is a time-consuming task, requiring a Task Action Programming Test with a timeframe of 2 months.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces restrictiosn peuvent être battues, mais c'est une tâche qui nécessite du temps, requérant un Test de Programmation en Action de Tâche avec un intervalle d 2 mois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thanks to the efforts of the open source movement and numerous individual software pirates, however, quite a bit of software is available free or online.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Grâce aux efforts du mouvement open source et à de nombreux pirates de logiciels, il est cependant faciel de trouver du logiciel gratuit en ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The availability of pirated software or freeware will depend on the local habitat and legalities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La disponibilité des logiciels piratés ou libre dépend de l'habitat local et des lois qui y ont cours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finding it may be a matter of a simple search, or it may require some use of reputation to find someone who has it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En trouver peut-être l'affaire d'une simple recherche ou pourrait nécessiter l'utilisation de la réputation pour trouver qui en a.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Usually there is at least one local crime syndicate that is willing to help you out—for a price.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a générallement au moins un syndicat du crime local qui voudra bien vous aider - à condition d'y mettre le prix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Software Compatibility}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Compatibilité Logicielle}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In most instances, software compatibility is not going to be an issue for characters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans la plupart des cas, la compatibilité logicielle ne sera pas un problème pour les personnages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gamemasters who like it as a plot device, however, can introduce compatibility problems in certain cases, whether this is done to increase drama, slow the characters down, or create obstacles that they must overcome.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les maîtres de jeu qui voudrait s'en service comme moteur d'intrigue peuvent cependant introduire des problèmes de compatibilité dans certains cas, qu'il s'agissent d'augmenter les enjeux, de ralentir les personnages ou de créer des obstacles qu'ils devront vaincre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Such incompatibilities are more likely to arise when dealing with outdated systems or devices, or at least ones that are unlikely to have the latest patches and software updates Incompatibilities can also be used as a drawback to acquiring software from untrustworthy sources.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De telles incompatibilités ont de bonnes chances de se produire avec des systèmes ou des appareils dépassé, ou au moins ceux qui n'ont pas les eus derniers patches et mise à jour logiciels. Les incompatibilités peuvent également être utilisées comme un inconvénient lors de l'acquisition de logiciel via des sources douteuses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Conflicting software issues are going to have one of two effects.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les logiciels en conflit peuvent provoquer un effet parmis les deux décrit ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Either the software will simply not work with certain devices, or it will inflict a –10 to –30 modifier due to instabilities and glitches.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Soit le logiciel refusera de fonctionner avec certains appareils, ou il infligera un modificateur de -10 à -30 en raison des instabilités et des défauts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the gamemaster allows it, a character may reduce this penalty by patching up the software, requiring a successful Programming Task Action (1 day).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le maîþre de jeu l'autorise, un personnage peut réduire cette pénalité en patchant le logiciel, nécessitant de réussir une Action de Tâche de Programmation (1 jour).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For every 10 points of MoS, reduce the incompatibility modifier by 10.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour chaque tranche de 10 points de MdR, le modificateur d'incompatibilité est réduit de 10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Traffic Filters And Mist}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Filtres de Traffic et Mist}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mesh networks and AR are overrun with yottabytes of information.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les réseaux meshés et RA sont saturés par des yottaoctets d'informations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though mesh inserts and ectos can deal with a lot of data traffic in terms of bandwidth and processing power, using filters to weed out unwanted traffic is quite simply a necessity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même si les inserts mesh et les ectos peuvent gérer beaucoup de données en terme de bande passante et de puissance de calcul, utiliser des filtres pour supprimer tout le traffic non désiré est une nécessité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is especially true of AR, where unwanted entoptics can clutter your vision and distract you.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela est particulièrement vrai en RA, où toutes les entoptiques non désirée peuvent encombrer votre vision et vous distraire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nevertheless, entoptic spam of many flavors—advertisements, political screeds, porn, scams—do their best to bypass these filters, and in many areas the amount of unfiltered entoptics can be overwhelming—a phenomenon colloquially referred to as ``mist.''</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De plus, le sam entoptique de tout type - publicité, pamphlets politique, porno, arnaque - font tout leur possible pour passer ces filtres, et dans beaucoup de zone, la quantité d'entoptique non filtrées peut-être étouffante - un phénomène appelé collégialement le &quot;mist&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the gamemaster's discretion, mist can interfere with a user's sensory perceptions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À la discrétion du maître de jeu, le mist peut interférer avec les perceptions sensorielles de l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This modifier can range from –10 to –30, and in some cases might be so distracting as to affect all of a character's actions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce modificateur va de -10 à -30, et dans certains cas peut-être distrayant au point d'affecter toutes les actions du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To lift the data fog, a character or muse must adjust their filter settings by succeeding in an Interfacing Test modified by the mist modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour suppirmer le brouilalrd de donnée, un personnage ou une muse doit ajuster ses filtres en réussissant un Test d'Interfaçage modifier par le modificateur de mist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alternately, the character can completely disable AR input, but this is likely to impede them in other ways.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage peut également complètement désactiver ses entrées RA, mais sera géné d'une manière ou d'une autre.</seg>
       </tuv>
     </tu>
     <tu>
