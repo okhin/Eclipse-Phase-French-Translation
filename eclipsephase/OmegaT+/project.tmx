@@ -42126,6 +42126,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Wireless Scanning}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Analyse Sans-fil}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Lack</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -68410,6 +68418,1390 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Un personnage peut également complètement désactiver ses entrées RA, mais sera géné d'une manière ou d'une autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Slaving Devices}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Asservir des Appareils}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For ease of use, as well as for privacy and security purposes, one or more devices may be slaved to each other.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour des raisons de simplicité d'utilisation, de protection de la vie privée et de sécurité, un ou plusieurs appareils peuvent être asservis l'un à l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>One device (usually the character's mesh inserts or ecto) takes the role of &lt;i0&gt;master,&lt;/i0&gt; while the other device(s) takes the role of &lt;i1&gt;slave.&lt;/i1&gt; All traffic to and from slaved devices is routed through the master.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un appareil (généralement l'insert de mesh ou 'lecto du personnage) prend le rôle de &lt;i0&gt;maître,&lt;/i0&gt; alors que les autres appareils sont les &lt;i1&gt;escalve.&lt;/i1&gt; Tout le traffic entrant et sortant des apapreils escalves sont routés à travers le maître.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This allows a slaved device to rely on the master's security features and active monitoring.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela permet à un esclave de se reposer sur les fonctions de sécurité et de supervision du maître.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Anyone that wants to connect to or hacked into a slaved device is rerouted to the master for authentication and security scrutiny.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quiconque veut se connecter à ou pirater un appareil esclave est rerouté vers le maître pour l'identification et l'analyse de sécurité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slaved devices automatically accept commands from their master device.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les apapreisl asservis acceptent automatiquement les commandes de leur appareil maître.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This means that a hacker who penetrates a master system can legitimately access and issue commands to a slaved device, assuming their access privileges allow for it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela signifie qu'un hackeur qui pénètre le système maîþre peut légitimement accéder et envoyer des commandes à un appareil asservi, tant que leurs privilèges d'accès le lui permet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>PANs are typically formed by slaving all of a character's devices to their ecto or mesh inserts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Typiquement, les PAN sont formé en asservissant tous les périphériques du personnage à son ecto ou à son insert de mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Similarly, individual components of a security system (doors, sensors, etc.) are usually slaved to a central security node that serves as a chokepoint for anyone hoping to hack the system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, les éléments d'un système de sécurité (portes, capteurs, etc.) sont généralement asservi à un nœud de sécurité qui sert de point d'accès pour tout ceux qui cherchent à hacker le système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The same is often true for other networks and facilities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est également souvent vrai pour les autres rseaux et installations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Issuing Commands}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Envoyer des Ordres}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters may issue commands to any slaved device or teleoperated bot (see &lt;i0&gt;Shell Remote Control,&lt;/i0&gt; p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages peuvent envoyer des ordres à tout périphérique esclave ou bot télé opéré (voir &lt;i0&gt;Contrôle des Coques à Distance,&lt;/i0&gt; p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>196) with a Quick Action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>196) avec une Action Rapide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each command counts separately, unless the character is issuing the same command to multiple devices/drones.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque ordre est compté individuellement, sauf si le personnage envoie le même ordre à plusieru appareils/drônes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Distance Lag}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Décalage Distanciel}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Anytime you extend your communications over great distances, you run into the risk of time lags.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À chaque fois que vous étendez vos communications sur de longues distances, vous rencontrez le risque des décalages distanciels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most communications are restricted to ``local'' for this reason, which generally means your local habitat and any others within 50,000 kilometers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des communications sont limitées au niveau &quot;local&quot; pour cetter aison, ce qui signifie générallement vottre habitat et tous les autres dans un rayon de 50 000 kilomètres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On planetary bodies like Mars, Venus, Luna, or Titan, ``local'' encompasses all of the habitats and linked mesh networks on that planetary body.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sur les corps planétaires comme Mars, Vénus, la Lune ou Titan, le niveau &quot;local&quot; regroupe tous les habitats et les réseaux meshés connecté à ce corps planétaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a character is searching the mesh beyond their local area, the most efficient way is to transmit a search AI (usually a copy of your muse) or a fork to the non-local area, which will then run its search and return completed results.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un personnage cherche des données sur le mesh au-delà de leur zone locale, la méthode la plus efficace est de transmettre une IA de recherche (générallement une copie de votre Muse) ou un fork vers la zone non-locale, et qui effectuera ensuite la recherche et renverra les résultats une fois terminée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This process does, however, add to the time of transmission to the timeframe (i.e., searching the mesh of a station 10 light-minutes away adds 20 minutes to the search as the search is transmitted over and the results are transmitted back).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce procédé ajoute cependant le temps de transmission à l'intervalle de temps de la recherche (i.e., rechercher sur le mesh d'une station à 10 minutes lumières ajoutera 20 minutes au temps de la recherche alors qu'elle sera envoyée là-bas et qu'elle devra revenir).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since long-distance communications are sometimes interfered with</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme les communication longue distance subissent parfois des interférences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>or bumped for higher-priority items, the gamemaster can increase this time at their discretion.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>ou sont retardées au profit d'éléments à plus haute priorité, le maîþre de jeu peut augmenter ce temp de manière appropriée à la situation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the research involves correlation and fine-tuning the search parameters based on data accumulated from different locals, the timeframe may be exponentially increased due to the need for back-and-forth interaction.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si la recherche implique de faire des déductions et de paramétrer finement les critères de recherche en fonction des données accumulées sur différentes zone, l'intervalle peut augmenter de manière exponentielle en raison du besoin d'interagir en aller et retour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character is simply communicating with or accessing non-local networks, an appropriate time lag must be introduced between communications and actions The effects of this lag are largely up to the gamemaster as fitting current distances and other factors.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le personnage ne fait que communiquer avec ou accéder à de réseaux non-locaux, un décalage temporel approprié peut être introduit entre ls commnications et les actions. L'effet de ce décalage est essentiellement laissé à l'apprcéiation du maître de jeu en fonction des distances et des autres facteurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Accessing Multiple Devices}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Accéder Plusieurs Appareils}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Meshed characters may connect to and interact with numerous devices, networks, and services simultaneously There is no penalty for doing this, but the character may only focus on one system at a time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages meshés peuvent se connecter et interagir simultanément avec de nombreux appareils, réseaux et services. il n'y a pas de pénalité pour le faire, mais le personnage en peut se concentrer que sur un seul système à la fois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In other words, you may only interact with one system at a time, though you may also switch between them freely, even within the same Action Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En d'autres termes, vous ne pouvez interagir qu'avec un seul système à la fois, même si vous pouvez basculer de l'un à l'autre librement, même dans la même Phase d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You could, for example, spend several Quick Actions to send a message with your ecto, tell your spime oven at home to start cooking dinner, and look up a friend's updated profile on a social network.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous pouvez, par exemple, dépenser plusierus Action Rapide pour envoyer un message avec votre ecto, demander à votre four spime chez vous de démarrer la cuisson du dîner et regarder la mise à jour du profil d'un ami sur un réseau social.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may not, however, hack into two separate systems simultaneously.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous ne pouvez cependant pas pirater deux systèmes simultanément.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that you may send the same command to multiple slaved devices or teleoperated drones with the same Quick Action, as noted above.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que vous pouvez envoyer la même commande à plusierus appareils asservis ou drône téléopéré avec la même Action Rapide, comme signalé plus haut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Online Research</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Recherche En Ligne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Research skill (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La compétence Recherce (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>184) represents a character's ability to track down information in the mesh.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>184) représente la capacité d'un personnage à trouver de l'inofrmation sur le mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Such information includes any type of digitized data: text, pictures, vids, XP, sensor feeds, raw data, software, etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De telles informations incluent tout type de données numérisées: texte, images, vids, XP, flux de senseur, données brutes; logiciel, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This data is culled from all manner of sources: blogs, archives, databases, directories, social networks, rep networks, online services, forums, chat rooms, torrent caches, and regular mesh sites of all kinds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces données sont agrégées depuis de nombreuses sources: blogs, archives, bases de données, annuaires, réseaux sociaux, réseaux de réputation, services en ligne, forums, salon de discussion, cache de torrents et sites mesh de tout types.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Research is conducted using various public and private search engines, both general and specialized, as well as data indices and search AIs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La recherche est faites en utilisant divers moteur de recherche publics et privés, à la fois généraliste et spécialisés, ainsi qu'avcec des index de données et des IA de recherche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Research has other uses as well.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La recherche à également d'autres utilisations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hackers use it when looking for specific information on a network or device on which they have intruded.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les hackeurs s'ne servent lorsqu'ils cherchent des informations spécifiques sur un réseau ou un appareil sur lequel ils se sont introduit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, since everyone inevitably uses and interacts with the mesh, Research skill is also a way to identify, backtrack, and/ or gather information on people as long as they have not hidden their identity, worked anonymously, or covered their identity with a shroud of disinformation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Puisque tout le monde utilises et interagit inévitablement avec le mesh, la compétence Recherche est également une bonne méthode pour identifier, remonter la piste et/ou rassembler des informations sur des personnes tant qu'elles n'ont pas dissimulé leur identité, travaillées anonymement ou couverts leurs identités avec un nuage de désinformation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Search Challenges}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Défi de Recherche}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Due to the sheer amount of data available, finding what you're looking for may sometimes seem a daunting task.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En raison de la somme importante de données disponible, trouver ce que vous cherchez peut sembler parfois une tâche exténuante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thankfully, information is fairly well organized, thanks to the hard work of ``spider'' AIs that cruise the mesh and constantly update data and search indices.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Heureusement, l'information est relativement bien organisée, grâce au dur labeur des IA &quot;spiders&quot; qui patrouillent le mesh et maintiennent constamment à jour les données et les index de recherches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additionally, information on the mesh is tagged with semantics, meaning that it's presented with code that allows a machine to understand the &lt;i0&gt;context &lt;/i0&gt;of that information as well as a human reader would.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De plus, l'information sur le mesh est sémantiquement étiquetté, ce qui fait qu'elle est présentée en code permettant à une machine de comprendre le &lt;i0&gt;contexte&lt;/i0&gt; de l'information aussi bien que le ferai un lecteur humain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This helps AIs and search software correlate data more efficiently.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela permet aux IA et aux logiciels de recherche de corréler les données plus efficacement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>So finding the data is usually not as difficult as analyzing it and understanding it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Trouver les données n'est donc générallement pas aussi difficile que les analyser et les comprendre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finding specialized or hidden info or correlating data from multiple sources is usually the real challenge.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Trouver des informatiosn spécialisées ou dissimulées ou corréler des données de plusieurs sources représente généralement le défi réel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Perhaps a larger issue is the amount of incorrect data and misinformation online.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un plus gros problème peut-être aussi la quantité de données erronées et de désinformation que l'on peut trouver en ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some data is simply wrong (mistakes happen) or outdated, but the nature of the mesh means that such things can linger on for years and even propagate far and wide as they are circulated without fact-checking.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines données sont tout simplement fausses (les erreurs arrive) ou périmées, mais la nature du mesh fait que de telles choses peuvent demeurer en ligne pendant des années et même se propager relativement loin alors qu'elles circulent sans vérifier les faits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, given</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De plus, étant donné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>the amount of transparency in modern society, some entities actively engage in disinformation spreading in order to clutter the mesh with enough falsehoods that the truth is hidden.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>le niveau de transparence de la société moderne, certaines entités se lance activement dans la propagation de désinformation afin de cribler le mesh avec suffisant de mensonges que la vérité est cachée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Two factors help to combat this, the first being that data sources themselves have their own reputation scores, so that untrustworthy or disreputable sources can be identified and ranked lower in search results.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Deux facteurs aident à limiter ce phénomène, le premie est que les sources de données elle-mêmes ont leur propre score de réputation, les sources auquel on ne peut faire confiance ou qui ont une mauvaise réputation peuvent être identifiée et sont classées plus bas dans les résultats de recherche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Second, many archives take advantage of crowdsourcing—that is, harnessing the collaborative power of mesh users (and their muses) everywhere—to verify data integrity so that these sites are dynamic and self-correcting.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le second facteur est que beaucoup d'archives utilisent la sagesse des foules - en gros, exploiter la puissance collaborative des utilisateurs du mesh (et de leur muses) dés que possible - pour vérifier l'intégrité des données pour que ces sites soient dynamiques et se corrigent d'eux-même.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Search Capabilities&lt;/i0&gt; &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Capacité de Recherche&lt;/i0&gt; &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Online research in Eclipse Phase is not the same as just googling something.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La recherche en ligne dans Eclipse Phase n'est pas pareil que simplement googler quelque chose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Here are five ways in which it is vastly improved:</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voici cinq choses qui ont grandement amélioré les recherches:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pattern Recognition&lt;/i0&gt;: Biometrics and other forms of pattern recognition are efficient and intelligent.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Reconnaissance de Motifs&lt;/i0&gt;: La biométrie et d'autres formes de reconnaissance de motifs sont efficaces et intelligents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is not only possible to run image recognition searches (in real-time, via all available spimes and sensor feeds), but to search for patterns such as gait, sounds, colors, emotive displays, traffic, crowd movement, etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Non seulement il est possible de lancer des recherches de reconnaissances d'image (en temps réel, via tous les spimes et flux de cpateurs disponible), mais on peut aussi chercher des motifs tels que des démarches, des couleurs, des expressions, du traffic, des mouvements de foule, etc..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Kinesics and behavioral analysis even allow sensor searches for people exhibiting certain behavioral patterns, such as suspicious loitering, nervousness, or agitation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La kinésique et l'analyse comportementale permettent même d'utiliser les recherches de capteurs pour trouver des personnes présentant certains motifs comportementaux, tels que les rodeurs suspects, la nervosité ou l'agitation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Metadata&lt;/i0&gt;: Information and files online come with hidden data about their creation, alteration, and access.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Métadonnées&lt;/i0&gt;: L'information et les fichiers en ligne sont fournit avec des donénes cachées concernant leur création, modification et accès.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A photo’s metadata, for example, will note what gear it was taken on, who took it, when, and where, as well as who accessed it online, though such metadata may be easily scrubbed or anonymized.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les métadonnées d'une photo, par exemple, indiquerons avec quel équipement elle a été prise, qui l'a prise, quand et où, ainsi que les personnes qui y ont accéder en-ligne, bien que de telles métadonnées peuvent facilement être effacés ou anonymisées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Data Mash-Ups&lt;/i0&gt;: The combination of abundant computing, archived data, and ubiquitous public sensors enable intriguing correlations to be drawn from data that is mined and collated.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aglomérats de Données&lt;/i0&gt;: La combinaison de l'abondance de la puissance de calcul, des données archivés et des capteurs publics ubiquitaires permettent d'extraire de curieuses corrélations des données exploitées et collectées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the midst of a habitat emergency such as a terrorist bombing, for example, the ID of everyone in the vicinity could be scanned, compared to data archives to separate out those who have a history of being in the vicinity at that particular time, with those remaining checked against databases of criminal/suspect history and their recorded actions analyzed for unusual behavior.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lors d'une urggence sur un habitat telle qu'un attentat terroriste, par exemple, l'ID de tout ceux qui sont dasn le voisinnage peut être scannée, comparée aux archives de données pour distinguer ceux qui ont un déjà été dans le voisinnage à ce moment particulier, des autres et qui sotn ensuite vérifiés avec les bases de données de criminel.suspect et de l'enregistrement de leurs actions qui sont analisés pour détecter des comportements inahbituels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Translation&lt;/i0&gt;: Real-time translation of audio and video is available from open source translation bots.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Traduction&lt;/i0&gt;: La traduction temps-réel de l'audio et de la vidéo est rendue possible par des bots de traduction open source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Forecasting&lt;/i0&gt;: A significant percentage of what people do on any day or in response to certain situations conforms to routines, enabling easy behavioral prediction.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Anticipation&lt;/i0&gt;: Un pourcentage significatif de ce que font les gens chaque jour en réponse à certaines situations se conforme à une routine, permettant une prédiction comportementale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Muses take advantage of this to anticipate needs and provide whatever is desired at the right moment and in the right context.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les muses profitent de cela pour anticiper les besoins et fournir tout ce qui est désiré au bon moment et dans le bon contexte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The same logic applies to actions by groups of people, such as economics and social discourse, making predictions markets a big deal in the inner system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La même logique s'applique aux actions de groupes, telles que l'économie et le discours social, rednant le marché la prédiction du marché un business florissant dans le système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Handling Searches}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Gérer les Recherches}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Online research is often a crucial element of &lt;i0&gt;Eclipse &lt;/i0&gt; &lt;i1&gt;Phase&lt;/i1&gt; scenarios, as characters take to the mesh to research backgrounds and uncover clues.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>la recherche en-ligne est souvent un élément crucial des scénarios de &lt;i0&gt;Eclipse &lt;/i0&gt;&lt;i1&gt;Phase&lt;/i1&gt;, les personnages comptant sur le mesh pour faire des recherche de fond et découvrir des indices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The following suggestions present a method of handling research that does not rely solely on dice rolls and integrates it with the flow of the plot.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les suggestiosn suivantes présentent une méthode de gérer les recherche qui ne reposent pas uniquement sur les jets de dés et qui les intègre au déroulement de l'intrigue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>First, common and inconsequential information should be immediately available without requiring a roll at all.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout d'abord, toute les informations commune et sans conséquence devraient être immédiatement disponible sans même nécessiter de jet de dé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most characters rely on their muses to handle searches for them, passing on the results while the character focuses on other things.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des personnages se reposent sur leur muse pour gérer les recherche à leur place, récupérant les résultat alors que les personnages se concentrent sur d'autres choses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For searches that are more detailed, difficult, or central to the plot, a Research Test should be called for (made either by the character or their muse).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour les recherches plsu détaillées, difficiles ou centrale à l'intrigue, un Test de Recherche peut être demandé (fait soit par le personnage soit par leur muse).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This test indicates the process of finding links to and/or accumulating all data that may in fact be relevant to the search topic.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce test représente l'opération de récupération de liens et/ou l'accumulation de données qui peuvent être pertinente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This test should be modified as appropriate to the obscurity of the topic, ranging from +30 for common and public topics to –30 for obscure or unusual intel.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce test devrait être modifié de manière approprié à l'exposition du sujet, allant de +30 pour les sujets communs et publics à -30 pour les renseignements obsucr ou inhabituels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This initial search has a timeframe of 1 minute.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette recherche initiale a un intervalle d'1 minute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If successful, it turns up enough data to give the character a basic overview, perhaps with cursory details.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si c'est une réussite, le personnage trouve suffisament de donnée pour un aperçu basique, peut-être avec quelques détails superficiels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster should use the MoS to determine the depth of the data provided on this initial excursion, with an Excellent Success providing some bonus details.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu devrait utiliser la MdR pour déterminer la pertinence des données trouvées suite à cette excusrion initilae, une Réussite Exceptionelle fournissant des détails supplémentaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Similarly, a Severe Failure (MoF 30+) may result in the character working with data that is incorrect or intentionally misleading.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière identique, un Échec Catastrophique (MdE 30+) peut amener le personnage à travailler avec des données incorrectes ou intentionellement trompeuse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The next step is not so much accumulating links and data as it is analyzing and understanding the information acquired.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'étape suivante n'est plus tellement d'accumuler des liens et des données que d'analyser  et comprendre l'information acquise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This requires another Research Test, again modified by the obscurity of the topic.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela nécessite un autre Test de Recherche, modifié encore une fois par l'exposition du sujet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the gamemaster allows it, complementary skills (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le maîþre de jeu l'autorise, des compétences complémentaires (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>173) may apply to this test, providing bonus modifiers (for example, an understanding of Academics Chemistry would help research the effects of a strange drug).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>173) peuvent s'appliquer à ce test, fournissant des modificateurs (par exemple, une compréhension des la Chimie Acadméique pourra faciliter la rechercche sur les effets d'une drogue étrange).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Muses may also perform this task, though their skills are typically inferior.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les muses peuvent également accomplir cette tâche, bien que leur compétence soient généralement inférieure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As above, success determines the quality and depth of the analysis, with an Excellent Success providing the full story and potential related issues and a Severe Failure marking completely incorrect assumptions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Commer au-dessus, la réussite détermine la qualité et le niveau de détail de l'analyse, un Succès Exceptionnel fournissant tous les détails de l'histoire et les problèmes potentiellement liés et un Échec Catastrophique signalant des supposition complètement erronées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The timeframe for this phase of research largely depends on two factors: the amount of data being analyzed and the importance to the storyline.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'intervalle de cette pahe de recherche dépend largement de deux facteurs: la quantité de donnée a anlyser et l'importance par rapport à l'histoire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gamemasters</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les maîtres de jeux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>need to carefully measure out their distribution of intel and clues to players.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>doivent faire particulièrement attention à leur distribution d'information et d'indices aux joueurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Give them too much too soon, and they may spoil the plot.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Donnez en trop et trop tôt, et ils pourraient gâcher l'intrigue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fail to give them enough, and they may get frustrated or pursue dead ends.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ne leur en donnez pas suffisament et ils peuvent se frustrer ou se lancer dans des impasses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Timing is everything.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout dépend du minutage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Real-Time Searches}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Recherches en Temps Réel}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters may also set up ongoing mesh scans that will alert them if any relevant information comes up new or updated, or is somehow changed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages peuvent aussi configurer des analyse du mesh qui les alerteront si une information pertinente apparaît ou est mise à jour, ou est modifiée d'une manière ou d'une autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is a task usually assigned to muses for continuous oversight.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est une tâche générallement affectées aux muses pour une supervision continue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Whenever such data arises, the gamemaster secretly makes a Research Test, modified by the obscurity of the topic.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque de telles données apparaissent, le maître de jeu fait secrètement un test de Recherche, modifié par l'exposition du sujet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If successful, the update is noted.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si il est réussit, la mise à jour est signalé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If not, it is missed, though the gamemaster may allow another test if and when the topic reaches a wider range of circulation or interest.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si non, elle est raté, bien que le maître de jeu peut autoriser un autre test si et quand le sujet atteint une audience plus large.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Hidden Data}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Données Cachées}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is important to remember that not everything can be found online.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>il est iportant de garder en tête que tout ne peut pas être trouvé en ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some data may only be acquired (or may be more easily gotten) by asking the right people (see &lt;i0&gt;Networking,&lt;/i0&gt; p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines données ne peuvent être acquises (ou obtenus plus facilement) qu'en demandent aux bonnes eprsonnes (voire &lt;i0&gt;Réseaux, &lt;/i0&gt; p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Information that is considered private, secret, or proprietary will likely be stored away behind VPN firewalls, in off-mesh hardwired networks, or in private and commercial archives.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'information qui est considérée comme privée, secrète ou propriétaire sera probablement stockée à l'abri, derrière des parefeu et des VPN, dans des réseaux filaire coupés du mesh ou dans des archives privées et commerciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This would require the character to gain access to such networks in order to get the data they need (assuming they even know where to look).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela nécessite du personnage qu'il obtienne l'accès à de tels réseaux afin d'obtenir les données dont ils ont besoins (en partant du principe qu'ils savent ou chercher).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It's worth noting that some entities send out AIs into the mesh with the intent of finding and erasing data they'd rather hide, even if this requires hacking into systems to alter such information.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il faut noter que certaines entités envoient des IA dans le mesh avec le but de trouver et effacer des données qu'ils préfèreraient dissimuler, même si cela nécessite de pirater un système pour altérer de telels informations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Scanning, Tracking, And Monitoring</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Analyser, Pister et Supeviser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most users leave traces of their physical and digital presence all throughout the mesh.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des utilisateurs laissent des traces de leur présence physique et numérique à travers le mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Accounts they access, devices with which they interact, services they use, entoptics they perceive—all of these keep logs of the event, and some of these records are public.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les comptes auxquels ils accèdent, les appareils avec lesquels ils interagissent, les services qu'ils utilisent, les entoptiques qu'ils perçoivent - tout cela laisse des enregistrements, et certains sont publics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Simply passing nearby some devices is enough to leave a trail, as near-field radio interactions are often logged.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Simplement passer à proximité d'un appareil est suffisant pour laisser une trace, vu que les interactions radio en champ proche sont souvent enregistrées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This electronic datatrail can be used to track a user, both to ascertain their physical location or to note their online activities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette pistes léectronique peut être utilisée pour pister un utilisateur, à la fois pour édterminer leur localisation physique et pour noter leur activités en-ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To interface with a wireless device or network, whether to establish a connection or for other purposes, the target device/network must be located first.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour s'interfacer avec un appareil ou un réseau sans-fil, que ce soit pour établir une connexion ou pour d'autres objectifs, le réseau/appareil cible doit dabord être localisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To locate an active node, it's wireless radio transmissions must be detected.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour localiser un nœud active, ses transmissions sans-fil doivent d'abord être détectées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most wireless devices automatically scan for other devices in range (see &lt;i0&gt;Radio and Sensor Ranges,&lt;/i0&gt; p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des appareils sans scannent analysent leur environnement à la recherche d'autres appareils à portée (voir &lt;i0&gt;Portée de Signal et de Capteur,&lt;/i0&gt; p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>299) as a matter of course, so no test is required.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>299) en comportement standard, et aucun test n'est nécessaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This means that it's trivial for any character to pull up a list of the wireless devices and networks around them, along with associated mesh IDs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela veut dire qu'afficher une liste de tous les appareils et réseaux sans fil dans le coin, aisni que les ID mesh associés est une tâche triviale pour tous les personnages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, a muse or device can be instructed to alert the user when a new signal (or a specific user) comes into range.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De même, une muse ou un appareil peut avoir pour instruction d'alerter l'utilisateur lorsqu'un nouveau signal (ou un utilisateur spécifique arrive à portée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Detecting stealth signals (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Détecter des signaux furtifs (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>252), however, is a bit more challenging.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>252) est cependant un peu plus difficile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To detect a stealthed signal, the scanning party must actively search for such signals, taking a Complex Action and making an Interfacing Test with a –30 modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour détecter un signal dissimulé, le groupe analysant les signaux doit effectuer une recherche active pour de tels signaux, tâche qui nécessite une Action Complexe et de faire un Test d'Interface avec un modificateur de -30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If successful, they detect the hidden emissions If the character aiming for stealth engages in active countermeasures, also requiring a Complex Action, then an Opposed Interfacing Test is called for (with the –30 modifier still applying to the scanning party).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le test est une réussite, l'émission cachée est détectée. Si le personnage cherchant à dissimuler son signal utilise des contre mesure active, nécessitant également une Action Complexe, un Test en Opposition d'Interface est demandé (avec le modificateur de -30 s'appliquant toujours au groupe d'analyse).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For covert devices that are only transmitting in short bursts, wireless detection is only possible during the short period the burst transmission is being made.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>pour les appareils furtifs qui n'émettent que lors de fenêtres trés courtes, la détection sans-fil n'est possible que pendant les phases de transmission.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Physical Tracking}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Pistage Physique}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many users willingly allow themselves to be physically tracked via the mesh.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup d'utilisateurs rendent volontairement possible le fait d'être physiquement suivi via le mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To them, this is a useful feature— it allows their friends to find them, their loved ones to know where they are, and for authorities to come to their aid in the event of some emergency.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>de leur point de vue, c'est une fonction trés utile - cela permet à leurs amis de les trouver, leur moitié sait où ils osnt et les autprités peuvent venir les aider en cas d'urgence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finding their location is simply a matter of looking them up in the local directory, no test required (assuming you know who they are).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Trouver leur position n'est qu'une question de chercher dans l'annuaire local, aucun tet n'est nécessaire (du moment que vous savez qui ils sont).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mesh positioning is accurate to within 5 meters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le positionnement par le mesh a une précision de 5 mètres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once located, the position of the target can be monitored as they move as long as they maintain an active wireless connection to the mesh.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois repéré, la position de la cible peut être suivi lorsqu'elle se déplace tant qu'lle maintien une connection sans-fil active au mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Tracking By Mesh ID}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Pistage Via l'ID Mesh}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An unknown user's physical location can also be tracked via their online mesh activity—or more specifically by their mesh ID (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La localisation physique d'un utilisateur inconnu peut également être suivi par son activité en-ligne - ou plus précisément par son ID mesh (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Network security will often trace intruders this way and then dispatch security squads to bring them in.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les mesures de sécurité des réseaux traceront souvent les intrus de cette manière puis renverrons des guardes de sécurité sur palce pour les arréter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To track an unknown user by their mesh ID alone requires a Research Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour pister un utilisateur inconnu uniquement grâce à son ID mesh nécessite un test de Recherche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If successful, they have been tracked to their current physical location (if still online) or last point of interaction with the mesh.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>S'il est réussi, la cible a été pistée jusqu'à leur localisation physique (si elle esttoujours en ligne) ou au dernier point d'interaction avec le mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character is in privacy mode (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si la cible est en mode privé (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>252), a –30 modifier applies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>252), appliquez un modificateur de -30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Tracking By Biometrics}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Pistage par Biométrie}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Given the existence of so many spimes and public cameras and sensors, people may also be tracked by their facial profile alone using facial recognition software This software scans accessible video feeds and attempts to match it to a photo of the target.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Étant donné l'existence de de tant de spimes et de caméras et capteurs publics, les personnes peuvent également être pistées uniquement par leur profil facial en utilisant des logiciels de reconnaissance faciale. Ces logiciels analysent les flux vidéo disponibles et tentent de les faire correspondre à une photo de la cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Given the sheer volume of cameras, however, and the typical range of false-positives and false-negatives, finding the target often boils down to luck.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Étant donné le nombre impressionant de caméra et le nombre élevé de faux-positifs et de faux-négatifs, trouver une cible se réduit souvent à de la chance pure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Priority can be given to cameras monitoring major thoroughfares, to narrow the search, but this risks missing the target if they avoid heavy traffic areas.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La priorité peut être données aux caméras de surveillance des artères principales, pour réduire les recherche, mais le risque de rater la cible augmente si elle évite les zones de fort traffic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The success of searches of this nature is best left to gamemaster fiat, but a Research Test can also be called for, modified appropriately by the range of the area being watched, whenever there is a chance the target may be spotted.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La réussite des recherches de ce type est souvent laissé à l'appréciation du maîþre de jeu, mais un Test de Recherche peut aussi être demandé, modifié de manière approprié par la taille de la zone surveillé, lorsqu'il y a une chance que la cible soit repérée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other biometric signatures may also be used for tracking this way, though these are usually less available than cameras: thermal signatures (requires infrared cameras), walking gait, scent (requires olfactory sensors), DNA (requires DNA scanners), etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres signatures biométriques peuvent être utilisée pour pister un utilisateur de cette façon, bien qu'elle soient généralement moins disponible que les caméras: les signatures thermiques (nécessite des caméras infrafrouges), la démarche, les odeurs (éncessite des capterus olfactifs), l'ADN (nécessite des scanneurs d'ADN), etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each biometric scan requires a separate type of software.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque analyse biométrique nécessite un type de logiciel différent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Digital Activity Tracking}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Pistage De l'Activité Numérique}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tracking someone's online activities (meshbrowsing, entoptic interactions, use of services, messaging, etc.) is slightly more difficult, depending on what exactly you're after.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Suivre l'activité nuémrique de quelqu'un (surf sur le mesh, intractiosn entoptique, utilisation de service, messagerie, etc.) est un peu plus difficile et dépend de ce que vous recherchez exactement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gathering information on a user's public mesh activities—social network profiles, public forums posts, public lifelogging, etc.—is handled just like standard online research (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Rassembler de l'information sur l'activité publique d'un utilisateur - profils de réseaux sociaux, messages de forums, lifelog public, etc. - est géré comme toute recherche en-ligne standard (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A more investigate search can attempt to use the target's mesh ID (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une recherche plus approfondie peut être tentée en se servant de l'ID mesh de la cible (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>246), using it as a sort of digital fingerprint to look up where else they've been online.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>246), l'utilisant comme une empreinte numérique pour trouver les autres endroits en ligne qu'elle a fréquenté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This primarily involves checking access/transaction logs, which are not always publicly accessible.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela implique principalement de vérifier les journaux d'accès/de transaction, qui ne sont pas toujours accessible au public.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This sort of search requires a Research Test, handled as a Task Action with a timeframe of 1 hour.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce type de recherche nécessite un test de Recherche, géré par une Action de Tâche avec un intervalle d'1 heure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Sniffing}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Écouter}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wireless radio traffic is broadcast through the air (or space), meaning that it can be intercepted by other wireless devices.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le traffic radio sans-fil est diffusé à travers l'air (ou l'espace), ce qui veut dire qu'il peut être intercepté par d'autre appareils sans fil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>``Sniffing'' involves the capture and analysis of data traffic flowing through the wireless mesh.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&quot;Écouter&quot; nécessite de capturer et d'analyser le traffic de donnée circulant à travers le mesh sans-fil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To eavesdrop on wireless communications, you need a sniffer program (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour écouter des communications sans-fil, vous avez besoin d'un programme d'écoute (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>331) and you must be within radio range (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>331) et vous devez être à portée de signal (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>299) of the target (alternately, you can access a device that is within radio range of the target, and sniff from that location).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>299) de la cible (ou vous pouvez accéder à un appareil qui est à portée de signal de la cible, et écouter le traffic depusi cet endroit).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To capture the information you must succeed in an Infosec Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour capturer de l'information vous devez réussir un Test d'Infosec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If successful, you capture data traffic from any targeted devices in range.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En cas de réussite, vous capturez du traffic de donnée depuis tout appareil ciblé à portée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that sniffing does not work on encrypted traffic (including VPNs and anything else using public key cryptography) as the results are gibberish.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'écoute ne fonctionne pas sur du traffic chiffré (incluant les VPN et tout ce qui utilise du chiffrement à clef publique) le résultat ne donnant que du charabia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Quantum encrypted communications cannot be sniffed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les communications protégé par du chiffrement quantique ne peuvent être écoutées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once you have the data, finding the information you're looking for can be a challenge.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois que vous avez les données, trouver les informations que vous recherchez peut-être difficile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Handle this as a standard Research Test (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Traitez cela comme un Test de Recherche standard (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Remote Sniffing Via Mesh ID}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Écoute à Distance via l'ID Mesh}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finally, a mesh ID may also be actively monitored to see what mesh activity it engages in.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Enfin, un ID mesh peut également être activement surveillé pour voir toutes les activités de mesh auquel il se livre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This requires special sniffer software (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela nécessite un logiciel d'écoute particulier (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>331) and a Research Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>331) et un test de Recherche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If successful, the monitoring will provide information on that user's public mesh activities (how much is determined by the gamemaster and the MoS), such as which sites they access, who they message, etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le test est une réussite, la surveillance fournira des informations sur l'activité de l'utilisateur sur le mesh public (la quantité d'information est déterminée par le maîþre de jeu et la MdR), tels que les sites visités, à qui ils envoient des messages, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It will not, however, uncover anything that is encrypted (unless the encryption is broken) or anything that takes place on a VPN (unless the VPN is hacked first), though it will show that encrypted communications and/or VPN use are taking place.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela ne pourra pas révélé quoi que ce soit de chiffré (sauf si le chiffrement est cassé) ou qui se passe sur un VPN (sauf si le VPN est piraté d'abord), bien que cela montrera les communication non chiffrée et/ou les VPN utilisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Privacy And Anonymization</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Intimité et Anonymat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Given how easily mesh activities are monitored, many users pursue privacy and anonymization options.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Étant donné la facilité avec laquelle els actiités sur le mesh sont surveillées, beaucoupd 'utilisateur cherchent à protéger leur vie privé et à être anonyme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Privacy Mode}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Mode Privé}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters who go into privacy mode hide their online presence and activities from others to a limited degree.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les personnage qui active le mode privé dissimulent aux autres leur présence en ligne et leurs activités jusu'à un certain degré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The exact settings are adjustable, but typically involve masking their social profiles and presence to other users in the immediate vicinity, like having an unlisted phone number.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les configurations exactes sont réglables, mais nécessitent typiquement de masquer les profils et la présence sociale aux autres utilisateurs dans el voisinnage immédiat, un peu comme avoir un téléphone en liste rouge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Privacy mode can also be used to limit the use of mesh IDs and other data in access and transaction logs, applying a –30 modifier to attempts to research or track them by their online activity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>le mode privé peut aussi être utilisé pour limiter l'utilisation de l'ID mesh et d'autres données dans les journaux d'accès et de transactions, appliquant un modificateur de -30 à toute tentative de recherche ou de pistage par l'activité en-ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Stealthed Signals}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Signaux Cachés}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Another tactic that can be taken for privacy is to stealth the wireless radio signals you emit.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une autre tactique utilisée pour augmenter l'intimité est de dissuimuler les signaux radios que vous émettez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This method uses a combination of spread-spectrum signals, frequency hopping, and modulation to make your radio transmissions harder to detect with scanning (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette méthode utilise une combinaison de signaux à large spectres, de saut de fréquence et de modulation pour rendre vos transimissions radios plus difficile à  détecter par l'analyse (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stealthing your signals is either a passive activity (Automatic Action, –30 modifier on Interface Tests to locate the signal) or an active one (Complex Action, requires an Opposed Test to locate).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dissimuler votre signal est soit une activité passive (Action Automatique, modificateur de -30 aux Test d'Interface pour localiser le signal) soit une activité active (Action Complexe, nécessite  un Test en Opposition pour vous localiser).</seg>
       </tuv>
     </tu>
     <tu>
