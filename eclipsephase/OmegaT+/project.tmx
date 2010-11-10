@@ -69806,6 +69806,1590 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Anonymization}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Anonymat}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Anonymization takes the issue of privacy a bit further.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'anonymat pousse le principe d'intimité un cran au dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The user does not just hide their mesh ID, but they actively use false mesh IDs and take other measures to reroute and obfuscate their datatrail.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'utilisateur ne fait pas que cacher son ID mesh, il utilise activement des ID mesh contrefaits et prend d'autre mesures pour rediriger et obscurcir leur piste de donnée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Anonymization is a necessity both for clandestine operatives and those engaging in illicit mesh activities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'anonymat est une nécessité à la fois pour les agents clandestins et pour ceux qui se livrent à des activités illégales sur le mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{False Mesh IDs}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{ID Mesh Contrefaits}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The easiest method of making mesh activities anonymous is to set your muse to supply false mesh IDs in online transactions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L méthode la plus simple pour rendre anonyme une activité meshée est de configurer votre muse pour qu'elle fournisse de faux ID mesh lors des transactiosn en-ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though illegal in many jurisdictions this is an easy task for any character or muse to do.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que ce soit illégal dans la plupart des juridictions c'est une tâche simple pour n'importe quel personnage ou muse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Multiple false IDs are used, making it extremely difficult for anyone to tie all of the user's activities together.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plusieurs ID contrefaits sont utilisés rendant extrêmement complexe la tâche de connecter toute l'activité sur le mesh d'un utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This method makes it extremely difficult for anyone to track the user's online actions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette méthode rend extrêmement difficle le pistage en ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Someone attempting to track the character via these false mesh IDs must beat them in an Opposed Test, pitting their Research skill with a –30 modifier against the character's (or more likely, their muse's) Infosec skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelqu'un qui essaye de pister le personnage via ces ID mesh contrefaits doit d'abord le battre lors d'un Test en Opposition, opposant la compétence Recherche avec un modificateur de -30 contre la compétence Infosec de l'utilisateur (ou plus probablement de sa muse).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is a Task Action with a base timeframe of 1 hour, adjusted higher according to the amount of activity they hope to track.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est une Action de Tâche avec un intervalle d'1 heure, ajusté en fonction de la quantité d'activité que le personnage espère tracer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If successful, the tracker manages to dig together enough correlating evidence and records of false IDs to get a picture of the character's activities (how thorough this picture is depends on their MoS).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En cas de réussite, le pisteur réussit à corréler suffisament de rpeuve et d'enregistrements des fausse ID pour avoir un aperçu de l'activité du personnage (la précision de cet aperçu dépend de la MdR).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the fail, the anonymous character has effectively camouflaged themselves in the mesh.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En cas d'échec, le personnae anonyme s'est camouflé efficacement dans le mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Actively monitoring a character who is fluctuating their mesh ID with a sniffer program, or physically tracking them via the mesh, is next to impossible, as the continual shifting of IDs and intentional decoys make it too difficult to keep up.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Superviser activement un personnage dont l'ID mesh fluctue avec un programme d'écoute, ou le suivre physiquement via le mesh ets presqu'impossible puisque le changement continu d'ID et les leurres rendent l'ensemble trop difficile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Anonymous Account Services}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Services de Compte Anonyme}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A number of people—not just criminals, hackers, and secret agents—have an interest in keeping some of their affairs anonymous.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup de personne - pas seulement les criminels, les hackeurs et les agents secrets - ont intérêt à maintenir certaines de leurs affaires anonyme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To meet this demand, various online service vendors offer anonymous accounts for messaging and credit transfers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour satisfaire cette demande, divers vendeurs de servicel en ligne propose des comptes anonyme pour la messagerie les transferts de crédit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some of these vendors</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains de ces vendeurs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>are legit business (in places where it is legal), some are criminals operating illegally, others are hacktivists promoting the privacy meme, and still others are hypercorps or other organizations offering such services internally to their own staff/membership.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>sont parfaitement légaux (dans les  endroits où cette activité est légale), d'autres sont des criminels travaillant illégalement, d'autres sont des hacktivistes défendant le droit à la vie privée, et d'autres efnin sont des hypercorps ou d'autre organisation proposant de tels services à leurs équipes/membres interne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The interaction between the vendor and user is encrypted and anonymous, with no logs kept, so even if the vendor's servers are hacked, an intruder will not find any leads.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'interaction entre le vendeur et l'utilisateur est chiffrée et anonyme, sans conservation de logs ce qui fairt que même si les serveurs du venderus sont piratés, un intrus ne trouvera aucune piste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While some anonymous accounts are established for regular use, the truly paranoid use (multiple) one-time accounts for maximum security.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que certains compte anonyme sont créés pour une utiliation régulière, les paranoïaques utilisent plusieurs comptes mono accès pour une sécurité maximale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>One-time accounts are used for a single message incoming or outgoing) or credit transaction, and then are securely erased.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les comptes mono accès sont utilisé pour un seul message (entrant ou sortant) ou une seule transaction bancaire, et sont ensuite effacés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tracking an anonymous account is a practical impossibility, and something that only an extremely resourceful organization employing a systematic and expensive effort could attempt.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pister un compte anonyme est une pratique impossible, que seule une organisation disposant d'énormément de ressource et déployant un effort systématique et coûteux pourrait entreprendre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Disposable Ectos}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Ectos Jetables}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Another option for those seeking privacy and security is to simply use disposable ectos.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une autre option pour ceux qui recherche l'intimité et la sécurité est simplement d'utiliser des ectos jettables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Using this method, all activity is routed through a specific ecto (using its mesh ID), the ecto is used for a limited period (until it gets hot), and then it is simply discarded or destroyed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En utilisant cette méthode, toute activité est routée à travers un ecto spécifique (utilisant son ID mesh), ecto qui est utilisé pour une période de temps limitée (jusqu'à ce qu'il soit grillé) et est ensuite simplement abandonné ou détruit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mesh Security</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sécurité Sur Le Mesh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Given the lessons of the Fall and the very real risk still posed by hackers, virii, and similar threats, network security is taken extremely seriously in &lt;i0&gt;Eclipse Phase.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Étant donné les leçon tirée de la Chute et le risque trés concret posé par les hackeurs, les virus et les menaces similaire, la sécurité des réseaux est prise extrêmement au sérieux à &lt;i0&gt;Eclipse Phase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;/i0&gt; Four methods are typically used: authentication, firewalls active monitoring, and encryption.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;/i0&gt; Quatres méthodes sont typiquement utilisées: identification, parefeux, supervision active et chiffrement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Authentication}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Identification}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most devices, networks (PANs, VPNs, etc.), and services require some kind of authentication (a process by which a system determines whether the claimed identity of a user is genuine) before they grant an account and access privileges (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des appareils, des réseaux (PAN, VPN? etc.) et des services nécessitent une méthode d'identifiaction (un mécanisme par lequel un système détermine si l'identité revendiquée apr un utilisateur est authentique) avant qu'ils ne donnent accès à un compte et aux privilèges associés (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>246) to a user.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>246) à un utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are several different ways for a system to authenticate a user.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a plusieurs façon d'identifier un utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some are more reliable and secure than others, but for the most part, the more secure the method, the higher the operational expenses.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines sont plus robuste que d'autre, mais pour l'essentiel, plus la méthode est sécurisé, plus le coût opérationnel augmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Account:&lt;/i0&gt; If you have access to an account on one system, this may give you automatic access to related systems or subsystems.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Compte:&lt;/i0&gt; Si vous avez accès à un compte sur un système, cela peut vous donner automatiquement accès aux système et sous-système liés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is typical of slaved devices (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est typique des apapreils asservis (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>248), where access to the master automatically grants you access to slaves.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>248), pour lesquels l'accès au maître vous donne automatiquementy accès aux esclaves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mesh ID:&lt;/i0&gt; Some systems accept mesh IDs as authentication This is extremely common with most public systems, which merely log the mesh ID of any user that wishes access.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>ID mesh:&lt;/i0&gt; Certains systèmes acceptent les ID mesh comme méthode d'identification. C'est extrêmement commun pour les systèmes publics qui ne font qu'enregistrer l'ID mesh de tous les utilisateurs qui veulent y accéder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other systems will only allow access to specific mesh IDs, but these are vulnerable to spoofing (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres ssytèmes peuvent n'autoriser l'accès qu'à certains ID mesh, mais ils sont vulnérable au spoofing (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Passcode:&lt;/i0&gt; This is a simple string of alphanumeric characters or logographic symbols, submitted in an encrypted format.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Code:&lt;/i0&gt; C'est une simple chaine de caractère alphanumériques ou de symbole logographique, soumis dans un format chiffré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Anyone with the passcode can access the account.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quiconque ayant le code peut accéder au compte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Biometric Scan:&lt;/i0&gt; This calls for a scan of one or more of the user's biometric signatures (fingerprint, palm print, retinal scan, DNA sample, etc.).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Empreinte Biométrique:&lt;/i0&gt; Cette méthode demande l'analyse de l'une ou plus des signatures biométriques de l'utilisateur (empreintes digitale, empreinte palmaire, scan rétinien, échantillon d'ADN, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Popular before the Fall, such systems have fallen out of use as they are impractical with synthmorphs or users that frequently resleeve.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>rés populaire avant la Chute, de tels système sont devenus inutiles car ils ne sont pas utilisable par les synthmorphs ou avec les utilisateurs qui changent de morph régulièrement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Passkey:&lt;/i0&gt; Passkey systems call for some of encrypted code that is either hardwired into a physical device (that is either implanted or physically jacked into an ecto) or extracted from specialized software.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Clef:&lt;/i0&gt; Les système de clef nécessite une sorte de code chiffré qui est soit cablé physiquement dans un appareil (qui est soit implanté ou physiquement connecté à un ecto) ou extrait d'un logiciel spécialisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Advanced passkeys combine hardwired encryption with physical nanotech etching to create a unique key.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les clefs évoluée combinent les chiffrements cablé avec des nanotechnologie spécilisés pour créer une clef unique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To access such systems, the passkey must either be acquired or somehow spoofed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour éccéder à de tels système, la clef doit être soit acquise ou imitée d'uen amnière ou d'une autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ego Scan:&lt;/i0&gt; This system authenticates the user's ego ID (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Empreinte d'Ego:&lt;/i0&gt; Ce système identifie l'ID de l'ego de l'utilisateur (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Quantum Key:&lt;/i0&gt; Quantum key systems rely on the unbreakable encryption of quantum cryptography (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Clef Quantique:&lt;/i0&gt; Les systèmes de clefs quantiques sont basés sur le chiffrement incassable de la cryptographie quantique (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Firewalls}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Pare-feu}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firewalls are software programs (sometimes hardwired into a device) that intercept and inspect all traffic to and from a protected network or device.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les pare-feu sont des logiciels (parfois cablé en dur dans un appareil) qui interceptent et inspectent tout le traffic depusi et vers un réseau ou un appareil protégé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Traffic that meets specified criteria that designates it as safe is passed through, whereas all other traffic is blocked.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les traffics correspondant aux critères spécifié est considéré comme sécurisé et est autorisé à passer, tout le reste du traffic est bloqué.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In &lt;i0&gt;Eclipse Phase,&lt;/i0&gt; every network and device can be assumed to have a firewall by default.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À &lt;i0&gt;Eclipse Phase&lt;/i0&gt;, chaque réseau et chaque appareil est considéré par défaut comme ayant un pare-feu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firewalls are the main obstacle that an intruder must overcome, as discussed under &lt;i1&gt;Intrusion Tests,&lt;/i1&gt; p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les pare-feus sont le principal obstacle qu'un intrus devra franchir, comme décrit au parapgraphe &lt;i1&gt;Tests d'Intrusions,&lt;/i1&gt; p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Like other gear, firewalls come in varying quality levels and so may apply modifiers to certain tests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme d'autres équipements, les apre-feus ont différents niveaux de qualité et peuvent appliquer des modificateurs à certains tests.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Active Monitoring}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Supervision Active}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Instead of relying on authentication and firewalls alone, secure systems are actively monitored by a security hacker or a muse.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au lieu de se reposer uniquement sur l'identification et les apre-feus, les système sécurisés sont activement supervisé par un hackeur de sécurité ou une muse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These digital security guards inspect network traffic using a number of software tools and applications that flag conspicuous events.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces guardes de sécurité numérique inspectent le traffic réseau en utilisant de nombreux outils logiciels et d'applicatiosn qui signalent les év_nements suspects.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Active surveillance makes intrusions more difficult, since the interloper must beat the monitoring hacker/ AI in an Opposed Test (see &lt;i0&gt;Intrusion,&lt;/i0&gt; p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La surveillance actvie rend les intrusions plus difficile, puisque l'intrus doit vaincre le hackeur/l'IA de supervision dans un Test en Opposition (voir &lt;i0&gt;Intrusion,&lt;/i0&gt; p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Active monitoring also includes monitoring any devices slaved to the monitored system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La supervision active inclut également la supervision de tous les appareils asservis au système supervisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters may actively monitor their own PANs if they so choose, though this requires a moderate level of attention (count as a Quick Action).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages peuvent superviser activement leurs propres PAN si ils veulent, bien que cela nécessite un minimum d'attention (compter cela comme une Action Rapide).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is far more common for a muse to actively guard a user's PAN.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il est bien plus courant de déléguer cette tâche à sa muse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Encryption}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Chiffrement}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Encryption is an exceptionally effective extra layer of security.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le chiffrement est une couche de sécurité supplémentaire exceptionnellement efficace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are two types of encryption commonly used in &lt;i0&gt;Eclipse Phase:&lt;/i0&gt; public key cryptosystems and quantum cryptography.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a deux type de chiffrage généralement utilisés à &lt;i0&gt;Eclipse Phase&lt;/i0&gt;: les cryptosystèmes à clef publique et le chiffrage quantique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Public Key Crypto}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Chiffrement À Clef Publique}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In public key cryptosystems, two keys are generated by the user, a public key and a secret key.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les cryptosystèmes à clef public, deux clefs sont générés par l'utilisateur, une clef publique et une clef privée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The public key is used to encrypt messages to that user, and is made freely available.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La clef privée est utilisée pour chiffrer les messages destinés à cet utilisateur, et est disponible publiquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When messages are encrypted using that public key, only the secret key—controlled</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque els messages sont chiffrés en utilisant cette clef publique, seule la clef privée - contrôllée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>by the user—can decrypt them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>par l'utilisateur - peut les déchiffrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Public key crypto is widely used both for encrypting data traffic between two users/networks/devices and for encrypting files.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le chiffrement a clef publique est largement utilisé pour chiffrer l'échange de donnée entre deux utilisateurs/réseaux/appareils et pour chiffrer des fichiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Due to the strength of the public key system algorithms, such crypto is essentially unbreakable without a quantum computer (see &lt;i0&gt;Quantum Code-&lt;/i0&gt; &lt;i1&gt;breaking,&lt;/i1&gt; p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Enr aison de la force des algorithmes de clef publique, un tel chiffrement est essentiellement incassable sans ordinateur quantique (voir &lt;i0&gt;Cassage de Code Quantique&lt;/i0&gt;&lt;i1&gt;,&lt;/i1&gt; p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Quantum Cryptography}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Chiffrement Quantique}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Quantum key distribution systems use quantum mechanics to enable secure communications between two parties by generating a quantum key.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les système à distributin par clef quantique utilisent la mécnaique quantique pour activer des communications sécurisées entre deux parties en générant une clef quantique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The major advantage of transmitting information in quantum states is that the system itself instantly detects eavesdropping attempts as quantum systems are disturbed by any sort of external interference.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le principal avantage de la transmission d'information en état quantique est que le système détecte instantanément toutes les tentative d'écoutes puisque les systèmes quantiques sont perturbés par toute sortte d'interférence externe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In practical terms, this means that quantum encrypted data transfers are unbreakable and attempts to intercept automatically fail.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'un point de vue pratique, cela signifie que les transferts de données quantiquement chiffrés sont incassable et que le stentatives d'intercepter ce traffic échouera automatiquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that quantum crypto doesn't work for basic file encryption, its only use is in protecting communication channels.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que le chiffrement quantique ne fonctionne pas pour chiffrer des fichiers, elle ne peut être utilisée que pour portéger des canaux de communications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While quantum key systems have an advantage over public key systems, they are both more expensive and less practical.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que les systèmes a clef quantique sont plsu efficace que les systèmes à clef publique, ils sont à la fois plus cher et moins pratique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In order to generate a quantum key, the two communications devices must be entangled together on a quantum level, in the same location, and then separated.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Afin de générer une clef quantique, les deux appareils de communication doivent être intriqués l'un avec l'autre à un niveau quantique, au mrme endroit, puis séparés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>So quantum key encrypted communications channels require some setup effort, especially if long distances are involved.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les canaux de communications chiffrés par des clefs quantiques nécessitent donc un effort de mise en place, particulièrement si de longues distances sont impliquées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since the implementation of quantum cryptographic protocols is an extraordinary expense, it is usually only adopted for major high-security communications links.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Puisque l'implémentation des protocoles de chiffrement quantique est une dépense extraordinaire, elle est principalement utilisée pour des liens de communicatiosn de haute-sécurité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Breaking Encryption}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Casser le Chiffrement}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What this means is that encrypted communications lines and files are very safe if using public key systems, and that data transfers are absolutely safe if using quantum crypto.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela signifie que les lignes de communications et les fichiers chiffrés sont trés sûr lorsque l'on utilise les systèmes à clef publique et que les transfert de données sont absolument sûr si l'on utilise des clefs quantiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gamemasters should take note, however while this may be useful to player characters, it may also hinder them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les maîtres de jeu devraient cependant prendre en compte que même si cela peut-être utile pour les personnages joueurs, cela peut également les géner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the characters need to get at something that is encrypted, they're going to need to figure out some way to get the secret key's passcode.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si les personnages ont besoin d'atteindre quelque chose de ciffré, ils vont deoir trouver une façon de récupérer le code secret de la clef.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Common methods include the old standbys of bribery, blackmail, threats, and torture.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les méthodes généralement utilisée incluent les vieux standard de la corruption, du chantage, de la menace et de la torture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other options involve espionage or social engineering to somehow acquire the passcode.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres options incluent l'espionnage et l'ingénierie sociale pour obtenir le code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hackers could also find some other method to compromise the system and gain inside access, bypassing the encryption entirely.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les hackeurs peuvent rouver d'autres méthodes pour compromettre le système et obtenir un accès, en contournant carrément le chiffrement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Quantum Codebreaking}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Cassage de Code Quantique}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As noted above, quantum computers can also be used to break public key encryption.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme noté ci-dessus, les ordinateurs quantiques peuvent également être utilisé pour casser le chiffrement a clef publique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This requires an Infosec Task Action Test with a +30 modifier and a timeframe of 1 week (once started, the quantum computer finishes the job on its own; the user does not need to provide constant oversight).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela nécessite une Action de Tâche d'Infosec avec un modificateur de +30 et un intervalle d'1 semaine (une fois lancée, l'ordinateur quantique finit le boulot de son propre chef; l'utilisateur n'as pas besoin de surveiller le travail constament).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gamemasters should feel free to modify this timeframe as fits the needs of their game.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les maîþre de jeu devraient se sentir libre de modifier cet intervalle de temps de manière appropriée à leur parties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that quantum computers cannot break quantum-encrypted communications, only encrypted files.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que les ordinateurs quantiques ne peuvent casser les communications chiffrées quantiquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The art of intrusion lies in penetrating a device's security The best methods involve infiltrating a system quietly without catching a watchdog's attention, by using exploits—code glitches, flawed security protocols—to create a path circumventing the target's defenses.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'art de l'intrusion repose dans la pénétration de la sécurité d'un appareil. La meilleure méthode implique l'infiltration discrète d'un système sans atirer l'attention des chiens de gardes, en utilisant des exploits - défauts de code, protocoles de sécurité faibles - pour se frayer un chemin contournant les défenses de la cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When called for, however, a hacker can toss aside pretenses and attempt to brute-force their way in.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque c'est nécessaire, un hackeur peut cependant peu abandonner les apparences et utiliser la force brute pour se frayer un chemin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Preconditions}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Prérequis}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In order to hack a device, the hacker needs to establish a direct connection to the target computer system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Afin de pouvoir pirater un appareil, le hackeur a besoin d'établir une connexion directe sur le système informatisé de la cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the hacker is making a direct wireless connection to the target, the target system must be wireless-capable and within range (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le hackeur utilise une connexion sans fil directe vers la cible, le système cible doit être capable de communiquer sans-fil et être à portée (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>299), and the hacker must know the target is there (see &lt;i0&gt;Wireless Scanning,&lt;/i0&gt; p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>299), et le hackeur doit savoir que la cible est là (voir &lt;i0&gt;Analyse Sans Fil,&lt;/i0&gt; p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the system is hard-wired, the hacker must physically jack in by using a regular jacking port or somehow tapping into a cable that carries the network's data traffic.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le système est filaire, le hackeur doit s'y connecter physiquement en utilisant une prise d'accès standard ou en se branchant sur le câbkle qui porte le traffic de donnée du réseau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the hacker is accessing the target through the</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le hackeur accède à la cible via le</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>mesh, the target system must be online and the hacker must know it's mesh ID (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>mesh, la cible doit être en ligne et le hackeur doit connaître son ID mesh (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>246) or otherwise be able to track it down (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>246) ou être capable de le pister d'une manière ou d'une autre (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Circumventing Authentication}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Contourner l'Identification}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rather than hacking in, an intruder can try to subvert the authentication system used to vet legitimate users.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plutôt que de pirater, un intrus peut essayer de subvertir le système d'identification utilisé pour autoriser les utilisateurs légitimes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The easiest manner of doing this is to somehow acquire the passcode, passkey, or whatever authentication method the target uses (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>la manière la plus simple de le faire est d'acquérir d'une manièreou d'une autre le code, la clef ou quoi que ce soit nécessaire à s'identifier sur la cible (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>With this in hand, no test is necessary to access the system; the hacker simply logs in just like a legitimate user and has all of the normal access privileges of that user.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Avec cela, aucun test n'est nécessaire pour accéder au système; le pirate se connecte simplement comme un utilisateur légitime et à tous les privilèges d'accès normaux de celui-ci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lacking a passcode, the hacker can try to subvert the authentication system in one of two other ways: spoofing or forgery.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sans code, le hackeur peut toujours essayer de subvertir le sytème d'identification avec l'une des deux méthodes suivantes: spoof ou falsification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Spoofing Authentication}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Spoofer l'Identification}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Using this method, the hacker attempts to disguise their signals as coming from the legitimate, authenticated user, rather than from themself.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En utilisant cette méthode, le hackeur tente de déguiser son signal pour le faire passer pour celui d'un utilisateur légitime et identifié, plutôt que venant de lui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If successful, the system is fooled by this masquerade, accepting the hacker's commands and activity as if they came from a legitimate user.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si il est réussit, le système est trompé par cette amscarade et accepte les commandes et l'activité du hackeur comme si ils venaient d'un utiliateur légitime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spoofing is more difficult to pull off, but is very effective when it works.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Spoofer est plus difficile à mettre en œuvre , mais est bien plus efficace si ça fonctionne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To spoof a legitimate user, the hacker must be using both sniffer and spoofing software (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour spoofer un utilisateur légitime, le hackeur doit utiliser un logiciel de spoof et d'écoute (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The hacker must then monitor a connection between the legitimate user and the target system, and succeed in an Infosec Test to sniff the traffic between them (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le hackeur doit ensuite surveiller une conenxion entre un utilisateur légitime et le système cible, puis réussir un test d'infosec pour écouter le traffic entre eux (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Apply a –20 modifier if the user has security account privileges, –30 if they have admin rights (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appliquer un modificateur de -20 si l'utilisateur a un compte de sécurité et de -30 si il a des droits administrateurs (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the connection is encrypted, this will fail unless the hacker has the encryption key.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si la connexion est chiffrée, cela ratera sauf si le hackeur a la clef de chiffrement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Armed with this data, the hacker then uses it to disguise their signals.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Avec ces données, le hackeur peut ensuite les utiliser poru déguiser son signal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This requires an Infosec Test, modified by the quality of the system's firewall and the hacker's spoofing program. If successful, communications sent by the hacker are treated as coming from the legitimate user.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela nécessite un Test d'Infosec, modififé par la qualité du pare-feu du système et par celle du programme de spoof du hackeur. Si c'est une réussite, les communications envoyées par le hackeur sont traitées comme venant de l'utilisateur légitime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Forging Authentication}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Falsifier l'Identification}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Biometric and passkey systems used for authentication (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les systèlmes biométrique et à code utilisés pour l'identifiaction (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>253) can potentially be forged hackers who are able to get a look at the originals.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>253) peuevtn potentiellement être falsifié par les hackeurs qui sont capable de jetter un œil aux originaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The means and techniques for doing so differ, and are beyond the scope of this book, but successfully forging such systems would allow a hacker to log in as the legitimate user.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les moyens et tehcniques pour le faire diffèrent, et sont au-delà de la portée de ce livre, mais réussir à falsifier de tels système permet à un hackeur de se connecter en tant qu'utilisateur légitime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Intrusion Tests}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Tests d'Intrusion}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hacking into a node is a time-consuming task.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Prater un nœud est une tâche consomatrice de temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The target system must be carefully analyzed and probed for weaknesses, without alerting its defenses.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le système cible doit être précautionneusement analysé à la recherche de faiblesses, sans altérer ses défenses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending on the type of security in place, more than one test may be called for.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Enf onction du type de sécurité en place, plus d'un test peut être nécessaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hackers require special exploit software (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les hackeurs ont besoin d'un logiciel d'exploit particulier (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>331) to take advantage of security holes, but software does not a hacker make.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>331) pour exploiter les trous de sécurité, mais le logiciel n'est pas ce qui fait un hackeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What really counts is Infosec skill (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce qui comtpe réellement est la compétence Infosec (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>180), which is the ability to use, modify, and improvise exploits to their full advantage.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>180), qui est la capacité à utiliser, modifier et improviser des exploits à leur maximum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Defeating The Firewall}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Vaincre Le Pare-feu}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lacking a passcode, the hacker must break in the old-fashioned way: discreetly scanning the target, look for weaknesses, and take advantage of them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En absence de code d'accès, le hackeur doit rentrer à l'ancienne: en analysant discrètement la cible, en recherchant des faiblesses et en en prenant avantage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case the hacker takes their exploit software and makes an Infosec Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, le hackeur prend son logiciel d'exploit et fait un Test d'Infosec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is handled as a Task Action with a timeframe of 10 minutes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela est géré par une Action de Tâche avec un intervalle de 10 minutes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Various modifiers may apply, such as the quality of the exploit software, the quality of the Firewall, or the alertness of the target system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Différents modificateurs peuvent s'appliquer, tels que la qualité du logiciel d'exploit, la qualité du pare-feu ou l'état d'alerte du système cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster may also modify the timeframe, shortening it to reflect systems that are cookie-cutter common with known security flaws or raising it as fitting for a top-of-the-line system with still-unreleased defenses.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu peut également modifier l'intervalle, le raccourcissant pour refléter les systèmes de base ayant des failels connues ou l'augmentant lorsque le hackeur se frotte aux système haut-de-gamme avec des défenses qui ne sont pas publiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>By default, a hacker trying to break in this way is pursuing standard user access rights (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par défaut, un hackeur qui essayes de se frayer un chemin essaye d'obtenir des droits d'accès d'utilisateur normal (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the hacker wishes to obtain security or admin privileges on the system, apply a –20 or –30 modifier, respectively.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le hackeur désire obtenir des privilèges de sécurité ou d'administrateur sur le système, appliquez un modificateur de -20 ou de -30 respectivement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the Infosec Test succeeds, the intruder has invaded the system without triggering any alarms.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le Test d'Infosec réussit, l'intrus a envahi le système sans déclencher d'alarme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the system is actively monitored (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le système est activement surveillé (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>253), they must now avoid detection by that watchdog (see below).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>253), le hacker doit maintenant éviter d'être détecté par les chien de garde (voir plus bas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If there is no active monitor, the intruder gains the status of &lt;i0&gt;Covert&lt;/i0&gt; (see &lt;i1&gt;In-&lt;/i1&gt; &lt;i2&gt;truder Status,&lt;/i2&gt; p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si il n'y a pas de supervision active, l'intrus obtient le statut &lt;i0&gt;Couvert&lt;/i0&gt; (voir &lt;i1&gt;Status des &lt;/i1&gt;&lt;i2&gt;Intrus,&lt;/i2&gt; p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the intruder scored an Excellent Success, however, their status is &lt;i3&gt;Hidden &lt;/i3&gt;(p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'intrus obtient un Réussite Exceptionnelle, son statut est &lt;i3&gt;Caché&lt;/i3&gt; (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Probing:&lt;/i0&gt; Players may choose to take the time (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sonder:&lt;/i0&gt; Les joueurs peuvent choisir de prendre leur temps (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>116) when probing the target for weakness and exploits In fact, this is a common procedure when a hacker wants to ensure success.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>116) lorsqu'ils sondent la cible à la recherche de faiblesse et d'exploits. Dans les faits, c'est une procédure commune lorsqu'un hackeur veut garantir sa réussite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Bypassing Active Security}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Contourner la Sécurité Active}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a system is also actively monitored (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un système est également activement supervisé (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>253), the hacker must avoid detection.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>253), le hackeur doit échapper à la détection.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Treat this as a Variable Opposed Infosec Test between the intruder and the monitor.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Considérez cela comme un test Variable en Opposition d'Infosec entre l'intrus et le superviseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The outcome depends on both rolls:</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'issue dépend des deux jets:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If only the intruder succeeds, the hacker has accessed the node without the monitor or the system</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'intrus est le seul à réussir, le hackeur a accès au nœud sans que le supervisuer ou le système ne le</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>noticing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>remarque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The hacker has acquired &lt;i0&gt;Covert&lt;/i0&gt; status (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le hackeur a acquis le status &lt;i0&gt;Couvert&lt;/i0&gt; (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the hacker scored an Excellent Success, their status is &lt;i1&gt;Hidden &lt;/i1&gt;(p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le hackeur obtient une Réussite Exceptionnelle, son status est &lt;i1&gt;Caché&lt;/i1&gt; (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If only the monitor succeeds, the hacking attempt is spotted and the monitor may immediately lock the hacker out of the system before they manage to fully break in.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si seul le supervisuer réussit, la tentative de piratage est détectée et le supervisuer peut immédiatement bloquer le hackeur à l'extérieur du système avant qu'il ne parvienne à rentrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The intruder may try again, but the monitor will be vigilant for further intrusions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'intrus peut essayer de nouveau, mais le superviseur sera à l'affût de prochaines intrusions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If both succeed, the intruder has gained access but the monitor is aware that something strange is going on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si les deux ont réussit, l'intrus obtiens un accès mais le superviseur est conscient que quelque chose d'étrange est en train de se produire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The hacker acquires &lt;i0&gt;Spotted&lt;/i0&gt; status.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le hacker obtient le status &lt;i0&gt;Détecté&lt;/i0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If both fail, continue to make the same test on each of the hacker's Action Phases, until one or both succeed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si les deux échouent, continuez à faire le même test à chaque Phase d'Action du hackeur, jusqu'à ce que l'un des deux réussisse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Hacking Sequence</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Séquence De Piratage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Defeat the Firewall</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vaincre le Pare-feu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Infosec Task Action (10 minutes) &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Action de Tâche d'Infosec (10 minutes) &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bypass Active Security</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Contourner la Sécurité Active</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Opposed Infosec Test &lt;br0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Test en Opposition d'Infosec &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hacker Wins with Excellent Success, Defender Fails</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le hackeur obtient une réussite exceptionnelle, le défenseur échoue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hidden status/+30 all tests (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Status Caché/+30 à tous les tests (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hacker Succeeds, Defender Fails</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le hackeur réussit, le défenseur échoue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Covert Status (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Status COuvert (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Both Succeed</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les deux réussissent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spot Status/Passive Alert (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Status Détecté/Alerte Passive (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Defender Succeeds, Hacker Fails</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le défenseur réussit, le hackeur échoue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Locked status/Active Alert (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Statsu Verrouillé/Alerte Active (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Intruder Status}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Status de l'Intrus}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Intruder status&lt;/i0&gt; is a simple way of measuring an invader's situation when they are intruding upon a system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le status d'un Intrus&lt;/i0&gt; est un moyen simple de mesurer la situation d'un attaquant lorsqu'il s'introduit dans un système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This status has an impact on whether the hacker has caught any attention or if they managed to remain unobtrusive.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce status sert à déterminer si le hackeur est détecté ou si il a réussit à rester invisible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Status is first determined when the intruder access the system, though it may change according to events.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le status est d'abord éterminé lorsque l'intrus accède au système, bien qu'il puisse changer en fonction des évènements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that intruder status is a separate matter from account access privileges (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que le status d'un intrus est une considération distincte des privilèges d'accès associés à un compte (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The latter represents what a user can legally do on a system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces derniers représentent ce qu'un utilisateur peut légalement faire sur un système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The former indicates how aware the system is of the hacker's true nature as an intruder.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le status représente le niveau de conscience de la nature intrusive du hackeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Hidden}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Caché}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An intruder with Hidden status has managed to silently sneak into the system without anyone noticing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un intrus avec le status Caché a réussit à se faufiler silencieusement dans le système sans que personne ne le remarque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The system's security is totally unaware of their presence and may not act against them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La sécurité du système est complètement inconsciente de sa présence et ne peut agir contre lui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, the hacker is not using an account so much as they are exploiting a flaw in the system that grants them a nebulous, behind-the-scenes sort of presence in the system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, le hackeur fait plus que d'utiliser un compte, il exploite un défaut du système ce qui lui permet d'avoir une présence nébuleuse dans le système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The hacker effectively has admin access rights, but does not show up as an admin-level user in logs or other statistics.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le hackeur bénéficie d'un compte administrateur, mais n'apparaît pas comme tel dans les journaux ou autres statistiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hidden characters receive a +30 modifier on any efforts to subvert the system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages Cachés ont un modificateur de +30 à toutes leurs tentatives de subevrtir un système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Covert}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Couvert}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An intruder with Covert status has accessed the system in a manner that doesn't attract any unusual attention.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un intrus ayant le status Couvert a accès au système d'une manière qui n'attire pas d'attention particulière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For all intents and purposes, they appear to be a legitimate user with whatever access rights they sought.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De tout point de vue, ils apparaissent comme des utilisateurs légitimes avec les droits d'accès correspondant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only extensive checking will turn up any abnormalities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Seul une analyse poussée pourra remarquer l'anomalie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The system is aware of them, but does not consider them a threat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le système est conscient de son existence, mais il ne la considère pas comme une menace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Spotted}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Détecté}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spotted status indicates that the system is aware of an anomaly or intrusion but hasn't zeroed in on the intruder yet.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le statut Détecté indique que le système est conscient d'une anomalie ou d'une intrusion mais ne l'as pas encore réduite à l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The hacker appears to be a legitimate user with whatever access rights they sought, but this will not hold up under close scrutiny.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>le hackeur apparaît comme un utilisateur légitime avec les accès correspondant, mais cela ne résistera pas à une analyse minutieuse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The system goes on passive alert (inflicting a –10 modifier to the hacker's activities on that system) and may engage the hacker with passive countermeasures (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le système passe en alerte passive (infligeant un modificateur de -10 aux activités du hackeur sur le système) et peut attaquer le hackeur avec des contremesures passives (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Locked}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Verrouillé}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Locked status means that the intruder—including their datatrail—has been pinned down by system security.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le status Verrouillé signifie que l'intrus - y compris sa piste de donnée - a été repéré par la sécurité du système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The hacker has access and account privileges, but they have been flagged as an interloper.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le hackeur a l'accès et les privilèges du compte, mais il a été signalé comme un étranger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The system is on active alert (inflicting a –20 modifier on the hacker's actions and may launch active countermeasures (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le système est en alerte active (infligeant un modificateur de -20 à toutes les actiosn du hacker) et peut déclencher des contremesure actives (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>257) against the intruder.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>257) contrre l'intrus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Enter the singularity</seg>
       </tuv>
       <tuv xml:lang="fr-FR">

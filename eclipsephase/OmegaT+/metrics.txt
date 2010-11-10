@@ -7,10 +7,10 @@ Total
   Caractères: 1622165 : + espaces
 
 Restants
-    Segments:    8983
-        Mots:  103521
-  Caractères:  541353 : - espaces
-  Caractères:  636053 : + espaces
+    Segments:    8785
+        Mots:  100541
+  Caractères:  525809 : - espaces
+  Caractères:  617730 : + espaces
 
 Uniques
     Segments:   16205
@@ -19,10 +19,10 @@ Uniques
   Caractères: 1603697 : + espaces
 
 Restants uniques
-    Segments:    6897
-        Mots:  101199
-  Caractères:  540416 : - espaces
-  Caractères:  625700 : + espaces
+    Segments:    6699
+        Mots:   98219
+  Caractères:  524682 : - espaces
+  Caractères:  607377 : + espaces
 
 Mesures des documents
 
@@ -41,7 +41,7 @@ Mesures des documents
     8618     169   46366     761   54224     779 - 6-skills.tex
    21717     409  109826    1449  129634    1516 - 7-action-combat.tex
    11891     316   62399    1430   73548    1717 - 8-mind-hacks.tex
-   22333   10128  119673   52877  140610   62260 - 9-mesh.tex
+   22333    7148  119673   37333  140610   43937 - 9-mesh.tex
       64      32     378     219     415     233 - ep.tex
 
 Légende
