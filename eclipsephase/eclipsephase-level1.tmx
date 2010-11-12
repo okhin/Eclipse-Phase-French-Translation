@@ -42134,6 +42134,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Active Countermeasures}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Contremesures Actives}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Lack</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
@@ -71386,6 +71394,2494 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>257) contrre l'intrus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Changing Status}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Changer de Status}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An intruder's status is subject to change according to their actions and the actions of the system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le status d'un intrus est amené à évoluer en fonction de ses actions et des actions du système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Upgrading Status}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Améliorer le Status}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A hacker can attempt to improve their status in order to better protect themself.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un hackeur peut tenter d'améliorer son status afin de mieux se protéger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This requires a Complex Action and an Infosec Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela nécessite une Action Complexe et un Test d'Infosec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the hacker has Spotted status, this is an Opposed Test between monitor and intruder.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le hacker à le status Détecté, il s'agît d'un Test en Opposition entre le superviseur et l'intrus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the hacker wins and scores an Excellent Success (MoS of 30+), they have upgraded their status by one level (for example, from Covert to Hidden).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le hacker gagne et obtient une Réussite Exceptionnelle (MdR de 30+), il améliore son status d'un niveau (par exemple de Couvert à Caché).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Intruders with Locked status may not upgrade.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les intrus ayant le status Verrouillé ne peuvent pas l'améliorer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Zeroing In}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Détecter}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A security hacker or muse that is actively monitoring a system can take a Complex Action and attempt to hone in on a Spotted intruder.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un hackeur ou une muse de sécurité qui surveille activement un système peut prendre une Action Complexe pour tenter de trouver un intrus ayant le status Détecté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An Opposed Infosec Test is made between both parties.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un Test en Opposition d'Infosec est effectué par les deux parties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the system's defender wins, the hacker is downgraded to Locked status.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le défenseur du système l'emporte, le hackeur est rétrogradé au status Verrouillé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Failing Tests}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Raté un Test}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any time an intruder scores a Severe Failure (MoF 30+) on a test involving manipulating the system, they are automatically downgraded one status level (from Covert to Spotted, for example).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À chaque fois qu'un intrus obtient un Échec Catastrophique (MdE 30+) sur un test qui implique la manipulation du système, ils sotn automatiquement rétrogradé d'un niveau (de Couvert à Détecté, par exemple).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a critical failure is rolled, they immediately give themselves away and achieve Locked status.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un échec critique est obtenu, ils se signalent immédiatement et obtiennent le status Verrouillé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Brute-Force Hacking}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Piratage par Force Brute}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sometimes a character simply doesn't have time to do the job right, and they need to hack in now or never.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Parfois un personnage n'a simplement pas suffisament de temps pour faire le boulot correctement, et il a besoin de pénétrer le système maintenant ou jamais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case the hacker engages the target system immediately head on, without taking any time to prepare an attack.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, le hackeur engage le système cible bille en tête, sans prendre le temps de préparer une attaque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The hacker simply brings all of their software exploit tools to bear, throwing them at the target and hoping that one works.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le hackeur attrapes simplement tout les logiciels d'exploit à portée et les envoie contre la cible, espérant que l'un d'entre eux fonctionnera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is handled as an Infosec Test, but as a Task Action with a timeframe of 1 minute (20 Action Turns).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ceci est géré par un Test d'infosec, mais comme une Action de Tâche avec un intrvalle d'1 minutes (20 Tour d'Action).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The hacker receives a +30 modifier on this test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le hacker reçoit un modificateur de +30 à son test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many hackers choose to rush the job (see Task Actions, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup de hackeur cherche à précipiter le boulot (voir Action de Tâche, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>120), in order to cut this time even shorter.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>120), afin de réduire encore ce temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The drawback to brute-force hacking is that it immediately triggers an alarm.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'inconvénient de la force brute est que le piratage déclenche immédiatement une alarme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the system is actively monitored the hacker must beat the monitor in an Opposed Infosec Test or be immediately locked out as soon as they break in.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le système est activement surveillé, le hackeur doit battre le superviseur dans un Test en Opposition d'Infosec dés qu'il pénètre le nœud ou être immédiatement verrouillé à l'extérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even if they succeed, the hacker has Locked status and is subject to active countermeasures.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même si il réussit, le hackeur a le status Verrouillé et est sujet aux contemesure actives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Intrusion Countermeasures</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Contremesure d'Intrusion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If an intruding hacker fails to penetrate a system's defenses (i.e., they are Spotted or Locked, see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un hackeur intrus ne parvient pas à pénétrer les défenses systèmes (i.e, il est Détecté ou Verrouillé, voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>256), then the system goes on alert and activates certain defenses.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>256) le système passe en alerte et active certaines défenses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The nature of the applied countermeasures depends on the capabilities of the system, the abilities of its security defender(s), and the policy of its owner/ admins.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La nature ds contremesure utilisées dépend des capacités du système, des compétences de ses défenseurs de sécurité et de la politique de son propriétaire/administrateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While some nodes will simply seek to kick the intruder out and keep them shut out, others will actively counterattack, seeking to track the intruder and potentially hack the intruder's own PAN.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alros que certains nœuds chercherons simplement à déconnecter l'intrus et à les maintenir  l'écart, d'autres contre-attaquerons, cherchant à pister l'intrus et à pirater le PAN de l'intrus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Security Alerts}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Alerte de Sécurité}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Security alerts come in two flavors: passive and active.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il existe deux type d'alerte de sécurité: les alertes passives et les alerte actives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Passive Alert}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Alerte Passive}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Passive alerts are triggered when an intruder hits Spotted status.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les alertes passive sont déclenchées lorsqu'un intrus a le status Détecté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The system immediately flags a visual or acoustic cue to anyone actively monitoring the system and possibly the owner or admins.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le système envoie imméidatement une notificatin visuelle ou acoustique à quiconque supervise activement le système et peut également prévenir le propriétaire ou l'administrateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It immediately launches one or more passive countermeasures (see below).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il lance immédiatement une ou plusieur contremesure passive (voir ci-dessous).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending on the system, extra security hackers or AIs may be brought in to help investigate.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fonction du système, des hackeurs de sécurité ou des IA supplémenatires peuvent être appelés pour aider à mener l'enquète.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the intruder is not encountered again or located within a set time period (usually about 10 minutes), the alarm is deactivated and the event is logged as an anomaly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'intrus n'est pas retrouvé ou localisé dans un intervalle de temps (généralement autour de 10 minutes), l'alrme est désactivée et l'évènement est enregistré comme étant une anomalie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending on the security level of the system, someone may analyze the logs at some point and try to ascertain what happened—and prevent it from happening again.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fonction du niveau de sécruité du système, quelqu'un pourrait analyser les journaux à un moment donné et essayer de déterminer ce qu'l s'est passé - et faire en sorte que cela n'arrive plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All intruders suffer a –10 modifier for tests involving a system that is on passive alert.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tous les intrus subissent un modificateur de -10 à leurs tests impliquant un système en alerte passive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Active Alert}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Alerte Active}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An active alert is triggered when an intruder hits Locked status.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une alerte active est déclenchée lorsque l'intrus obtiens le status Verrouillé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The system immediately alerts the owners, admins, and monitoring security agents.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le système prévient immédiatement les propriétaires, administrateurs et agents de sécurité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additional security assets (hackers and AIs) may be called in.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des moyens de sécurité supplémenatires (IA et hackeurs) peuvent également être appelées en renforts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The system also launches active countermeasure against the intruder (see below).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le système déclenches également des contremesure active contre l'intrus (voir ci-dessous).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Active alerts are maintained for as long as the intruder is present, and sometimes for a lengthy period afterwards just in case the hacker returns.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les alertes actives sont maintenues tant que l'intrus est présent, et parfois pour une période un peu plus longue juste au cas où le hackeur tenterait sa chance de nouveau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Passive Countermeasures}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Contremesure Passive}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Passive countermeasures are launched as a precaution whenever an intruder acquires Spotted status.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les contremesures passives sont des précautions exécutées lorsqu'un intrus acquiert le status Détecté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Locate Intruder}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Localiser un Intrus}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A security hacker or AI monitoring a system may attempt to track down the source of the passive alert.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un hackeur de sécurité ou un IA supervisant le système peut tenter de remonter la source d'une alerte passive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See Zeroing In, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voir Détecter, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Re-Authenticate}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Re-Identifier}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When a passive alert is triggered, a firewall can be set to re-authenticate all active users, starting with the most recent.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsqu'une alerte passive est déclenchée, un parefeu peut être configuré pour re-identifier tous les utilisateurs actifs, en commençant par les plus récemments connectés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the beginning of the next Action Turn, everyone on the system must take an action to log back in.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au début du prochain Tour d'Action, toute personen connectée sur le système doit dépenser une action pour se reconnecter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For intruders, this means making an Infosec Test, modified by –10 for the passive alert, to satisfy the system that they are a legitimate user.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour les intrus, cela implqiue de faire un test d'Infosec, modifié de -10 par l'alerte passive, pour faire croire au système qu'ils sont des utilisateurs légitime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Reduce Privileges}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Réduction de Privilèges}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a protective measure, some systems will immediately reduce access privileges available to standard users, and sometimes security users as well.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains système réduiront immédiatement les privilèges d'accès disponibles aux utilisateurs standard, et parfosi ceux des utilisateurs de sécurité, comme mesure de protection.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>One common tactic is to protect all logs, backing them up and making sure no one has rights to delete them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une tactique classique est de protéger tous les logs, de les sauvegarder et de s'assurer que personne n'a le droit de les effacer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Active countermeasures can only be launched if the intruder has acquired Locked status.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les contremesure active ne peuvent être démarrée que si l'intrus possède le status Verrouillé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Counterintrusion}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Contreintrusion}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A security hacker or guardian AI can proactively defend a system by attacking the intruder's source.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un hackeur de sécurité ou une IA guardienne peut défendre proactivement un système en attaquant la source de l'intrusion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For this to occur, the intruder must first be successfully traced (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour que cela soit possible, l'intrus doit d'abord être tracé (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once this occurs, the security forces can then launch their own intrusion on the hacker's home ecto/mesh inserts and/or PAN.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois cette condition obtenue, les forces de sécurité peuvent ensuite lancer leurs propres intrusions sur l'ecto/insert de mesh du hackeur ainsi que sur son PAN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Lockout}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Éjection}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A system that has locked onto an intruder may also attempt to lock them out.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un système qui a verrouillé un intrus peut aussi tenter de l'éjecter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lockout is an attempt to remove the compromised account, sever the connection between the two, and dump the hacker from the system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>l'éjection est une tentative pour supprimer le compte compromis, coper la connexion entre le hackeur et le système et le pousser dehors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lockout must be initiated by someone with security or admin privileges.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'éjection doit être démarrée par quelqu'un qui a des privilèges de sécurité ou d'administrateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An Opposed Infosec Test is made, with the intruder suffering a –20 modifier for being Locked.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un Test en Opposition d'Infosec est réalisé, l'intrus subissant un modificateur de -20 car il est Verrouillé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character defending the system succeeds, the intruder is immediately ejected from the system and the account they used will be placed on quarantine or deleted.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le personnage défendant le système l'emporte, l'intrus est immédiatement éjecté du système et le compte qu'il utilisat sera placé en quarantaine ou effacé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>That account will not be usable again until a security audit approves it and replaces the authentication.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce compte ne sera pas réutilisble jusqu'à ce qu'un audit de sécurité l'approuve et en change l'identification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any attempt to access the system from the same mesh ID as the intruder automatically fails.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toute tentative d'accéder le système depuis le même ID mesh que celui de l'intrus échouera automatiquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Reboot/Shutdown}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Redémarrer/Éteindre}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Perhaps the most drastic option for dealing with an interloper is to simply shut down the system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Probablement l'option la plus radicale pour s'occuper d'un intrus est de simplement éteindre le système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, the system closes all wireless connections (if it has any), logs off any users, terminates all processes, and shut itself down—thereby locking out the intruder.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, le système ferme toutes les connexions sans-fil (si il en possède), déconnectes tous les utilisateurs, termine tous les process, et s'éteint - éjectant l'intrus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The disadvantage, of course, is that the system must interrupt its activities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le désavantage est, bien entendu, que le système doit interrompre ses activités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, shutting down your mesh inserts or ecto means losing all communication with teammates, access to augmented reality, and control over slaved/linked devices.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, éteindre votre insert de mesh ou votre ecto signifie que vous perdez toutes les connexions avec vos coéquipiers, l'accès à la réalité augmentée et le contrôle des appareils asservis/liés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Initiating a reboot/shutdown is only a Complex Action, but the actual process of shutdown takes anywhere from 1 Action Turn (personal devices) to 1 minute (large hardwired networks with multiple users), determined by the gamemaster.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Initier un redémmarage/une extinction n'est qu'une Action Complexe, mais le process réel de l'extinction prend encore de 1 Tour d'Action (appareils personnels) à 1 minute (gros réseaux filaire ayant de nombreux comptes), déterminé par le maître de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rebooting a system takes the same amount of time to get started again.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Redémarrer un système prend le même temps pour revenir en ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Trace}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Pister}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For high-security systems, a popular countermeasure is to track the infiltrator's physical location via their mesh ID (see Physical Tracking, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour les systèmes de haute-sécurité, une contremesure populaire est de pister la localisation physique de l'intrus via son ID mesh (voir Pistage Physique, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In most cases, habitat physical security is subsequently alerted and forwarded the position to take care of the criminal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans la plupart des cas, la sécurité physique de l'habitat est ensuite alertée et reçoit la position du hackeur pour s'occuper du criminel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Wireless Termination}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Coupure Sans-fil}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An alternative to shutdown or rebooting is simply to sever all wireless connections by shutting down the wireless capabilities of the system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une alternative à l'extinction ou au redéamrrage est de simplement couper toutes les conneions sans-fil en désactivant les capacités sans-fil du système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The system will lose all active connections, but any intruders will be dumped.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le système perdra toutes els conenxions actives, mais tout intrus sera éjecté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wireless termination is a Complex Action to initiate and completes at the end of that Action Turn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La coupure sans-fil est une Action Complexe et se termine à la fin de ce Tour d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Re-starting wireless connectivity takes 1 Action Turn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Re-démarrer la connectivité sans-fil prend 1 Tour d'Action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Joint Hacking/Securing</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Piratage/Sécurisation Collective</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hacking will sometimes involve teams of attackers and/or teams of defenders.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le piratage impliquera parfois des équipes d'attaquants et/ou des équipes de défense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A hacker might be backed up by their muse or another team member with moderate Infosec skills.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un hackeur peut être soutenu par sa muse ou par un autre membre de l'équipe ayant des compétences d'Infosec moyenne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hard networks are often defended and monitored by teams of highly-skilled security hackers and AIs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les réseaux durs sont souvent défendus et supervisés par des équipes de hackeurs de sécurité et d'IA extrêmement compétent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When intruding in or defending a computer system, operators must decide whether to act individually or in concert.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque vous pénétrez ou défendez un système informatique, les opérateurs doivent décider si ils agissent individuellement ou de concert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each approach has its tradeoffs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque approche à ses inconvénients.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A team that chooses to breach or maintain a system’s security as a team effort must allocate one character (usually the team member with the highest Infosec skill) as the primary actor (see Teamwork, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Uen équipe qui choisit d'atatquer ou de maintenir la sécurité d'un système en tant qu'équipe doit allouer un personnage (généralement celui qui a la compétence Infosec la plus élevée) comem acteur principal (voir Travail d'Équipe, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each additional character and muse adds a +10 modifier for each test (up to the maximum +30 modifier) but cannot spend time on other actions than those performed by the team leader.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque personnage et muse supplémentaire ajoute un modificateur de +10 à chaque test (jusqu'à un maximum de +30) mais ne peut pas passer du temps sur d'autres actions que celles effectuées par le chef d'équipe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When acting in concert, teams may switch team leaders at any time, in case group members are specialized for certain tasks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsqu'une équipe agît de concert, les équipes peuvent changer de chef d'équipe à tout moment, au cas où les membres de chaque équipe soient spécialisées pour certaines tâches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alternately, both intruding and defending teams may choose to act individually but for a joint goal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une autre possibilité pour les équipes qui attaquent ou qui défendent est de choisir d'agir individuellement avec un objectif commun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each hacker must make intrusions on their own, with individual repercussions for detection and counterintrusion, which runs the risk of affecting all intruders if any one is Spotted or Locked.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque hackeur doit mener son intrusion de son côté, avec des répercussions individuelles pour la détection et la contreintrusion, ce qui augmente la possibilité d'affecter tous les intrus si l'un d'eux est Détecté ou Verrouillé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On the other hand, a team of intruders can pursue multiple actions simultaneously in a coordinated manner and may temporarily overwhelm available security.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'un autre côté, une équipe d'intrus peut effectuer plusieurs actions simultanément de manière coordonée et peut temporairement écraser la sécurité disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The same holds true for system defenders, who may accomplish more by splitting their actions, leaving some to monitor while others launch counterintrusion attacks and other countermeasures.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La même chose est vrai pour les équipes de défenses, qui peuvent accomplir plus de choses en répartissant les actions, en laissant certains en supervision endant que d'autre lances des attaques de contreintrusion et d'autre contremesure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once an intruder has successfully invaded a device or network, they can pursue whatever tasks they are interested in, as fitting that particular system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois qu'un intrus a envahi avec succès un appareil ou un réseau, il peut faire toutes les tâches qui l'intéresse, dans la limite de ce qu'autorise le système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending on the type of account the intruder hacked, they may or may not have access privileges to do what they want to do.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fonction du compte que l'intrus a piraté, il peut ou peut ne pas avoir les privilèges d'accès pour faire ce qu'il veut faire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If their access rights allow it, the activity is handled like that of a legitimate user and no test is called for (unless the activity itself calls for some kind of test, such as Research).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si ses droits d'accès le lui permettent, l'activité est gérée comme celle d'un utilisateur légitime et aucun test n'est nécessaire (sauf si l'activité elle-même nécessite un jet, comme la Recherche).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, a hacker who infiltrates a habitat's security system with a security account can monitor cameras, deactivate sensors, review recorded surveillance footage, and so on, as any legitimate user with security right would be allowed to do.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemeple, un hackeur infiltre le système de sécurité de l'habitat avec un compte de sécurité qui peut surveiller les caméras, désactiver les capteurs, regarder les vidéos de surveillance enregistrées, et ainsi de suite, comme n'importe quel utilisateur légitime avec les privilèges de sécurité aurait le droit de le faire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Engaging in any sort of activity for which you don't have access rights is more difficult and requires hacking the system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Se lancer dans n'importe quel type d'activité pour laquelle vous n'avez pas oles droits d'accès et plus difficle et nécessite de bidouiller le système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This typically requires an Infosec Success Test, modified by the difficulty of the action as noted on the Subversion Difficulties table.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela éncessite en général un Test d'Infosec réussit, modifié par la difficulté de l'action telle que notées dans la table de la Difficulté de Subversion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In most cases this in not an Opposed Test even if the system is actively monitored, unless specifically stated otherwise.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans la plupart des ca, il ne s'agît pas d'un Test en Opposition même si le système est activement supervisé, sauf si le contraire est précisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Failing such tests, however, will result in a change of the hacker's intruder status (see Failing Tests, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Rater ce genre de test amènera cependant en un changement de status du hackeur intrus (voir Rater des Tests, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Examples for different types of system subversion are given in the Subversion Examples sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des exemples pour différentes subversion de système sont donnés dans l'encadré Exemple de Subversion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is not an exhaustive list, however, and gamemasters and players are encouraged to improvise game effects in case an action has not been explicitly described.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il ne s'agît cependant pas d'une liste exhaustive et les maîtres de jeu et les jouerus sont encouragés à improviser les effets de jeu au cas où une action n'aurait aps été décrite de manière explicite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Augmented Reality Illusions}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Illusions de Réalité Augmentée}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A hacker who has infiltrated an ecto, mesh inserts, or some other device with an AR interface may inject different kinds of visual, auditory, tactile, and even emotional illusions into the augmented reality of the device's user, depending on the type of interface used.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un hackeur qui a infiltré un ecto, un insert de mesh ou d'autres appareils avec une interface RA peut injecter différent type d'illusions visuel, auditives, tactiles et même émotionnelle dans la réalité augmentée de l'appareil de l'utilisateur, en fonction du type d'interface utilisée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How the hacked user will respond to the illusion depends on a number of factors, such as whether they are aware of the intruder (i.e., the hacker has Spotted or Locked status), what type of interface they are using (entoptic or haptic), and how realistic the illusion is.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La façon dont répondra l'utilisateur piraté dépend d'un certain nombre de facteurs, tels que leur état de conscience de la présence d'un attaquant (le hacker a le status Détecté ou Verrouillé), le type d'interface qu'ils utilisent (entoptique ou haptique), et le degré de réalisme de l'illusion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The best illusions are, of course, crafted in advance, using the best image and sensory manipulation tools available.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les mielleures illusions sont, bien enetendu, préparée en avance, en utilisant les meilleurs outils de manipulation d'image et de sens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Such illusions are hyper-realistic.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De telles illusions sont hyper-réaliste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Anyone making a Perception Test to identify them as fake</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>QUiconque fait un Test de Perception pour les identifier comem fausse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>suffers a –10 to –30 modifier (gamemaster's discretion An eclectic collection of software programs offer a diverse range of AR illusions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>subit un modificateur de -10 à -30 (à la discrétion du maître de jeu). Une collection ecclectique de logiciels offrent une gamme varéie d'illusions RA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{2}{|c|}{Subversion Difficulties} </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{2}{|c|}{Difficultés des Subversions} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{2}{|c|}{Difficulty modifiers for common computer tasks} </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{2}{|c|}Modificateurs de difficultés pour les tâches informatiques de base} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Execute commands, view restricted information, run restricted software, open/close connections to other systems, read/write/copy/delete files, access sensor feeds, access slaved devices </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Exécuter des commandes, voir des informatiosn restreintes, exécuter des logiciels restreint, ouvrir/fermer des connexions vers d'autres systèmes, lire/écrire/copier/effacer des fichiers, accéder à des flux de capteurs, accéder à des appareils asservis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Change system settings, alter logs/restricted files </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Changer les régalges du système, altérer des logs/fichiers restreints</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Interfere with system operations, alter sensor/AR input </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Interférer avec les opérations systèmes, altérer les entrées sensorielles/RA </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shut system down, lockout user/muse, launch countermeasures at others </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Éteindre le système, éjecter un utilisateur/une muse, lancer des contremesures contre quelqu'un </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{2}{|c|}{Subversion Expamples} </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{2}{|c|}{Exemples de Subversion} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{2}{|c|}{In addition to the tasks noted under the Subversion Difficulties table,} </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{2}{|c|}{En plus des tâches notées dans la table de Difficultés des Subversions,} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{2}{|c|}{these modifiers present some additional example actions.} </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{2}{|c|}{ces modificateurs présentent certaines actions additionnelles.} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Task </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tâche </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{2}{|c|}{Hacking Bots/Vehicles} </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{2}{|c|}{Pirater des Bots/véhicules} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Give orders to drones </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Donner des ordres aux drônes </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alter sensor system parameters, disable sensors or weapon systems </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>modifier les paramètres système des capteurs, désactiver les systèmes de capteur ou d'armement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alter smartlink input, send false data to AI or teleoperator </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Altérer les entrées d'un samrtlink, envoyer de fausse données à l'IA ou au téléopérateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lockout AI or teleoperator, seize control via puppet sock </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Éjecter l'IA ou le téléopérateur, prendre le contrôle par la prise marionnette</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{2}{|c|}{Hacking Ectos/Mesh Inserts} </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{2}{|c|}{Pirater des Ectos/Inserts de Mesh} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Interact with entoptics, befriend everyone in range, make online purchases using user's credit, intercept communications, log activity </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Interagir avec des entoptiques, ajouter toutes les personnes à portée comem amis, effectuer des achats en ligen en utilisant les informatiosn bancaire de l'utilisateur, intercepter les communications, enregistrer l'activité. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alter social network profile/status, adjust AR filters, tweak sensory interface, change AR skin, change avatar, access VPN </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Altérer le profile/status sur les réseaux sociaux, ajuster les filtres de RE, bidouiller l'interface sensorielle, changer l'habillage RA, changer l'avatar, accéder aux VPN </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Block or shuffle senses, inject AR illusions, spoof commands to drones/slaved devices </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bloquer ou brouiller les sens, injecter des illusions RA, imiter des commandes aux drones/appareils asservis </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Boot user out of AR </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Déconnecter l'utilisateur de la RA </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{2}{|c|}{Hacking Habitat Systems} </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{2}{|c|}{Pirater des Systèmes d'Habitats} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Open/close doors, stop/start elevators, operate intercom </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ouvrir/fermer les portes, arréter/démarrer les ascensseurs, manipuler l'interco </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Adjust temperature/lighting, disable safety warnings, replace entoptic skin, lock doors, switch traffic timers </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ajuster la température/l'éclairage, désactiver les alertes de sécurités, remplacer l'habillage entoptique, verrouiller des portes, intervetir les régulateurs de traffic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Disable subsystems (plumbing, recycling, etc.), disable wireless links, dispatch repair crews </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Désactiver des sous-systèmes (plomberie, recyclage, etc.), désactiver les liens sans-fil, répartir les équipes de réparation </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Override safety cutoffs </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Contourner les blocages de sécurités</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{2}{|c|}{Hacking Security Systems} </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{2}{|c|}{Pirater des Systèmes de Sécurité} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Move/manipulate cameras/sensors, locate security systems/guards/bots </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bouger/manipuler les caméras/capteurs, localiser les systèmes/bots/gardes de sécurité </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Adjust patterns of sensor sweeps, view security logs, disable weapon systems </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ajuster les motifs de balayage des capteurs, consulter les logs de sécurité, désactiver les systèmes d'armes </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Delete security logs, dispatch security teams </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Effacer les logs de sécurité, répartir les équipes de sécurité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Disable alerts </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Désactiver les alertes </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{2}{|c|}{Hacking Simulspace Systems} </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{2}{|c|}{Pirater des Systèmes de Simulspace} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>View current status of simulspace, simulmorphs, and accessing egos </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voir l'état actuel du simulspace, des simulmorphs et des égos connectés </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Change domain rules, add cheats, alter parameters of story, alter simulmorphs, change time dilation </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Changer les règles de domaines, ajouter des codes de triche, modifier les paramètres de l'histoire, altérer les simulmorphs, changer la dilatation temporelle </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Eject simulmorph, alter/erase character AIs </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Éjecter une simulmorph, modifier/effacer les IA joueuses </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Abort simulation </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Interrompre la simulation </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{2}{|c|}{Hacking Spimes} </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{2}{|c|}{Pirater des Spimes} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Get status report, use device functions </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Obtenir un rapport d'état, utiliser les fonctions de l'appareil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Adjust AI/voice personality settings, adjust timed operation schedule </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ajuster les réglages de personnalités de l'IA/voix, ajuster l'ordonnancement des tâches </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Disable sensors, disable device functions </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Désaciver les capteurs, désactiver des fonctionnalités de l'appareil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hackers may also improvise illusions on the fly, usually by patching in sensor data from others sources, though this is more difficult and more easily spotted (typically adding a +10 to +30 modifier to Perception Tests).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les hackeurs peuvent aussi improviser des illusions à la volée, généralement en modifiant les données sensorielles d'autres sources, bien que cela soit plus difficile et plus facilement noté (en ajoutant typiquement un modificateur de +10 ou de +30 au Test de Perception).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The advantage is that the hacker can modify the illusion in reaction to the user's actions or environmental factors on the fly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'avantage est que le hackeur peut modifier l'illusion à la volée en fonction des actions de l'utilisateur ou des facteurs environnementaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AR illusion software, however, also offers some template illusions that can be modified and controlled in real-time via a connected interface.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les logiciels d'illusions RA offrent également différents modèles qui peuvent être modifiés et contrôllé en temps-réel grâce à une interface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Whenever a user is bombarded with AR illusions, the gamemaster should make a secret Perception Test to see if they spot the deception.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsqu'un utilisateur est bombardé d'illusion RA, le maître de jeu devrait faire un test de perception secret pour voir si le eprsonnage remarque l'illusion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even if they do, however, the character may still react to them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Et même si il la remarque, le personnage peut toujours y réagir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Almost anyone will duck when they see an object suddenly flying at their face, as their body reacts on its own before the brain comprehends that it's an illusion and not a threat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Presque tout le monde se jettera à terre si un objet leur fonce dessus soudainement, leur corps réagsisant de son propre chef avant que le cerveau ne comprenne que c'est une illusion et non une menace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aside from their deceptive value, illusions can be used to distract users or otherwise impair their perceptive faculties.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au delà de luer valeur trompeuse, les illusions peuvent être utilisée pour distraire un utilisateur ou géner d'une manière ou d'une autre ses facultés de perception.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, dark illusory clouds can obscure vision, ear-wrenching high-volume noises can make people cringe, and a persistent tickling sensation might drive anyone crazy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, des nuages noirs illusoires peuvent obscurcir la vision, des bruits trés fort vrillant les oreilles peuvent faire reculer les gens et une sensation permanente de chatouillement peut rendre quelqu'un fou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Such effects can apply a –10 to –30 modifier to Perception Tests and other actions, but the user can also adjust their filters and/or turn their AR off if necessary.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De tels effets peuvent appliquer un modificateur de -10 aux Tests de Perception et d'autres actions, mais l'utilisateur peut également ajuster ses filtres et/ou désactiver sa RA si nécessaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A backdoor is a method of bypassing a system's normal authentication and security features.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une backdoor est une méthode de contourner l'identificaton normale d'un système et ses fonctions de sécurité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It enables a hacker to sneak into a system by exploiting a flaw (which can take the form of an installed program or modification to an existing program or hardware device) that was integrated into the system previously, either by themself or another hacker (who shared the backdoor).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela donne à un hackeur la possibilité de s'infiltrer dans un système en exploitant un défaut (qui peut prendre la forme d'un programme installé, de modification d'un programme existant ou d'un appareil matériel) qui a été précédemment intégré au système, soit par lui-même soit par un autre hackeur (qui aprtage la backdoor).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To install a backdoor, the hacker must successfully infiltrate the system and succeed in both a Programming and an Infosec Test (or an Opposed Infosec Test if the system is actively monitored).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour installer une backdoor, le hackeur doit réussir à infiltrer le système et réussir un Test de Programmation et un Tets d'Infosec (ou un Test en Opposition si le système est activement supervisé).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Programming Test determines how well the backdoor is crafted and hidden within system processes, while the Infosec Test represents incorporating it into the system without security noticing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le Test de Programmation détermine la qualité de la backdoor et sa dissimulation dans les processuss système, alors que le test d'Infosec représente l'incorporation de cette backdoor dans le système sans que la sécurité ne la remarque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Modify the Programming Test by –20 if the hacker wants to have security privileges when using the backdoor, –30 for admin.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Modifier le test de Programmation de -20 si le hackeur veux avoir des privilèges de sécurité, et de -30 pour être admin, en utilisant la backdoor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once installed, using a backdoor requires no test to access the system—the hacker simply logs on as if they were a legitimate user, gaining Covert status.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>une fois installée, utiliser une backdoor ne nécessite aucun test pour accéder au système - le hackeur se connecte simplement comme si il était un utilisateur légitome, et obtient le status Couvert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Anyone who is aware of a backdoor's details may use it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quiconque connaît les détails de la backdoor peut l'utiliser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How long the backdoor lasts depends on many factors and is largely up to the gamemaster.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La durée pendant laquelle la backdoor persistera dépend de plusieurs facteurs et est laisser à l'appréiation du maître de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Backdoors are only likely to be spotted during complete security audits, so more paranoid systems are likely to detect them earlier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les backdoors ne serotn géénralement détecté que pendant des audits de sécurité complet, les systèmes les plus paranoïaque les détecterons donc plus rapidement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Security audits may also occur when an intruder is Spotted but never Locked.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les audits de sécurité peuvent également avoir lieu lorsqu'un intrus est Détecté et qu'il n'est jamais Verrouillé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Security audits are a Task Action with a timeframe of 24 hours.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les audits de sécurité sont une Action de Tâche avec un intervalle de 24 heure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character conducting the audit makes an Infosec Test to spot the back door.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage qui mène l'audit fait un Test d'Infosec pour remarquer la backdoor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the backdoor's installer scored an Excellent Success on their Programming Test, this Infosec Test suffers a –30 modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'installeur de la backdoor a obtenu une Réussite Exceptionnelle sur leur test de Programmation, ce test d'Infosec subit un modificateur de -30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Crashing Software}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Planter des Logiciels}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Intruders can attempt to crash software programs by killing the processes that run them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le sintrus peuvent tenter de planter un logiciel en terminant les processuss qui les exécutent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that some software is set to immediately respawn, but this can take from 1 Action turn to 1 minute, depending on the system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que certains logiciels sont configurés pour être relancés automatiquement, mais cela peut mettre entre 1 Tour d'Action et 1 minute, en fonction du système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hackers may crash AIs, AGIs, and even infomorphs this way, but the process is more difficult.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les hackeurs peuvent planter les IA, les IAG et même les infomorphs de cette manière, mais le mode opératoire est plus difficile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, an Opposed Infosec Test is made against the target, who is immediately aware they are under attack.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, un Test en Opposition d'Infosec est fait contre la cible, qui est immédiatement consciente de l'attaque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Two consecutive tests must succeed in order to crash an AI, three in order crash an AGI or infomorph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Deux tests consécutifs doivent réussir avant de planter une IA, trois pour planter une IAG ou une infomorph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If successful, the AI/infomorph immediately reboots, which generally takes 3 Action Turns, longer if the gamemaster chooses.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En cas de réussite, l'IA/infomorph redémarre immédiatement, ce qui prend générallement 3 Tours d'Action, plus si le maîþre de jeu le désire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Eliminating Intrusion Traces}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Supprimer les Traces d'Intrusion}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hackers who have avoided being Locked may attempt to clean up all traces of their intrusion before they exit a system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les hackeurs qui ont évité d'être Verrouillé peuvent tenter de nettoyer les traces de leur intrusion avant de quitter un système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This involves erasing incriminating data in the access and security logs, and otherwise hiding any evidence of system tampering.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela implique d'effacer les données incriminantes dans les logs d'accès et de sécurité, et de cacher les autres preuves de la compromission du système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This requires a Complex Action and an Infosec Test, or an Opposed Infosec Test if the system is actively monitored.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela nécessite une Action Complexe et un test d'Infosec, ou un Test en Opposition d'Infosec si le système est activement supervisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If successful the intruder has wiped anything that might be used to track them down later, such as mesh ID, etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le test réussit, l'intrus a effacé tout ce qui aurait pu être utilisé pourle pister plus tard, tels que les ID mesh et autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Hacking Vpn}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Pirater un VPN}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Virtual private networks (VPNs) are more challenging to hack than standard devices.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les réseaux privés virtuels (VPN) sont un peu plus complexe à pirater que les appareils standards.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Because they exist as an encrypted network within the mesh, accessing channels of communication within a VPN is all but impossible without the encryption key.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme ils existent en tant que réseaux chiffré à l'intérieur du mesh, accéder aux canaux de communication à l'intérieur d'un VPN est impossible sans la clef de chiffrement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This means any attempt to sniff the VPN traffic is also impossible without the key.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela veut dire que toute tentative d'écouter le traffic du VPN est également impossible sans la clef.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The only way to hack a VPN is to hack into a device that is part of the VPN and running the VPN software.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La seule façon de pirater un VPN est de pénétrer un apapreil qui fait parti du VPN et d'exécuter le logiciel de VPN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once an intruder has access to such a device, they can attempt to access the VPN.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois qu'un intrus à accès à un tel appareil, il peut tenter d'accéder au VPN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The account the hacker has compromised may have VPN privileges, in which case they are in.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le compte que le hackeur a compromis peut avoir des privilèges VN, ce qui signifie qu'ils ont pénétré le VPN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If not, they must hack access, requiring an Infosec Test with a Minor modifier (–10).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si ce n'est pas le cas, ils doivent pirater leur accès, ce qui nécessite un Test d'Infosec avec un modificateur Mineur (-10).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once access to the VPN is acquired, the hacker may treat the VPN like any other network.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>une fois que l'accès au VPn est acquis, le hackeur peut le considérer conmme n'importe quel autre réseau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They may hack other devices on the VPN, sniff VPN traffic, track other users on the VPN, research data hidden away on the VPN, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils peuvent pirater d'autres apapreil sur le VPN, éouter du traffic VPN, pister d'autres utilisateurs du VPN, rechercher des données dissimulées sur le VPN et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Scripting}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Scripter}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A script is a simple program—a batch of instructions— that a hacker can embed in a system to be executed at a later pre-scheduled time or upon a certain trigger event, even without the hacker being present.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un script est un progrmamme simple - une liste d'instruction - qu'un hackeur peur embarquer dans un système afin qu'il soit exécuter à un moment programmé ou selon certains conditions, sans même que le hackeur ne soit présent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When activated, the script will undertake a number of system operations limited by the abilities of the operating system and the access rights the hacker had when they implemented the script in the system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsqu'il est activé, le script va s'occuper d'un certain nombre d'opérations système limité par les possibilités du système d'exploitation et des droits d'accès que le hackeur avait lorsqu'il a implémenté le script dans le système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Scripts are</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les scripts sont</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>a great way for a hacker to subvert a system without necessarily being in danger when they do it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>une bonne manièr de subvertir un système sans être nécessairement en danger lorsqu'ils le font.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Scripts can be programmed on the fly or preprogrammed When composing the script, the character must detail what system operations the set will call for, in what order and at what times (or at what trigger steps).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les scripts peuvent être programmés à la volée ou préprogrammés. Lorsqu'un personnage écrit un script, il doit détailler quelles opérations système seront faites, dans quel ordre et à quel moment (ou ce qui déclenche le tout).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The script cannot contain more steps/tasks than the character's Programming skill $$ 10 (round down).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le script ne peut pas contenir plus d'étapes/de tâches que la compétence Programmation $$ 10 (arrondi à l'infoérieur) du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To program a script, the character must succeed in a Programming Test with a timeframe determined by the gamemaster.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour programmer un script, le personnage doit réussir un Test de Programmation avec un intervalle déterminé par le maître de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To load the script, the character must have successfully intruded in the system and must succeed in an Infosec Test (or an Opposed Infosec Test if the system is actively monitored).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour charger le script, le personnage doit s'être introduit avec succès dans le système et doit réussi un Test d'Infosec (ou un Test en Opposition d'Infosec si le système est activement supervisé).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If successful, the script is loaded into the system and will run as programmed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En cas de réussite, le script est chargé dans le système et s'exécutera de la manière dont il a été programmé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once the script is activated, it carries out the preprogrammed sequence of actions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois que le script a été activé, il décelnche la séquence d'action pré-programmée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The programmer's Infosec skill is used for any tests those actions call for.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La compétence Infosec du programmeur est utilisée pour tous les tests nécessaire à ces actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Inactivated scripts may be detected in a security audit, just like backdoors (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les scripts inactifs peuvent être détectés par un audit de sécurité, de la mrme manière que les backdoors (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Expample</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Exemple</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sarlo has infiltrated a security system and wants to arrange it so that a particular security sensor deactivates and a door unlocks at a set time, allowing his team to infiltrate a high-security area.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sarlo a infiltré un système de sécurité et veut le préparer pour qu'un capetur de sécurité particulier se désactive et qu'une porte se déverouille à une heure configuré, permettant à son équipe d'infiltrer une zone de haute-sécurité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>He creates a script that will activate at 2200 hours with the following steps:   At 2200 hours, disable security sensor  Then unlock door  At 2230 relock door  Then re-enable security sensor  Eliminate traces</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il crée un script qui s'activera à 22:00 avec les étapes suivantes:   À 22:00, désactivation du cpateur de sécurité  Puis déveouillage de la porte  À 22:30 réactivation du capteur de sécurité  Suppression des traces</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This script has 5 steps, which Sarlo can handle with his Programming skill of 70.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce script a 5 étapes, ce que Sarlo peut gérer avec sa compétence Programmation de 70.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sarlo succeeds in his Programming and Infosec Tests, and the script is loaded.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il réussit ses Tests de Programmation et d'Infosec, et le scrip est chargé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It will then activate at the appropriate time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il s'activera à l'heure appropriée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since Sarlo’s account did not have access rights to perform these actions, each will require an Infosec Test using Sarlo’s skill to succeed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Puisque le compte de Sarlo n'a pas les droits d'acès pour effectuer ces actions, chacune d'elle nécessitera un Test d'Infosec utilisant la compétence de Sarlo pour réussir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cyberbrain Hacking</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Piratage de Cybercerveau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pods and synthmorphs (including some bots and vehicles are equipped with cybernetic brains.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les pods et les synthmorphs (y compris certains véhicules) sont équipés de cerveaux cybernétiques).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While this technology allows a transhuman ego to sleeve into and control these forms, they carry the disadvantage of being vulnerable to hacking, like any other electronic device.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que cette technologie permet à un ego transhumain de s'incarner dans une de ces forme et de les contrôller, elle a l'inconvénient d'être vulnérable au piratage, comme tout autre appareil électronique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cyberbrains are not wireless-enabled for security reasons, but they do have access jacks (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les cybercerveau n'ont pas de connexion sans-fil pour dévidentes raisons de sécurité, mais ils ont des prises d'accès (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>306) and are directly linked to mesh inserts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>306) et sont directement connectés aux inserts de mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This means that in order to hack a cyberbrain, the hacker either must have direct physical access to the morph's body in order to jack in, or they must first hack into the mesh inserts and then break into the cyberbrain from there.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela veut dire que pour pirater un cybercerveau, le hackeur doit siot avoir un accès direct et physique à la morph afin de s'y brancher, ou il doit d'abord pirater l'insert de mesh puis pénétrer dans le cybercerveau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Due to their importance, cyberbrains are equipped with numerous hard-coded security features that make intrusion very difficult.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Enr aison de leur importance, les cybercerveaux sont équipés avec de nombreuses fonctionnalités de sécurité qui rendent le sintrusion trés difficile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Apply a –30 modifier to all attempts to hack into and subvert a cyberbrain.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appliquez un modificateur de -30 à toutes les tentatives de pénétrer et de subvertir un cybercerveau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(Note that the –30 modifier for hacking an admin account does not apply to cyberbrains.) Cyberbrains are treated just like other systems for intrusion and subversion purposes, but since they house the morph's controlling ego they present several unique hacking opportunities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>(Notez que le modificateur de -30 pour pirater un compte administrateur ne s'applique pas aux cybercerveaux). Les cybercerveaux sont traités comme tout les autres systèmes dans le cadre des intrusions et des subversions, mais puisqu'ils hébergent l'égo contrôllan la morph, ils présentent certains opportunités de hacking unique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Entrapment}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Enfermement}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An intruding character can attempt to lock in an ego, preventing it from evacuating the cyberbrain.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage intus peut tenter d'enfermer un ego, l'empéchant d'évacuer le cybercerveau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The hacker (with the –30 modifier noted above) must beat the defending character or muse in an Opposed Infosec Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le hackeur (avec le modificateur de -30 signalé au-dessus) doit battre le personnage défenseur ou sa muse dans un Test en Opposition d'Infosec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If successful, the ego is prevented from transferring itself to another system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En cas de réussite, l'égo est empécher de se transférer dans un autre système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To fully pen the ego in, the ego character and its protecting muse must also be locked out (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour bloquer complètement l'ego, le personnage de l'ego et sa muse doivent également être éjecté (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>257) from controlling the cyberbrain's system, otherwise the ego could potentially be freed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>257) du système de contrôle du cybercerveau, sinon l'ego peut potentiellemnet se libérer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Trapped egos are quite vulnerable.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les egoos piégés de la sorte sont relativement vulnérables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They could, for example, be subject to enforced uploading, enforced forking, or psychosurgery.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils peuvent, par exemple, être soumis à un upload forcé, à un fork forcé ou à de la psychochirurgie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Memory Hacking}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Piratage Mémoriel}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All cyberbrains incorporate mnemonic augmentation (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tous les cybercerveaux incluent l'augmentation mnémonique (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>307), or digitally recorded memories.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>307), ou des souvenirs enregistrés numériquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A hacker who has accessed the cyberbrain can read, alter, or delete these memories with a successful Research or Interfacing Test (the –30 modifier applies).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un hackeur qui a accès au cybercerveau peut lire, altérer ou efface ces souvenirs avec un Test de Recherche ou d'Interface réussit (le modificateur de -30 s'applique).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Puppeteering}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Marionnettes}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most cyberbrains also incorporate a puppet sock (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des cybercerveaux incluent un port marionnette (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>307), enabling remote users to take over the pod or synthmorph body and control it via teleoperation or jamming (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>307), permettant aux utilisateurs distant de prendre le contrôle du pod ou de la synthmorph et de le contrôller via téléoprétaion ou interception (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This allows a hacker to seize control of the body and manipulate it remotely.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela permet au hackeur de prendre le contrôle du corp et de le manipuler à distance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To do so, the hacker must take a Complex Action and beat the defending character or muse in an Opposed Infosec Test; the hacker suffers the –30 modifier noted above.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour y parvenir, le hackeur doit prendre une Action Complexe et battre le personnage en défense dans un Test en Opposition d'Infosec; le hacker subit le modificateur de -30 noté plus haut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A defender who is not locked out may continue to fight for control of the morph, using a Complex Action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un défenseur qui n'est pas éjecté put continuer à se battre pour le contrôle de la morph en utilisant une Action Complexe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, another Opposed Infosec Test is called for.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, il faut effectuer un autre Test en Opposition d 'Infosec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This can result in a situation where the morph repeatedly slips control from the hacker to the defender, or perhaps slips into a catatonic state as the two sides battle it out.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela peut amener à des situations où la morph passe en permanence du contrôle du hacker et du défenseur, ou sombre peut-être dans un état catatonique alors que les deux parties s'affrontent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Scorching}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Écorcher}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Having direct access to a cyberbrain opens the possibility for certain kinds of attacks that are normally infeasible due to the strict content filtering that occurs on the link between the cyberbrain and mesh inserts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Avoir un accès direct à un cybercerveau ouvre les possibilités d'un type d'attaque particulière qui sont normalement infaisable en raison du filtrage strict de contenu qui intervient entre l'insert de mesh et le cybercerveau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>One of these possibilities is scorching—the use of damaging neurofeedback algorithms to harm the victim's mind.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'une de ces possibilités et l'écorcharge - l'utilisation d'algorithme de retour neural pour blesser l'esprit de la victime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In order to make a scorching attack, the cyberbrain intruder must deploy a scorch program. To utilize a scorch program, the intruder must beat the defending Ego in an Opposed Infosec Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Afin de réussir une attaque d'écorchage, l'intrus du cybercerveau doit déployer un programme écorcheur. Pour utiliser ce programme, il doit battre l'ego défenseur dans un Test en Opposition d'Infosec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The –30 modifier for cyberbrain hacking applies to the attacker.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le modificateur de -30 pour pirater un cybercerveau s'applique à l'attaquant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Several types of scorch programs exist, with different effects: cauterizers (damage), bedlams (stress),</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il xiste plusieurs type de programmes écorcheurs, chacun avec des effest différents: cautériseurs (dégats), asiles (stress),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>spasms (pain), nightmares (fear), and shutters (sensory deprivation).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>spasmes (douleurs), cauchemars (peur) et obturateur (privation sensorielle).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These are described on p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils sont décrit p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>332 of Gear.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>332 du chapitre Équipement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Shutdown}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Extinction}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a cyberbrain is shut down (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un cybercerveau est éteint (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>257), the morph immediately ceases activity, perhaps collapsing or rolling to a stop.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>257), la morph cesse immédiatement toute activité, s'effondrant ou roulant au sol éventuellement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pods will appear to be in a coma.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les pods donneront l'impression d'être dans le coma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ego, however, will be rebooted along with the cyberbrain.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'ego sera cependant redémarré en même temps que le cybercerveau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Terminate Cortical Stack Feed}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Interrompre l'Alimentation de la Pile Corticale}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The cyberbrain feeds backup data to the cortical stack.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le cybercerveau envoie des données à la pile corticale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is a one-way connection, so the cortical stack may not be hacked, but the transfer of data may be cut off.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est une connexion monodirectionnelle, la pile corticale ne peut donc aps être piratée, masi le transfert de donénes peut-être interrompu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This termination action requires an Opposed Infosec Test between the hacker (with the –30 modifier) and the defender.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette coupure nécessite un Test en Opposition d'Infosec entre le hackeur (avec le modificateur de -30) et le défenseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ego's backup will not be updated for as long as the connection remains off.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La sauvegarde de l'ego ne sera pas mise à jour tant que la connexion reste coupée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Radio Jamming</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Interception Radio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Radio jamming is a method of transmitting radio signals that deliberate interfere with other radio signals in order to disrupt communications.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'interception radio est une méthode de transmission de signax raido qui interfèrent délibéremment avec d'autres signaux radios afin de casser les communications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the highly-networked world of Eclipse Phase, intentional jamming is often illegal, not to mention rude.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans le monde hautement-connecté d'Eclipse Phase, l'interception intentionnelle est souvent illégal et impoli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Radio jamming does not require any special equipment other than a standard wireless device, such as an ecto or mesh inserts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>l'interception radio ne nécessite aucun équipement particulier en plus d'un appareil sans-fil standard, tel qu'un ecto ou un insert de mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jamming can be selective  or universal. Selective jamming targets a particular device or set of devices.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'interception peut être sélective ou universelle. L'interception sélective cible un apapreil aprticulier ou un ensemble d'appareil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In order to selectively jam, the character must have scanned the target device(s) (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour intercepter de manière sélective, le pesonnage doit avoir annalysé la cible (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Universal devices target all radio-equipped devices indiscriminately.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'interception unviverselle cible tous les apapreils équipés d'émetteurs sans-fil de manière indifférente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jamming simply requires a Complex Action and an Interfacing Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Intercepter nécessite juste une Action Complexe et un Test d'Interface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If successful, affected devices within range have their radio communications disrupted— they are cut off from the mesh and may not communicate wirelessly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En cas de réussite, l'appareil affecté et à porté voit ses communications radio interrompues - ils sont coupés du mesh et ne peuvent plus communicquer sans-fil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wired devices are unaffected.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les appareisl filaires ne sont aps affectés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Devices equipped by AIs will automatically attempt to overcome jamming, which requires a Complex Action (transhuman users may also do the same).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les apapreils équipoés d'IA tenteront automatiquement de vaincre l'interception, ce qui nécessite une Action Complexe (les utilisateurs transhumains peuvent faire de même).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, a Variable Opposed Test is made between the jammer and defender.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ces cas un test en Oppositin Variable est fait entre l'intercepteur et le défenseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the jammer wins, all communications are blocked; if the defender wins, they are unaffected.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'intercepteur l'emporte, toutes les communications sont bloquées; si le défenseur l'emporte il reste non-affecté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If both parties succeed, the defender's communications are impacted but not completely cut off.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si les deux parties l'emporte, les communications du défenseur sont impactées masi pas complètement coupées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster decides how much information the defender can get through, and how this situation affects mesh use.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>le maîþre de jeu décide de la quantité d'information le défenseur peut faire apsser, et comment cela affecte l'utilisation du mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Jamming Radar}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Interception Radar}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jamming can also be used to interfere with radar.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'interception peut également être utilisée pour interférer avec le radar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, if the jammer makes an Interface Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, l'intercepteur fait un Test d'Interface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If successful, the radar suffers interference, imposing a –30 modifier on all sensor-related tests.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En cas de réussite, le radar dubit des interférences, imposant un modificateur de -30 sur tous les tests basés sur le capteur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The entity operating the radar may attempt to overcome this interference by beating the jammer in an Opposed Interface Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'entité opérant le radar peut tenter de vaincre ces interférences en battant l'intercepteur dans un Test en Opposition d'Interface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Simulspaces are virtual reality environments where the resolution advances beyond realistic high definition and into the hyper-real.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les simulsapces sont des environnements de réalité virtuels dans lesquels la résolution est au-delaà de la haute-définition réalistique et va vers l'hyper-réel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The environments they create are comprehensive and authentic illusions, from aspects like lighting, day or lunar cycles, and weather down to minute details and sensations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les environnements qu'ils créent sont des illusions complètes et authentique, depuis les aspects telles que l'éclairage, le cycles du jour et de la nuit et de la méto aux détails les plus minutieux en passant par les sensations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jacking into a simulspace is much like crossing over into a alternate world or reality, which is why simulspaces have become increasingly popular in entertainment.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Se brancher dans un simulspace est à peu près comme entrer dans une raléita ou un monde alternatif, ce qui est la raison pour laquelle els simulsapces sont devenus un divertissement incroyablement populaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While simulspaces usually cannot harm characters immersed in them as the sensory algorithms are not intended to be offensive programs or routines, experiences in simulspaces can have a strong psychological impact on an ego, as the simulation is as close to reality as you can get.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que les simulspaces ne peuvent normalement pas blesser les personnages qui s'y immergent, les algorithmes sensoriels ne sont pas conçus pour être des programmes d'attaque, les exépriences dans les simulspaces peuvent avoir un impact psychologique fort sur un ego la simulation étant aussi proche de la réalité que possible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character who is ``physically'' tortured within a simulspace will not be physically harmed, but the mental stress of the experience might still be sufficient to cause permanent traumas.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage qui est &quot;physiquement&quot; torturé dans un simulspace ne sera pas physiquement blessé, mais le stress mental de l'expérience pourra toujours être suffisant pour causer des traumas permanents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters access simulspace using an avatar-like persona called a simulmorph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnage accèdent à un simulspace en utilisant un avatar appelé une simulmorph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This simulmorph is created by the simulspace, based on the domain rules of the simulation and certain characteristics of the morph or ego accessing the simulation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette simulmorph est créée par le simulspaec, en se basant sur les règles de domain de la simulation et sur certaiens caractéristiques de la morph ou de l'ego accédant àc ette simulation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending on the simulation, this simulmorph may be customizable to varying degrees.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fonction de la simulation, cette simulmorph peut être personnalisée à différents degrés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While interacting with the simulation, treat simulmorphs as basic infomorphs for all rules purposes, even if the egos are still possessing another morph body in reality.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En interagissant avec la simulation, considérer la simulmorph comem une infomorph basique pour toutes les probélmatiques de règle, même si l'ego possède toujours une autre morph dans la réalité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When accessing a simulspace, muses are usually not transferred into the simulation, though they can potentially come along if domain rules permit it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsqu'il accède à un simulspace, les muses ne sont habituellement pas transferrés dans la simulation,bien qu'elles puissent accompagner un personnage si les règles de domaine l'autorise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, muses are treated as separate characters within the simulspace with their own simulmorph body.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, les muses sotn considérés comme des personnages sdifférent dans le simulspace, avec leur propre simulmorph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending on the role a simulspace is intended to play in the story, the gamemaster may want to invent physical stats'' for the simulmorph bodies, especially if the characters are likely to spend a lot of time in the simulation These statistics can literally be made up—it is a virtual reality after all, and anything goes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fonction du rôle du simulspace dans l'histoire, le maîþre de jeu peut vouloir inventer des stats physiques pour les corps simulmorphs, particulièrement si les personnages vont apsser beaucoup de temps dans la simulation. Ces stats peuvent littéralement être inventée - il s'agît d'une réalité virtuelle après tout, et tout va avec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alternately, the gamemaster can simply wing it and invent any necessary statistics on the fly as the need for them comes up.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière alternative, le maître de jeu peut simplement improviser et inventer toute les statistique nécessaire à la volée au fur et à mesure que le besoin se fait sentir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When a character immerses themselves in a simulspace, they ``become'' the simulmorph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsqu'un personnage s'immerge dans un simulspace, il &quot;devient&quot; la simulmorph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character's physical body, typically secluded and protected in a vat or couch, slumps inertly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le corps physique du personnage, généralement enfermé et protégé dans une cuve ou sur un canapé, demeure inerte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While immersed, they suffer –60 on all Perception Tests or attempts to take action with their physical morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pendant qu'il est immergé, il subit un modificateur de -60 à tous les Test de Perception ou à toute tentative d'agir avec sa morph physique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters can enter and leave the simulspace as will, but toggling in or out takes a Complex Action.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages peuvent entrer et quitter le simulspace à volonté, mais basculer entre dedans et dehors nécessite une Action Complexe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the simulspace crashes or the character is otherwise dumped from it, they immediately resume control of their own morph as normal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le simulspace plante ou que le personnage est éjecté d'une manière ou d'une autre, il reprend immédiatement le contrôle de sa propre morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>VR dumpshock is extremely jarring, and the character suffers 1d10 $$ 2 mental stress.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les chocs d'éjection RV sont extrêmement discordant, et le personnage souffre d'1d10 $u0&gt;$ 2 de stress mental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{External Mesh Interaction}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Interaction Extérieure vers le Mesh}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character accessing a simulspace may still interact with the mesh (and through it, the outside world) assuming the domain rules allow for it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage accédant un simulspace peut toujours nteragir avec le mesh (et à travers lui, avec el monde extérieur) du moment que les règles du domaines l'autorise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any outside interactions are subject to time dilation issues, however For example, in a simulspace running faster than real time, holding a chat with someone in outside meatspace is excruciatingly slow, as real-world seconds translate into minutes in VR.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toute interaction extérieure est cependant sujette à des problèmes de dilatation temporelle. Par exemple, dans un simulsapce s'exécutant plus rapidment que le temps réel, avoir une discussion vers le monde de la viande à l'extérieur est atrocement lent, les secondes dans le monde réel correspondant à plusieurs minutes en RV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a character wishes to directly access other mesh nodes, they must toggle or log out of the simulspace.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Siun personnage souahite accéder directement dautre nœud meshé, il doit basculer ou se déocnnecter du simulspace.</seg>
       </tuv>
     </tu>
     <tu>
