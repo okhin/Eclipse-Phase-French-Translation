@@ -73121,7 +73121,7 @@
         <seg>He creates a script that will activate at 2200 hours with the following steps:   At 2200 hours, disable security sensor  Then unlock door  At 2230 relock door  Then re-enable security sensor  Eliminate traces</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Il crée un script qui s'activera à 22:00 avec les étapes suivantes:   À 22:00, désactivation du cpateur de sécurité  Puis déveouillage de la porte  À 22:30 réactivation du capteur de sécurité  Suppression des traces</seg>
+        <seg>Il crée un script qui s'activera à 22:00 avec les étapes suivantes:   À 22:00, désactivation du cpateur de sécurité  Puis déverouillage de la porte  À 22:30 réactivation du capteur de sécurité  Puis réactivation du capteur de sécurité  Suppression des traces</seg>
       </tuv>
     </tu>
     <tu>
@@ -73849,7 +73849,7 @@
         <seg>VR dumpshock is extremely jarring, and the character suffers 1d10 $$ 2 mental stress.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Les chocs d'éjection RV sont extrêmement discordant, et le personnage souffre d'1d10 $u0&gt;$ 2 de stress mental.</seg>
+        <seg>Les chocs d'éjection RV sont extrêmement discordant, et le personnage souffre d'1d10 $$ 2 de stress mental.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73881,7 +73881,911 @@
         <seg>If a character wishes to directly access other mesh nodes, they must toggle or log out of the simulspace.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Siun personnage souahite accéder directement dautre nœud meshé, il doit basculer ou se déocnnecter du simulspace.</seg>
+        <seg>Si un personnage souahite accéder directement dautre nœud meshé, il doit basculer ou se déocnnecter du simulspace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Simulspace Rules}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Règles des Simulspaces}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since a simulspace is an alternate world whose realism matches reality, characters use their physical skills and aptitudes as if they were acting in the real world with few exceptions:   Though intrusion and hacking can be represented as another layer of the simulation, there is no actual hacking within the simulspace (see Hacking Simulspaces).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Étant donné qu'un simulspace est un monde alternatif dont le réalisme correspond à la réalité, les pesonnages y utilisent leurs compétences et aptitudes physique comme si ils agissaient dans le monde réel, à l'exception de quelques cas précis:   Même si l'intrusion et le piratage peuvent être représentée comme un autre niveau de simulation, il n'y a pas de piratage réel depuis l'intérieur du simulspace (voir Pirater les SImulspaces).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Asyncs cannot use their psi abilities in simulspace, though such abilities can be simulated.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les asyncs ne peuvent utiliser leurs capacités psi dans un simulspaces, bien que de telles capacités peuvent être simulées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any ``physical'' damage taken in the simulspace is treated as ``virtual'' damage.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tous les dégâts &quot;physique&quot; subit dans le simulspace sont considérés comme des dégâts &quot;virtuels&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While virtual injuries and wounds use the same mechanics, characters that die in a simulspace are usually simply ejected from the simulation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que les blessures virtuelles utilise les même mécanisme que dans le monde réel, les personnages qui meurent dans un simulspace sont généralement simplement éjectés de la simulation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In some cases ``dead'' characters are brought into a white room and can re-enter or just watch the simulation, depending on the domain rules.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans certains cas, les personnages &quot;morts&quot; sotn ramenés dans une salle blanche et peuvent revenir ou juste regarder la simulation, en focntion des règles du domaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mental stress or trauma inflicted during a simulation carries over to the ego as real Lucidity damage.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le stress mental ou les trauma subit pendant une simulation suivent l'ego et comtent comme des dégats de Lucidité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the gamemaster's discretion, some mental stress may be reduced if the character is aware that they are in a simulation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À la discrétion du maître de jeu, une partie du stress mental peut-être réduit si le personnage est conscient d'être dans une simulation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Domain Rules}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Règles de Domaine}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Anything goes in a simulspace, as dictated by the domain rules.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout ce qui se passe dans un simulspace obéit aux règles du domaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A simulspace may range from approximating reality very closely to differing drastically Gravity might fluctuate, the visual light spectrum might not exist, characters might heal virtual damage effortlessly, simulmorphs may be capable of transmogrifying into other creatures, everything might be underwater—the possibilities are endless, limited only by imagination.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un simulspace peut être une approximation trés fidèle de la réalité ou quelque chose de rsatiquement différent. La gravité peut fluctuer, le spectre de lumière visible pourraity ne pas exister, les personnages pourraient soigner les dégâts virtuels sans effort, les simulmorphs pourraient être capable de se métamorphoser en d'autres créatures, tout pourrait être sous l'eau - les possibilités sont sans-fin, la seule limite est l'imagination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In game terms, this allows the gamemaster to make up rules on the fly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En terme de jeu, cela peremt au maître de jeu d'inventer ds règles à la volée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Cheating}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Tricher}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As with any good game, simulspaces provide ways to cheat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme dans n'importe quel bon jeu, les simulspaces fournissent différentes manière de tricher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cheats are either built into the simulspace software or (externally) programmed in by a hacker.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La triche est soit construite dans le logiciel du simulspace ou progrémmé (depuis l'extérieur) par un hackeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cheats allow for a character to break the domain rules in some way.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La triche eprmet à un personnage de s'affranchir des règles du domaine d'une manière ou d'une autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This may be a special power, a way to alter some environmental factor (like flying), altering the time dilation, some sort of power-up ability, a way to get info on other simulmorphs, or a short-cut through part of the simulation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il peut s'agir d'un pouvoir spécial, d'une façon de modifier certains facteurs environnementaux (comme le fait de pouvoir voler), de modifier la dilatation temporelle, un type de power-up, une façon d'obtenir des infoss ur les autres simulmorph ou un raccourci à traverrs une partie de la simulation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In game terms, cheats might provide bonus modifiers to certain skill or stat tests made by a simulmorph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En terme de jeu, la triche peut fournir des modificateur de bonus à certains test de compétences ou de stats fait par une simulmorph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cheating is usually forbidden Players who cheat in a simulspace game and who get caught may face eviction from the simulspace.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tricher est généralement interdit. Les joueurs qui trichent dans un simulsapce de jeu et qui se font prendre seront généralement évincés du simulspace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Hacking Simulspaces}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Pirater les Simulspaces}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since simulspaces are complex virtual environments and often run on time dilation, hackers cannot hack them in a normal manner when they participate in the simulation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les simulspaces étant des environnements virtuels complexe et qu'ils fonctionnent souvent sur une dilatation temporelle, les hackeurs ne peuvent pas les pirater de manière normale lorsqu'ils participent à la simulation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are ways to affect and influence the simulation from within, but the degree of subversion that is achievable is limited.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a plsuierus façon d'affecter et d'influencer la simulation de l'intérieur, mais le degré de subversion possible est relativement limité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For this reason, hackers rarely enter into VR to hack.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour cette raison, les hackeurs ne passent que rarement en RV pour pirater.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hacking into the external system running a simulspace is just like breaking into any other system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pirater le système externe qui héberge le simulspace est la même chose que pirater n'importe quel autre système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Use all of the standard rules for intrusion and subversion.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Utilisez toutes les règles standard pour l'intrusion et la subversion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hacking Simulspace From Within Modifier Task </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Modificateur de Piratage de Simulspace de l'Intérieur </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Analyze simulation parameters, view domain rules, shape appearance of simulmorph, switch simulmorph character or morph type </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Analyser les paramètres de la simulation, voir les règles de domaine, modifier l'apparence d'une simulmorph, changer le type de personnage ou de morph d'une simulmorph</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Change probability of test outcomes, become invisible (“out-game”) to others </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Modifier la probabilité des tests, devenir invisible (&quot;hors-jeu&quot;) aux autres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Interfere with simulation (e.g. make it rain, generate earthquakes), generate items, ignore domain rules, kill or lockout other simulmorphs </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>interférer avec la simulation (par ex.: faire pleuvoir, générer des tremblements de terre), générer des objets, ignorer les règles de domaine, tuer ou verrouiller d'autres simulmorph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Go into god mode, command simulated characters, take over the simulation </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Entrer en mode dieu, piloter els personnages simulés, prendre le contrôle de la simulation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Meddling From The Inside}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Ingérence Interne}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Within a simulspace, a hacker's only choice for interacting with the VR controls is through the standard interface that any simulmorph can pull up.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans un simulspace, le seul choix possible pour un hackeur pour s'interfacer avec les contrôle RV, est de passer par les interfaces standard que toutes les simulmorphs peuvent fournir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Typically used for standard user features like adjusting your simulmorph or chatting with or checking the status</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Générallement utilisée pour les fonctionnalités standards comem le paramètrage de la simulmorph, la discussion ou la vérification de l'état </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>of other users, a clever hacker might find some ways to subvert the system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>d'autres utilisateurs, un hackeur intelligent peut trouver différentes façon de subvertir le système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Such options are usually limited however, as a number of system controls and processes cannot be accessed and manipulated from the inside.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De telles options sont cependant limitée, de nombreux systèmes et de processuss de contrôles ne peuvent être accédés et manipulés depuis l'extérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most of the hacker's options are going to involve meddling with the simulation and its specific domain rules or possibly gaining access to cheats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des options du hackeur vont impliquer de se méler de la simulation et des ses règles de domaines spécifiques ou de gagner l'accès à la triche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To make a change requires a successful Interface Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Effectuer un changement nécessite de réussir un Test d'Interface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ultimately the gamemaster decides what the hacker can and cannot get away with, based on the limitations of that particular simulspace.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au final, le maître de jeu décide de ce que peut faire le hackeur, en se basant sur les limitations de ce simulspace particulier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most simulspaces are monitored to prevent cheating and abuse, though the monitors are typically preoccupied with maintaining the simulspace as a whole, dealing with other users, etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des simulspaces sont supervisé pour détecter la triche et les abus, et les superviseurs sont générallement préoccupés par le maintien du simulspace en fonctionnement, de s'occuper des problèmes des utilisateurs, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the gamemaster's discretion, such a monitor might get to make an Interface Test (possibly with a modifier for distraction) to notice the hacker's efforts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À la discrétion du maître de jey, un supervisuer peut tenter un Test d'Interface (probablement avec des modificateurs pour la distraction) pour remarquer les efforts du hackeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI And Muses</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>IA et Muses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AIs are sentient but specialized programs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les IA sont des programmes conscients mais spécialisés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Like other software, they must be run on a computerized system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme les autres logiciels, ils doivent être lancés sur un système informatisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most AIs are run on bots, vehicles, and other computerized devices where they can assist transhuman users or operate the machine themselves.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des IA sont lancés dans des bots, des véhciules et d'autres appareils infomrtisés où elles peuvent assister les utilisateurs transhumains ou manipuler la machine elles-même.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are also commonly used to actively monitor computer systems against intrusion attempts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elles sont également fréquemment utilisées pour superviser activement les systèmes informatiques contre els tentatives d'intrusions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Muses are AIs that specialize as personal companions, always at a character's virtual side every since they were a child.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les muses sont des IA spécialisée dans l'accompagnement personnel, elles sont virtuellement au côté de l'utilisateur depusi son enfance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sample AIs and muses can be found on p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des exempels de muses et d'IA peuvent être trouvés à la p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>331 of Gear.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>331 de Équipement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{AI Limitations}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Limitations des IA}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AIs feature a number of built-in restrictions and limitations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les IA ont certaines limitations et restrictions internes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To start with, they can be loaded in the cyberbrains of pods and synthmorphs, but they may not be downloaded into biomorph brains.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour commencer, elle peuvent être chargée dans des les cybercerveau des pods et des synthmorphs, mais elles ne peuvent être téléchargées dans les cerveaux des biomorphs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As software, they use the same rules as other software and may be shut down, restarted, copied, erased, stored as inert data, infected with virii, and reprogrammed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En tant que logiciel, elles utilisent les mêmes règles que le reste des logiciels et peuvent être éteinte, redémarrées, copiées, effacées, stockées comme donnée inerte, infectées avec des virus et reprogrammées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Due to their size and complexity, only one AI (or infomorph) may be run on a personal computer at a time (see Computer Capabilities, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En raison de leur taille et de leur complexité, une seule IA (ou infomorph) ne peut être démarrée sur un ordinateur personnel à un moment donnée (voir Capacité des Ordinateurs, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>247), and they may not run on peripheral devices.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>247) et elle ne peuvent s'exécuter sur les périphériques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While they possess cognition and intelligence, they are incapable of self-improvement and cannot expand their programming and skills on their own.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien qu'elles possèdent des fonctions cognitives et une intelligence, elles ne peuvent s'auto-améliorer et ne peuvent étendre  leurs capacités de programmation de leur propre chef.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Although they are not able to learn they do possess memory storage that grants them the ability to remember and a limited form of adaptation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien qu'elles ne soient pas capable d'apprendre, elels possèdent un stockage mémoirel qui leur permet de se souvenir et d'avoir une forme limitée d'adaptation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AIs do not earn Rez Points, nor do they have Moxie.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les IA ne gagnent pas de Points de Rez, ni de Moxie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AIs have aptitudes no greater than 20 but are incapable of defaulting.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les IA n'ont aucune aptitude au-delà de 20 et ne peuvent pas défausser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If they don't possess a skill, they don't know how to do it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si elles ne possèdent pas une comptence, elles ne savent pas comment l'utiliser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(At the gamemaster's discretion, they may default to field skills or similar skills as noted on p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>(À la discrétion du maître de jeu, elles peuvent défausser vers des compétences de domaine ou des compétences similaires tel que noté p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>173 with a –10 to –30 modifier).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>173 avec un modificateur de -10 ou -30).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They can use skills like any character in Eclipse Phase, however they may not possess any Active skill at a rating higher than 40 or Knowledge skill higher than 90—the maximum amount of expertise that their skill software allows.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elles peuvent utiliser les compétences comme n'importe quel personnage à Eclipse Phase, même si elles ne peuvent avoir aucune compétence Active avec un niveau supérieur à 40, ni de compétences de Connaissances ayant un niveau supérieur à 90 - le niveau maximal d'expertise autorisé par leurs logiciels de compétences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While AIs are programmed with personality templates and empathy, they are generally less emotive and difficult to read (apply a –30 modifier to Kinesics Test made against them, when in pod bodies).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même si les IA sont programmées avec des motifs de personnalités et d'empathie, elles sont générallement moins émotives et plus difficile à percer (ajouter un modificateur de -30 aux test de Kinésiques fait contre elles, lorsqu'elles sont dans des pods).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When combined with non-expressive synthetic morphs, they are even more difficult (–60 modifier).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si elles sont combinées avec des morphs synthétiques non-expressive, elles sont encvore plsu dures à mettre à jour (modificateur de -60).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some AIs lack emotive capabilities altogether and are impossible to read with Kinesics skill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains IA n'ont même pas de capacités émotionnelle et ne peuvent être lue par la compétence Kinésique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AIs do have a Lucidity and Trauma Threshold stat, and are capable of suffering mental stress and traumas.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les IA ont une stat de Lucidité et un Seuil de Trauma, et elles sont capable de souffrir de stress mental et de traumas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Commanding AI}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Commander une IA}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AIs and muses are programmed to accept commands from authorized users.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les IA et les muses sont programmée pour accepeter les commandes des utilisateurs autorisés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In some circumstances, they may also be programmed to follow the law or some ethical code.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans certaines circonstances, elle peuvent aussi être programmées pour respecter la loi ou un code éthique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Programming is never perfect, however, and AIs can be quite clever in how they interpret commands and act on them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La programmation n'est cependant jamais parfaite, et les IA peuvent être plus ou moins intelligente dans leur interprétation des ordres et des actiosn qu'elles entreprennent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In most cases, an AI will rarely refuse to follow a request or obey a command.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans la plupart des cas, les IA refuseront rarement de suivre une requète ou d'obéir à un ordre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Given that they also usually have a duty to protect the person commanding them, the AI may be reluctant to follow commands that could be construed as dangerous or having a negative impact on the user.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Étant donné le fait que les IA ont pour devoir de protéger les personnes qui leur donnent des ordres, l'IA peut être rétiscente à suivre certains ordres qui pourraient être considérés comme dangereux ou ayant un impact négatif sur l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Under certain circumstances, preprogrammed imperatives can force an AI to ignore or disobey their owner's commands (gamemaster's discretion).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sous certaines conditions, des impératifs préprogrammés peuvent forcer une IA à ignorer ou à désobéir aux commandes de leur propriétaires (à la discrétion du maître de jeu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AGI And Infomorphs</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>IAG et Infomorphs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The term ``infomorph'' is used to refer to any ego in digital body, whether that be an AGI or the digital emulation of a biological mind (including backups and forks).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le terme &quot;infomorph&quot; est utilisé pour faire référence à un ego dans un corps digital, qu'il s'agisse d'une IAG ou de l'émulation numérique d'un esprit bilogique (incluant les sauvegardes et les forks).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The following rules apply to infomorph and AGI characters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les règles suivantes s'appliquent aux personnages infomorph et IAG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ROLEPLAYING MUSES</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>INTERPRÉTER LES MUSES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Muses should not be viewed as a mere tool for getting extra skills, but as an opportunity to enhance roleplaying.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les muses ne devraient pas être considérés comme un simple outil permettant d'obtnir des compétences supplémentaire, mais comme uen opporunité d'améliorer l'interprétation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though typical muse AIs are not complete intelligences (though they can be, see Infomorphs as Muses), their personality matrix is often quite sophisticated and they are very good at adapting to their user’s personality quirks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bieen que les IA muses typique ne soient pas des intelligences complètes (même si elles peuvent l'être, voir Infomorphs et Muses), leur matrice de personnalité est souvent relativement sophistiquées et elles sont trés bonne pour s'adapter aux tics de personnalités de leur utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On the other hand, they share the same Real World Naiveté (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'un autre côté, elles ont le même trait NaÏveté du Monde Réel (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>151) as AGI characters when it comes to understanding all the facets of transhuman behavior, social interaction, body language, or emotion.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>151) que les personnages IAG lorsqu'il s'agît de comprendre les facettes du comportement transhumain, des interactiosn sociales, du language corporel ou des émotions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their personalities are more non-human, abstract, alien, and less passionate than transhuman life forms, often leading to conceptual misunderstandings and miscommunications.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Leurs personnalités sont plus non-humaines, abstraites, étrangères et moins passionées que les formes de vie transhumaine, amenant souvent à des incompréhension conceptuels et à des problèms de communications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, their creative capacities are limited, instead bolstered by an ability to calculate odds, run simulations and evaluate outcomes, and make predictions based on previous experiences.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, leurs capacités créatives sont limitées, remplacées par un renforcement des capaciét à calculer les probabilités, à exécuter des simulations, à prévoir les issues et à faire des prévisons bases sur les expériences passées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending on the user’s stance towards sentient programs, muses can be viewed as intelligent toys, followers, servants, slaves, friends, or pets, which should somehow be reflected in game play.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fonction de la posture de leur utilisateur vis à vis des porgrammes conscient, les muses peuvent être perçues comme des jouets intelligents, des suiveurs, des serviteurs, des escalves, des amis ou ds animaux, perception qui devrait être reflétées en jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most transhumans have also acquired a tendency to bond with a muse mentally due to its omnipresence and devotion to the user (like bonding to a child or puppy that then grows to be an adult).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des transhumains ont également acquis une tendence à se lier mentalement avec une muse en raison de son omniprésence et de sa dévotion à l'utilisateur (un peu comme se lier à un enfant ou à un chiot qui se développe ensuite en adulte).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Therefore the subversion or even destruction of a muse personality is sometimes even equated with rape or murder.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La subversion et même la destruction de la personnalité d'une muse est donc parfois conséidérés comem un viol ou un meurtre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Software Minds}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Esprits Logiciels}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At their core, infomorphs are just programs and so they are treated like other software in terms of rules.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À leur cœur, les infomrophs ne sont que des programmes et elles sont donc considérés en tant que tel d'un point de vue règle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They must be run on a specific personal computer or server (see Computer Capabilities, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ellkes doivent s'exécuter sur un ordinateur personnel dédié ou sur un serveur (voir Capacités des Ordinateurs, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If that device is shut down, the infomorph also shuts down into a state of unconsciousness, restarting along with the device (infomorphs may also shut themselves down, though it is rare that they do so).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si cet appareil est éteint, l'infomorph est également éteinte et mise dans un état d'inconscience, redémarrant en même temps que l'appareil (les infomorphs peuvent également s'éteindre elle-même , bien que ce soit relativement rare).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the device is destroyed, the infomorph is killed along with it (unless their data can somehow be extracted from any surviving components, perhaps resulting in a vapor, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'appareil est détruit, l'infomorph est tuée en même temps que l'appareil (sauf si ses données peuvent être extraite d'une manière ou d'une autre depuis les composant ayant survécu, peut-être résultant en une vapeur, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Infomorphs may copy themselves, though in some places this is illegal and in most places is frowned upon as it raises numerous ethical and legal questions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les infomorphs peuvent se copier elles-même, même si c'est illégal dans certains endroits et que cela est considéré comme louche dans partout car cela soulève des problèmes légaux et éthique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For this reason many infomorphs that copy and transfer themself to run on a new device will thoroughly erase themselves off the old one.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour cette raison, le plupart des infomorphs qui se copient ou qui se transfèrent pour s'exécuter sur un nouvel appareil s'effaceront d'elle-mêmem de l'ancien appareil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As digital beings, infomorphs have no physical mind, but it is a simple matter for them to possess an uninhabited synthmorph, taking up residence in the cyberbrain (see Resleeving Synthmorphs, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En tant qu'être numérique, les infomorphs n'ont pas d'esprit physique, mais il est trivila pour elles de posséder une synthmorph inhabitée, s'établissant dans un cybercerveau (voir Se Réincarner en Synthmorphs, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They may also download into biomorph bodies according to standard resleeving rules (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elles peuvent aussi se télécharger dans une biomorphs en suivant les règles de réincarnation standard (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even when disembodied, they may interact with the physical world via the mesh, viewing through sensors, streaming XP feeds, communicating with characters, commanding slaved devices, and teleoperating/jamming drones.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même lorsqu'elles sont désincarnés, elle peuvtn interagir avec le monde physique via le mesh, regardant au-travers de capteurs, visionnant les flux XP, communiquant avec les personnages, commandant des apapreils asservis et téél-opérant/interceptant des drônes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Infomorphs have a Speed of 3, reflecting their digital nature and their ability to act at electronic speeds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les infomorphs ont une Vitesse de 3, reflétant leur nature numérique et leur capacité à agir à la vitesse de l'électronique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If an infomorph sleeves into a body, however, it takes on the Speed of that morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, si une infomorph s'incarne dans un corps elle prend sa Vitesse de cette morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>INFOMORPHS AS MUSES</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>INFORMOPHS EN TANT QUE MUSES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Instead of relying on underdeveloped muses for aid and companionship, characters may prefer to have a full-fledged digital intelligence at their side, whether that be an AGI, a backed-up biological ego, or fork of the character’s own personality.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au lieu de se reposer sur des muses sous-développée poru l'assistance et la compagnie, les personnages peuvent préférer avoir une intelligence numérique complète à leur côté, qu'il s'agisse d'une IAG, d'un ego biologique et sauvegardé ou d'un fork de la propre personnalité du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alternately, a character with a ghostrider module (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alternativement, un personnage avec un module ghostrider (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>307) could have both, carrying a muse in their mesh inserts and an infomorph in the ghostrider module.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>307) peut avoir les deux, portant une muse dans son insert de mesh et une infomorph dans le module ghostrider.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This possibility is very useful for infomorph player characters, as they can ride along in someone’s head and participate in team affairs without needing a morph of their own.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette possibilité est très utile pour les personnages joueurs infomorphs, leur permettant de voyager dans la tête de quelqu'un et de participer aux affaires de l'équipe sans avoir une morph à eux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{AGI Characters}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Personnages IAG}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though AGIs were not born in a biological body, their programming encompasses the full spectrum of human personality, outlook, emotions, and mental states.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que les IAG ne soient pas nées dans un corps biologique, leur programmation embrasse tout le spectre de la personnalité, des comportements, des émotions et des états mentaux humains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AGIs are in fact raised in a manner similar to human children so that they are socialized much like humans are.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les IAG sont en fait élevées de manière similaire aux enfants humains afin qu'elles soient socialisées à peu près de la même façon que les humains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nevertheless, on a fundamental level they are non-humans programmed to act human.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nénamoins, à un niveau plus fondamental, ce sont des non-humains programmés pour agir humainement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are inevitably points where the programming does not mask or alter the fact that AGIs often possess or develop personality traits and idiosyncrasies that are quite different from human norms and often outright alien.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a inévitablement des points où la programmation ne masque pas, ou altère, le fait que les IAG possèdent ou développent souvent des traits de personnalités et des idiosyncrasismes qui sont quelque peu différent des normes humaines et parfois complètement étrangers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unlike standard crippled AIs, AGIs are capable of full-fledged creativity, learning, and self-improvement (at a slow but steady pace equivalent to humans).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Contrairement au IA standard et limitée, les IAG sont capable de créativité complète, d'apprendre et de s'auto-améliorer (à un rythme lent mais constant et équiavlent aux rythmes d'apprentissages humains).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Just like other characters, they earn Rez points and may improve their skills and capabilities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme tous les autres personnages, les IAG gagnent des Points de Rez et peuvent améliorer leurs compétences et possibilités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AGIs suffer none of the skill limitations placed on weak AIs, using skills just like any other character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les IAG ne subissent aucune des limitations de compétences plcées sur les IA faibles, utilisant leurs compétences comme tous les autres personnages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On an emotional level, AGIs run emotional subroutines that are comparable to biological human emotions AGIs are, in fact, programmed to have empathy and share an interest in human affairs and prosperity, and to place significant relevance on life of all kinds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'un point de vue émotionnel, les IAG font tourner des sous-routines émotionnelles qui sont comparables aux émotions biologiques humaine. Les IAG sont, en fait, programmés pour avoir de l'empathie et pour partager des intérêts dans les affaires et le développement humain, et pour avoir un intérêt similaire pour la vie sous toute ses formes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In game terms, AGIs emote like humans (and so Kinesics may be used against them) and are vulnerable to emotionally manipulative effects, fear, etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En terme de jeu, les IAG expriment leurs émotions comme les humains (et la compétence Kinésique peut-être utilisée contre elles) et sont vulnérables aux effets manipulants les émotions, à la peur, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78554,6 +79458,14 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Rappelles-toi: la mort est juste la routine du boulot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Although –0</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De même –0</seg>
       </tuv>
     </tu>
     <tu>
