@@ -43342,6 +43342,3182 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Resleeving Synthmorphs}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Réincarnation dans des Synthmorphs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Resleeving into the cyberbrain of a synthmorph is much easier and quicker, being a matter of copying the backup into the cyberbrain (an instantaneous affair) and then running the backup in its virtual brain state (1 Action Turn).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La réincarnation dans le cybercerveau d'une synthmorph est bien plus facile et rapide, il ne s'agît que de cpier la suavegarde dans le cybercerveau (et c'ets instantané) puis de faire fonctionner la sauvegarde dans son état de cerveau virtuel (1 Tour d'Action).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The drawback to synthmorphs is that they are more difficult to acclimate to (see Integration, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les inconvénients des synthmorphs sont qu'il est plus difficile de s'y acclimater (voir Intégration,  p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>272), they are vulnerable to cyberbrain hacking (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>272), elles sont vulnérables au piratage (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>261), and synthmorphs are viewed as low class in some cultures.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>261) et elles sont perçues comme étant bas de gamme dans certaines cultures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Evacuating A Cyberbrain}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Évacuer un Cybercerveau}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters inhabiting a synthmorph cyberbrain may voluntarily choose to evacuate by copying themselves as an infomorph onto another device.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages habitant un cybercerveau peuvent choisir de le vider volontairement en se copiant en infomorph dans un autre appareil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This takes 1 full Action Turn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela prend 1 Tour d'Action complet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See Infomorph Resleeving, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voir Réincarnation en Infomorph, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Resleeving Costs}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Coût de Réincarnation}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The costs involved for the resleeving process itself are generally subsumed in the costs of the backup insurance and/or the new sleeve itself.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les coûts impliqués dans le processuss de réincarnation sont générallement inclus dans les coûts de l'assurance sauvegarde et/ou de la nouvelle incarnation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Costs for individual morphs are noted in the descriptions starting on p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les coûts des morphs individduels sont indiqués dans les descriptions démarrant à la p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See Morph Brokerage (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voir Courtage de Morph (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>276) for rules on finding and acquiring morphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>276) pour les règles concenrant l'obtention des morphs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Integration}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Intégration}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Getting used to a new body typically takes some time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>S'habituer à un nouveau corps prends toujours un peu de temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character must become acclimated to the changes in height, weight, sex, and capabilities, which often requires unlearning ways of doing things that worked fine for their previous form.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage doit s'habituer aux changement de taille, de poids, de sexe et de possibilités, qui nécessitent souvent de désapprendre des façon de faire certaines choses qui marchaient bien dans la forme précédente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Resleeving in a synthetic morph or an uplift is also quite confusing at first, given the drastically different morphologies, change in limb structure (and sometimes amount of limbs), and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La réincarnation dans une morph synthétique ou dans une morph élevée est également relativement perturbant au début, étant donné les écarts morphologiques drastiques, les changements dans la structure des membres (et parfois le nombre de membres), et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Luckily, transhuman minds are adaptive things, and this process is aided by the application of mental ``patches'' during the resleeving process that give the character a bit of a boost for using their new body.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Heureusement, les esprits transhumains sont des objets adaptatifs, et ce processus est aidé par l'application de &quot;patchs&quot; mentaux pendant l'opération de réincarnation et qui fournissent une aide préciseuse au personnage pour l'utilisation de son corps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An ego in a new morph makes an Integration Test upon taking control of the body, rolling SOM x 3 (morph bonuses do not apply) and applying modifiers from the Integration and Alienation Modifiers table.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un ego dans une nouvelle morph fait un Test d'Intégration lorsqu'il prend le contrôle de son nouveau corps, lançant SOM x 3 (les bonus de morph ne s'appliquent pas) et en appliquant les modificateurs de la table des Modificateurs d'Intégration et d'Aliénation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The result of the test is explained on the Integration Test table, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le résultat du test est expliqué sur la table des Test d'intégration, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Integration Test} {|l|l|}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Test d'Intégration} {|l|l|}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>TEST RESULT</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>RÉSULTAT DU TEST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>EFFECT</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>EFFET</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Critical Failure</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Échec Critique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character is unable to acclimate to the new morph—</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personange est incapable de s'acllimater à la nouvelel morph - </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>something is just not right.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>quelque chose ne passe pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character suffers a –30</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages subissent un modificateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>modifier to all physical actions until resleeved.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>de -30 à toutesles actions physique jusqu'à ce qu'il se réincarne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Severe Failure (MoF 30+)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Échec Catastrophique (MdE 30+)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character has serious trouble acclimating to the new </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage a de grosse difficulté à s'acclimater à la nouelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They suffer a –10 modifier to all actions for 2 days </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il subit un modificateur de -10 à toutes ses actions pendant 2 jours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>plus 1 day per 10 full points of MoF.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>et pour 1 jour de plus par tranche de 10 points de MdE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Failure</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Échec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character has some trouble acclimating to new morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage a quelques difficulté à s'acclimater à la nouvelle morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They suffer a –10 modifier to all physical actions for 2 </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il subit un modificateur de -10 à toutes ses actiosn phyisque pour 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>days plus 1 day per 10 full points of MoF.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>jours et pour 1 jour de plus par tranche de 10 points de MdE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Success</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Réussite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Standard acclimation period.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Période d'acclimatation standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character suffers a –10 </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage subit un modificateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>modifier to all physical actions for 1 day.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>de -10 à toutes ses actions physique pour 1 jour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Excellent Success (MoS 30+)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Réussite Exceptionnelle (MdR 30+)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No ill effects.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aucun effet secondaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character acclimates to new morph in no </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage s'acclimate à la nouvelle morph en </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>more than a few minutes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>quelques minutes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Critical Success</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Succès Critique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lookin’ good!</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En pleine forme!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This morph is an exceptionally good fit for </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette morph va exceptionnellemnt bien au</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>the character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No ill effects; gain 1 Moxie point for use in </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aucun effet secondaire; gagnez 1 point de moxie pour utilisation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>that game session only.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>lors de cette session uniquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Integration and alienation modifiers} {|l|l|}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Modificateurs d'intégration et d'&amp;liénation} {|l|l|}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>EFFECT </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>EFFET</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Familiar; character has used this exact morph extensively in the past</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Familier; le personnage a utiliser cette morph de manière intense dans le passé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Clone of prior morph</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Clône d'une ancienne morph</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character’s original morph type (what they were raised with)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Type de morph originel du personnage (celui dans lequel il a grandi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Adaptability trait (Level 2)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Trait Adaptabilité (Niveau 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Adaptability trait (Level 1)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Trait Adaptabilité (Niveau 1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character has previously used this type of morph</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage a déjà utilisé ce type de morph</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>First time resleeving</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Première réincarnation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character is an AGI sleeving into a physical body</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage est une IAG s'incarnant dans un corps physique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character is an uplift resleeving in a non-uplift (of their type) body</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage est un élevé s'incarnant dans un corps non élevé (ou pas de son type)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Synthetic morph</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Morph synthétique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sex change (from last morph)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Changement de sexe (par rapport à la dernière morph)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Morph is heavily modified</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La morph est lourdement modifiée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Morphing Disorder trait (Level 1)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Trait Trouble Morphique (Niveau 1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Morphing Disorder trait (Level 2)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Trait Trouble Morphique (Niveau 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Infomorph (does not apply to AGIs) (Alienation Test only)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Infomorph (ne s'applqiue pas aux IAG) (Test d'Aliénation uniquement)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fork (Alienation Test only)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Fork (Test d'Aliénation uniquement)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Morphing Disorder trait (Level 3)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Trait Trouble Morphique (Niveau 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Exotic morph (octomorph, neo-avian, novacrab, swarmanoid, etc.)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>morph exotique (octomorph, néo-avienne, novacrabe, swarmanoïde, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Alienation}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Aliénation}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>After loss of continuity, the other major factor impacting resleeving characters is alienation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Après une perte de continuité, le deuxième facteur principal qui impacte les personnages se réincarnant et l'aliénation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once the ego has its new sleeve under control, it's time to look in the mirror.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois que l'ego a son nouveau corps sous contrôle, il est temps de regarder dans le miroir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The alienation test reflects the experience of coming to terms with a new face, skin, and brain.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le test d'aliénaation reflettent l'expérience de la redécouverte de soi, de son nouveau vissage, de sa nouvelle peau et de son nouveau cerveau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, transferring to a radically different morph (such as a swarmanoid) can be difficult to grasp.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, se transférer dans une morph radicallement différentes (telles qu'un swarmanoïde par exemple) peut être difficile à saisir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Uplifts often have difficulty getting acquainted with the differing hormonal urges of a human biomorph and vice versa.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les élevés ont souvent des difficultés pour s'habituer aux différentes poussées hormonales d'une biomorph humaine et réciproquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While the character's ego is as it was in their last sleeve, the brains and neurochemistry of many morphs may alter aptitudes like WIL or COG.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que l'ego des personnage est dans le mrme état que dans leur précédente incarnation, les cerveaux et la biochimie de nombreuses morphs peuvent altérer des aptitudes telles que la VOL ou la COG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The effects of this can be frustrating or disorienting.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout cela pouvant générer de la frustration ou de la désorientation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every character makes an Alienation Test to reflect how mentally stressful it is to get a grip on their new body, rolling INT x 3 and apply modifiers from the Integration and Alienation Modifiers table.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque personnage fait un Test d'Aliénation pour refléter le stress mental nécessaire à la compréhension de son nouveau corps, lançant INT x 3 et en appliquant les modificateurs de la table de Modificateurs d'Intégration et d'Aliénation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Consult the Alienation Test table to determine the effects.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Consultez la table des Tests d'Aliénation pour en déterminer les effets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Alienation test} {|l|l|}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Test d'aliénation} {|l|l|}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Extreme Dysmorphia.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dysmorphie Extrême.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character doesn’t like their new sleeve at all </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage n'aime pas du tout sa nouvelle incarnation </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>and suffers 2 stress points per 10 full points of MoF.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>et subit 2 points de stress par tranche de 10 points de MdE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character is uneasy about the new morph and suffers 1 stress point </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage n'est pas à l'aise avec sa nouvelle morph et subit 1 point de stress </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>per 10 full points of MoF.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>par tranche de 10 points de MdE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character adapts to their new look well.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage s'adapte bien à sa nouvelle apparence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Best.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Meilleure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ever.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au. Monde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The new morph jives perfectly with the character’s </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La nouvelle morph correspond exactement à la perception de soi </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>sense of self, and even enhances it somewhat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>du personnage, et l'améliore même quelque peu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character actually </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage soigne en fait </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>heals 1d10 $$ 2 (round up) stress points.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1d10 $$ 2 (arrondissez au supérieur) points de stress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Continuity Test}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Test de Continuité}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Perhaps the biggest shock that strikes most resleeving characters is the loss of continuity of self.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le plus grand choc qui frappe la plupart des personnages se réincarnant est probablement la perte de la continuite de soi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is particularly true for characters who died.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est particulièrement vrai pour les personnages qui sont morts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If their cortical stack was retrieved, they will remember their own death.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si leur pile corticae a été récupérée, ils se rappeleront de leur propre mort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If they were restored from an archived backup, they will not remember their death, but they will have lost an entire period of their life—all the way back to their last backup.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si ils ont été restaurés depuis une sauvegarde archivée, ils ne se rappelerons pas de leur mort, mais ils auront perdu unt période complète de leur vie - tout depuis leur dernière sauvegarde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In fact, if their body was not recovered, they may not even know that they are dead for certain—there may be a surviving copy of themselves out there.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fait, si leur corps n'est pas récupéré, ils peuvent même ne pas être sûr d'être mort - il peut exister une copie d'eux survivant quelque part.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The driving point in this loss of continuity is a sort of existential crisis—they are no longer the original person they once were.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le point culminant de cette perte de continuité est une sorte de crise existentielle - le personnage n'est plus la personne qu'il était auparavant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This leads some to question whether they are who they think they are, or are they some poor imitation and not a real person at all?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela amène à des questions pour déterminer si ils sont ce qu'il spensent être, ou juste une mauvaise imitation et pas du tout une personne réelle?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To determine how this loss of continuity affects a character, make a Continuity Test by rolling WIL x 3.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>pour déterminer comment cette perte de continuité affectera un personnage, faites un test de Continuité en lançant VOL x 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every character suffers stress from loss of continuity, as noted on the Continuity Stress table.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque personnage subit du stress suite à la perte de continuité, tel que noté sur la table du Stress de Continuité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Reduce this stress damage by 1 point per 10 full points of MoS on the Continuity Test, or increase it by 1 point for every 10 full points of MoF.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Réduisez ce stress d'1 point par tranche de 10 points de MdRsur le Test de Continuité, ou augmentez le d'1 point pour chaque tranche de 10 points de MdE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Infomorph Resleeving}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Réincarnation en Infomorph}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rather than resleeving into a physical body, a backup may instead by instantiated as an infomorph, a purely digital form.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au lieu de se réincarner dans un corps physique, une sauvegarde peut-être instantiée en temps qu'infomorph, une forme purement numérique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Infomorphs are distinct from backups in that backups are inert files.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les infomorphs se distinguent des sauvegarde par le fait que els sauvegarde sont des fichiers inerte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Infomorphs are backups imprinted onto a virtual brain template and run as a program. This virtual brain state must be run on a specific device and follows all of the rules noted for infomorphs on p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les infomorphs sont des sauvegarde imprimées sur un cerveau virtuel générique et exécuté comme un programme. Ceté tat de cerveau virtuel doit être exécuté sur un appareil spécifique et obéit aux règles des infomorphs notées p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Infomorphs may copy themselves to other devices, typically erasing themselves from the previous device as they go.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les infomorphs peuvent se copier vers d'autres appareils, s'effaçant générallement de l'ancien appareil en partant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Infomorphs that copy without erasing are treated as forks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les infomorphs qui se copient sans s'effacer sont considérées comme des forks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters instantiating as infomorphs must make Continuity and Alienation Tests, just like resleeving.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages décidant de s'instancier en tant qu'infomorphs doivent faire les Tests de Continuité et d'Aliénation, comme pour toute réincarnation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Infomorphs may be resleeved into physical morphs, following normal resleeving rules.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les infomorphs peuvent être réincarnées dans des morphs physique, en suivant les règles normale de réincarnation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I wake up with a taste like guava and umami fresh on my tongue.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Je me réveille avec un goût de goyave et d'umami frais sur la langue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Last night there was laughter.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La nuit dernière n'était qu'une méprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>We drank quinoa wine, and I was introduced to people I had never met before, though I had years of intimate knowledge of most of them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>On a bu du vin de quinoa, et j'ai été présenté à des personnes que je n'avait jamais rencontré avant, bien que j'avais des années de connaissances intimes de la plupart d'entre eux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Half of Illyria Module is curled naked around me in my sleeping chamber.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La moitié des habitatnts du Module Illyria sont nus, recroqueveillé autour de moi, dans ma chambre à coucher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Last night we made music with synthesizers, wood blocks, and a lur.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La nuit dernière nous avons jouer de la musique sur synthétiseur, des morceaux de bois et un luth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>We drank mushroom tea brewed in water from a rogue comet.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nous avons bus du thé de champigon infusé dans de l'eau d'une comète rebelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Looking around me as the morning sun starts to light the far orbital horizon of Ceres, it appears we had an orgy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En regardant autour de moi alors que les étoiles du matin commencent à éclaire l'hrizon orbital de Cérès, il devient évident que nous avons eu une orgie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Last night was my resleeving party.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Hier soir, c'était ma fête de réincarnation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This version of me—me 3.0—is ready for life.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette version de moi -le moi 3.0 - est prête pour la vie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>—Zheng du Thierry, Carnival of the Goat</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>—Zheng du Thierry, Carnaval du Capricorne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Forking And Merging</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Forker et Fusionner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>With all of these backups of transhuman minds on file and an abundance of mesh space on which to run them as virtual brains, one might wonder what's to stop post-Fall transhumanity from multiplying its numbers by running additional copies of them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Avec toutes ces sauvegardes d'esprits transhumains sur fichier et l'abondance d'espace meshé sur lequel les faire fonctionenr en tant que cerveaux virtuels, on pourrait se demander ce qui a stopper la transhumanité fpost-Chute de se multiplier en lançant des copies additionnelel d'eux-même.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The short answer is: nothing, aside from massive social stigma and thorny psychological issues.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La réponse rapide est: rien, à part la stigmatisation sociale massive et les problèmes psychologiques épineux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Taking a backup of a transhuman mind, copying it, and re-instancing it as an infomorph is called forking. It's one of the most useful and still-controversial applications of transhumanity's brain science.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Prendre une sauvegarde d'un esprit transhumain, le copier et le ré-instantiet en infomorph est appelé faire un fork. C'est l'une des applications les plus puissantes et la plus controversée de la science cognitive transhumaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are four classifications of forks: alpha, beta, delta, and gamma.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a quatre classifications des forks: alpha, béta, delta et gamma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though typically copied as infomorphs there is nothing preventing a fork from being sleeved in a physical morph as well, other than legalities and custom.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien qu'étant générallement copiée comme infomorph, il n'y a rien qui empêche un fork d'être incarné dans une morph physique, à part les coutumes et les lois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Continuity stress} {|l|l|}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Stress de continuité} {|l|l|}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>STRESS VALUE </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>VALEUR DE STRESS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Backup from cortical stack</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sauvegarde de la pile corticale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character remembers peaceful or not notable death</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage se souvient d'une mort paisible ou non remarquable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1d10 $$ 2 (round down) </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1d10 $$ 2 (arrondissez à l'inférieur) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character remembers sudden or violent death</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage se souvient d'une mort rapide ou violente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Backup from archive</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sauvegarde d'archive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Short memory gap (less than 1 day)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Petit trou mémoriel (moins d'1 jour)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Memory gap greater than one day</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Trou mémoriel de plus d'1 jour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Not knowing if/how you died</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ignorer si/comment vous êtes mort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Uploading-to-resleeve with continuity (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Upload vers réincarnation en continuité (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Uploading-to-resleeve without continuity</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Upload vers réincarnation sans continuité (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Character is a fork</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage est un fork</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Alpha Forks}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Forks Alpha}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An alpha fork is an exact copy of the original ego, re-instanced as a separate infomorph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un fork alpha est une copie exacte de l'ego d'origine et ré-instantié comme infomorph séparée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An alpha fork may be created by copying and running an infomorph (from a backup, infomorph, synthmorph cyberbrain, or a removed cortical stack in an ego bridge).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un fork alpha peut-être créé en copiant et en exécutant une infomorph (depuis une sauvegarde, une finomorph, un cybercerveau ou une pile corticale extraite et branchée dans un connecteur d'ego).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alpha forks mat be generated from biomorph brains using an ego bridge and the same process as uploading (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les forks alpha peuvent être généré depuis un cerveau de biomorph en utilisant un connecteur d'ego et les même traitements que l'upload (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alpha forks are an exact copy of the character's ego, with all of the same skills, memories, stats, traits, personality, etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les forks alpaha sont des copies exacte de l'ego du personnage, avec les mêmes compétences, souvenirs, stats, traits, personnalité, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>New alpha forks must make an Alienation Test (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les nouveaux forks alpha doivent faire un Test d'Aliénation (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>272), and possibly a Continuity Test (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>272), et probablement un Test de Continuité (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>272) if copied from a backup.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>272) si il est copié depuis une sauvegarde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Creating alpha forks is illegal in many jurisdictions including most of the inner system and the Jovian Republic.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Créer des forks alpha est illégal dans la plupart des juridcictions, incluant la plupart du système intérieur et la République Jovienne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In others it tends to be viewed with distaste, though there are some habitats/cultures in which it is encouraged.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans d'autres endroits, c'est considéré avec dégoût, bien qu'il y ait certains habitats/cultures dans lesquels cette opération est encouragée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Beta Forks}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Forks Béta}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Beta forks are partial copies of the ego.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les forks béta sont des copies partielles de l'ego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are intentionally hobbled so as to not to be considered an equal to the character, for legal and other reasons.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elles sont intentionnellemnt entravée afin de ne pas être considérée un égal du personnage, d'un point de vue légal notamment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Beta forks have most of the same skills as the original ego, though sometimes reduced.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les forks béta ont la plupart des compétences de l'égo original, bien que parfois réduites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Their memories are also drastically curtailed, usually tailored to whatever task they are intended to perform.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>leurs souvenirs sont également drastiquement réduit, générallement taillé pour les tâches qu'ils sont sensé accomplir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Beta forks are created by taking an alpha fork and running it through a process known as neural pruning (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les forks béta sont créés en prenant un frk alpha et en le faisant passer passer par le process connus sous le nom d'élagage neural (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are legal and even common in many places, except for bioconservative holdouts like the Jovian Republic, though delta forks are more favored.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils sont légaux voire commun par endroit, exceptés dans les places fortes bioconservatives telels que la République Jovienne, bien que els forks delta sont souvent préférés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Beta forks rarely have anything resembling civil rights or citizenship and are usually treated as the property of the originating ego.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les forks béta ont rarement quoi que ce soit se rapprochant de droits civils ou de citoyenneté et ont sont usuellement considéré comme la propriété de l'ego d'origine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are commonly used as digital aids or to represent the original ego when communicating with others over great distances.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils sont fréquemment utilisés comme assistant numérique ou pour représenter l'ego d'origine lors des communications longue distance avec d'autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A beta fork's stats are determined as follows:</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les stats d'un fork béta sont déterminées ainsi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Reduce all aptitudes by 5 (to a minimum of 1).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Réduisez toutes les aptitudes de 5 (avec un minimum de 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This affects all skills as well.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela affecte également toutes les compétences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, this reduces LUC by 10 and INIT by 20.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière identique, cela réduit la LUC de 10 et l'INIT de 20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> Active skills have a maximum value of 60.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Les compétences active sont limitées à 60 maximum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> Moxie is reduced to 1.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Le Moxie est réduit à 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> The Psi trait is removed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Le trait Psi est supprimé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the gamemaster's discretion other traits may no longer apply as well.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À la discrétion du maître de jeu, d'autres traits pourrainet être supprimés également.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additional changes may apply as determined by the neural pruning test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des changements additionels peuvent s'appliquer en fonction du test d'élagaage neural.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Beta forks take 1 minute to generate.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les forks béta nécessitent 1 minute pour être créés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Delta Forks}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Forks Delta}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Delta forks are extremely limited copies of an ego.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les delta forks sont des copies extrêmement limitée d'un ego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are more akin to AI templates upon which the ego's surface personality traits are imprinted.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elles sont plus proches des modèles d'IA sur lesquel les traits de personnalité en surface de l'ego sont imprimés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Also created via neural pruning, delta forks are highly functional (as competent as a beta fork or AI) but have extremely limited skills and heavily edited memories, usually to the point of being functional amnesiacs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Également créés par l'élagage neural, les foks delta sont pleinement fonctionnel (autant compétent qu'un fork béta ou une IA) mais ont des compétences extrêmements limitées et des souvenirs trés lourdement édités, généralement au point d'être des amnésique fonctionnels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A delta fork's stats are determined as follows:</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les stats d'un fork delta sont déterminées ainsi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Reduce all aptitudes by 10 (to a minimum of 1).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Réduisez toutes les aptitudes de 10 (avec un minimum de 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, this reduces LUC by 20 and INIT by 40.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière identique, cela réduit la LUC de 20 et l'INIT de 40.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> Active skills have a maximum value of 40.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Les compétences active sont limitées à 40 maximum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The fork may have no more than 5 Active skills.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le fork ne peut pas avoir plus de 5 compétences Actives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Knowledge skills have a maximum of 80.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les compétences de Connaissances sont limitées à 80.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The fork may have no more than 5 Knowledge skills.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le fork ne peut pas avoir plus de 5 compétences de Connaissances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> Moxie is reduced to 0.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Le Moxie est réduit à 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg> The Psi trait is removed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg> Le trait Psi est supprimé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the gamemaster's discretion, other traits may no longer apply as well.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À la discrétion du maître de jeu, d'autres traits pourrainet être supprimés également.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Delta forks take 1 Action Turn to generate.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les forks béta nécessitent 1 Tour d'Action pour être créés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Gamma Forks}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Forks Gamma}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More commonly known as vapors, gamma forks are massively incomplete, corrupted, or heavily damaged copies of an ego.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plus communament appelés vapeurs, les forks gamma sont essentiellement des copies incomplètes, corrompues ou fortement endommagées d'un ego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Vapors are not intentionally created and are instead the results of botched uploads, scrambled backups, incomplete or jammed farcasts, or infomorphs/forks that were somehow damaged or went insane.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les vapeurs ne sont pas intentionnellement créés et sont généralement le résultat d'upload ratés, de sauvegarde brouillées, de farcast incomplets ou interceptés ou d'infomorphs/forks qui ont été endommagés d'une manière ou d'une autre ou qui sont devenus fous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is extremely rare for anyone to purposely create a vapor for anything other than research use, although they can crop up in some interesting places.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il est extrêmement rare que quiconque crée vvolontairement une vapeur pour autre chose que la recherche, bien qu'ils puissent se développer dans certains endroits intéressants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, poorly made skill software occasionally includes enough of the personality traits and memories of the person the skill was taken from that it can behave in a vapor-like fashion when used.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, de mauvais logiciels de compétences peuvent occasionnellement inclure suffisament des traits de personnalités et des souvenirs de la personne a qui la compétence a été prise pour qu'elle puisse se comporter de manière vaporeuse lorsqu'il est utilisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Because vapors are anomalies rather than purposeful creations, the characteristics of individual gamma forks are left to the gamemaster.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme les vapeurs sont des anomalies plutôt que des créations volontaires, les caractéristiques du'n fork gamma sont laissé à l'appréciation du maître de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They should have some or all of the following: reduced skills, reduced aptitudes, incomplete or incoherent memories, negative mental traits, and persistent mental stress or traumas including derangements and/or disorders.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils devraient avoir une partie ou toutes les caractréistiques suivantes: compétences réduites, aptitudes réduites, souvenirs incomplets ou incohérents, traits mentaux négatifs et du stress mental ou des traumas persistant inclaunt des dérangements et/ou des troubles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Neural Pruning}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Élagage Neural}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Neural pruning is the art of taking a backup/infomorph and trimming it down to size so that it functions as either a beta or delta fork.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'élagage neural est l'art de prendre une sauvegarde/infomorph et d'en réduire la taille pour q'uelle fontcionne comme un fork béta ou delta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Beta forks are created by taking a virtual mind state that is intentionally inhibited and filtering a copy of the ego through it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les forks béta sont créés en utilisant un état d'esprit virtuel qui est intentionnellement inhibé et en filtrant un égo au travers de celui-ci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Like a topiary shrub, the portions of the character's neural network that exceed the capacities of the intended fork are trimmed away.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme pour les arbustes topiaires, les portions du réseau de neurones du personnages qui dépassent la taille du fork voulu sont retirés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In addition to the changes noted under Beta Forks (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En plus des changements notés sous Forks Béta (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>273), characters may voluntarily choose to delete/decrease skills and remove memories.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>273), les personnages peuvent vouloir effacer/réduire certaines compétences et enlever certains souvenirs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Delta forks are created by excising the ego's surface personality traits and applying them to an AI template.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les forks delta sont créer en excisant les traits de personnalité de surface de l'ego et les appliquant sur une IA générique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case the ego's memories are usually excluded entirely—it is easier to start with a blank delta fork and feed them the specific memories/knowledge they need.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, les souvenirs de l'ego sont généralement complètement exclus - il est facile de commencer avec un frok delta vierge et de l'alimneter ensuite des souvenirs/connaissances spécifiques dont ils ont besoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As with beta forks, characters making delta forks may voluntarily choose to delete/decrease skills and keep specific memories.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme pour les forks béta, les personnage faisant des forks delta peuvent volontairement choisir d'effacer/diminuser certaines compétences et de conserver certains souvenirs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If an alpha fork is not available to prune, a delta fork can be whipped up from a biomorph brain with an ego bridge and 1 minute.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un fork alpha n'est pas disponible pour l'élagage, un fork delta peut être extrait d'un cerveau de biomorph avec un connecteur d'ego et en 1 minute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many people sleeved in biomorphs keep delta forks on hand in storage, to whip up on the fly as needed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup de personnes incarnés dans des biomorphs conservent des forks delta à portée de main, pour pouvoir les élaguer à la volée au cas où.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transhumanity's grasp of neuroscience extends to scanning and copying a mind, but the most intricate workings of memory are still imperfectly understood.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La compréhension transhumaine des neurosciences s'étendent à l'analyse et à la copie d'un esprit, mais le fonctionnement intrinsèque des souvenirs et toujours imparfaitement compris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Making precise edits to individual portions of a neural network (to alter recollections, skills, and the like) is still a black art.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Faire des éditions précises sur des portions d'un réseau de neurones (pour modifier des souvenirs, des compétences et autre) est toujours un art mystique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The difficulty with neural pruning is that taking a weed whacker to the tree of memory isn't an exact science.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La difficulté dans l'élagage neural est que donner un coup de sécateur sur une branche mémorielle n'est pas vraiment une science exacte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Specific memories may not be excised or chosen—at best, memories may be handled in broad clumps, typically grouped by time periods no finer than 6 months.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les souvenirs spécifiques ne peuvent être excisés ou conservés - au mieux, les souvenirs sont gérés en buisson, générallement groupés par période de 6 mois minimum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For simplicity, most beta forks are created by removing all memories older than 1 year.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans un but de simplicité, la plupart des forks béta sont créés en supprimant tous les souvenirs vieux de plus d'un an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When creating a beta or delta fork, the character must make a Psychosurgery Test (other parties may make this test on the character's behalf, representing that the character is giving them access to prune the fork appropriately).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En créant un fork béta ou delta, le personnage doit faire un Test de Psychochirurgie (d'autres personnes peuvent faire ce test à la place du personnage, représentant le fait qu'il leur a donné les accès pour élaguer le fork de manière appropriée).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character succeeds, the fork is created as desired.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le personnage réussit son jet, le fork est créé comme désiré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the test fails, the gamemaster chooses one of the following penalties for every 10 full points of MoF.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le test échoue, le maîþre de jeu choisit l'une des pénalités suivantes pour chaque tranche de 10 points de MdR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some of these penalties may be combined for a cumulative effect:</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines de ces pénalités peuvent être combinés pour avoir un effet cumulatif:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1 additional skill decreased by –20  Fork acquires a Negative mental trait worth 10 CP  Fork suffers 1d10 $$ 2 (round up) mental stress  Extra memory loss (gamemaster discretion; beta forks only)  1 Positive trait lost</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1 compétence supplémentaire réduite de –20  Le fork développe un trait mental négatif d'une valeur de 10 PP  Le fork subit 1d10 $$ 2 (arrondissez au supérieur) points de stress Des souvenirs supplémentaires sont perdus (à la discrétion du maîþre de jeu; fork béta uniquement)  1 trait positif perdu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Neural Pruning With Long-Term Psychosurgery}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Élagage Neural par Psychochirurgie à Long-Terme}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rather than generating forks on the fly, some characters prefer to have carefully-pruned forks on hand, stored as inert files that can be called up, copied, and run as needed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Au lieu de générer des forks à la volée, certains personnages préfèrent avoir des forks minutieusement élagués sous la main, stockés dans des fichiers inertes et qui peuvent être appelés, copiés et lancés en fonction des besoins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These forks are crafted with long-term psychosurgery, meaning that they suffer fewer drawbacks and the memories may be more finely tuned.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces forls sont créés avec de la psychochirurgie à long-terme, ce qui signifie qu'ils ne souffrent que de quelques inconvénients et que leurs souvenirs sont plus finement ajustés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Long-term neural pruning requires a Psychosurgery Test as above, but with a +30 modifier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'élagage neural à long-terme nécessite un Test de Psychochirurgie comem au-dessus, mais avec un modificateur de +30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Delta forks take 1 week to prune this way, beta forks take 1 month.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les forks deltas sont élagués de cette manière en 1 semaine et les forks bétas en 1 mois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additional modifications may be made to the fork using any of the normal rules for psychosurgery (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des modifications supplémentaires peuvent être effectuées sur le fork en utilisant les règles normale de psychochirurgie (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is worth noting that some people prefer to use forks of themselves or loved ones rather than a muse.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il n'est pas rare que certaines personnes préfèrent utiliser des forks d'eux-même ou de personnes chéries plutôt qu'une muse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, some wealthy hyperelites are known to keep copies of their younger backups on hand, sometimes for decades, and re-instance these when their prime ego has enough skill and experience to completely outclass its younger selves.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaires, certaines hyperélite prospères sont connus pour conserver des copies de sauvegarde plus jeune à portée de main, parfois pendant des décennies, et de les réinstantier lorsque leur ego primaire a suffisament de compétence et d'expérience pour surclasser leur eux plus jeunes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though technically these are alpha forks, their lag behind the original ego is comparable in degree to that of a beta fork.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien qu'ils soient techniquement des forks alpha, leur décalage vis à vis de l'ego original est comparable par certains aspects à celui d'un fork béta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is rumored to be the method used by the Pax Familiae in instancing her army of cloned selves.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il se dit que ce serait la méthode utilisée par pax Familiae lors de l'instantiation de son arémes de clône d'elle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Handling Forks}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Gérer les Forks}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gamemasters are encouraged to allow players to roleplay their character's own forks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les maîtres de jeu sont encouragés à autoriser les joueurs à interpréter les forks de leur personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is important to note, however, that even with alpha forks, once the fork and originating ego diverge, they develop onward as separate people.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il est important de noter cependant que, mrme avec des forks alpha, une fois que le fork et l'ego originele ont divergés, ils se développent par la suite comme des personnes distinctes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The events that shape the primary ego's personality, character, and knowledge will not happen—or even if they do, probably not in the same way—to the fork, and vice versa.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les évènements qui forment la personnalité principale, le caractère et la connaissance d'un ego n'arriveront pas au fork - et même si c'est le cas, ils n'affecteront pas le fork de la mrme manière - et vice-versa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The exact dividing line between an ego and a fork is a central philosophical and legal debate among many transhumans.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La frotnière exacte entre un ego et un fork est un débat philosophique et juridique central pour de nombreux transhumains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This means that gamemaster should not be afraid to pull a fork out of a player character's hands and make them into an NPC if they start too diverge too greatly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela signifie qu'un maître de jeu ne devrait pas être effrayé d'enlever un fork des mains d'un joueur et de le transformer en PNJ si ils commencent à diverger grandement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Similarly, if a fork begins to learn information that the main character does not (yet) have access to, it is probably also better to run the fork as an NPC in order to avoid metagaming.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De même, si un fork commence à apprendre des informations auquelles le personnage principal n'a pas (encore) accès, il est probablement mieux d'utiliser le fork comme un PNJ afin d'éviter le métajeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is entirely possible that a fork might decide that it will no longer obey the originating ego and carry about doing its own thing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il est complètement possible qu'un fork décide qu'il n'obéira plus à l'ego d'origine et décide de s'occuper de gérer sesd propres problèmes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This usually only occurs with alpha forks, who are essentially a full copy anyway, and as time passes the idea of merging back with the original ego becomes unappealing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela n'arrive généralement qu'avec les forks alpha,q ui sont essentiellement des copies compltes, et plus le temps passe, plus l'idée de retourner dans l'ego originel perd en attrait.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Beta and delta forks are quite aware of their nature as incomplete copies, and so usually return back home to the ego for reintegration.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les forks béta et delta sont relativement conscient de leur nature de copie incomplètes, et retournent génrallement vers leur ego d'origine pour être réintégrés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In rare cases, however, even these might make a break for life on their own.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, il y a des cas rares dans lesquels mrme ceux-ci décident d'aller vivre leur propre vie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Merging}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Fusionner}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Merging is the process of re-integrating a previously-spawned fork with the originating ego.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La fusion est le procédé de ré-intégration d'un fork avec son ego d'origine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Merging is performed on conscious egos/forks, transferring both to a single, merged ego.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette opération est effectuée sur des egos/forks conscient, transferrant les deux en un seul égo fusionné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The process is not difficult to undergo when two forks have only been apart a short time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le procédé n'est pas difficile à mener lorsque les deux forks n'ont été séparés que pendant une courte période de temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As forks spend more time apart, though, merging bll, a Psychosurgery Test is called for (made either by the ego or another character overseeing the process).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plus les forks passent du temps sépras, plus le procédé de fusion devient complexe, un test de Psychochirurgie devient nécessaire (effectué soit par l'ego, soir par un autre personnage supervisant les opérations).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Merging table lists modifiers for this test as well as the result of success or failure.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La table de Fusion liste les modificateurs de ce test ainsi que les résultats de réussite ou d'échec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For synthmorphs, merging takes one full Action Turn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour les synthmorphs, la fusion prend un Tour d'Action complet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For biomorphs, an ego bridge (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>pourt les biomorphs, un connecteur d'ego (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>328) or mnemonic augmentation (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>328) ou des augmentations mnémoniques (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>307) is required to merge, and the process takes 10 minutes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>307) sont nécessaire pour fusionner, et le procédé prend 10 minutes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The result of the process is a unified ego, whether or not the Merging Test succeeds.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le résultat de l'opération est un ego unifié, que le Test de Fusion réussisse ou pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Psychotherapy (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La psychothérapie (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>209) and psychosurgery (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>209) et la psychochirurgie (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>229) can troubleshoot bad merges over time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>229) peuvent réparer les mauvaises fusions au fil du temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Merging} {|l|l|l|l|}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Fusionner} {|l|l|l|l|}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>TIME APART</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>TEMPS SÉPARÉS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>MODIFIER</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>MODIFICATEUR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>SUCCESS</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>RÉUSSITE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>FAILURE </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>ÉCHEC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Under 1 hour</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Moins d'1 heure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Seamless ego with memories</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ego sans déaut avec les souvenirs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Memories intact, (1d10 $$ 2, round down) – 1 SV </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Souvenris intacts, (1d10 $$ 2, arrondi à l'inférieur) – 1 VS </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>intact from both</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>des deux parties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1–4 hours</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1–4 heures</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Solid bond, memories intact</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lien solide, souvenirs intact</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Memories intact, (1d10 $$ 2, round down) SV </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Souvenris intacts, (1d10 $$ 2, arrondi à l'inférieur) – 1 VS </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>4–12 hours</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>4–12 heures</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Memories intact, 1 SV</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Souvenris intacts, 1 VS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Minor memory loss, (1d10 $$ 2, round up) SV </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Perte de mémoire mineure, (1d10 $$ 2, arrondissez au supérieur) VS </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>12 hours–1 day</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>12 heures - 1 jour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Memories intact, 2 SV</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Souvenris intacts, 2 VS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moderate memory loss, (1d10 $$ 2, round up) + 2 SV </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Perte de mémoire modérée, (1d10 $$ 2, arrondissez au supérieur) + 2 VS </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1 day–3 days</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1 jour - 3 jours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Memories intact, 3 SV</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Souvenris intacts, 3 VS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major memory loss, 1d10 + 2 SV </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Perte de mémoire majeure, 1d10 + 2 VS </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>3 days–1 week</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>3 jours - 1 semaine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Memories intact, 4 SV</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Souvenris intacts, 4 VS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major memory loss, 1d10 + 4 SV </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Perte de mémoire majeure, 1d10 + 4 VS </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1 week+</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1 semaine et +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Minor memory loss, 5 SV</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Perte de mémoire mineure, 5 VS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Severe memory loss, 1d10 + 6 SV </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Perte de mémoire critique, 1d10 + 6 VS </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>THE SELF </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>LE SOI </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Forking and merging have changed the way transhumanity thinks about the self and what it means to have a well-integrated personality.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Forker et fusionner peut avoir changer la manière dont la transhumanité se définit et ce que signifie le fait d'avoiur une personnalité bien intégrée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While forking is child’s play from a technological standpoint, the psychological and social effects of cloning a mind mean that most people are cautious about employing forks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que faire des fork est un jeu d'enfant d'un point de vue technologique, les effets psychologiques et sociaux du clonage d'un esprit fait que la plupart des gens hésitent à utiliser des forks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some jurisdictions ban forking outright for all but medical uses, while others have severe restrictions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certaines juridictions bannissent l'utilisation des forks, à l'exception des utilisations médicales, alors que d'autres ont des restricions élevées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In many hypercorp jurisdictions, for instance, alpha forks are illegal and letting a beta fork run for more than 4 hours without merging violates the modern descendants of 20th-century anti-trust laws.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans beaucoup de juridiction hypercorporatiste, par exemple, les forks alphas sont illagaux et laisser un fork béta actif pendant plus de 4 heures sans fusionner viole les descendantes modernes des lois antitrust du 20° siècle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Similarly, the Jovian Junta and other bioconservatives ban forking entirely.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De amnière similaire, la Junte Jovienne et d'autres bioconservateurs interdisent purement et simplement les forks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Disposing of unwanted forks is another thorny issue.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>S'occuper des forks non désirés est un autre problème épineux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In some places, it’s as simple as deleting them, because a stored mind has no legal status.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans certains endroits, cela se résume simplement à leur suppression, un esprit stocké n'ayant aucun statut légal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In others, a fork that doesn’t wish to merge back with its originating ego might be accorded some rights, though these are generally only granted to alpha forks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans d'autres lieux, un fork qui ne souhaite pas réintégrer son ego d'origine pourrait se voir accorder certains droits, bien qu'ils ne soient généralement accordés qu'aux forks alpha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most significantly, though, running a shortterm fork of oneself for periods of an hour or less is an easy task for many transhumans.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manère plsu significative, faire fonctionner un fork de soi pour des périodes d'une heure ou moins est une tâche realtiavement simple pour de nombreux transhumains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many people use forks of themselves to get work done in everyday life, and almost everyone has at least experimented with forking at some point.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup de personnes font usage de forks pour accomplir les tâces quotidienne, et presque tout le monde a fait l'expérience du fork à un certain niveau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transhumans view forking a bit like early 21st-century humans viewed drinking and drug use.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les transhumains regardent la création de fork comme les humains du 21° siècle considéraient la consommation d'alcool ou de drogue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A bit might be okay, but someone overdoing it will be stigmatized.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un peu ne pose pas de propblème, mais en abuser sera stigmatisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is because most transhumans understand the psychological consequences of overusing forks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est princiaplement parceque la plupart des transhumains comprennent les conséquences psychologiques de l'abus de fork.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Egocasting</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Egocast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In spite of being a spacefaring civilization with outposts throughout the solar system and beyond, transhumanity makes scant use of spacecraft for interplanetary travel.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En dépit d'être une civilisation spatiale avec des avant-postes dans tout le système solaire et au-delà, la transhumanité n'utilise que trés peu les vaisseaux spatiaux pour le voyage interplanétaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shuttlecraft using a variety of propulsion systems make regular trips between habitats, planetary surfaces, and moons.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des navettes utilisant divers système de propulsions assurent des liaisons régulières entre les habitats, la surface plantéaires et les lunes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>But for any trip longer than 1.5 million kilometers—the distance a fusion drive craft can cover in a day—people egocast.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>mais pour tous les voyages de plus de 1.5 million de kilomètres - la distance qu'un moteur à fusion peut couvrir en une journée, les gens préfèrent s'egocaster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Egocasting is transhumanity's most advanced personal transportation technology, though only the character's ego actually travels.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'egocast est la technologie transhumaine de transport personnelle la plus avancée, bien que seul l'ego du personnage voyage effectivement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Egocasting combines the technologies of uploading and quantum farcasting to transfer a backup (or sometimes even a conscious ego, see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'egocast combine les technologie d'upload et de farcast quantique pour transférer une suavegarde (ou parfois un égo conscient, voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>269) over interplanetary distances.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>269) à travers des distances interplanétaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though egocasting occurs at the speed of light, egocasting times vary drastically with distance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que l'égocast se apsse à la vitesse de la lumière, les temps d'egocast varient en fonction de la distance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Egocasting within a cluster or planetary system is usually just a matter of minutes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>S'egocaster dans un système en grappe ou planétaire est généralllement l'histoire de quelque minutes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Egocasting from the sun to the Kuiper Belt, however, takes between 40 and 70 hours, and so egocasting all of the way across the solar system can take even longer.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>S'egocaster depuis le Soleil jusque dans la Ceinture de Kuiper prend cependant entre 40 et 70 heures, et s'égocaster à tarvers tout le système solaire peut prendre encore plus de temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once an ego arrives at the destination receiver, it can be archived, run as an infomorph, or resleeved as normal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>une fois qu'un ego arrive à destination, il peut être archivé, damérré en infomorph ou réincarner normalement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Egocaster Security}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Sécurité des Egocasteurs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Beaming yourself across interplanetary space is a mature technology and usually works seamlessly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>S'envoyer à travers l'espace interplanétaire est une technologie époruvée et fonctionne généralement sans accroc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Because egocasting uses quantum farcasters, there is no danger of radio interference cooking the signal and causing data loss.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En raison de l'utilisation de farcast quantiques, l'egocast ne peut être perturbé par des interférence radio brouillant le signal et causant une eprte de donnée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Normally the entire process is mediated by the character's backup service, and security breaches are uncommon.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Normalement l'ensemble du procédé est véhiculé par le prestataire de service de sauvegarde du personnage, et les brèches de sécurités sont rares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, there are several risks involved in egocasting The most obvious is that the character's consciousness is transferred as a digital backup file at the destination.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il existe cependant plsuieurs risues intrinsèque à l'egocast. Le plsu évident est que la conscience du personnage est transférée en tant que fichier de sauvegarde vers la destination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the egocaster on the other end is not trusted or the networks at the destination are privately controlled by the receiver, the character is potentially putting themself at the mercy of their host.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'egocasteur à l'autre extrémité n'est pas certifié ou si le réseau de destination est contrôlé par le réceptionniste, le personnage se mets potentiellement à la merci de leur hôte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most hypercorps consider meddling with a transmitted ego to be a serious breach of etiquette, whereas autonomist types would find it unthinkably repressive.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>beaucoup d'hypercorp considèrent que bidouiller un ego transmlis est une brèche sérieuse de l'étiquette, alors que les autonomistes le considère incroyablement répressif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, political extremist groups and criminal organizations in control of egocasters suffer from fewer restraints.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, les groupes d'extrémistes politques et les organisations criminelles qui contrôllent les egocasteurs n'acceptent que peu de restrictions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A more subtle risk is the possibility for hackers to exploit security holes in the egocaster and its attached virtual space to steal a fork of the character.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un risque plus subtil est la possibilité pour les hackeurs d'exploiter des trous de sécurité dans l'egocasteur et de l'espace virtuel lié pour voler un fork du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is extremely difficult to do.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela reste extrêmement difficile à faire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It almost never happens during a normal upload, because the uploading services are security conscious to the point of paranoia.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela n'arrive presque jamais lross des uploads normaux, car les services d'upload sont conscient des problèmes de sécurité au point de la paranoïa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even so, the forks stolen by such attempts more often than not end up being vapors, because the intruder is usually stopped before a full copy can be obtained.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mais même ainsi, les forks volés par de telles tentatives finissent plus souvent qu'à leur tour sous forme de vapeur, l'intrus étant géénralement arrété avant qu'une copie complète ne pusise être obtenue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Darkcasting}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Darkcast}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters who want to egocast without the attention of public officials like Immigration and Customs must seek out so-called darkcasting services—illegal farcaster transceivers typically operated by criminal syndicates and other clandestine groups.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les personnages désirant s'egocaster sans attirer l'attention des officiels tels que les services des Douanes et de l'Immigration peuvent passer par des services appelés darkcast - des farcast émetteurs-récepteurs illagaux et contrôlé par les syndicats criminels et d'autres groupes clandestins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To locate such a service, a character must use their Networking skill and possibly their reputation (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour trouver un service de ce type, un personnage doit utiliser sa coméptence Réseau et probablement sa réputation (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Morph Brokerage</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Courtage de Morph</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Morphs are a major commodity in transhuman society.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les morphs sont un bien de consommation dans la société transhumaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The technology and materials needed to grow new morphs are cheap and abundant, though they take time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La technologie et les matériaux nécessaire à la croissance de nouvelles morphs sont bons marchés et abondant, même si cela prend du temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cloned biomorphs take at least a year and a half, even with accelerated growth.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les biomorphs clônés prenent au moins un an et demi pour se développer, même avec une croissance accélérée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pods, which are typically pieced together from vat-grown parts, take about 6 months.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les pods, qui sont généralement assemblés à partir de morceau qui ont poussés en cuve, nécessitent 6 mois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Synthmorphs like cases and synths can be produced in a day, whereas more complicated models can take a week or more.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les synthymorphs comme les boîte et les synths peuvent être produite dans la journée, mais des modèles plus complexe peuvent prendre plus d'une semaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Theoretically, supply will one day outstrip demand to the point where flesh is free.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Théoriquement, l'offre va un jour surpasser la demande au point où la chair sera gratuite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters have several options for acquiring morphs when they travel by egocast, suffer heavy damage, or just feel like a new body.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages ont plusieurs options pour acquérir des morphs lorsqu'ils voyagent par egocast, subissent de gros dégâts ou ont simplement envie d'un nouveau corps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When egocasting, the most common method for travelers of middling means is to store their current morph in a body bank's secure facility and lease a morph at their destination Less commonly, characters may rely on public resleeving facilities, or, if they have the means, they may purchase a new morph outright.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lors de l'egocast, la méthode la plus fréquente pour les voyageurs de la classe moyenne est de stocker leur morph actuelle dans une maison de poupée sécuriése et de louer une morph à destination. Moins fréquemment, les personnages peuvent se reoposer sur des installations de réincarnation publique ou, si ils ont les moyens, ils peuvent carrément acheter une nouvelle morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters who expect to stay at their destination indefinitely or who decide to resleeve but aren't traveling might instead opt for a trade-in on their old body, leaving it behind permanently in most cases.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnage qui s'attendent à rester à destination indéfinemment ou qui décident de se réincarner mais qui ne voyagent pas peuvent opter pour échanger leur vieux corps, l'abandonnant de manière permanente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Morph Availability}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Disponibilité des Morphs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As noted under Resleeving and the Gamemaster (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme noté au paragraphe Le Maître de Jeu et la Réincarnation (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>271), finding the model of morph you want is not always easy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>271), trouver le modèle de morph voulu n'est pas toujours simple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While many basic morph types (cases, synths, splicers) are generally available, characters can also locate new While many basic morph types (cases, synths, splicers) are generally available, characters can also locate new</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors que de nombreux type de morph (boîte, synths, spliceurs) sont générallement disponible, les personnages peuvent aussi de nouvelles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>morphs using their Networking skills (see Reputation  and Social Networks, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>morphs en utilisant leur compétence Réseau (voir Réputation  et réseaux Sociaux, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Certain morph types are harder to find then others; the gamemaster should apply an appropriate modifier for any morphs that seem rare or unusual (for example, swarmanoids or reapers).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains types de morphs sont plus difficile à trouver que d'autres; le maîþre de jeu devrait appliquer un modificateur approprié pour toute les morphs qui semblent rare ou inhabituelle (par exemple, les swarmanoïde ou les reapeurs).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, some morphs may simply be unavailable in a given locale.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De même, de nouvelles morphs peuvent être bêtement indisponible à un endorit donné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rusters are rarely available off of Mars, for example, while on Europa, most morphs are exotic local aquatic varieties.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les rusteurs sont rarement disponibles hors de Mars, par exemple, alors que sur Europe la plupart des morphs sont des variantes locales exotiques et aquatiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster determines which factions are able to provide new morphs in a given locale.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maîþre de jeu détermine quelels factions sont capable de fournir de nouvelels morphs dans une zone donnée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Factions will not provide morphs that are unavailable to that faction as starting characters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les factions ne fourniront pas de morphs qui leur sont indisponible aux personnages débutants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the faction is not the dominant one in that locale, a penalty should be applied ranging from –10 to –30.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si la faction n'est pas dominante dans une zone, une pénalité de -1à à -30 devrait être appliquée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Despite having a presence in a given locale, some factions may be unable to provide morphs at all.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En dépit de la présence dans une zone donnée, certaines factions peuvent être incapable de fournir des morphs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character is seeking a customized morph with specific implants or enhancements, the search will be more challenging.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un personnage cherche une morph customisée avec des implants ou des amélioratiosn spécifiques, la recherche sera encore plus difficile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster should apply a –10 to –30 modifier here as well, depending on the extent and legality of the modifications sought.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu devrait également y appliquer un modificateur de -10 à -30, en fonction de l'étendu et de la légalité des modifications recherchées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Morph Acquisition}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Acquisition de Morph}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once a morph is located, the character may call in favors (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois que la morph est localisée, le personnage doit faire appel à des faveurs (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>285) or pay credits for it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>285) ou payer des crédits pour l'obtenir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Morph costs are noted on the Morph Costs table.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le coût des morphs est noté sur la table de Coût des Morphs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the inner system, morph prices are often inflated by demand in the market such that the most desirable morph types can cost a small fortune.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans le système intérieur, le prix des morphs est souvent augmenté par la demande du marché et les morpsh les plus désirées peuvent valoir une petite fortune.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Outsystem, prices in rep are more reasonable but still steep due to population pressures on life support-dependent outer system settlements.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>A l'extérieur, les prix en rep sont plus raisonnable mais toujours élevés en raison de la pression de la population sur les abris dépendant d'un soutien du système extérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For travelers and frequent body hoppers, there are a number of ways to defray these costs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour les voyageurs et ceux qui changent fréquemment de corps, il y a de nombreuses façon de réduire ces coûts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Brokerage And Matchmaking}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Revente Et Entremetteurs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finding morphs for travelers and the bodiless is a specialized skill demanding deep social networks and a flair for negotiation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Trouver une morph pour les voyageurs et ceux qui n'ont pas de corps est une compétence spécialisée nécessitant des résedaux sociaux solide et un sens de la négociation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In general, it's a seller's market, so brokers (or ``matchmakers,'' as they're called in the open economy) act as agents for the person seeking a body.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En géénrale, c'est un marché de revente, les revendeurs (ou &quot;entremetteurs,&quot; comme ils sont appelés dans la nouvelle économie) agissent comme des agents de la personne cherchant un corps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Morph Costs table assumes a 10% fee paid to the broker.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La table du Coût des Morphs prend en compte la marge de 10% de l'intermédiaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters wishing to cut out the middleman may reduce cost by 10% but take a –30 penalty on their Networking Test to locate an available morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages souhaitant éviter cet agent peuvent réduire le coût de 10% mais subissent une pénalité de -30 à leur Test de Réseau.pour localiser une morph disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Customized Morphs}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Morphs Personnalisées}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a character seeks to have a customized morph (with extra bioware, cyberware, or nanoware implants or robotic enhancements), the costs for these enhancements are added to the morph's cost (if the gamemaster chooses, discount package deals may apply).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un personnage cherche à obtenir une morph personnalisée (avec du bioware, du cyberwware ou des implants nano supllémenatire, ou des amélioratiosn raobotiques), le coût de ces améliorations est ajouté au coût de la morph (si le maître de jeu le décide, une réduction peut-être appliquée sur le lot).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, morphs may come saddled with positive or negative morph traits (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De même, les morphs peuvent être fournit avec des trait de morphs positifs ou négatif (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These traits raise or lower the morph's cost at a rate of +500 credits per CP for positive traits, or –200 credits per CP of negative traits.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces traits augmentent ou diminuent le coût de la morph au taux de +500 crédits par PP pour les traits positifs ou de -200 crédits par PP de traits négatifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Negative traits typically reflect abuses the morph has suffered at the hands of previous occupants.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les traits négatifs reflettent typiquement les abus que la morph a subit entre les mains de l'occupant précédent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Trade-In}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Échange}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For those who wish to leave their old morph behind permanently, trade-ins on current morphs are an option.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour ceux qui désirent abandonner définitivement leur ancienne morph, les échanges de morph sont des options courantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The high demand for bodies means that a buyer is almost always available unless the gamemaster finds extenuating circumstances.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La demande de corps élevée signifie qu'un acheteur est presque toujours disponible, sauf si le maître de jeu trouve des circonstances particulières.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Morphs may be traded in for the value shown on the Morph Costs table adjusted for any positive or negative traits), less a 10% physical exam and finder's fee.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les morphs peuvent être échangée à la valeur indiquée dans la table des Coûts de Morph ajustée par tous les traist positif ou négatifs, avec une réduction de 10% pour les examens physique et les frais du dénicheur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is either paid to the morph broker in cred or rendered as a favor using rep.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette somme est soit payée au vendeur en credits soit rendues comme faveur en utilisant la rep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Patron Provisioning}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Provisionnement d'un Mentor}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters on missions for rich or influential patrons may have morphs provided for them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages en mission pour un mentor riche ou intégral peuvent avoir des morphs fournit par lui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Normally such provisions are made for the duration of a job, although less commonly the morph itself might be payment for services rendered.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Normalement de telles provisions sont faites pour la durée du travail, même si parfois la morph peut considéer en soi une forme de paiement pour le service rendu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gamemasters are encouraged to be creative with such arrangements, though players should be advised that such bargains can quickly turn Faustian.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les maîþres de jeu sont encouragés à être créatif lors de tels arranegemnt, bien que les joueurs devraient être conscient que de tels échanges peuvent rapidement se révéler Faustiens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Black Market Morphs}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Morpsh du Marché Noir}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Black market body traders promise to provide the buyer with morphs and upgrades of choice regardless of a habitat's laws against weapons or implants, in addition to bypassing standard arrival registration via darkcasting.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les vendeurs de crops du marché noir promettent de fournir l'acheteur avec les morphs et les mises à jour de son choix indépendamment des lois contre les armes ou les implants, en plus de contourner les procédures d'enregsitrelment des arrivées standard grâce au darkcast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Illegal morphs usually come with a price markup (+25% at least), whereas used morphs with unsavory backgrounds (and traits) can usually be acquired on the cheap (–25%).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les morphs illégales sont généralement fournies avec une hausse de prix (au moins +25%), alors que les morphs d'occasion ayant un passif louches (et ds traits bizarre) sont générallement moins chère (-25%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Morph costs} {|l|l|}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Coût des morphs} {|l|l|}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>MORPH TYPE</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>TYPE DE MORPH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>COST </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>COÛT </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Flats, Splicers</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plates, Spliceurs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>High </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Élevé </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Expensive (30,000+) </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chère (30 000+) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Furies, Ghosts, Remade</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Furie, Ghosts, Refaite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Expensive (40,000+) </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chère (40 000+) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Expensive (50,000+) </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chère (50 000+) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All others</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Toutes les autres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Expensive </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chère </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Workers, Pleasure Pods</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pods de Travail, de Plaisir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Novacrabs</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Novacrabes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cases</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Boîtiers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moderate </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Modéré </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Synths, Dragonflies</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Synths, Libellulles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slitheroids, Swarmanoids</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Slitheroïdes, Swarmanoïdes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Flexbots</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Transformers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Arachnoids</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Arachnoïdes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Reapers</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Reapeurs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Positive morph traits</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Traits de morphs positifs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>+500 per CP </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>+500 par PP </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Negative morph traits</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Traits de morphs négatifs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>–200 per CP </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>–200 par PP </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Indenture}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Contraction}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters who find themselves too destitute to afford a new morph can strike a deal for indentured service—a ``deal'' that is rarely advantageous to the</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages trop fauchés pour s'offrir une nouvelle morph peuvent conclure un marché pour du service contracté - un &quot;accord&quot; qui est rarement à l'avantage du</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>new indenture.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>nouveau contracté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Typical contracts require years of indentured labor—terraforming Mars, herding comets, asteroid mining, constructing habitats, colonizing exoplanets, etc.—in exchange for a cheap synthetic morph or splicer at the end of the term.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les contrat typique nécessitent des années de travail contractés - terraformation de Mars, exploitation de comète, minage d'astéroïde, construction d'habitats, colonisation d'exoplanètes, etc. - en échange d'une synthmorph ou d'un spliceur bon marché à la fin du contrat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Social Networks}</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
