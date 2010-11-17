@@ -42393,7 +42393,7 @@
         <seg>If the target is not unconscious or otherwise incapacitated, they must first be immobilized in melee combat (see &lt;i1&gt;Subdual,&lt;/i1&gt; p.</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
-        <seg>Si la cible n'est pas incosnciente ou incapacitée d'une manière ou d'une autre, elel doit d'abord être immobilisée en coimbat au corps à corps (voir &lt;i1&gt;Contrôle, &lt;/I1&gt; p.</seg>
+        <seg>Si la cible n'est pas inconsciente ou incapacitée d'une manière ou d'une autre, elel doit d'abord être immobilisée en coimbat au corps à corps (voir &lt;i1&gt;Contrôle, &lt;/i1&gt; p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46514,6 +46514,286 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Les contrat typique nécessitent des années de travail contractés - terraformation de Mars, exploitation de comète, minage d'astéroïde, construction d'habitats, colonisation d'exoplanètes, etc. - en échange d'une synthmorph ou d'un spliceur bon marché à la fin du contrat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gamemasters may use their discretion in offering such terms, though in many cases the terms offered will temporarily or permanently end the character's career as a free agent.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les maîþre de jeu doivent user de leur discrétion lorsqu'ils proposent de telles clauses, bien que dans de nombreux cas les clauses proposées terminerons temporairement ou définitivement la carrière d'agent indépendant du personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hypercorps using indentured labor are notorious for changing the terms at a whim, extending the service period, or slamming the indenture with a slew of hidden and outrageous charges that were not made clear up front.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les hypercorporations utilisant des travailleurs contractées sont connues pour changer les clauses à volonté, allongeant la période de service ou frappant le contracté avec un lot de charges cachée ou outrageuses qui n'étaient pas claire à la signature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters may, of course, enter into such service fully intending to grab their morph and run at the first opportunity, but the hypercorps are very protective of their investments.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages peuvent, bien entendu, entrer pleinement dans le système pour avoir leur morph et partir en courant à la première opportunité, mais les hypercorporations protègent jalousement leurs investissements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Indentures are closely monitored and tracked, and the hypercorps are not above sending ego hunters to retrieve a runaway.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les contractés sont surveillés et pisté de près, et les hypercorporations ne se privent pas d'envoyer des chasseurd d'ego pour récupérer un fuyard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Public Resleeving}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Réincarnation Publique}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some locales, notably Titan, have a well-developed public resleeving infrastructure intended to provide a body to anyone who needs one.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À certains endroits, sur Titan par exemple, il existe une infrastructure de réincarnation publique bien développée afin de fournir un corps à tout ceux qui en ont besoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Morphs provided are usually unremarkable cases, synths, or splicers with no Positive traits or optional implants.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les morphs fournies sont généralement des boîtiers génériques, des synths ou des spliceurs basiques sans traits Positif ou implant optionnels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Anyone holding citizenship in a locale with public resleeving may apply for a body.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quiconque ayant la citoyenneté d'une zone ayant des services publiques de réincarnation peut postuler pour obtenir un corps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wait times are between a month and two years, with Reputation influencing wait times at the gamemaster's discretion.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les temps d'attentes varient d'un mois à deux ans,  la Réputation influençant ce délai d'attente à la discrétion du maître de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Renting Morphs}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Location de Morph}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For temporary visits where an infomorph won't do, morphs may be leased rather than bought.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour les visites temporaire et lorsqu'un infomorph ne sera pas suffisante, des morphs peuvent être louée au lieu d'être achetée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The cost to rent a morph is 1% of its cost per day, plus a Low charge for resleeving.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le coût de location d'une morph est de 1% de son coût par jour, augmenté d'un prix Bas pour la réincarnation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This cost includes rental insurance (see below).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce coût inclut l'assurance locative (voir plus bas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the rental insurance is waived (not always possible unless you have a good Rep), the rental cost may be reduced by half.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si l'assurance locative est omise (ce n'est pas toujorus possible, à moins d'avoir une bonne Rep), le coût de location peut être réduit de moitié.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters who are leasing a morph may also use their previous morph as collateral.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages qui louent une moprh peuvent également utiliser leur morph précédente comme caution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, deduct the cost of the character's current morph from the rental morph before calculating the 1% cost per day, with a minimal rental cost of 10 credits per day.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, déduisez le coût de la morph actulle du personnage de la morph louée avant de calculer le coût de 1% par jour, avec un coût de location minimum de 10 crédits par jour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Penal Lease}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Location Pénale}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters visiting the inner system or Jovian Republic may be able to lease morphs belonging to prisoners.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les personnages visitant le système intérieur ou la République Jovienne peuvent avoir la possibilité de louer des morphs appartenant à des prisonniers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In most jurisdictions, criminals are sentenced to terms in rehabilitative simulspace with a stipulation that the prisoner's morph becomes state property during their term of incarceration.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans la plupart des juridictions, les criminels sont condamnées à des peines en simulsapces de réhabilitation, peine qui stipule que la morph du pprisonnier devient propriété de l'étât pendant leur peine d'incarcération.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Morphs acquired this way often have complicated histories but also tend to have modifications useful to Firewall agents.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les morphs acquisent de cette façon ont souvent des historiques compliqués mais tendent à avoir des modifications utiles pour els agents de Firewall.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Conversely, characters who find themselves imprisoned may be subject to having their body leased out during incarceration.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Inversement, un perrsonnage qui se trouve emprisoné peut-être sujet à voir son corps loué à d'autres pendant son incarcération.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The effects of taking a penal lease are at the discretion of the gamemaster.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les effets de la location pénale sont laissées à la discrétion du maître de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character may have to pull some strings with their Reputation in order to lease such a morph, especially if it has restricted or illegal modifications.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage pourrait avoir à tirer quelques ficelles avec sa Réputation pour louer de telle morph, particulièrement si elle a des modifications d'accès restreinte ou illégale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Negative traits, cases of mistaken identity, and unfortunate encounters with friends and associates of the morph's former occupant are among the possible drawbacks to this type of arrangement.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les traits négatifs, les erreurs d'identité et les rencontres impromptues avec des amis et des associés de l'ancien propriataire de la morph font parti des inconvénients possible pour ce type d'arrangement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On the up side, penal leases may reduce costs for both leasing and insuring the morph, again subject to the gamemaster's discretion.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Du bon côté des choses, les locations pénales peuvent réduire les coûts pour la location et l'assurance de la morph, encore une fois ceci est laissé à l'appréciation du maître de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Rental Insurance}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Assurance Locative}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Leased morphs must be covered by an insurance policy, which often restricts the character from breaking the law or taking the morph anywhere too dangerous or lawless.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les morphs louées doivent être couverte par une police d'assurance, qui empêche généralement l'utilisateur de violer la loi ou d'amener la morph dans les zones hors la loi ou trop dangereuses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters may purchase hazard insurance that will cover taking the morph into certain dangerous situations, but this will double the rental price at minimum.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les personnages peuevnt acheter une assurance de risque qui couvrira le fait d'emmener la morph dans certaines situations dangereuse, mais cela doublera (au moins) le prix de la location.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a character suffers extensive organic damage or death while insured, the insurance will cover 80% of the morph's cost, meaning that the character is expected to pay the other 20%.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un personnage subit des dégâþs organique ou décède alors qu'il est assuré, l'assurance couvrira 80% du coût de la morph, ce qui veut dire que le personnage devra payer les 20% restant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If they cannot pay, their possessions or their stored morph may be seized in payment.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si iles ne peuvent pas payer, leurs possession ou leur moprh peuvent être saisi en gage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a character violates their insurance policy by intentionally putting themself in harm's way above the threat level at which the policy was purchased, without first communicating with and rendering payment to the insurer, the policy may be declared void.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si un personnage viole les clauses de la police d'assurance en se mettant en danger volontairement et au-delà du niveau de menace pour lequel l'assurance à été acheté, sans le signaler à l'assureure et sans le payer en conséquence, la olice d'assurance peut-être déclarée nulle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the leased morph dies under a voided policy and the character cannot pay to replace it, their possessions and stored morph may be subject to seizure.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si la morph louée décède sous une police d'assurance annulée et que le personnage ne peut pas payer pour la remplacer, ses possessions et sa morph stockée peuvent être saisies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Seizure takes different forms depending upon the local economy and legal system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La saisies prend différentes formes en focntion de l'économie locale et du système légal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In hypercorp space, it is a straightforward seizure of liquid assets, including forced uploading if the character's morph is seized.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans l'espace hypercorporatiste, il s'agît d'une saisie simple des liquidités, incluant un upload forcé si la morph du personnage est saisie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Elsewhere, the character is more likely to end up owing a lot of favors or taking severe hits to their reputation, but they are unlikely to undergo forced uploading or outright physical seizure of their morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Partout ailleurs, le personnage se retrouvera à devoir énormément de faveurs ou à subir de grave perte de réputation, mais ils ne subiront pas d'upload forcé ou d'autres mesures de saisie de leur morph.</seg>
       </tuv>
     </tu>
     <tu>
