@@ -7,10 +7,10 @@ Total
   Caractères: 1621739 : + espaces
 
 Restants
-    Segments:    7683
-        Mots:   83508
-  Caractères:  438127 : - espaces
-  Caractères:  514090 : + espaces
+    Segments:    7574
+        Mots:   81467
+  Caractères:  426896 : - espaces
+  Caractères:  500931 : + espaces
 
 Uniques
     Segments:   16200
@@ -19,17 +19,17 @@ Uniques
   Caractères: 1603271 : + espaces
 
 Restants uniques
-    Segments:    5618
-        Mots:   81247
-  Caractères:  436405 : - espaces
-  Caractères:  504150 : + espaces
+    Segments:    5509
+        Mots:   79206
+  Caractères:  425174 : - espaces
+  Caractères:  490991 : + espaces
 
 Mesures des documents
 
     TM      MR      TCSE    CRSE    TC      CR     Document
      581     581    3451    3451    3979    3979 - 0-credits.tex
     8100       1   38376      40   45753      40 - 1-lack.tex
-   20340   10331  104177   53247  123063   62762 - 10-accelerated-future.tex
+   20340    8290  104177   42016  123063   49603 - 10-accelerated-future.tex
    41348   41267  217187  216710  254578  254070 - 11-gear.tex
    29962   29892  158228  157794  186322  185835 - 12-game-information.tex
        1       1       6       6       6       6 - 13-tables.tex

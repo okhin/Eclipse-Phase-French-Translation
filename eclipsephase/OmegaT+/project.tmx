@@ -47326,6 +47326,878 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Transhumanity is not just a spacefaring race, it is also largely space-dwelling.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La transhumanité n'est pas juste une espèce qui s'étend jusqu'aux confins de l'espae, elle habite essentiellement dans l'espace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While a substantial portion of transhumanity inhabits planetary bodies like Mars, Luna, Venus, and the moons of the gas giants, the balance live in a variety of space habitats, ranging from the old-fashioned O'Neill cylinders of the inner system to the Cole bubbles of the outer system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Alors qu'une part substantielle de la transhumanité habite les coprs planétaires tels que Mars, la Lune, Vénus, et les lunes des géantes gazeuses, le reste vit dans une variété d'habitat spatiaux, allant des cylindres O'Neill à l'ancienne du système intérieur aux bulles de Cole du système extérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Space Habitats}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Habitats spatiaux}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Space habitats come in many sizes and configurations from survivalist outposts designed to support ten or fewer people to miniature worlds in resource-rich areas housing as many as ten million people.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les habitats spatiaux existent dans de nombreuses tailels et configurations, allant des avant-postes survivalistes conçus pour dix personnes ou moins aux mondes miniatures dans les zones abondantes en ressources et qui hébergent jusqu'à dix-millions de personnes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In heavily settled regions of space, such as Martian orbit, habitats may be integrated into local infrastructure, relying to some extent on supply shipments from other orbital installations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les régions spatiales fortement peuplées, telles que l'orbite Martienne, les habitats peuvent être intégré dans l'infrastructure locale, dépendant d'une aprtie des expéditions de ressources d'autres instalaltions orbitales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More commonly, especially in the outer system, habitats are independent entities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plus courament, et en particulier dans le système extérieur, les habitats sont des entités indépendantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This usually means that in addition to the main space station, the habitat is attended by a host of support structures, including zero-g factories, gas and volatiles refineries, foundries, defense satellites, and mining bases.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela signifie généralement que, en plus de la principale stations spatial, un habitat est assisté par un tas de structures de soutien, incluant des usines en zéro-g, des rafineries de gaz et de composés organiques volatils, des fonderies, des sattelites de défense et des bases d'exploitation minières.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Habitats—especially large ones—sometimes have visitors, as well.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les habitats - et en particulier les plus gros d'entre eux - ont également des visiteurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Majors habitats are crossroads in space.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les habitats pricnipaux sont des carrefours spatiaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In addition to scheduled bulk freighter stops, they may have hangers-on such as scum barges, prospectors or out-of-work autonomous bot swarms.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En plus des arrêts des arrêts planifiés des gros-porteurs, il peut y avoir des passagers impromptus - tel que les barges racailles, les propsecteur ou les nuées de robots autonomes et désœuvrées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many habitats have some form of transportation network.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>beaucoup d'habitat ont une sorte de réseaux de tranports.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is most common in large cylindrical habitats with centrifugal gravity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est bien plus commun dans les gros habitats cylindrique avec une gravité centrifuge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Common solutions for public transit include monorail trains, trams, and dirigible skybuses.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des solutions de transports publiques commune, incluent les trains monorails, les trams et les dirigeable bus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Common personal transit options included bicycles, scooters, motorcycles, and microlight aircraft, with larger vehicles being uncommon and usually reserved for official use.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des options de transport personnels incluent les vélos, scooters, motos et les ultra léger motorisés, les plus gros véhicules étant plutôt rares et générallement réservés à l'utilisation des officiels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most habitats with large interior spaces also use augmented reality overlays to create consensual hallucinations of a sky and clouds, to which most residents keep their AR channels tuned.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La pluaprt des habitats ayant de grands espaes internes utilisent également la réalité augmentée pour créer des hallucinations consensuels de ciels et de nuages, sur lesquels la plupart des résident connectent leur canaux RA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>One would think that in space, talking about the weather would have disappeared from transhumanity's repertoire of small talk, but the habit persists—only the weather discussed is usually virtual (if it's not real ``weather''—solar flare activity and the like).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>On pourrait penser que, dans l'espace, parler de la pluie et du beau temps aurait disparu du répertoire de discussion de la tranhumanité, mais l'habitude persiste - sauf que la météo discutée est généralement virtuelle (si ce n'est une &quot;météo&quot; réel telles que les éruptions et vents solaires).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Cluster Colony}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Colonnie en Grappes}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Clusters are the most common form of microgravity habitat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les grappes sont la forme d'habitats à microgravité la plus commune.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Clusters consist of networks of spherical or rectangular modules made of light materials and connected by floatways.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les grappes sont composées d'un réseau de modules sphériques ou rectangulaires fabriqués dans des matériaux léger et connectés par des canaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Typically business and residential modules are clustered around arterial floatways and infrastructure modules such as farms, power, and waste recycling.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>généralement, les modules d'affaires et résidentiels sont regroupés autour des canaux principaux et les modules d'infrastructures tels que les fermes, l'énergie et le recyclage des ordures sont connectés sur des canaux secondaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Limited artificial gravity areas may exists, frequently parks or other public places and specialized modules like resleeving facilities (morphs often keep better when stored in gravity).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des zones de gravités artificielle et limitée peuvent exister, couramment dans les parcs ou autres endroits publics et dans les modules spécialisés comme les installations de réincarnations (les morphs vivent souvent mieux le fait d'être stocké en gravité).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Arterial floatways in large clusters may have ``fast lanes'' where a constantly moving conveyor of grab-loops speeds people along.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les principales voies de circulation du cluster peuvent avoir des &quot;voies rapides&quot; où des convoyeurs de boucles d'attaches en mouvement constant accélèrent les personnes qui s'y accrochent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Clusters are most commonly found in volatile-rich environments like the Trojans and the ring systems of the gas giants (particularly Saturn).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les grappes sont plsu fréquemment trouvés dans les zones riches en composés organiques volatiles comme els Troyens et les systèmes d'anneaux des géantes gazeuses (et Saturne en particulier).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Clusters are rare in the Jovian system because shielding a cluster of individual modules rather than one large station from Jupiter's intense magnetosphere is hideously inefficient.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les grappes sont rare dans le système Jovien car protéger une grappe de modules individuels contre la magnétoshpère intense de Jupiter est hideusement inefficace en comparaison de la protection d'une seule station plus grande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cluster colonies can have anywhere from 50 to 250,000 inhabitants.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les colonies en grappes peuvent avoir entre 50 et 250 000 habitants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Cole Bubbles}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Bulles de Cole}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cole bubbles (or ``bubbleworlds'') are found mostly in the main asteroid belt, where the large nickel-iron asteroids used to construct them are abundant.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les bulles de Cole (ou &quot;mondebulle&quot;) sont eseentiellement situés dans la ceintrue d'astéroïde principale, où les gros astéroîde de nickel-fer utilisés pour les construire sont abondant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bubbleworlds are less common in the Trojans and Greeks, where crusty ice asteroids predominate.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les mondebulles sont moins courants dans les Troyens et les Grecs, là où dominent les astéroïdes à croûte gelée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A Cole bubble is similar in many respects to an O'Neill cylinder, but there are no longitudinal windows.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une bulle de Cole est similaire par beaucoup d'aspect à un cylindre O'Neill, mais ils n'ont pas de fenêtre longitudinale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sunlight instead enters through axial mirror arrays.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La lumière du soleil entre pas des jeux de miroirs axiaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The bubbleworld is also constructed very differently, using a large solar array to heat a pocket of water inside of a metal asteroid so that the metal expands.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La bulle est également construite de manière trés différente, en utilisant un grand miroir solaire pour chauffer une poche d'eau à l'intérieur de l'astéroïde métallique pour que le métal se dilate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rotating the asteroid causes the malleable material to form a cylinder, which is then capped off and the water drained.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les astéroîde tournant forcent le matériau malléable à prendre la forme d'un cylindre, dont les extrrmités sont refermés et l'eau est ensuite drainée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The inside can then be pressurized, built out, and planted.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'intérieur peut ensuite être pressurisé, aménagé et occupé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cole bubbles can also be spun for gravity, according to the whims of the inhabitants, though the gravity lowers as you near the poles of the bubble, with zero gravity at the axis of rotation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les bulles de Cole peut également être mise en rotation pour fournir une gravité, en focntion des désirs des habitants, bien que la gravité réduise lorsque vous vous approchez des pôle et qu'elle soit nulle au niveau de l'axe de rotation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cole bubbles are among the largest structures transhumanity has created in space.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les bulles de Cole font parti des plus grosse structures créées par la transhumanité dasn l'espace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The largest Cole habitat, Extropia, has a population of 10 million.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'habitat de Cole le plus grand, Extropia, a une population de 10 millions d'habitants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Hamilton Cylinders}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Cylindre Hamilton}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hamilton cylinders are a new technology.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les cylindres hamilton sont une nouvelel technologie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are only three fully operational Hamilton cylinders in the system, but the design shows great promise and is likely to be widely adopted over the coming period.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il n'y a que trois cylindre Hamilton entièrement opérationnels dans le système, mais la conception laisse présager de bonens choses et sera probablement largement adopté dans les années à venir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hamilton cylinders are grown using a complex genomic algorithm that orchestrates nanoscale building machines.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les cylindres hamilton se développent en utilisant un algorithme génétique complexe qui orchestre des machines de construction nanoscopiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These nanobots build the habitat slowly over time, a process more like growing than construction.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces nanomachines construise l'habitat lentement et au fil du temps, un procédé qui resemble plus à du jardinage qu'à de la construction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Similar to O'Neill cylinders and Cole bubbles, a Hamilton cylinder is a cylindrical habitat rotating on its long axis to provide gravity Two of the known Hamilton cylinders orbit Saturn in positions skimming the rings near the Cassini division.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire aux cylindre O'Neill et aux bulles de Cole, un cylindre hamilton est un habitat cylindrique tournant sur son axe le plus long pour fournir de la gravité. Deux des cylindres hamilton connus orbitent autour de Saturne entre deux anneaux, non loin de la division Cassini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>From this position, they can graze on silicates and volatiles using harvester ships.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De cette endroit, ils peuvent se repaître des silicates et des composés organiques volatiles en utilisant des vaisseaux moissoneurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>None of the currently-operating Hamilton cylinders have grown to full size yet, but estimates say they could each house up to 3 million people.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aucune des cylindre hamilton actuellement opérationnels n'a fini sa croissance, mais on estime qu'ils pourraient héberger chacun jusqu'à 3 millions de personne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{O'Neill Cylinders}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Cylindres O'Neill}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Found mostly in the orbits of Earth, Luna, Venus, and Mars, O'Neill cylinders were among transhumanity's first large space habitat designs O'Neill cylinders are no longer built, having been replaced by more efficient designs, but are still home to tens of millions of transhumans.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Trouvé principalement dans les orbites de la Terre, de la Lune, de Vénus et de Mars, les cylindres O'Neill sont les premiers modèles d'habitats spatial de grande taille et ne sont plus construit, ayant été remplacés par des modèles plus efficace, mais ils abritent toujours des dizaines de millions de transhumains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>O'Neill cylinders were constructed from metals mined on Luna or Mercury, Lunar volatiles (including Lunar polar ice), and asteroidal silicates.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les cylindres O'Neill ont étté construits à parti de métaux extraits de la Lune ou de Mercure, de composés organiques volatiles Lunaire (y compris de la glace polaire) et de silicates d'astéroïdes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A typical O'Neill habitat is thirty-five kilometers long, eight kilometers in diameter, and rotates around its long axis at a speed sufficient for centrifugal force to create one Earth gravity on the inner wall of the cylinder.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un habitat O'Neill typique fait trente cinq kilomètre de long, huit de diamètre et tourne autour de son axe long à une vitesse suffisante pour fournir une gravité Terrestre sur les murs internes du cylindre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Smaller cylinders exist, though these usually feature lower gravity (typically Mars standard).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des cylindres plus petits existent, bien qu'ils fournissent généralement une gravité réduite (typiquement basée sur les standards Martiens).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cylinders are sometimes joined together, end-to-end, for extra long habitats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les cylindres sont parfois connectés les uns aux autres pour des habitats particulièrement longs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A spaceport is situated at one end on the rotational axis of the cylinder (where there is no gravity).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un spatioport est localisé à l'une des extrémité de l'axe de rotation du cylindre (où il n'y a pas de gravité).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Arrivals by space use a lift or microlight launch pad to get down to the habitat floor.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ceux qui arrivent par l'espace utilisent un ascenseeur ou des micro propulsuers pour descendre sur le sol de l'habitat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The inside of an O'Neill cylinder has six alternating strips of ground and window running from one cap of the cylinder to the other.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'intérieur d'un cylindre O'Neill est composé de six bandes alternant entre fenêtre et sol et s'tendant d'une extrémité du cylindre à l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>One narrow end of an O'Neill cylinder points toward the sun.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'une des extrémité du cylindre pointe directement sur le soleil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The opposite end is the mooring point for three immense reflectors angled to reflect sunlight into the windows.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'extrémité opposée est le point d'amarrage de trois gigantesque réflecteurs orientés pour refléter la lumière solaire dans les fenêtres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Smart materials coating the windows and reflectors prevent fluctuations in solar activity from delivering too much heat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des matériaux intelligents revêtent les fenêtre et les réflecteurs pour prévenir les fluctuations d'activité solaire et pour ne pas rediriger trop de chaleur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The air inside the cylinder and its metal superstructure provide radiation shielding.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>l'ai à l'intérieur du cylindre et de sa superstructure métallique fournissent une protection contre les radiations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The land in most O'Neill cylinders is one-third agricultural (a combination of food vats and high-yield photosynthetic crops), one-third park land, and one-third mixed use residential and business.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le sol dans la plupart des cylindres O'Neill est composé d'un tiers d'agriculture (une combinaison de cuves nourricière et des gigantesque champs photosynthétique), d'un tiers d'espace ouvert et public et d'un tiers d'espace mixte résidentiel/affaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>O'Neill habitats have a day and night cycle regulated by the position of the external mirrors.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les habitats O'neill ont un cycle jour/nuit régulé par la position des mirroirs extérieurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The business and residential sections of the cylinder usually alternate with the park land over two of the strips of land; cropland usually takes up the third.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les sections d'affaires et de résidences du cylindre est généralement alterné avec les espaces ouverts sur deux bandes de terrain; les terres de cultures occupent habituellement la troisième.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bridges cross the windows every kilometer or so, linking the land strips.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des passerelles traversent les fenêtre tous les kilomètres connectant les bandes de terrain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The interior climate, the architectural style of the structures, and the types of vegetation and fauna present vary with the tastes of the habitats' designers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le climat interne, le style architectural des structures et le type de faune et de flore présent peuvent varier en fonction des goûts des concepteurs de l'habitat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending upon size, O'Neill cylinders can house from 25,000 to 2 million people.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fonction de leur taille, les cylindres O'Neill puevent héberger de 25 000 à 2 millions de personnes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Tin Cans}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Boîte de conserve}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Antique research stations and survivalist prospector outposts often fit this description.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les stations de recherche antique et les avant-postes de prospecteurs survivalistes correspondent souvent à cette description.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tin can habitats are only a few notches up from the early 21st-century International Space Station.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les boîtes de conserves sont à peine plus évoluées que la Station Spatiale Internationale du début du 21° siècle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tin cans usually consist of one or more modules connected to solar panels and other utilities by an open truss.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elles sont généralement composées d'un modules ou plus, connectés à des panneaux solaires et à d'autres services par un treillis ouvert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Deluxe models feature actual floatways or crawlways between modules, while barebones setups require a vacsuit or vac-resistant morph to go from room to room.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les modèles de luxe disposent de canaux ou de voies de circulation entre les modules, alors que les configuration dépouillées nécessitent une exocombinaison ou une morph résitante au vide pour aller d'une pièce à l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Food growing capacity is severely limited and there may be no farcasters, but fabricators are available, as well as mooring for shuttles and perhaps prospecting craft.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les possibilités d'agriculture sont fortement limitées et il peut ne pas y avoir de lien farcast, mais les fabeurs sont disponible, ainsi que des points d'amarrage pour les navettes et les équipages de prospection.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tin cans rarely house more than 50 people.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les boîtes de conserve hébergent rarement plsu de 50 personnes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Toruses}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Tores}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Interchangeably called toruses, toroids, donuts, and wheels, these circular space habitats were a cheap alternative to the O'Neill cylinder used for smaller installations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Indifféremment appelés tore, donuts et roues, ces habitats spatiaux ciruclaires étaient une alternative bon marchés aux cylindres O'neill et ont été utilisés poru des installations plus petite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Like O'Neill cylinders, toruses are seldom constructed anymore, but many are still encountered in the inner system, particularly in Earth and Lunar orbit.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme els cylindres O'Neill, les tores ne sont plus construit actuellement, mais ils sont encore nombreux à être en service dans le système intérieur, plus particulièremen en orbite Terrestre et Lunaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A toroidal habitat looks like a donut 1 kilometer in diameter, rotating on great spokes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un habitat toroïde ressemble à un donut d'1 kilomètre de diamètre, tournant auatour de grands rayons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There is a zero-g spaceport at the wheel's hub.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a un spatioport en zéro-g au niveau du moyeu de la roue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Visitors take a lift down one of the spokes to the level of the donut, where rotation creates one Earth gravity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les visiteurs prennent un ascensseur le long de l'un des rayons jusqu'au niveau du donut, là où la rotation crée une gravité Terrestre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The plan of toroidal habitats varies greatly, as many were designed for specific scientific or military purposes and only later taken over as habitats by entrepreneurs or squatters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le plan des habitats toroïdes varient grandement, beaucoup d'entre eux ayant été conçus dasn un but scientifique ou militaire puis reconverti plus tard en habitat par des entrepreneurs ou des squatteurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many have a succession of decks in the donut.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup ont une succession de ponts dans le donut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most of those designed for long-term self-sufficient habitation have smart material-covered glass windows for growing plants along much of the inside surface of the torus.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La pluaprt d'entre eux ont été conçus comme des habitations pour le long-terme et auto-suffisante et ont donc des fenêtre en verre intelligent permettant de faire pousser des plantes sur une grande partie de la surface interne du tore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Toroidal habitats equipped for farming normally face the sun in a direction perpendicular to their rotational axis, but then use a slow processional wobble of that axis to create a day/night cycle.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les habitats toroïde équippés pour l'élevage sont géénralement orientés face au soleil perpendiculairement à leur axe de rotation, mais utilise ensuite une lente variation de cet axe pour créer un cycle jour/nuit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Toruses were usually built to accommodate small crews of 500 or fewer people, though some larger ones exist, able to house 50,000.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les tores ont générallement été construits pour supporter de petits équipages de 500 personnes ou moins, bien que de plus gros existent et soient capables d'héberger 50 000 persones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few rare double-toruses also exist, like two large wheels spinning in opposite directions, joined at the axis.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques rares habitats à double-tore existent, comme deux roues tournant des des snes opposés et connectés à leur axe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Immigration And Customs}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Douanes Et Immigration}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How characters gain entry to a habitat and what type of screening they're likely to undergo depends upon how they arrive.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La façon dont les personnage obtiennent l'accès à un habitat et le type de contrôle qu'ils subiront dépendent de la manière dont ils arrivent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some habitats are close to other settlements, while others are physically isolated by the vast, empty distances of interplanetary space.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains habitats sont proche d'autres abris, alors que d'autres sont physiquement isolés par les vastes distances interplanétaire et le vide spatial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Habitats in dense planetary systems receive most of their visitors via conventional space travel.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les habitats dans les systèmes planétaire relativement densent, reçoivent la plupart de leurs visites grâce au voyage spatial conventionnel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Immigration and customs infrastructure is geared toward receiving visitors via their spaceport, and the processing of arrivals is in most ways analogous to a twentieth century airport.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'infrastructure des douanes et de l'immigration est orienté vers l'acceuil des visiteurs au spatioport, et par la gestion ds arrivées d'une manière trés proche des aéroports du vingtième siècle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Isolated habitats, on the other hand, tend to receive almost all of their visitors via egocast.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les habitats isolés, d'un autre côté, tendent à recevoir la plupart de leurs visiteurs par egoscast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Physical Arrivals}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Arrivés Physiques}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Arrivals by spacecraft undergo, at minimum, an ego ID check, scans to detect pathogens, hostile nanobots, explosives, or radiation, and an inspection of their personal effects.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les arrivant par spatioport subissent, au minimum, une vérification d'identité de l'ego, des analyse pour détecter les apathogènes, les nanobots hostiles, les explosifs ou les raidations et une inspection de leurs effets personnels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some habitats go farther, including rigorous secondary screenings using scout nanoswarms scans of all electronic systems for malware, and/or aggressive interrogation of a fork of the subject.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains habitats vont plus loin, et incluent un contrôle secondaire rigoureux, en utilisant des essaim de nanites pour analyser tout le matériel électronique à la recherche de virus et/ou une interrogation agressive d'un fork du sujet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even autonomist enclaves enforce automated scans for anything that might pose a danger to the habitat or any signs of hypercorp saboteur efforts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même les enclaves autonomistes effectuent une analyse automatique à la recherche de tout ce qui pourrait mettre en danger l'habitat ou d'un signe d'efforts de sabotage hypercorporatiste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Restricted goods vary according to local legalities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les marchandises restreintes varient en fonction des lois locales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many habitats, particularly those controlled by autonomist or criminal factions, allow personal weaponry as long as its nothing you can use to blow a hole in the structure or indiscriminately kill dozens of people.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De nombreux habitats, et en particulier ceux qui sont contrôllés par les autonomistes ou les factions criminelles, autorisent l'armement personnel tant que rien de ce que vous utilisez ne puisse eprcer la coquee de l'habitat ou tuer des douzaines de personnes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Others, notably the Jovian Republic and hypercorp stations, disallow lethal weapons of all kinds, except for people who have acquired special permits and authorization (sometimes available by bribing the right people or pulling favors with rep).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres, et notablement la République Jovienne et les stations hypercorporatistes, interdisent les armes léthales de tout type, à l'exception des personnes qui ont acquis des permis et des autorisations sépcifiques (et souvent disponibles en achetants les bonnes personnes ou en obtenant des faverus par la rep).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nonlethal weapons are generally allowed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les armes non léthales sont géénralement utilisées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other restricted items may include nanofabricators, nanoswarms, malware and hacker software, drugs and narcoalgorithms, certain types of XP recordings, covert operations tools, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres objets restreint peuvent inclure les nanofabbeurs, les essaims de nanites, les virus et logiciels de piratage, les drogues et narcorithme, certains type d'enregsitrements XP, les outils d'opérations clandestines, et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Certain types of morphs may also be restricted, such as reapers, furies, or uplifts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certians type de morphs peuvent aussi être restreinte, telles que les reapeurs, les furies et les élevés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Certain habitats may insist that visitors—or at least the ones they don't like the looks of—submit to specific forms of monitoring or surveillance for the duration of their stay.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains habitats insistent pour que les visiteurs - ou au moins ceux dont ils n'aiment pas la tête - se soumettent à des formes de surveillance ou de supervision spécifique pendant la durée de leur séjour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This might include taggant nanoswarms, hosting a police AI in your mesh inserts, or even physical tailing by an armed security drone.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela peut inclure des nuée de nanites marquantes, d'héberger une IA de police dans votre insert de mesh ou même d'être physiquement attaché à un drône de sécurité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other stations will require that their visitors leave a fork as a form of collateral at the door—in case they commit a crime, the fork can be interrogated.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres stations vont nécessiter que leurs visiteurs leur laisse un fork en guise d'assurance - au cas où ils commettent un crime, le fork peut-être interrogé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finally, though rare, some habitats go so far as to charge all visitors an ``air tax''—a fee for using the station's publicly available resources while they are present.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Enfin, et bien que rare, certains habitats vont jusqu'à charger tous les visiteurs d'une &quot;taxe aérienne&quot; - une taxe sur l'utilisation des ressources publiquement disponibles pendant qu'ils sont présent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is generally only common in isolated habitats with strained resources, and is considered especially obnoxious by most autonomists.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est généralement fréquent dans les habitats isolés avec des ressources rationnées et est considéré comme particulièrement odieux par la plupart des autonomistes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some syndicates run a good business in smuggling certain goods or even people into habitats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains syndicats font beaucoup d'affaires dans la contrebande de certaines marchandises ou même de personens vers les habitats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is generally accomplished through bribed security personnel, but is also sometimes handled as falsified credentials that will allow the subject to breeze past security checks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela est géénrallement accompli grâce à du personnel de sécurit corrompu, mais c'est aussi parfois géré par des autorisations falsifiée qui permettrons au sujet d'ignorer les contrôles de sécurité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Such services are typically quite expensive.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De tels services sont généralement chers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For those hoping to gain quiet and unobserved access, there is always the option of taking a spacewalk and trying to break in through an unattended airlock.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour ceux qui espèrent pouvoir entrer discrètement, il y a toujours l'option de faire une ballade dans l'espace et d'essayer de rentrer par un sas non-surveillé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Such attempts are quite often dangerous and futile, as most habitats have dedicated sensor and security systems to monitor their exterior surface and in particular any access points.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De tels tentatives sont relativement dangereuses et inutile, la plupart des habitats ont des capteurs et des systèmes de sécurités dédiés à la surveillance de la surface externe et des points d'entrée en particulier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Still, it is a possibility for a resourceful team with a skilled hacker, though armed sentry bots are a particular danger.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Mais cela reste une possibilité pour une équipe pleine de ressource avec un hackeur compétent, les bots de périmétrique lourdement armés représentant un danger particulier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Social Networks}</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
