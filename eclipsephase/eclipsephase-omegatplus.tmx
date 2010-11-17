@@ -46798,6 +46798,534 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Identity</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Identité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Given the nature of resleeving technologies, identity is a fluid concept in &lt;i0&gt;Eclipse Phase.&lt;/i0&gt; Transhumans are used to the idea of identifying people by how they look or even by their biometric data, but this is no longer a certified method.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vu la nature des technologies de réincarnation, l'identité est un concept fluide à &lt;i0&gt;Eclipse Phase.&lt;/i0&gt; Les transhumains sont habitués à l'idée d'identifier une personne par leur apparence ou mrme par leur données biométriques, mais ce n'est plus une méthode certifiée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What you look like may drastically change from one day to the next.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Votre apparence peut changer drastiquement d'un jour à l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may see an olympian you recognize, but perhaps it's been awhile, so you're no longer certain that it's the same person still in that morph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous pouvez croiser un olympien que vous reconnaissez, mais ils e peut que cela fasse un peu de temps depuis la dernière fois, et vous n'êtes donc plus vraiment sûr que c'est la même personne dans cette morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you're sleeved in a popular off-the-rack morph, there may be hundreds of other cloned morphs that look exactly like you out there—perhaps useful if you desire to blend in.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous êtes incarné dans une morph de série populaire, il peut y avoir des centaines d'autres morphs clônés qui ont exactement la mrme apparence que vous - cela peut-être utile si vous voulez vous fondre dans la masse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Similarly security services can no longer rely on biometric technologies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, les services de sécurté ne reposent plus sur les technologies de biométrie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Forensics may be able to identify an individual morph's presence at a crime scene, but proving who was in that morph at the time is another matter.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La criminalistique permet d'identifier la présence d'une morph en particulier sur une scène de crime, mais elle ne peut prouver qui était dans cette morph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Identity is, of course, tied to ego, and various authorities have instituted verification and security measures based on this.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien entendu, l'identité est liée à l'ego et certaines autorités ont instituée des vérifications et des mesures de sécurité basées dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Within the inner system, each ego is given an ID number, which is used to validate their identity, citizenship, legal status, credit accounts, licensing, etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans le ssytème intérieur, chaque ego reçoit un numéro d'ID, qui est utilisé pour valider son identité, sa citoyenneté, son statut légal, ses comptes, ses permis, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This ego ID is verifiable by the person's brainwave patterns, which remain the same even when resleeving.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cet ID d'ego est vérifiable par la forme des ondes cérébrales d'une eprsonne, qui restent inchangée, même après une réincarnation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When an ego uploads, the uploading service is required to incorporate this ego ID into the person's backup/infomorph.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsqu'un ego s'upload, le servie d'upload doit intégrer cet ID d'ego dans la sauvegarde/l'infomorph de la personne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, when that person resleeves, the service handling the procedure is required by law to verify the ego's ID before downloading The ego ID is then hardcoded into the morph itself in the form of a nanotattoo on the tip of the person's index finger.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De même, lorsqu'une personne se réincarne, le service s'occupant de la procédure est contraint par al loi de vérifier l'ID d'ego de la personne avant de la télécharger. l'ID d'ego est ensuite codé en dur dans la morph sous la forme d'un nanotatouage à l'extrémité de l'index de la perosnne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This nanotat can be easily scanned at security checkpoints to verify identity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce nanotatouage peut être facielemnt scanné lors des contrôles de sécurité pour vérifier l'identité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though efficient, this system is far from perfect.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que ce système soit efficace, il est loin d'être parfait.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For one, ID record-keeping is far from standardized and varies drastically from habitat to habitat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, conserver une trace de l'identité est loin d'être standardisé et varie drastiquement d'un habitat à l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most do not share records with each other unless they are part of the same political alliance in order to protect their citizens' privacy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart ne partagent pas ces enregsitrements avec les autres afin de protéger la vie privée de leur citoyens, à moins qu'ils ne fassent partis de la même alliance politique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, Lunar-Lagrange Alliance stations do not share citizenship ID data with the Planetary Consortium, though they do share with each other.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, les stations de l'alliance Lunaire-Lagrange ne aprtagent pas les données d'identité de leur citoyens avec le Consortium Planétaire, bien qu'ils les partagent entre eux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On top of this, many identity records were lost during the Fall, a situation that was undoubtedly exploited by those who preferred to erase their past or adopt a new persona.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En plus de cela, beaucoup d'enregistrement d'identité ont été perdus pednant la Chute, une situation qui a trés probablement été exploitée par ceux qui ont préférés effacer leur passé ou adopter une nouvelle identité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These all make for a situation where identity records are patchwork at best.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tout cela fait que les enregistrement d'identité sont, au mieux, un patchwork.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Officials must also rely on the security of other habitats for ID verification.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les officiels doivent également faire avec la sécurité d'autres habitats pour les vérifications d'identité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a person egocasts to Nectar on Mars from Qing Long in the Martian Trojans, and the Nectar officials have no record of this person, they can only trust that the Qing Long officials did their job when verifying the subject's ID and background.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si une personne s'egocast de Qing Long dans les Troyens Martiens vers Nectar sur Mars, et que les officiels de Nectar n'ont aucun enregistrement de cette personne, ils sont obligés de faire confaicne au travails des officiels de Qing Jong lorsqu'ils ont vérifiés l'identité et le passif du sujet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To make matters worse, many autonomist habitats operate without identity checks altogether.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour empirer les choses, beaucoup d'habitats autonomistes fonctionnent sans vérification d'identité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though some ID measures are still used, both to prevent reputation system gaming and to be able to identify bodies in the case of death, these uses are significantly more lax and few records are kept.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que certaines mesures d'identification, à la fois pour limiter de tricher avec le système de réputation et pour être capable d'identifier les corps en cas de décés, ces utilisation sont significativement plus laxe et peu d'enregistrements sont conservés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Therefore, when autonomists and the like egocast to habitats that require ID, they are assigned a temporary ID for the duration of their stay (and sometimes any future visits).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Et donc, lorsque les autonomistes et équivalent s'egocast vers des habitats nécessitant une identité, ils en reçoivent une temporaire pour la durée de leur séjour (et parfois pour les visites futures).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Identity Verification}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Vérification d'identité}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are three ways to verify someone's identity: nanotat scan, brainwave scan, and checking the cryptographic hash on a digital mind.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>il y a trois façon de vérifier l'identié de quelqu'un: analyse de nanotatouage, analyse des ondes cérébrales et vérification d'un hachage cryptographique de l'esprit numérique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Nanotat Scans}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Analyse de Nanotatouage}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Special encoded nanobots are used to create a small nanotat on a person's index finger.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des nanbobots spécialement codés sotn utilisés pour créer un petit nanotatouage sur l'index d'une personne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These nanobots contain encoded information that includes their name and identity, brainwave pattern, citizenship/legal status, credit account number, insurance information, and licenses.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces nanobots contiennent de l'information encodées qui inclut le nom et l'identité d'une personne, ses motifs d'ondes cérébrales, ca citoyenneté/son statut légal, son numéro de comtpe, ses informations d'assurance et ses permis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending on the local habitat laws, it may include other information such as criminal history, travel history, restricted implants, employment records, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En focntion des lois locales, il peut inclure d'autres informations telles que le casier judiciaire, l'historique des voyages, les implants restreints, l'historique d'embauche, et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This nanotat may be read by anyone with a special ID scanner that reads the nanobot encoding.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce nanotatouage peut-être lu par quiconque ayant un scanner d'identité spécifique et qui peut lire l'encodage des nanobots.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ID nanotats include information on the company that did the resleeving, so that the data may be accessed and verified with their records online.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les nanotatouages d'ID incluent des informations sur la société qui a effectué la réincarnation, pour que les données soient accessibles et qu'elles pusisent être vérifiées avec les enregistrements en ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The data on the nanotat is also cryptographically signed with the company's public key, meaning that anyone who checks the data and the signature online can tell if the data has been altered.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les données sur le nanotatouage sont également signé cryptographiquement avec la clef publique de la société, ce qui signifie que quiconque vérifie les données et la signature en ligne peut déterminer si les données on été altérées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Brainwave Scans}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Analyse d'Onde Cérébrale}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Brainwave scans are one of the few types of biometric prints that stay with an ego no matter what morph it is in.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les analyse d'ondes cérébrales sont l'une des rares empreintes biométriques qui suivent un ego peut importe la morph qu'il occupe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are impractical for most security purposes as they require a scan with a combination electroencephalogram and neuroimaging device, referred to as a brainprint scanner, which takes approximately 5 minutes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elles sont inutilisable pour la plupart des objectsif de sécurité car elles nécessitent une analyse avec une combinaisp, électroencépholgramme et des appareils de neuroimagerie, appelé un scnanner d'empreinte cérébrale, ce qui prend en moyenne 5 minutes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This device measures the subject's baseline brainwave pattern as well as the subject's brainwave signature responses when they think certain thoughts</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cet apapreil mesure le motif de base des ondes cérébrales ainsi que la signature d'onde cérébrale du sujet en réponse à certaines pensées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>or sense certain patterns.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>ou à la perception de certains motifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These scans are all but impossible to fool, however, barring hacking of the brainprint scanner itself, and so are considered quite reliable.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces analyses sont cependant quasiment impossible à tromper, à l'execption du piratage du scanner d'empreinte cérébrale lui-même, et sont donc considéré comme extrêmement fiable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For this reason they are occasionally used in high-security facilities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils sont donc occasionnellement utilisés dans des installations de haute-sécurité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is worth noting that infection by some variants of the Exsurgent virus, notably the Watts-Macleod strain (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela vaut le coup de signaler que l'infection par certaines variantes du virus Exsurgent, notamment la souche Watts-MacLeod (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>367), sometimes alters a person's brainwave patterns, but not in every case.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>367), peuvent parfois altérer la forme d'onde cérébrale bien que ce ne soit pas systématique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Digital Code}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Code Numérique}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Digital ID codes are often incorporated into backups and infomorphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des codes d'identité numériques sont souvent incorporés dans les sauvegardes et les infomorphs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Not only does this help identify who the backup belongs to, but it serves as an electronic signature for verifying ID when the backup is to be resleeved.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela permet de savoir plus facilement à qui appartient une sauvegarde, mais cela sert aussi de signature électronique pour vérifier une identité lorsqu'une sauveagrde va être réincarné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This digital code typically contains the same information as the nanotat ID, and is signed with a cryptographic hash that makes it difficult to forge and which can be verified online.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le code numérique contient généralement la même information que le nanotatouage d'ID, et est signé par un hash cryptographique qui rend la falsficiation complexe et qui peut être vérifié en ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AIs and AGIs also feature such built-in codes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les IA et les IAG possèden t également de tels code intégrés à leur structure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Circumventing ID Checks}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Contourner les Vérification d'Identité}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firewall sentinels and clandestine agents often have a need to hide or alter their identities.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les sentinelles de Firewall et les agents clandestins ont souvent besoin de cahcer ou de modifier leurs identités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While ID system are challenging, they are not insurmountable.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que les systèmes d'identification soient difficiles à battre, ils ne sont pas insurmontables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Fake IDs}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Faux ID}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The easiest way to bypass security checks is to establish a fake ID.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La méthode la plus simple de contourner les vérificatiosn de sécurité est d'obtenir un faux ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Given the patchwork nature of identity records and the lack of any centralized authority, this is not very difficult.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Étant donné la nature parcellaire des enregistrements d'identité et le manque d'autorité centrale, ce n'est pas spécialement difficile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Numerous crime syndicates and even some autonomist groups maintain a thriving ID fabrication business, often with complete histories and medical covers for implants that might be restricted or illegal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De nombreux syndicats du crime et même certains groupe autonomistes maintiennent un marché prospère de fabrication d'identité, souvent avec des historiques complets et une couverture médicale pour tous les implants qui peuvent être restreints ou illégaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These IDs are usually registered with habitats that are either known criminal havens, have autonomist sympathies or are isolated and remote.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces identités sont générallement enregistrés auprès d'habitats qui sont soit connus pour être des bases criminelles, soit avoir des sympathies autonomistes ou qui sont isolés et distant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though the ID is actually verifiable and registered with these stations, the potential shady origins of such IDs is known to most inner system authorities and so the character may be exposed to extra scrutiny or monitoring.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que l'identité soit réellement vérifiable et enregistrée auprès de ces stations, les origines potentiellement douteuses de telles identités sont connus de la plupart des autorités du système intérieur et un personnage pourrait donc être exposé à des vérifications ou à une surveillance plus poussée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fake IDs may be acquired that are registered with more respected authorities but this often requires a much higher expense or connections to hypercorp clandestine operations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des faux ID enregistrés auprès d'autorités plus respectés peuvent être acquis, mais cela nécessite souvent un investissement plus élevé ou ds connexions aux opérations clandestines des hypecroporations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Black market darkcast and resleeving options offer fake IDs as a matter of course.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>bien entendu, les options de réincarnation et de darkcast du marché noir fournissent également de faux ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Altering Nanotat IDs}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Modifier les Nanotatouages d'ID}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Special nanobot treatments may be manufactured to erase, rewrite, or replace nanotat IDs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des traitemenst de nanpmachines spécifiques peuvent être conçus pour effacer, réécrire ou rempalcer les nanotatouages d'ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Erasing a nanotat is easy, but not having one is a crime and immediate grounds for suspicion in many habitats.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Effacer un nanotat est facile, mais ne pas en avoir un est unc rime et déclenches la suspicion immédiate dans beaucoup d'habitat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rewriting a nanotat is also easy, though this means that the nanotat will fail its authorization online unless the encryption has also been cracked (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Réécrire un nanotatouage est également relativement simple, bien que cela imlique que le nanotatouage échouera à sa validation en-ligne sauf si le chiffrement a également été cassée (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Replacing a nanotat ID with a fake one is just as possible, and is part of the process of acquiring a fake ID.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Remplacer un nanotatouage avec un faux est également possible, et fait parti des opérations de récupération de fausse identité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Digital ID Tampering}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Falsification d'ID Numérique}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Digital ID codes may also be tampered with, though like nanotat IDs this will mean that the ID fails online verification unless the encryption is also defeated (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les codes d'ID numériques peuvent également êre falsifié, bien que, comme pour les nanotatouages d'ID, cela signifiera que l'identité échoueras aux vérifications en-ligne sauf si le chiffrement est également cassé (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Life In Space</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Vie Dans l'Espace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Social Networks}</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
