@@ -48630,6 +48630,358 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>In order to create an object in a nanofabricator (whether a cornucopia machine, fabber, or maker; see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Afin de créer un objet dans un nanofabeur (qu'il s'agisse d'une machine d'abondance, d'un fabeur ou d'un faiseur; voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>327), three things are needed: raw materials, blueprints and time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>327), trois choses sont nécessaires: des matériau bruts, des plans et du temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Raw Materials}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Matériaux Bruts}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Raw materials are generally easy to acquire, as most nanofabricators are equipped with disassembler units that will break down just about anything into its constituent molecules.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les matériau bruts sont générallement facile à acquérir, la plupart des nanofabeurs sont équipés d'unité de désassemblage qui sont capable de réduire à peu près tout en molécules consistantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Feedstock may also be purchased (at a cost of Trivial).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des cartouches peuvent aussi être achetée (à un prix Trivial).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many habitats route their recycling and waste products directly into disassemblers.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>beaucoup d'habitat rediregent leur système de gestion des déchets et de recyclage directement dans les désassembleurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Blueprints}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Plans}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most nanofabricators are pre-loaded with blueprints for general purpose items: food, simple clothing, basic tools, etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des nanofabeur sont pré-chargés avec des plans d'usage général: nourriture, vêtements de base, outils basique, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Blueprints for other goods may be acquired in several ways:</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les plans pour d'autres biens peuvent  être acquis de différentes manière:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They may be purchased online (legally or on the black market).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils peuvent être achetés en ligne (légalement ou via le marché noir).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u1&gt; They may be found for free online (see below).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u1&gt; Ils peuvent être trouvés gratuitement en ligne (voir plus bas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u2&gt; They may be acquired with Rep, following the usual rules for social networking (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u2&gt; Ils peuvent être récupéré par dela Rep, en suivant les règles habituelles des réseaux sociaux (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u3&gt; They may stolen (usually by hacking a mesh site or a nanofabricator containing such plans).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u3&gt; Ils peuvent être volés (généralement en piratant un site mesh ou un naofabeur contenant de tels plans).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;u4&gt; They may be self-programmed (see below).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&lt;u4&gt; Ils peuvent être auto-programmés (voir plus bas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once the blueprints are acquired, they are simply loaded into the nanofabricator.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois que le plan a été récupéré, ils peuvent être simplement chargés dans le nanofabeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Open Source Blueprints}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Plans Open Source}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Blueprints for many goods may be found for free online, disseminated by an active open source software movement.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les plans de nombreux bien peuvent être trouvé librement en ligne, disséminés par un mouvement open source dynamique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The availability of such plans typically depends on the local mesh.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La disponibilité de tels plans dépend générallement du mesh local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In autonomist habitats, a simple Research Test is likely to turn up the open source blueprints you need (applying modifiers for unusual items).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les habitats autonomistes, un simple Test de Recherche est suffisant pour trouver les plans open source dont vous avez besoin (en appliquant des modificateurs pour les objets inhabituels).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In more restricted habitats, open source blueprints may be harder to find, as they will be securely hidden from the prying eyes of the authorities In this case, the character will need to use their Rep to gain access, bribe a local hacker group, or do something similar.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les habitats plus restrictifs, les plans open source peuvent être plsu difficile à trouver, puisque qu'ils seront cachés et tenues à l'écart des yeux des autorités. Dans ce cas, le personnage devra utiliser sa Rep, payer un groupe de hackeur locaux ou quelque chose de similaire pour pouvoir accéder aux plans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that restricted nanofabricators may not accept open source blueprints (see &lt;i0&gt;Blueprint Restrictions&lt;/i0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Notez que les nanofabeurs restreint peuvent ne pas accepter les plans open source (voir &lt;i0&gt;Restrictions des Plans&lt;/i0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Blueprint Restrictions}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Restrictions des Plans}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some nanofabricators are equipped with pre-programmed restrictions not to accept blueprints for restricted items (such as weapons) or non-licensed items (such as black market or open source blueprints).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Certains nanofabeur sont équipés de restrictions pré-programmés pour ne pas accepter de plans pour des objets restreints (tels que les armes) ou des objets sans licence (tels que les plans issus du marché noir ou open source).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These restrictions may be circumvented by hacking the nanofabricator and re-programming it, following normal hacking rules (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces restrictions peuvent être contournés en piratant le nanofabeurs et en le re-programmant, en suivant les règles de piratage normale (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Programming Blueprints}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Programmation de Plans}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A dedicated character may simply decide to program their own blueprints, though this is a time-consuming endeavor.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage motivé peut simplement décider de programmer ses propres plan, bien que c'est une activité consommatrice de temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To do so, the character must make a Programming (Nanofabrication) Test with a timeframe of one week per cost level of the item.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour y parvenir, le personnage doit faire un Test de Programmer (Nanofabrication) avec un intervalle d'une semaine par niveau de prix de l'objet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, a Trivial cost item takes 1 week, a Low cost item takes 2 weeks, a Moderate item 3 weeks, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, un objet de prix Trivial nécessite 1 semaine, un objet à prix Bas nécessite 2 semaines, un prix modéré en nécessite 3, et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Academics Nanotechnology skill or a skill appropriate to the object's design may be used as a complementary skill (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une compténce Académique: Nanotechnology ou une autre appropriée à la conception de l'objet peut-être utilisée comme compétence complémentaire (voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>173) for this test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>173) pour ce test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A fork or muse may also be assigned to such a programming task.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un fork ou une muse peut également être assigné à une telle tâche de programmation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Time}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Temps}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once the raw materials and blueprints are in, most nanofabrication is simply a matter of time.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois que les matériaux bruts et les schémas sont prêts, la plupart des nanofabeurs n'ont besoin que de temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The exact timeframe to create an object varies, but roughly approximates 1 hour per cost category of the item (1 hour for Trivial, 2 for Low, 3 for Moderate, etc.).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'intervalle exact pour créer un objet varie, mais est grosso modo équivalent à 1 heure par catégorie de prix de l'objet (1 heure pour Trivial, 2 pour Bas, 3 pour Modéré, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster may feel free to modify this period as appropriate for the object.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maîþre de jeu doit se sentir libre de modifier cette période de manière appropriée à l'objet créé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{The Programming Test}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Le Test de Programmation}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nanofabrication is typically handled as a Programming Nanofabrication Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La nanofabrication est généralement gérée par un Test de Programmer: Nanofabrication.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In most cases, this can be treated as a Simple Success Test (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Généralement, il s'agît d'un Test de Réussite Simple (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>118), with a failed roll simply indicating that the item has some minor imperfections, or perhaps took longer to make.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>118), un jet raté indiquant simplement que l'objet à quelques imperfections mineures, ou prend plus de temps à faire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In some cases, the gamemaster may call for an actual Success Test, meaning that failure is more of a possibility.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans certains cas, le maître de jeu peut demander un Test de réussite standard, indiquant que l'échec est plus qu'une possibilité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This should only be done for items that are exotic, extremely complicated, or for which the blueprints are incomplete or otherwise suspect.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela ne devrait être fait que pour les objets exotique, extrêmement complexes ou pour ceux dont les plans sont incomplets ou suspects.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This test can also be made if the raw materials are limited.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce test peut aussi être fait si les matériaux de bruts sont limités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character operating the nanofabricator can make this test or it can be left up to the nanofabricator's built-in AI.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le personnage manipualnt le nanofabeur peut faire ce test ou il peut être laissé à la charge de l'IA intégrée au nanofabeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most such Such AIs have a Programming (Nanofabrication) skill of 30 (see &lt;i0&gt;AIs and &lt;/i0&gt; &lt;i1&gt;Muses,&lt;/i1&gt; p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De tels IA ont une compétence de Programmer (Nanofabrication) de 30 (voir &lt;i0&gt; IA et Muses&lt;/i0&gt;&lt;i1&gt;,&lt;/i1&gt; p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Social Networks}</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
