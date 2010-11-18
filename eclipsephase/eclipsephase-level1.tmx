@@ -48982,10 +48982,1602 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Reputation And Social Networks</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Réputation et Réseaux Sociaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>``Once upon a time, there was a planet so incredibly primitive that its inhabitants still used money.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>&quot;Il était une fois, il y avait une planète tellement primitive que ses habitants utilisaient encore de l'argent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>That planet is called ‘Mars.'''</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette planète s'appelait 'Mars'.&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>—Professor Magnus Ming, Titan Autonomous University</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>— Professeur Magnus Ming, Université Autonome de Titan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The conflict between market capitalism and other forms of economics is one of transhumanity's last great culture wars, and it's still being fought.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le conflit entre l'économie de marché et d'autres formes d'économie est l'une des plus grande guerre culturelle de la transhumanité, et elle n'est toujours pas terminée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transhumanity's expansion into the solar system created myriad opportunities to experiment with new economic systems Many failed, but the reputation economies of the outer system have proven both utilitarian and robust in a way that no previous challenger to market capitalism has managed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'expansion transhumaine à travers le système solaire a créé une myriade d'opportunité pour expérimenter de nouveau systèmes économiques. beaucoup ont échoués, mais l'économie réputationnelle du système extérieur s'est montré à la fois utilisable et robuste d'une manière qu'aucun adversaire de l'aconomie de marché n'avait atteinte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The reputation economy, sometimes called the gift economy or open economy, is one in which the material plenty created by nanofabrication and the longevity granted by uploading and backups have removed considerations of supply versus scarcity from the economic equation—destroying classical economics in the process.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'économie réputationnelle, parfois appelée économie du don ou économie ouverte, est l'une dans laquelle l'abondance créée par la nanofabrication et la longévité accordée par l'upload et la sauvegarde ont permis de supprimer les considérations d'approvisionnement contre rareté de 'léquation économique - détruisant l'économie classique dans le procédé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The regimented societies of the inner system and the Jovian Junta have used societal controls and careful regulation of the technologies of abundance on their populations, thus keeping to a transitional economy system that is largely an outgrowth of classical economics.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les sociétés régulés du système intérieur et la Junte Jovienne ont utilisé un contrôle sociétale et une régulation attentive des technologie d'abondance dans leur population, les maintenant dans une économie transitionnelle qui est largement une extension des économies classique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No one could get away with doing this in the outer system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Personne ne pourrait s'en tirer avec un tel système dans le système extérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the Trojans and Greeks, much of the belt, free Jupiter, and anywhere outward from Saturn, the reputation economy rules.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les Troyens et les Grecs, l'essentiel de la ceinture, la partie libre de Jupiter, et partout à partir de SSaturne, l'économie réputationnelle domine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How did this happen?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comment cela est arrivé?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For one thing, money is a nuisance when you're an autonomous member of an autonomous collective whose nearest three neighbors (each 100,000 kilometers away) are also autonomous collectives.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'une aprt, la monnaie est une nuisance lorsque vous êtes un membre autonome d'un collectif autonome dont le voisin le plus proche (à au moins 100 000 kilomètres de là) est également un collectif autonome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All of you are almost completely self-sufficient in terms of material resources.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous êtes tous complètement auto-suffisant d'un point de vue des ressources matérielles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have a fleet of robots that harvest water, volatiles, reactor mass, metals, and silicates.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous avez une flotte de robot qui moissone l'eau, les composés organiques volatiles, les masses réactives, les métaux et les silicates.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have a nanofabricator to make all of your small items, a community factory for large ones, and a machine shop where you can build anything else—with help and advice from an AI with the combined knowledge and experience of a top flight engineering team, if you even need it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous avez un nanofabeur pour fabriquer tous les petits objets, une usine communautaire pour les plus gros et un atelier automatisé ou vous pouvez fabriquer tout le reste - avec l'aide et les conseils d'une IA ayant l'expérience et les compétences combinées d'une équipe de conception de haut-vol, si jamais vous en avez besoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You grow your own food.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous faites pousser votre propre nourriture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Money is for people who don't know how to take care of themselves.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'argent est pour les personnes qui ne savent pas prendre soin d'eux-même.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transhumanity is only a few decades away from being a mature Type I Kardashev civilization, having largely mastered the material resources of its own solar system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La transhumanité n'est qu'à quelques décennies d'être une civilisation Kardashev mature de Type I, ayant largement maîtrisé les ressources matérielle de son propre système solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character from the outer system most likely finds the whole concept of money an embarrassment.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un personnage du système extérieur trouvera probablement le concept de monnaie comme génant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, material abundance hasn't eliminated the value of certain goods and services.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cependant, l'abondance matérielle n'a pas éliminé la valeur de certains biens et services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A transhuman's lunch might be free, but innovative ideas, new designs, health care, sex, and dirty work don't grow in fabricators.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le repas d'un transhumain est peut-être gratuit, mais des idéées innovantes, une nouvelel conception, les soins médicaux, le sexe et le sale boulot ne pousse pas dans les fabeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What if you need gene therapy on your morph to grow infrared sensing cells on your face?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Que se passe-t-il si vous avez besoin d'une thérapie génique pour vous faire pousser des cellule senseibles aux infrarouges sur votre visage?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How about someone to assassinate your renegade beta fork after she set off a hallucinogen grenade at your gallery opening and kidnapped your boyfriend?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Et si vous voulez assassiner votre fork béta renégat après qu'elle ait balancé une grenade hallucinogène lors du vernissage de votre gallerie et qu'elle ait kidnappé votre petit copain?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What if you really need a spanking?</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Et si vous avez réllement besoin d'une fessée?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You call on your social network.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous faites appel à votre réseau social.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If your network is sufficiently deep and numerous, and your reputation is good enough, someone will help you out.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si votre réseau est suffisant densément peuplé et que votre réputation est suffisament bonne, vous trouverez quelqu'un pour vous aider.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the inner system, the reputation economy doesn't replace money for the exchange of goods and services, but it does hold sway over the network of favors and influence.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans le système intérieur, l'économie de réputation ne remplace pas la monnaie pour l'échange de biens et de services, mais elle règne sur un réseau de faveurs et d'influence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Calling on contacts, getting information, and making sure you're in the best place to see and be seen all involve calling on your social network.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Appeler vos contacts, obtenir de l'information et s'assurer que vous êtes au meilleur endroit pour voir et être vu, tout cela implique de faire appel à votre réseau social.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Social Networks}</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>{Réseaux Sociaux}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Social networks represent the people you know, and the people they know, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les réseaux sociaux représentent les perosnnes que vous connaissez, ceux qu'ils connaissent et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It starts with your friends and family, spreads out to your co-workers, neighbors, and colleagues, and expands all the way out to your acquaintances, from the neo-hominid waitron at your favorite cafe to the sylph you flirt with at the club.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il commence avec vos amis et votre famille, se propage à vos collègues, voisins et co-travailleirs et s'étend jusqu'à vos connaissance, de la serveuses néo-hominidée de votre café préféré à la sylph avec qui vous avez flirté en boîte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the always-online, fully-meshed universe of Eclipse Phase, this goes even further, encompassing all of the people you've linked to via social mesh networks, everyone who watches your blog/lifelog/updates, and everyone you interact with on various mesh forums.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans l'univers perpétuellement en ligne et entioèrement meshé d'Eclipse Phase, cela va encore plus loin, englobalnt toutes les personnes avec qui vous vous êtes liés via les réseaux sociaux sur le mesh, quiconque suit votre blog/lifelog/mises à jour, et tout ceux qui interagissent avec vous sur différents forums du mesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now add in the friend-of-a-friend factor, and everyone has an impressive ability to reach out to people they know, people they sort of know, and people you don't know but who are somehow linked to you in one degree or another.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ajoutez-y maintenant les amis d'amis et tout ceux qui ont l'impressionante capacité à atteindre les eprsonnes squ'ils connaissent, ceux qu'ils connaissent de vue et ceux que vous ne connaissez pas mais qui vous sont connectés d'une manière ou d'une autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Of course, social networks are not homogeneous.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien entendu, les réseaux sociaux ne sont pas homogènes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Among the ever-diversifying ranks of transhumanity, there is a tendency to coalesce around various shared characteristics, whether those be cultural background, personal interests, professional ties, local connections, political affiliations, subcultural obsessions, or simply common interest from being part of the same subspecies clade.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Parmi les rang évoluant constament de la transhumanité, il y a une tendance à se regrouper autour de différentes caractéristiques communes, qu'il s'agisse d'un historique culturel, d'intérêts personnels, de liens professionels, de connexion locale, d'affiliations politiques, d'obessions sous-culturelle ou simplement d'intérêts communs tels que faire partie de la même clique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The social network of an info-anarchist hacker is likely to bear little resemblance to that of a hypercorp socialite or an isolate brinker.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le réseau sociale d'un hackeur info-anarchiste n'aura que peu de point commun avec celui d'une célébrité hypercorporatiste ou de celui d'un bordé isolé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nevertheless social networks quite frequently overlap, often in unexpected and interesting ways.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Néanmoins, les réseaux sociaux se recoupent relativement fréquement, souvent de manière inattendue et intéressante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most people can be considered members of several different types of social networks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La plupart des personnes peuvent être considérés comme membres de différnts type de réseaux sociaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This overlap is what links disparate groupings of transhumans together.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette superposition est ce qui connecte ensemble des groupes ddisparates de transhumains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Networking}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Réseau}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Just being connected, of course, doesn't mean you have several thousand idle transhumans at your beck and call.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Être simplement connecté ne signifie bien entendu pas que vous avez plusierus milliers de personnes disponibles à la demande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you hope to gather the latest gossip, get advice from an expert, find someone who can fix your problems acquire a piece of gray market tech, or spread a meme, you need to know both who to talk to in that social network and how to go about getting what you need, especially if you hope to keep things quiet and not raise any flags.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous espérez rassembler els dernières rumeurs, obtenir des conseils d'un expert, trouver quelqu'un qui peut résoudre votre problème, acquérir de la technologie du marché gris ou propager un mème, vous avez besoin de savoir à la fois à qui parler dans ce réseau social et comment obtenir ce dont vous avez besoin, particulièrement si vous espérez gardez le tout discret sans attirer l'attention.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is where your Networking: [Field] skills come in (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est là que votre compétence Réseau: [Domaine] entre en jeu (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Networking represents your ability to maneuver through this web of personal and impersonal connections to find who and what you need.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Réseau représente votre capacité à manœuvrer dans cette toile de connexions personnelle et impersonnelles pour trouver ce dont vous avez besoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This could be handled by word-of-mouth, posting the right queries in the right places on the mesh, monitoring the right personal profiles and forums, harnessing the power of the mob with crowdsourcing, or any number of similar creative tactics.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela peut se faire par le bouche à oreille, en postant les bonnes requètes aux bons endroits sur le mesh, en supervisant les bons profils personnels et forums, et utilisant la puissance de la foule par le crowdsourcing, ou par n'importe quelel autre tactique créative similaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each field you have in Networking represents a particular network grouping, a common interest that ties people together.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque domaine que vous possédez avec la compétence Réseau représente un sous-réseau particulier, un intérêt commun qui lie les personnes ensemble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most of these fields are based on factions (Autonomists, Hypercorp, etc.) and tie into a special reputation network (see the Reputation Networks table, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La pluaprt de ces domaines sont basés sur des factions (Autonomistes, Hypercorporatistes, etc.) et se connecte sur un réseau réputationnel dédéi (voir table des Réseaux Réputationnels, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the gamemaster's discretion other groupings of people could be connected through these skills and rep systems.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À la discrétion du maîþre de jeu, d'autre groupement de personnes peuvent être connectés grâce à ces compétences et des systèmes de rep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, artists and journalists of all stripes can fall under the Networking: Media skill and f-rep, no matter if they are autonomist or hypercorp.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Par exemple, les artistes et les journalistes de tout bords peuvent être regroupés sous la compétence Réseau:Média et le f-rep, peu importe qu'ils soient autonomistes ou hypercorporatistes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, being a diverse group, brinkers do not universally fall into any of the categories, and are instead spread out between them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, étant un groupe diversifié, les bordés ne tombent pas universellement dans l'une des catégories, et sont plutôt répartis entre elles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the gamemaster and players agree, other Networking fields and rep networks may be added, representing other spheres of interest, such as AR Games, Sports, Slash Fiction, etc.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si le maîþre de jeu et les joueurs se mettent d'accord, d'autre domaine de Réseau peuvent être ajoutés, représentants d'autres sphères d'intérêts, tels que Jeux RA, Sports, Fiction Gore, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The exact uses for which you may exploit your social networks are noted below.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La façon exacte d'exploiter vos réseaux sociaux sont notés ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While in some cases the defining element is who you know and how good you are at reaching out to them, in others the defining element is how known you are.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans certains cas les éléments clef sont qui vous connaissez et à quel point vous êtes bon pour les atteindre, dans d'autres ce sont comment vous êtes connus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You might be connected to thousands of people, but if you don't have clout, your efforts to make use of these connections is limited.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous pourriez être connectés à des milliers de personnes, mais si vous n'avez aucun poids, vos efforts pour utiliser ces connexions seront limités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is where Reputation comes into play.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est ici que la Réputation entre en jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Reputation}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Réputation}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Reputation is a measurement of your social currency.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La réputation est une estimation de votre valeur sociale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the gift economies of the outer system, social reputation has effectively replaced money.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans léconomie de don du système extérieur, la réputation sociale a remplacé efficacement la monnaie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unlike credit, however, reputation is far more stable.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La répitation est cependant bien plus stable que le crédit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Within Eclipse Phase, reputation scores are facilitated by online social networks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans Eclipse Phase, les scores de réputation sont facilités par les réseaux sociaux en-ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Almost everyone is a member of one or more of these reputation networks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Presque tout le monde est membre d'au moins l'un de ces réseau réputationnels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is a trivial matter to ping the current Rep score and history of someone you are dealing with—your muse often does this automatically, marking an entoptic Rep score badge on anyone with whom you interact, updated in real time, so you will see if they suddenly take a hit or become popular.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>C'est une tâche triviale d'obtenir le score actuel et l'historique de la Rep de quelquu'n avec qui vous faites affaire - votre muse le fait souvent automatiquement, affichant un badge entoptique de score de Rep a tous ceux avec qui vous interagissez, mis à jour en temps réel, vous verrez donc si ils sombrent d'un coup ou si ils deviennent populaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The 7 most common networks are noted on the Reputation Networks</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les 7 réseaux les plus communs sont notés sur la table des Réseaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>table.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Réputationnels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gamemasters and characters may decide to add others appropriate to their game.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les maîtres de jeu et les personnages peuvent décider d'en ajouter d'autres appropriés à leur partie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You purchase a Rep score in one or more of these networks during character creation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous achetez un scoe de Rep dans un ou plus de ces réseaux lors de la création de personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rep scores are rated between 0 and 99, just like skills.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les scores de Rep sont compris entre 0 et 99, comme les coméptences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These ratings determine your ability to acquire goods, services, and information and favors, as noted below.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ce score représente votre capacité à acquérir des biens, des services, des informatiosn et des faveurs, comme noté ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These scores may be raised or lowered during game play according to your character's actions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces scores peuvent fluctuer pendant la sessiond e jeu, en fonction des actiosn de votre personnage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Using Networks And Rep}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Utilisation des Réseaux et de la Rep}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In game terms, you take advantage of your connections and personal cred every time you need a favor. A favor is broadly defined as anything you try to get via your social networks, whether that be information, aid, goods, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En terme de jeu, vous bénéficiez de vos connexions et de votre crédit personnel à chaque fois que vous avez besoin d'une faveur. Une faveur est en gros tout ce que vous pouvez essayer d'obtenir par votre réseau social, qu'il s'agisse d'information, d'asssitance, de marchandises et ainsi de suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Different types of favors are described under Favors, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Différents type de servcies sont décrit à Faveurs, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{The Networking Test}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Le Test de Réseau}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To pursue a favor, you start by looking around.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour obtenir une faveur, il faut commencer par par demander.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This calls for a Networking Test to determine if you can find the person, people, or information you need.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela nécessite un Test de Réseau pour déterminer si vous pouver trouver la/les personnes/informations dont vous avez besoins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This represents talking to people you know, spreading the word to people they know, posting queries to the social network at large, digging through various profiles, chat rooms, etc. to find someone who might help you out, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela représentent le fait de parler aux personnes que vous connaissez, de faire passer le mot aux personnes qu'ils connaissent, d'envoyer des demandes sur les réseaux sociaux, de creuser différents profils et salles de discussion, etc. pour trouver quelqu'un qui pourrait vous aider.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Networking Tests are subject to modifiers for the level of the favor (see below), the amount the character is trying to keep quiet about the request (see below), and any other factors noted on the Networking Modifiers table or determined by the gamemaster.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Test de Réseau sont soumis à des modificateurs en fonction du niveau de la faveur (voir plus bas), le niveau de discrétion voulu par le personnage (voir plus bas) et tous les autres facteurs noté sur la table des Modificateurs de Réseau ou déterminés apr le maître de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Networking Tests are Task Actions—it takes time to call in favors or track down information.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les Test de Réseau sont des Actiosn de Tâches - cela nécessite du temps de demander des faveurs ou de recouper des informations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The timeframe depends on the level of favor, as noted on the Favors table, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'intervalle dépend du niveau de la faveur, comme noté sur la table des faveurs, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Reputation Networks} {}{|X|l|l|X|}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Réseaux Réputationnels} {}{|X|l|l|X|}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Network name</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nom du réseau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rep name</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nom de la rep</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Networking field</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Domaine de Réseau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Factions and others </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Factions et autres </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Circle-A List</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La Liste Cercle-A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Autonomists</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Autonomistes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>anarchists, Barsoomians, Extropians, Titanian, and scum </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Anarchistes, Barsoomiens, Extropiens, Titaniens et racaille </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hypercorps</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Hypercorporations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>hypercorps, Jovians, Lunars, Martians, Venusians </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Hypercorporatistes, Joviens, Lunaires, Martiens, Vénusiens </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>e-Rep</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>$e-Rep</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ecologists</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ecologistes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>nano-ecologists, preservationists, and reclaimers </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Nano-écologistes, préervationnistes et réclamationnistes </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Media</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Média</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>socialites (also artists, glitterati, and media) </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>célébrités (ainsi que les artistes, l'élite et les médias) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Criminals</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Criminels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>criminals </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Criminels </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Scientists</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Scientifiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>argonauts (also technologists, researchers, and scientists) </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>argonautes (ainsi que les technologistes, les chercheurs et les scientifiques) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Favor Levels And Modifiers}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Niveau de faveur et Modificateurs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rep scores are broken down into five levels, reflecting your standing within that community.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les scores de Rep sont divisés en cinq niveaux, reflétant votre attitude au sein de cette communauté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every 20 points of Rep equals one level.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque tranche de 20 points de Rep équivaut à un niveau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See the Reputation Levels table for a breakdown.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voir la table des Niveaux de Réputation pour la répartition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Likewise, favors are also broken down into five levels, rated from Trivial to Scarce (see Favors, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, les faveurs sont également réparties en cinq niveaux, de Triviale à Rare (voir Faveurs,  p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>289, for specific examples).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>289, pour des exemples spécifiques).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The standard level of favor you can expect to get from a social network is based on your level of Rep in that network.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le niveau standard de faveur auquel vous pouvez vous attendre sur un réseau social est basé sur votere niveau de Rep dans ce réseau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you want to pursue a favor above your level, you can do so, but you will suffer a negative modifier on your Networking Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous cherchez à obtenir une faveur au-delà de votre niveau, cla reste possible, mais vous subirez un modificateur négatif sur votre Test de Réseau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This reflects that someone with low standing has a hard time getting people to go out of their way for them.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela reflète le fait que quelqu'un ayant un niveau assez bas peut trouver difficile d'atteindre certaines personnes pour les aider.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Similarly, if you pursue a favor below your level, you receive a positive modifier to your Networking Test, reflecting that your prestige makes it easier to acquire minor things that you need.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De manière similaire, si vous cherchez à obtenir une faveur d'un niveau inférieur au votre, vous recevrez un modificateur positif à votre Test de Réseau, reflétant le fait que le prestige facilite l'acquisition des petites choses dont vous pourriez avoir besoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For each level the favor falls under or above your Rep score level, apply a + or –10 modifier, as appropriate.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour cahque niveau de faveur au-dessus ou au-dessous de votre score de Rep, appliquez un modificateur de + ou -10 respectivement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Networking modifiers} {|l|l|}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Modificateurs de réseau} {|l|l|}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Favor level exceeds Rep level</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le niveau de Faveur dépasse le niveau de Rep</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>–10 per level </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>–10 par niveau </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rep level exceeds favor level</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le niveau de Rep dépasse le niveau de Faveur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>+10 per level </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>+10 par niveau </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Keeping quiet</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Rester discret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>–Variable (see p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>- Variable (voir p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Burning Rep</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Brûler de la Rep</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>+Rep amount burned </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>+quantité de Rep brûlée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Paying extra</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Payer plus cher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Reputation Levels} {|l|l|}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Niveaux de Réputations} {|l|l|}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>REPUTATION SCORE</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>SCORE DE REPUTATION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>REPUTATION LEVEL </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>NIVEAU DE REPUTATION </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Levek 1 </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Niveau 1 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Levek 2 </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Niveau 2 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Levek 3 </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Niveau 3 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Levek 4 </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Niveau 4 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Levek 5 </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Niveau 5 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jaqui’s on a scum barge and she needs to get a hold of a weapon fast.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Jacqui est sur une barge racaille et elle a besoin de mettre rapidement la main sur des armes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She has a specific weapon in mind, but it’s pricey—its cost is High.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle a une arme particulière en tête, mais elle est chère - son prix est Élevé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She decides her best approach is to try talking to the scum on the ship to try and find someone who can lend or sell her such a weapon, using her @-rep and her Networking: Autonomist skill of 50.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle décide que sa meilleure approche est de aprler à la racaille à bord du vaisseau et de trouver quelqu'un qui pourra lui fournir ou lui vendre cette arme, en utilisant son @-rep et sa compétence Réseau: Autonomiste de 50.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Acquiring a High cost item counts as a Level 4 High favor (see Acquire/Unloads Goods, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Acuqérir un objet de prix Élevé compte comme une faveur Élevée de niveau 4 (voir Acquérir/Fourguer des Marchandises, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jaqui’s @-rep is 53, which is only Level 3.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La @-rep de jacqui est de 53, ce qui n'est que de Niveau 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since the favor is one level higher than her rep level, she suffers a –10 modifier on her Networking Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Puisque la faveur est d'un level plus élevé que son niveau de rep, elle souffre d'un modificateur de -10 à son Test de Réseau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jaqui must roll a 40 or less (50 – 10) to find a weapon supplier.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Jacqui doit docn obtenir 40 ou moins (50 - 10) pour trouver un fournisseur d'arme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Paying/Exchanging For Favors}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Payer/Troquer pour des Faveurs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Favors don't necessarily come for free.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les faveurs ne sont pas forcément gratuite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending on what you're after, you may also need to exchange for it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fonction de ce que vous recherchez, vous pourriezz devoir faire des échanges pour l'obtenir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the capitalist and transitional economies of the inner system and Jovian Junta, you may need to buy the goods or services you are after with credit.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les économies capitalistes et transitionnelles du système intérieur et de la Junte Jovienne, vous pouvez devoir acheter les biens et services que vous recherchez en utiliasnt des crédits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even information might be paid for by bribing the right person.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>On peut même payer pour avoir des informations en arrosant la bonne personne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once spent, that credit is gone until you earn more.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une fois qu'il est dépensé, ces crédits disparaissent jusqu'à ce que vous en regagniez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the anarchistic reputation economies of the outer system, you can get what you need for free.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans l'économie réputationnelle anarchiste du système extérieur, vous pouvez avoir ce que vous voulez gratuitement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, you are acquiring goods and services based on the strength of your reputation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans ce cas, vous récupérez les marchandises et les servcies en fonction de la force de votre réputation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jaqui rolls a 39—she makes it!</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Jacqui obtiens un 39 - elle réussit!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>After posting some public notices on the scum social network (she’s not worried about legalities or hiding what she’s doing—this is a scum ship after all), she gets directed to a weapons dealer with a good rep.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Après avoir publié quelques demande sur le réseau social de la racaille (ellene s'inquiète pas vraiment de la légalité ou de dissimuler ce qu'elle fait - c'ets un vaisseau racaille après tout), elle est orientée vers un veandeur d'arme ayant une bonne Rep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While a scum arms merchant normally sells their wares for credit, Jaqui is scum herself, so she’s able to use her scum community standing and get the weapon for free.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien qu'un amrchant d'amre racaille vend normalement du matériel contre des crédits, Jaqui est elle-mrme une racaille et elle est donc capable d'utiliser son attitude communautaire pour obtenir gratuitement l'arme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This uses up a High favor, however.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela utilise cependant une faveur Élevé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{The Limits Of Reputation}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Les Limites de la Réputation}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even in the gift economies, reputation only gets you so far.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même dans l'économie du don, la réputation à ses limites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are limits to how often you can ask for help before you start coming across as pushy or a leech.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a des limites à la fréquence à laquelle vous pouvez demander de l'aide avant que l'on commence à vous considérer comme insistant ou comem un parasite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In game terms, this is expressed as a refresh rate—the amount of time you must wait to pass before you can seek out a favor of that level again without seeming demanding.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En terme de jeu, cela est exprimé avec un délai de rafraichissement - la quantité de temps que vous devez attendre avant de chercher de nouveau une faveur de cette importace sans paraître exigeant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refresh rates are noted on the Favors table (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les délais de rafraîchissement sont notés sur la table de Faveur (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you need to seek another favor before the refresh rate has expired, you have two choices.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous devez obtenir une autre faveur avant que le délai de rafraichissement soit expiré, vous avez deux choix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You can expend a higher level favor instead, keeping in mind that higher level favors refresh more slowly.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous pouvez dépenser une faveur de niveau plus élevé, en gardant en tête que els faveurs de plus haut niveau se raffraichissent plus lentement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alternatively you can burn reputation (see below).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Vous pouvez aussi brûler de al réputation (voir plus bas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now that Jaqui’s got her weapon, she needs another favor—she needs to find someone who doesn’t want to be found.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Maintenant que Jaqui a récupéré son arme, elle a besoind 'une autre faveur - elle doit trouver quelqu'un qui ne veut pas être trouvé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The person she’s after is scum, so once again she turns to the scum for help.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La personne qu'elle recherche est une racaille, elle décide donc de refaire appel à la racaille pour l'aider.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster decides that this is another Level 4 favor (see Acquire Information, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu décide quec 'est une autre faveur de Niveau 4 (voir Acquérir des informations, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once again, with her Networking: Autonomist of 50 and Level 3 rep, she must roll a 40 or less.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Encore une fois, avec sa compétence Réseau: Autonomiste de 50 et sa rep de Niveau 3, elle doit obtenir 40 ou moins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She gets a 21, and finds someone who has the information she needs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle obtient un 21 et trouve quelqu'un qui a l'information dont elle a besoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jaqui now has a choice.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle a maintenant un choix à faire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To get this information, she either needs to pay the person in credits (a High cost) or she she needs to expend another Level 4 favor.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour obtenir cette information, elle doit soit payer la personne en crédit (un prix Élevé) ou dépenser une autre faveur de Niveau 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She’s low on money, so she decides to use her rep again.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle est un à sec, elle décide donc d'utiliser de nouveau sa réputation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Level 4 favors only refresh once a month, though, and Jaqui used her last one just a few hours ago.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les faveurs de Niveau 4 ne se rafraichissent qu'une fois par mois et elle a utilisé sa dernière il y a quelques heures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Her only choice is to expend a higher favor, so she expends a Level 5 to get the intel she needs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Son seul choix est de dépenser une faveur plus élevée, elle l'étend donc au Niveau 5 pour avoir les infos dont elle a besoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Burning Reputation}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Brûler de la Réputation}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In some cases, getting what you need may be more important than not stepping on people's tentacles.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans certains cas, obtenir ce que vous voulez peut-être plus important que de ne pas marcher sur les tentacules de quelqu'un.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In situations of dire need, you can burn some of your Rep score to get the job done, meaning that you exchange a loss of Rep for a shot at a favor.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les situations urgente, vous pouvez brûler une partie de votre score de Rep pour réussir à terminer le boulot, ce qui signifie que vous échangez une perte de Rep pour obtenir une faveur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This reflects that you are pushing the bounds of how far people are willing to go for you.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela reflète le fait que vous dépassez les limites pour forcer la main des personnes qui veulent vous aider.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While you still might get what you need, your online reputation rating takes a hit as people flag you for being needy.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que vous pourriez bien obtenir ce que vous voudriez, votre réputation en-ligne encaisse une baisse, les gens vous étiquetant comme étant toujours dans le besoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are two reasons to burn Rep score.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il y a deux raisons pour brûler un score de Rep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The first is to get a bonus on your Networking Test.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La première est d'obtenir un bonus à votre Test de Réseau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This indicates that you are pulling strings and calling in markers to get the favor you're after.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela indique que vous tirer des ficelles et que vous insistez auprès des gens pour obtenir la faveur que vous recherchez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is particularly useful when you are trying to obtain a favor that's of a level higher than your Rep, but abuse it too often and you will soon have no social standing at all.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela est particulièrement utile lorsque vous essayez d'obtenir des faverus d'un niveau suéprieur à votre Rep, mais usez en trop et vous n'aurez bientôt plus de statut social.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every point of Rep you burn gives you an equivalent positive modifier on the Networking Test, up to a maximum of +30.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Chaque point de Rep que vous brûlez vous donne un modificateur positif équivalent sur le test de Réseau, jusqu'à un maximum de +30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The second option is to burn Rep to seek a favor before it has refreshed.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La deuxième option est de brûler de la Rep pour obtenir une faveur qui n'est pas encore rafraichie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This reflects that you are asking for too much in a short period.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela reflète le fait de demander trop de chsoes pendant une période trop courte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The amount of Rep you must burn in this case depends on the level of favor you are seeking, as noted on the Favors table (p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La quantité de Rep que vous devez brûler dans ce cas dépend du niveau de faveur que vous cherchez, tel que noté sur la table des faveurs (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jaqui’s got her weapon and her target’s whereabouts, but she needs one more thing: a hacker.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Jaqui a son arme et la localisation de sa cible, mais elle a encore besoin de quelque chose d'autre: un hackeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She needs someone who can open some doors and defeat some security systems so she can get to the target she’s after in his hideout.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle a besoind e quelqu'un qui peut ouvrir quelques portes et défaire la sécurité système pour qu'elle puisse atteindre sa cible dans sa planque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since she’s on a scum barge, Jaqui feels that, once again, her best option is to work her scum contacts.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme elle est sur une barge racaille, Jaqui penses que, encore une fois, sa meilleure option est de travailler sur ses contacts racailles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The gamemaster determines that this will be another Level 4 favor.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le maître de jeu détermine qu'il s'agît d'une autre faveur de Niveau 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rolling against a target number of 40 again, she gets a 13—her luck is holding.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle réussit encore une fois son Test de Réseau avec un 13 pour une difficulté de 40 - sa chance ne semble pas l'abandonner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She finds a hacker, but now she needs to make an exchange for their services.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle trouve un hackeur, masi elle doit maintenant faire un échange pour obtenir ses services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once again she decides not to spend credit and use her @-rep instead.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle décide encore une fois de ne pas dépenser de crédit et d'utiliser son @-rep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jaqui’s already used up both her Level 4 and Level 5 @-rep favors, though, so she has no choice but to burn reputation.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle a déjà utilisé ses faveurs de Niveau 4 et 5 sur son @-rep, elle n'a donc pas d'autre choix que de brûler de la réputation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A Level 4 favor costs 10 Rep to burn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Une faveur de Niveau 4 coûte 10 points de Rep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jaqui spends it, sending her @-rep from 53 to 43—she’s been pulling in a lot of big favors in a short amount of time, and her friends and acquaintances are expressing their annoyance by lowering her social standing.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Jaqui les dépense, descendant son @-rep de 53 à 43 - elle a demandé beaucoup de faveurs en trés peu de temps, et ses amis et connaissances lui font comprendre leur désagrément en réduisant son niveau social.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Keeping Quiet}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Rester discret}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The problem with using social networks for favors is that you end up letting lots of other people know what you're up to.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le problème avec l'utilisation des réseaux sociaux pour obtenir des faveurs est que vous finissez par laisser beaucoup de personnes savori ce que vous magouillez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you're involved in a clandestine operation, that could be exactly what you don't want.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque vous êtes impliqués dans des opérations clandestines, cela est exactement ce dont vous ne voulez pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The only way to diminish this is to take your requests to trusted friends and ask them to keep quiet, but this diminishes the pool of people at your disposal.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La seule façon de diminuer cela est de ne transmettre votre requète qu'à des amis de confiance et de leur demander de faire profil bas, mais cela réduit la quantité de personne qui peuvent vous aider.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In game terms, you can try to keep word of what you're doing quiet, but this makes it harder to get what you need.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En terme de jeu, vous pouvez essayer de rester discret par rapport à ce que vous faites, mais cela augmente la difficulté pour trouver ce que vous cherchez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For every negative modifier you apply to your Networking Test, the same negative modifier applies to anyone making a Networking Test to find out what you're up to.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour chaque modificateur négatif que vous appliquez à votre Test de Réseau, le même modificateur négatif s'applique aux Tests de réseau de tout ceux qui veulent savoir ce que vous fabriquez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Revisiting one of our previous examples, we go back to the point where Jaqui was trying to ascertain someone’s hideout location.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Enr evisitant l'un des exemples précédents, nous revenons au momemtn ou Jaqui essayait de valider la localisation de la planque de sa cible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Because the person she’s after is scum, they’re on a scum ship, and Jaqui is using her Networking: Autonomist skill to find them, there’s a good chance that if she starts asking around to everyone, word might trickle back to the person she’s after.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme sa cible est une racaille, qu'elle est sur un vaisseau racaille et que Jaqui utilise sa compétence Réseau: Autonomiste pour la trouver, il y a une bonne chance que si Jaqui commence à poser trop de questions, sa cible pourrait finir par l'apprendre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She doesn’t want them to know she’s on their tail, though, so she decides to make her inquiries more discreet.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Jaqui ne veut pas que sa cible sache qu'elle est sur ses traces, elle décide donc de demander plus discrètement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She applies a –20 modifier to her Networking Test, which lowers her target number from 40 to 20.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle applique un modificateur de -20 à son Test de Réseau, passant le seuil de 40 à 20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As noted before, she rolls a 21, which is a failure.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Commenoté plus haut, elle obtient un 21 et échoue donc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>She spends a Moxie point to flip the roll, though, making it a 12—a success.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Elle dépense un point de Moxie pour inverser le jet, le transformant en 12 -une réussite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Because Jaqui took that –20 hit, representing the fact that she was keeping her research quiet, her target will suffer a –20 modifier when he makes his Networking Test to see if he gets word that someone is asking around about his hideout.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme Jaqui a prit cette pénalité de -20, représentatn le fait qu'elle garde un profil bas, sa cible subit un modificateur de -20 lorsqu'elle doit faire son Test de Réseau pour voir si elle entend parler de quelqu'un posant des questiosn à son sujet.</seg>
       </tuv>
     </tu>
     <tu>
