@@ -48198,6 +48198,438 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Electronic Arrivals}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Arrivés Électroniques}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Arrivals by egocast are sometimes interviewed by habitat authorities in a simulspace before resleeving.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les arrivants par egocast sont parfois interrogés par les autorités de l'habitat dans un simulspace avant de pouvoir se réincarner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending upon the habitat's attitude toward civil rights, this process can be relatively reasonable or quite invasive.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fonction de l'attitude de l'habitat vis à vis des droits civiques, ce procédé peut-être relativement raisonnable ou particulièrement invasif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A minimal entry inspection includes an ID check, a brief interview with a customs AI, and a review of the specs of the morph into which the arriving ego plans to resleeve.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Un contrôle d'entrrée minium consiste en une vérification d'identité, un entretien rapide avec une IA des douanes et d'une revue des spécificités de la morph dans laquelle l'ego arrivant prévoit de s'incarner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Habitats with draconian immigration measures may use harsh psychosurgery interrogation techniques on suspect infomorphs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les habitats avec des mesures dimmigration draconienne peuvent utiliser des techniques d'interrogations violentes par psychochirurgie sur les infomorphs suspectes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Egocast backups have little recourse to avoid this treatment—station authorities can simply file them away in cold storage if they choose—so it is wise to investigate custom procedures before you send yourself over.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les sauvegarde d'egocast n'ont que peu de recours pour éviter ce traitement - les autorités des stations peuvent simplement les archiver en stockage mort si elles le décide - il est docn sage de se renseigner sur les procédures douanièrs avant de s'expédier quelque part.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Because many people, particularly autonomists and brinkers, don't appreciate this kind of reception, various uploading services have stepped in to provide pre-customs resleeving for characters traveling to habitats with suspect screening methods.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>De nombreuses personnes, en particulier les autonomistes et les bordés, n'appréciant pas ce type de réception, de nombreux services ont commencé à fournir des réincarnation pré-douanes pour les personnage voyageant vers des habitats ayant des méthodes de contrôles suspectes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For often-exorbitant fees, the traveler egocasts into an extraterritorial substation close to their intended destination, resleeves there, and then travels to their destination by rocket.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour un prix souvent exorbitant, les voyageurs s'egocatsent dans une sous-statione xtraterritoriale proche de la destination voulue, se réincarnent là-bas puis voyagent vers la destination par navette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Various darkcast services, normally run by established crime syndicates, sometimes offer an alternative method of egocasting in and possibly even resleeving.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Différents services de darkcast, généralement proposés par les syndicats du crime en place, proposent parfois une méthode alternative pour s'egocast vers l'intérieur et parfois même de se réincarner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Darkcast services are quite expensive, however, and the character is at the mercy of the syndicate operators In rare cases, some political factions or even hypercorps might operate their own darkcast systems, which a character with good networking skills might be able to take advantage of.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les services de darkcast sont particulièrement cher cependant, et le personnage et à la merci des opérateurs du syndicat. Dans de rare cas, certaines factions politique ou même des hypercorporation peuvent faire fonctionner leur propres système de darkcast, qu'un personnage ayant de bonnes compétences en réseau pourrait utiliser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Space Travel}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Voyage Spatial}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In some circumstances, characters will prefer to travel physically through space rather than egocasting.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans certaines circonstances, les personnages préfèreront voyager physiquement à travers l'espace plutôt que par egocast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In Eclipse Phase, spacecraft are primarily dealt with as a setting environment rather than a vehicle/gear to use.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À Eclipse Phase les vaisseaux spatiaux sont considérés comme un environnement plutôt que comme des véhicules/équipements à utiliser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spacecraft largely pilot themselves via the onboard AI.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les vaisseaux restent essentiellement pilotées par l'IA de bord.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though characters can also take over with their Pilot: Spacecraft skill, the situation rarely calls for it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Même si les personanges peuvent également prendre le relai avec leur compétence Piloter: Vaisseaux, la situation le nécessite rarement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Local Travel}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Voyage Local}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In densely inhabited planetary systems such as Mars and Saturn, most travel between cities, surface stations, and orbital habitats within 200,000 kilometers is by small hydrogen-fueled (or sometimes methane-fueled) rockets.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans les systèmes planétaires densément habités tels que Mars ou Saturne, la plupart des voyages entre les cités, les stations de surface et les habitats orbitaux dans les 200 000 kilomètres se font par des fusées propulsée à lhydrogène (ou parfois au méthane).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This form of travel is incredibly cheap, very fast, and avoids the occasional personality glitches that crop up during egocasting.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette forme de voyage est extraordianirement peu onéreuse, rapide et évite els défauts de personnalités qui plombent l'egocast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LOTVs (lander and orbital transfer vehicles, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les VTOT (véhicule de transfert orbital et terrestre, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>348) are commonly used.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>348) sont couramment utilisés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spacecraft leaving a planetary body need to be able to generate enough thrust to escape the gravity well (see Escaping Gravity Wells, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les vaiusseaux quittant un corps planétaires ont besoin d'être capable de générer suffisament de poussée pour s'échapper du puit gravitationnel (voir Échapper Aux Puits Gravitationnels, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Distance Travel}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Voyage Distant}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For distances of 200,000 to 1.5 million kilometers, somewhat larger (and more expensive) fusion- and plasma-drive craft make regular runs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour les distances entre 200 000 et 1,5 millions de kilomètres, des vaisseaux bien plus gros (et plus chers) propulsés par des motuers à fusion - et à plasma - fotn des lignes régulières.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nuclear electric ion drives were once used on some of these routes, but the poor efficiency of these fission systems and the need for radioactive heavy metal reaction mass means that they are almost never used anymore.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les moteurs nucléaire à ionisateur électrique étaient auparavant utilisé sur certaines de ces routes, mais le rendement moindre de ces système à fission et le besoin de réaction radiocative à base de métaux lourd font qu'ils ne sont presque plus utilisés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Faster antimatter-drive couriers are also commonly used.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des courers bien plus rapide et propulsés à l'antimatière sont également couramment utilisés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These ships lack the thrust to escape from the gravity wells of large planets or moons, so they station themselves in orbit and use smaller ships (typically LOTVs) with higher thrust to transport people to and from the planetary surface.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ces vaisseaux n'ont pas la poussée nécessaire pour échapper aux puits gravitationnels des grosses planètes et des lunes, ils stationnent donc en orbite, et utilisent des vaisseaux plus petits (des VTOT typiquement) avec des poussées plus importante pour transporter les personnes depuis et vers la surface de la planète.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For distances beyond 1.5 million kilometers, almost everyone uses egocasting</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour les distances supérieures à 1,5 millions de kilomètres, quasiment tout le monde utilise l'egocast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Space Travel Basics}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Base du Voyage Spatial}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spacecraft use various types of reaction drives (see Spacecraft Propulsion, p.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les vaisseaux spatiaux utilisent différent type de propulsion à réaction (voir Propulsion des Vaisseaux, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>347), meaning that they burn fuel (reaction mass) and direct the heated output in one direction, which pushes the spacecraft in the opposite direction.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>347), ce qui signifient qu'ils brûlent un carburant (une masse réactive) et qu'il dirigent la sortie de chaleur dasn une direction, ce qui pousse le vaisseau spatial dans la direction opposée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Travel over any major distance typically involves a period of high-acceleration burn for several hours at the beginning of the flight, where up to half of the reaction mass is spent to drive up the craft's velocity The ship then coasts for the majority of the flight at that speed, until it approaches its destination, where it flips over and burns an equal amount of reaction mass in the opposite direction to decrease velocity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voyager sur de longues distance implique généralement une phase de combustion pendant plusieur heures pour avaoir une accélération élevé, pendant laquelle près de la moitié de la masse réactive est brûlée pour augmenter la vitesse du vaisseau. Il passe ensuite la majorité du voyage à cette vitesse, jusqu'au moment où il approche de sa destination, moment où il se retourne et brûle une quantité agle de masse réactive dans la direction opposée pour réduire la vitesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Though some craft burn half their reaction mass to get up to the best speed possible, this doesn't leave much room for additional maneuvering or emergencies Many craft therefore only burn up to a quarter or a third of their fuel in initial accelerations, so they have some to spare in case they need it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme certains vaisseaux brûlent la moitié de leur masse réactive pour aller à la meilleure vitesse possible, cela ne laisse pas beaucoup de place pour des manœuvres supplémenataire ou pour les urgences. Beaucoup de vaisseaux ne brûlent donc qu'entre un quart et un tiers de leur carburant lors de l'accélération intiale afion de conserver une réserve au cas où.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few tricks can be used to save fuel and build speed, such as slingshotting around the gravity wells of larger planets or aerobraking in a planet's upper atmosphere.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Quelques astuces peuvent être utilisés pour économiser du carburant et augmenter la vitesse, telles que l'utilisation de l'effet de fronde des puits gravitationnels des plus grosse planète ou l'aérofreinage dans l'atmosphère haute des planètes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Travel times between locations are constantly changing as various bodies move in their orbits around the solar system.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>les temps de voyage entre les lieux changent constament, les différents corps planétaires se déplaçant sur leurs orbites autour du système solaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Within a cluster or planetary system, travel takes a matter of hours.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À l'intérieur d'un groupement ou d'un système planétaire, le voyage est une histoire d'heures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Within the 286 inner system, travel can take days or weeks.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>À l'intérieur du système intérieur, le voyage peut prendre plusieurs jours, voire semaines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Travel to, from, or within the outer system can take much longer, and is usually a matter of several months.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le voyage vers, depuis ou à l'intérieur du système extérieur peut prendre bien plus de temps, et est généralement l'affaire de quelques mois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most ships operate at zero-g, except for a few larger craft that are able to spin habitat modules for low gravity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>La pluaprt des vaisseaux fonctionnent en gravité zéro, à l'exception des quelques vaisseaux les plus gros et qui sont capable de faire tourner les modules d'habitations pour entretnir une gravité faible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Periods of high-acceleration also produce temporary gravity in a downward direction, towards the burn.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les périodes d'accélération fournissent également une gravité temporaire vers le bas, en direction de la combustion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Space is a valuable commodity on board spacecraft, so room is often tight.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'espace est un luxe à bord des vaisseau, les pièces sont docn souvent étroites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sleeping and personal quarters are rarely bigger than large closets, just enough room for a sleeping bag and personal effects.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les dortoirs et quartiers pesonnels sont rarement plus gros que de grand placards, avec juste suffisament de place pour un sac de couchage et quelques effets personnels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending on the size of the craft, there may be a communal recreation area.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fonction de la taille du vaisseau, il pourrait y avoir une zone commune de divertissement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The crew tend to only be busy at the beginning and end of a trip, when they must deal with acceleration/deceleration and maneuvering around other space traffic.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>L'équipage a tendance à être les seuls actifs au début et à la fin du voyage, lorsqu'ils doivent s'occuper de l'accélération/décélération et pour les manœuvres dans le traffic spatial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The rest of the trip they spend dealing with repairs or otherwise killing time, often by accessing XP or VR simulations or playing AR games.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils passent le reste du voyage à s'occuper des réparations ou en tuant le temps d'une manière ou d'une autre, souvent en se connectant à des simulations XP ou RV ou en jouant à des jeux RA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>While spacecraft have their own local mesh network, they are usually too far to interact with the mesh networks of other habitats without significant communications lag, so they must make do with their own archive of entertainment options.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bien que les vaisseaux spatiaux aient généralement leur propre réseau meshé, ils sont généralement trop éloignés des réseaux meshés d'autres habitat pour intergair sans un décalage significatif, ils doivent docn embarquer leurs propres archives d'options de divertissement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many long-haul ships are crewed by hibernoid morphs, who hunker down for a long nap.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Beaucoup de vaisseaux long-courrier sont pilotés apr des morphs hibernoïdes, qui se renferment pour de longues siestes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Spaceship Combat}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Combat Spatiaux}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Combat in space tends to take place over long distances using massive beam weapons, railguns, and missiles.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Le combat spatial à tendance à se prendre place sur de longues distances, en utilisant des armes à rayons massives, des armes à rail et des missiles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It also tends to be nasty, brutish, and short.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il a aussi tendance à être vicieux, brutal et rapide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Significant damage to a vessel can cause atmospheric decompression, killing any biomorph crew who aren't suited up and strapped down.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des dégats significatifs à un vaisseau peuvent causer une décompression atmosphérique, tuant toutes les biomorphs qui ne sont pas équipés et attachés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For the most part, it is recommended that space combat be treated as a plot device, part of the background story that helps create drama and tension, rather than an event that characters actively participate in.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour l'essentiel, il est recommandé de traiter le combat spatial comme un outil scénraistique, un élément de l'histoire qui aide à créer du drame et de la tension plutôt que comme un évènement auquel les personnages participent activement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is not to say the characters cannot play a role in the combat, or that their actions will have no effect on the outcome.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cela ne veux pas dire que les personnages n'ont aucun rôle à jouer das le combat, ni que leurs actions n'auront aucun effet sur l'issue du combat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They may become involved in damage control, negotiate with hostile forces, repel boarders, target weapons with Gunnery skill, stage a mutiny, attempt to hack the networks of approaching vessels, escape out the airlock, hide out while the pirates sack the ship, or similar affairs.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Ils peuvent être impliqué dans le contrôle des dégâts, dans la négociation avec les forces hostiles, faire aprti des équipes d'abordages, utiliser les armements avec la compétence Artillerie, démarrer une mutinerie, tenter de pirater les réseaux des vaisseaux approchant, s'échapper par le sas, se cacher pendant que les pirates pillent le vaisseau ou toute autre problématique similaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is recommended however, that gamemasters steer clear of space combat situations that could easily lead to the whole team dying due to a few bad dice rolls.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il est cependant recommandé au maître de jeu d'éviter les situations de combat dans l'esapce profond qui pourraient rapidement mener à la disparition de toute l'équipe à cause de quelques mauvais jets de dés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Social Networks}</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
