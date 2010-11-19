@@ -23734,10 +23734,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>1 hour</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1 heure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1 day</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1 jour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Flight</seg>
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Vol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1 hour </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1 heure </seg>
       </tuv>
     </tu>
     <tu>
@@ -50578,6 +50602,990 @@
       </tuv>
       <tuv xml:lang="fr-FR">
         <seg>Comme Jaqui a prit cette pénalité de -20, représentatn le fait qu'elle garde un profil bas, sa cible subit un modificateur de -20 lorsqu'elle doit faire son Test de Réseau pour voir si elle entend parler de quelqu'un posant des questiosn à son sujet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Favors}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Faveurs}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Creative players can undoubtedly come up with many uses for their social networks, but a few of the more common are detailed here.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les jouerus créatives peuvent sans aucun doute trouver de nombreuses utilisations pour leur réseaux sociaux, mais quelques uns des plus communs sont détaillés ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gamemasters should use their discretion as to how much roleplaying interaction and Networking Tests are included in using a social network.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les maîtres de jeu devraient utilsier leur discrétion quand au niveau d'interprétation des interaction et des Test de Réseau sont inclut dans l'utilisation d'un réseau social.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For normal goods, straightforward information queries, or small favors, neither dice rolling nor roleplaying may be required For major requests, interactions with contacts, and mission assistance, dice rolls and/or roleplaying interaction with contacts from the social network should usually occur.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Pour les biens normaux, les demandes d'informations basiques ou les faveurs les plus petites, ni lancement de dé ni intrerprétation pourraient n'être nécessaire. Pour les requètes improtante, les interactions avec les contact et l'assistance en mission, les jets de dés et/ou l'interprétation des interactions avec les contacts du réseau social devraient généralement être fait.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gamemasters may wish to keep track of the NPC contacts in each character's social networks and make them recurring characters.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Las maîtres de jeu peuvent souhaiter suivre les contacts des PNJ dans chaque réseau social des personnage et les transformer en personnages récurrents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Favors} {|l|l|l|l|}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Faveurs} {|l|l|l|l|}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>FAVOR LEVEL</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>NIVEAU DE FAVEUR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>TIMEFRAME</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>INTERVALLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BURNING REP COST</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>COÛT EN REP BRÛLÉE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>REFRESH RATE </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>TEMPS DE RAFRAÎCHISSEMENT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>2 (Low)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>2 (Bas)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1 day </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1 jour </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>3 (Moderate)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>3 (Modérée)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1 week </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1 semaine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>4 (High)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>4 (Élevée)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1 month </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>1 mois </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>5 (Scarce)</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>5 (Rare)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>3 days</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>3 jours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>3 months </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>3 mois </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Acquire/Unload Goods}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Acquérir/Fourguer des Biens}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Social networks are a good way to find items that you can't buy legally or make at home.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Les réseaux sociaux sont un bon moyen de trouver des objets que vous ne pouvez légalement acheter ou fabriquer chez vous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Depending on who you're getting the goods from, this will cost you credit or require an appropriate Rep score.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En fonction de la personne auprès de qui vous aller obtenir les biens, cela vous coûtera des crédits ou nécessiter un socre de Rep approprié.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This favor can also be used to sell or give away such items, making some money or perhaps even some Rep in the process.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cette faveur peut aussi être utilisée pour vendre ou donner de tels objets, en récupérant quelques crédits ou même un peu de Rep dans l'opération.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Acquire/unload goods} {|l|l|}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Acquérir/Fourguer des Biens} {|I|I|}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LEVEL</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>NIVEAU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Acquire/unload item with an expense of Trivial.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Acquérir/fourguer un objet ayant un prix Trivial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Acquire/unload item with an expense of Low.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Acquérir/fourguer un objet ayant un prix Bas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Acquire/unload item with an expense of Moderate.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Acquérir/fourguer un objet ayant un prix Modéré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Acquire/unload item with an expense of High.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Acquérir/fourguer un objet ayant un prix Élevé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Acquire/unload item with an expense of Expensive </seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Acquérir/fourguer un objet ayant un prix Cher. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Acquire Services}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Obtenir des Services}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you lack the skills or education you need, or you just need another set of arms, you can call out to your social network to find someone to help you out.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque vous manquez des compétences ou des connaissances nécessaire, ou que vous avez juste besoin d'une paire de bras supplémentaire, vous pouvez faire appel à votre réseau socail pour trouver quelqu'un pour vous aider.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you are looking for someone with a particular skill, the result of your successful Networking Test roll is the skill rating of the person you find.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous recherchez quelqu'un ayant une compétence particulière, le résultat de votre Test de Réseau réussi est le niveau de compétence de la personne que vous trouvez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The higher your Networking skill, the better able you are to find highly-skilled professionals.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Plus votre compétence Réseau est élevée, plus vous êtes capable de trouver des professionel hautement-compétent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cole needs to find an astrobiologist who can help him identify an alien critter.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Cole doit trouver un astobilogiste qui peut l'aider à identifier une menace étrangère.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>He rolls his Networking: Scientist skill of 50 and gets a 43—a success.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il lance sa compétence Réseau: Scientifique de 50 et obteint 43 - une réussite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>He tracks down someone with Academics: Astrobiology skill of 43 (his roll) who can help him out.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il trouve quelqu'un avec la compétence Académique: Astrobioloie de 43 (son résultat) qui est prêt à l'aider.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When the astrobiologist looks the critter over, the gamemaster makes a roll for the NPC using that skill of 43.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque l'astrobiologiste examine la créature, le maîþre de jeu fait un jet pour le PNJ en utilisantr cette compétence de 43.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Acquire Information}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Obtenir de l'Information}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you can't find the information online or you don't have the time or capability to look, you can turn to people in your social network and tap their accumulated knowledge base.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Lorsque vous devez trouver de l'information en ligne ou que vous n'avez ni le temps ni la capacité à le faire, vous pouvez vous tourner vers les personnes dans votre réseau social et faire appel à leur base de connaissance accumulée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Reputation And Identity}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Identité et Réputation}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is important to note that reputation is closely tied to identity.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Il est important de noter que la réputation est intimement liée à l'identité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you are undercover and using a fake ID, you can't really call on your Rep score without giving yourself away.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si vous êtes sous couverture en utilisant une fausse identité, vous ne pouvez pas réellement faire appel à votres score de Rep sans faire sauter votre couverture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a result, many people using false identities end up building up a separate set of Rep scores for their alter ego.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>En conséquence, beaucoup de personnes utilisant de fausses identités finissent par construire des jeux de Rep spécifique à leurs alter ego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that since many social network interactions take place online, it is possible for someone to secretly make use of their real identity while masquerading as someone else, as long as they're careful about it.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Comme de nombreuses interactions sociale se passent en ligne, il est possible que quelqu'un utilise secrètement son identité réelle tout en se faisant passer pour quelqu'un d'autre, tant qu'ils sont attentifs à ce qu'ils font.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If anyone happens to be spying on their activity via the mesh, they stand a chance of being found out.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Si par hasard quelqu'un espionne son activité par le mesh, il y a une chance que le mensonge soit mis à jour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Acquire Services} {}{|l|X|}</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>{Obtenir des Services} {}{|l|X|}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Trivial favor: Get someone to perform services for 15 minutes.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Faveur Triviale: Demander à quelqu'un de rendre un service pendant 15 minutes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Move a chair.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Bouger une chaise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Browbeat someone.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Intimider quelqu'un.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Catch a ride.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Trouver un véhciule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Research someone online.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Rehcercher quelqu'un en ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Borrow 50 credits.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Emprunter 50 crédits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other Trivial cost services.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres services de prix Trivial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Minor favor: Get someone to perform services for an hour.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Faveur Mineure: Demander à quelqu'un de rendre un service pendant une heure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Move to a new cubicle.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Déménager.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rough someone up.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tabasser quelqu'un.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Loan a vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Louer un véhciule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Provide an alibi.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Obtenir un alibi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Healing vat rental.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Location de cuve de soin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Minor hacking assistance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aide pour un piratage mineur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Basic legal or police assistance.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Aide légale ou policière basique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Borrow 250 credits.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Emprunter 250 crédits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other Low cost services.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres services de prix Bas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moderate favor: Get someone to perform services for a day.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Faveur Modérée: Demander à quelqu'un de rendre un service pendant une journée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Move to a habitat in the same cluster.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Déménager dans un habitat du même groupe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Serious beating.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Tabasser violemment quelqu'un.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lookout.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Surveillance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Short-distance egocast.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Egocast court-courrier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Short shuttle trip (under 50,000 km).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Petit voyage en navette (moins de 50 000 km).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Minor psychosurgery.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Psychochirurgie mineure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Uploading.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Upload.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Reservations at the best restaurant ever.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Réservation dans le meilleur restaurant du monde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major legal representation or police favors.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Faveur policière ou représentation légale importante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Borrow 1,000 credits.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Emprunter 1 000 crédits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other Moderate cost services.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres services de prix Modéré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major favor: Get someone to perform services for a month.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Faveur Importante: Demander à quelqu'un de rendre un service pendant un mois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Move a body.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Déplacer un corps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Homicide.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Meurtre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Getaway shuttle pilot.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Navette sans pilote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Industrial sabotage.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Sabotage industriel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Large-volume shipping contract on bulk freighter.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Contart d'expédition de gros-volume sur un cargo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Medium-distance egocast.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Egocast moyen-courrier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mid-range shuttle trip (50,000–150,000 km).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voyage en navette sur une distance moyenne (50 000 - 150 000 km).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moderate psychosurgery.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Psychochirurgie modérée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Resleeving.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Réincarnation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Get out of jail free.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Carte &quot;sortie de prison&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Borrow 5,000 credits.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Emprunter 5 000 crédits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other High cost services.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres services de prix Élevé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Partnership: Get someone to perform services for a year.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Partenariat: Demander à quelqu'un de rendre un service pendant un an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Move dismembered body.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Déplacerf un corps démembré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mass murder.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Meurtre de masse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Major embezzlement.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Détournement massif de fond.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Acts of terrorism.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Acte de terrorisme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Relocate a mid-size asteroid.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Relocaliser un astéroïde de taille moyenne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Long-distance egocast.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Egocast long-courrier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Long-range shuttle trip (150,000 km or more).</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Voyage en navette sur une longue distance (150 000 km et plus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Borrow 20,000 credits.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Emprunter 20 000 crédits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other Expensive cost services.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>D'autres services de prix Cher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Common Information: Where to eat.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Information courante: Où manger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What biz a certain hypercorp is in.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Dans quelles affaires traine telle hyeprcorporation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Who’s in charge.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qui est le chef.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Public Information: Make gray market connections.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Information publique: Obtenir des connexions sur le marché gris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Where the “bad neighborhood” is.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Où est le &quot;mauvais voisinnage&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Obscure public database info.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Des informations issues de bases de données publique obscure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Who’s the local crime syndicate.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qui est le syndicat du crime local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Public hypercorp news.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Information hypercorporatistes publique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Private Information: Make black market connections.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Information privée: Obtenir des connexions sur le marché noir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Where an unlisted hypercorp facility is.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Où se touve une installation hypercoporatiste non-officielle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Who’s a cop.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qui est un flic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Who’s a crime syndicate member.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>QUi est membre d'un syndicat du crime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Where someone hangs out.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Où traîne quelqu'un.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Internal hypercorp news.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Information hypercorporatistes interne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Who’s sleeping with whom.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qui couche avec qui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Secret Information: Make exotic black market connections.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Information secrète: Obtenir des connexions exotiques sur le marché noir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Where a secret corp facility is.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Où se touve une installation hypercoporatiste secrète.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Where someone’s hiding out.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Où se cache quelqu'un.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Secret hypercorp projects.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Projets hypercorporatistes secret.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Who’s cheating on whom.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Qui trompe qui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Top Secret Intel: Where a top secret black-budget lab is.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Information Top Secrète: Où se situe un laboratoire top-secret financé par une caisse noire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Illegal hypercorp projects.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Projets hypercorporatistes illégaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Scandalous data.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Données scandaleuses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Blackmail material.</seg>
+      </tuv>
+      <tuv xml:lang="fr-FR">
+        <seg>Matériel de chantage.</seg>
       </tuv>
     </tu>
     <tu>
