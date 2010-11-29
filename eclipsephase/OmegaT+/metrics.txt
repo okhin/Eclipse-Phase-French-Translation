@@ -7,10 +7,10 @@ Total
   Characters: 1621739 : +spaces
 
 Remaining
-    Segments:    6870
-       Words:   71622
-  Characters:  376806 : -spaces
-  Characters:  441797 : +spaces
+    Segments:    6861
+       Words:   71524
+  Characters:  376179 : -spaces
+  Characters:  441082 : +spaces
 
 Unique
     Segments:   16199
@@ -19,10 +19,10 @@ Unique
   Characters: 1603260 : +spaces
 
 Unique Remaining
-    Segments:    4823
-       Words:   69395
-  Characters:  374748 : -spaces
-  Characters:  431995 : +spaces
+    Segments:    4814
+       Words:   69297
+  Characters:  374121 : -spaces
+  Characters:  431280 : +spaces
 
 Documents Metrics
 
@@ -30,7 +30,7 @@ Documents Metrics
      581     581    3451    3451    3979    3979 - 0-credits.tex
     8100       1   38376      40   45753      40 - 1-lack.tex
    20340     212  104177     963  123063    1065 - 10-accelerated-future.tex
-   41348   39211  217187  205843  254578  241305 - 11-gear.tex
+   41348   39113  217187  205216  254578  240590 - 11-gear.tex
    29962   29892  158228  157794  186322  185835 - 12-game-information.tex
        1       1       6       6       6       6 - 13-tables.tex
        1       1      10      10      10      10 - 14-references.tex
