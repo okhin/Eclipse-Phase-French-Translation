@@ -1,53 +1,53 @@
-Project Metrics
+Mesures du projet
 
 Total
     Segments:   18748
-       Words:  262752
-  Characters: 1406725 : -spaces
-  Characters: 1625888 : +spaces
+        Mots:  262286
+  Caractères: 1402576 : - espaces
+  Caractères: 1621739 : + espaces
 
-Remaining
-    Segments:    6932
-       Words:   85834
-  Characters:  448943 : -spaces
-  Characters:  527179 : +spaces
+Restants
+    Segments:    5805
+        Mots:   58567
+  Caractères:  306468 : - espaces
+  Caractères:  359553 : + espaces
 
-Unique
-    Segments:   16199
-       Words:  259141
-  Characters: 1382614 : -spaces
-  Characters: 1607155 : +spaces
+Uniques
+    Segments:   16200
+        Mots:  258676
+  Caractères: 1378734 : - espaces
+  Caractères: 1603271 : + espaces
 
-Unique Remaining
-    Segments:    5180
-       Words:   83919
-  Characters:  449049 : -spaces
-  Characters:  519361 : +spaces
+Restants uniques
+    Segments:    4065
+        Mots:   56694
+  Caractères:  305697 : - espaces
+  Caractères:  352218 : + espaces
 
-Documents Metrics
+Mesures des documents
 
-    TW      RW      TCNS    RCNS    TC      RC     Document
-     585     142    3457     833    3985     956 - 0-credits.tex
-    8112     251   38402    1420   45779    1647 - 1-lack.tex
-   20373    2196  104463   10548  123349   12471 - 10-accelerated-future.tex
-   41348   27366  217681  142448  255072  167204 - 11-gear.tex
-   30039   29969  158702  158268  186796  186309 - 12-game-information.tex
+    TM      MR      TCSE    CRSE    TC      CR     Document
+     581     267    3451    1677    3979    1915 - 0-credits.tex
+    8100       1   38376      40   45753      40 - 1-lack.tex
+   20340     143  104177     594  123063     632 - 10-accelerated-future.tex
+   41348   26828  217187  139478  254578  163727 - 11-gear.tex
+   29962   29892  158228  157794  186322  185835 - 12-game-information.tex
        1       1       6       6       6       6 - 13-tables.tex
        1       1      10      10      10      10 - 14-references.tex
-    9116     632   48652    3267   57239    3840 - 2-synopsis.tex
-   61948    6777  335161   37306  393841   43509 - 3-eclipse.tex
-    9931    1433   49354    7265   58650    8552 - 4-mechanics.tex
-   16648    4372   86353   22826  101669   26835 - 5-character-creation.tex
-    8624    1493   46526    7315   54384    8556 - 6-skills.tex
-   21717    3798  110188   18276  129996   21424 - 7-action-combat.tex
-   11920    4367   63003   22591   74152   26572 - 8-mind-hacks.tex
-   22325    3004  119663   16345  140545   19055 - 9-mesh.tex
+    9090      14   48592      69   57179      71 - 2-synopsis.tex
+   61776     215  334423    1571  393103    1680 - 3-eclipse.tex
+    9902      68   49182     356   58478     358 - 4-mechanics.tex
+   16622      93   85947     479  101263     485 - 5-character-creation.tex
+    8618     169   46366     761   54224     779 - 6-skills.tex
+   21717     409  109826    1449  129634    1516 - 7-action-combat.tex
+   11891     316   62399    1430   73548    1717 - 8-mind-hacks.tex
+   22273     118  119302     535  140184     549 - 9-mesh.tex
       64      32     378     219     415     233 - ep.tex
 
-  Key
-    TW: Total Words
-    RW: Remaining Words
-  TCNS: Total Characters : -spaces
-  RCNS: Remaining Characters : -spaces
-    TC: Total Characters
-    RC: Remaining Characters
+Légende
+    TM: Total des mots
+    MR: Mots restants
+  TCSE: Total des caractères : - espaces
+  CRSE: Caractères restants : - espaces
+    TC: Total des caractères
+    CR: Caractères restants
