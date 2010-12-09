@@ -1,36 +1,36 @@
-Mesures du projet
+Project Metrics
 
 Total
     Segments:   18748
-        Mots:  262752
-  Caractères: 1406725 : - espaces
-  Caractères: 1625888 : + espaces
+       Words:  262752
+  Characters: 1406725 : -spaces
+  Characters: 1625888 : +spaces
 
-Restants
-    Segments:    6674
-        Mots:   81195
-  Caractères:  424355 : - espaces
-  Caractères:  498223 : + espaces
+Remaining
+    Segments:    6485
+       Words:   78562
+  Characters:  410379 : -spaces
+  Characters:  481832 : +spaces
 
-Uniques
+Unique
     Segments:   16199
-        Mots:  259141
-  Caractères: 1382614 : - espaces
-  Caractères: 1607155 : + espaces
+       Words:  259141
+  Characters: 1382614 : -spaces
+  Characters: 1607155 : +spaces
 
-Restants uniques
-    Segments:    4924
-        Mots:   79282
-  Caractères:  424184 : - espaces
-  Caractères:  490425 : + espaces
+Unique Remaining
+    Segments:    4766
+       Words:   76688
+  Characters:  410162 : -spaces
+  Characters:  474212 : +spaces
 
-Mesures des documents
+Documents Metrics
 
-    TM      MR      TCSE    CRSE    TC      CR     Document
+    TW      RW      TCNS    RCNS    TC      RC     Document
      585     142    3457     833    3985     956 - 0-credits.tex
     8112     251   38402    1420   45779    1647 - 1-lack.tex
    20373    2196  104463   10548  123349   12471 - 10-accelerated-future.tex
-   41348   22727  217681  117860  255072  138248 - 11-gear.tex
+   41348   20094  217681  103884  255072  121857 - 11-gear.tex
    30039   29969  158702  158268  186796  186309 - 12-game-information.tex
        1       1       6       6       6       6 - 13-tables.tex
        1       1      10      10      10      10 - 14-references.tex
@@ -44,10 +44,10 @@ Mesures des documents
    22325    3004  119663   16345  140545   19055 - 9-mesh.tex
       64      32     378     219     415     233 - ep.tex
 
-Légende
-    TM: Total des mots
-    MR: Mots restants
-  TCSE: Total des caractères : - espaces
-  CRSE: Caractères restants : - espaces
-    TC: Total des caractères
-    CR: Caractères restants
+  Key
+    TW: Total Words
+    RW: Remaining Words
+  TCNS: Total Characters : -spaces
+  RCNS: Remaining Characters : -spaces
+    TC: Total Characters
+    RC: Remaining Characters
