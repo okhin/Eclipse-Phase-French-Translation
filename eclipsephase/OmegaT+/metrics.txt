@@ -7,41 +7,41 @@ Total
   Caractères: 1621739 : + espaces
 
 Restants
-    Segments:    4181
-        Mots:   35723
-  Caractères:  186202 : - espaces
-  Caractères:  218076 : + espaces
+    Segments:    4178
+        Mots:   35733
+  Caractères:  186544 : - espaces
+  Caractères:  218497 : + espaces
 
 Uniques
-    Segments:   16200
-        Mots:  258676
-  Caractères: 1378734 : - espaces
-  Caractères: 1603271 : + espaces
+    Segments:   16199
+        Mots:  258675
+  Caractères: 1378719 : - espaces
+  Caractères: 1603260 : + espaces
 
 Restants uniques
-    Segments:    2600
-        Mots:   34054
-  Caractères:  184242 : - espaces
-  Caractères:  211967 : + espaces
+    Segments:    2597
+        Mots:   34065
+  Caractères:  184682 : - espaces
+  Caractères:  212386 : + espaces
 
 Mesures des documents
 
     TM      MR      TCSE    CRSE    TC      CR     Document
-     581     267    3451    1677    3979    1915 - 0-credits.tex
+     581     234    3451    1398    3979    1612 - 0-credits.tex
     8100       1   38376      40   45753      40 - 1-lack.tex
-   20340     143  104177     594  123063     632 - 10-accelerated-future.tex
-   41348    3984  217187   19212  254578   22250 - 11-gear.tex
+   20340     212  104177     963  123063    1065 - 10-accelerated-future.tex
+   41348    3669  217187   17634  254578   20372 - 11-gear.tex
    29962   29892  158228  157794  186322  185835 - 12-game-information.tex
        1       1       6       6       6       6 - 13-tables.tex
        1       1      10      10      10      10 - 14-references.tex
     9090      14   48592      69   57179      71 - 2-synopsis.tex
-   61776     215  334423    1571  393103    1680 - 3-eclipse.tex
-    9902      68   49182     356   58478     358 - 4-mechanics.tex
-   16622      93   85947     479  101263     485 - 5-character-creation.tex
+   61776     219  334423    1588  393103    1703 - 3-eclipse.tex
+    9902      93   49182     492   58478     526 - 4-mechanics.tex
+   16622     236   85947    1053  101263    1247 - 5-character-creation.tex
     8618     169   46366     761   54224     779 - 6-skills.tex
-   21717     409  109826    1449  129634    1516 - 7-action-combat.tex
-   11891     316   62399    1430   73548    1717 - 8-mind-hacks.tex
-   22273     118  119302     535  140184     549 - 9-mesh.tex
+   21717     555  109826    2256  129634    2464 - 7-action-combat.tex
+   11891      29   62399     116   73548     120 - 8-mind-hacks.tex
+   22273     376  119302    2145  140184    2414 - 9-mesh.tex
       64      32     378     219     415     233 - ep.tex
 
 Légende
