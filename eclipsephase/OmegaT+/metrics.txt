@@ -7,10 +7,10 @@ Total
   Caractères: 1621739 : + espaces
 
 Restants
-    Segments:    2937
-        Mots:   14358
-  Caractères:   70915 : - espaces
-  Caractères:   82674 : + espaces
+    Segments:    2432
+        Mots:    3769
+  Caractères:   16507 : - espaces
+  Caractères:   18145 : + espaces
 
 Uniques
     Segments:   16199
@@ -19,10 +19,10 @@ Uniques
   Caractères: 1603260 : + espaces
 
 Restants uniques
-    Segments:    1470
-        Mots:   12837
-  Caractères:   67898 : - espaces
-  Caractères:   77120 : + espaces
+    Segments:     966
+        Mots:    2254
+  Caractères:   12917 : - espaces
+  Caractères:   12630 : + espaces
 
 Mesures des documents
 
@@ -31,7 +31,7 @@ Mesures des documents
     8100       1   38376      40   45753      40 - 1-lack.tex
    20340     212  104177     963  123063    1065 - 10-accelerated-future.tex
    41348    1102  217187    3882  254578    4248 - 11-gear.tex
-   29962   11084  158228   55917  186322   66136 - 12-game-information.tex
+   29962     495  158228    1509  186322    1607 - 12-game-information.tex
        1       1       6       6       6       6 - 13-tables.tex
        1       1      10      10      10      10 - 14-references.tex
     9090      14   48592      69   57179      71 - 2-synopsis.tex
