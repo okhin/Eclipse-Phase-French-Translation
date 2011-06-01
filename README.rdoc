@@ -1,10 +1,20 @@
-Ho, un ajout
+= Eclipse Phase French Translation
 
-Le dossier eclipsephase contient tous les fichier et la structure du projet OmegaT+ nécessaire à la traduction.
-Il faut télécharger l'archive zip de cette branche avant de faire des modificatiosn afin que tout soit centralisé.
+Ce dépots contient la version française non officiel d'Eclipse Phase.
+
+Cette traduction est effectué depuis les fichiers de <source à fournir>.
+
+Un premier batch de traduction à été créé à l'aide du logiciel OmegaT+,
+actuellement il s'agit de relire et corriger la version traduite
+automatiquement.
 
 Le répertoire glossary contiens des fichiers au format CSV formatté comme suit:
 origin;traduction;commentaire
-
 Il est à utiliser et maintenir pour tous les mots nouveaux/techniques d'Eclipse Phase.
+
+== Régles de traduction
+
+== Remerciement
+
+== Licence
 
