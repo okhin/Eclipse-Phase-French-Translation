@@ -2,13 +2,15 @@
 
 This is the list of errata applied on top of the "mayeu" branch
 
-p.89 Venus:                       applied
-p.90 Octavia:                     already applied
-p.90 Aphrodite Prime:             already applied
-p.118 Margin of Success/Failure:  applied
-p.121 Initiative:                 applied
-p.122 Moxie:                      applied
-p.124 Aptitude Maximums:          applied
-p.130 Step-by-step Guide:         applied
-p.131 Lost:                       applied
-p.136 Learned Skills:             applied
+* p.89 Venus:                         applied
+* p.90 Octavia:                       already applied
+* p.90 Aphrodite Prime:               already applied
+* p.118 Margin of Success/Failure:    applied
+* p.121 Initiative:                   applied
+* p.122 Moxie:                        applied
+* p.124 Aptitude Maximums:            applied
+* p.130 Step-by-step Guide:           applied
+* p.131 Lost:                         applied
+* p.136 Learned Skills:               applied
+* p.136 Purchasing Traits:            applied
+* p.137 Purchase gear:
