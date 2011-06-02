@@ -8,5 +8,6 @@ p.90 Aphrodite Prime: already applied
 p.118 Margin of Success/Failure: applied
 p.121 Initiative: applied
 p.122 Moxie: applied
+p.124 Aptitude Maximums: applied
 p.130 Step-by-step Guide: applied
 p.131 Lost: applied
