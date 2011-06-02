@@ -1,0 +1,7 @@
+= List of Errata
+
+This is the list of errata applied on top of the "mayeu" branch
+
+p.89 Venus : applied
+p.90 Octavia : already applied
+p.90 Aphrodite Prime : already applied
