@@ -14,9 +14,9 @@ Il est à utiliser et maintenir pour tous les mots nouveaux/techniques d'Eclipse
 
 == Description des branches
 
- * master : actuelle branche "french" du dépôt original d'Okhin
- * mayeu : mes modifications cosmétique du dépôt
- * errata1.2.1 : application du errata major 1.2.1
+* master : actuelle branche "french" du dépôt original d'Okhin
+* mayeu : mes modifications cosmétique du dépôt
+* errata1.2.1 : application du errata major 1.2.1
 
 == Régles de traduction
 
