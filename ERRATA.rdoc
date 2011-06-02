@@ -101,3 +101,6 @@ This is the list of errata applied on top of the "mayeu" branch
 * p.340 Spray Weapons:                 applied
 * p.341 Thermobaric weapons:           applied
 * p.344 Battlesuits:                   applied
+* p.345 Dr.Bot:                        already applied
+* p.346 Speck stats:                   already applied
+* p.352-389 Game information:          applied
