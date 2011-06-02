@@ -35,4 +35,5 @@ This is the list of errata applied on top of the "mayeu" branch
 * p.178 Control:                      applied
 * p.178 Exotic Ranged Weapon:         applied
 * p.181 Languages in Eclipse Phase:   applied
-* p.181 Psi assault and sense skills: applied
+* p.184 Psi assault and sense skills: applied
+* p.189 Initiative Order:
