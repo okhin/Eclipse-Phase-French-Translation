@@ -2,48 +2,49 @@
 
 This is the list of errata applied on top of the "mayeu" branch
 
-* p.89 Venus:                         applied
-* p.90 Octavia:                       already applied
-* p.90 Aphrodite Prime:               already applied
-* p.118 Margin of Success/Failure:    applied
-* p.121 Initiative:                   applied
-* p.122 Moxie:                        applied
-* p.124 Aptitude Maximums:            applied
-* p.130 Step-by-step Guide:           applied
-* p.131 Lost:                         applied
-* p.136 Learned Skills:               applied
-* p.136 Purchasing Traits:            applied
-* p.137 Purchase gear:                applied
-* p.137 CharacterCreation 2nd column: applied
-* p.137 Purchase Gear:                already applied
-* p.140 Mentons:                      applied
-* p.141 Neo-Hominids                  applied
-* p.144 Reaper Enhancements:          applied
-* p.144 Arachnoid Mobility System:    applied
-* p.144 Flexbot Enhancements:         applied
-* p.146 Exceptional Aptitude:         applied
-* p.148 Addiction, Moderate effects:  applied
-* p.148 Addiction, Severe effects:    applied
-* p.150 Morphing disorder:            applied
-* p.152 Uncanny Valley trait:         already applied
-* p.153 Specializations:              already applied
-* p.154-169 Sample Char:              no sample in this version
-* p.157 Brinker Genehacker:           no sample in this version
-* p.162 Lunar Ego Hunter:             no sample in this version
-* p.166 Socialite Escort:             no sample in this version
-* p.177 Climbing:                     applied
-* p.178 Control:                      applied
-* p.178 Exotic Ranged Weapon:         applied
-* p.181 Languages in Eclipse Phase:   applied
-* p.184 Psi assault and sense skills: applied
-* p.189 Initiative Order:             applied
-* p.192 Step 5: Determine Outcome:    already applied
-* p.193 Combat modifiers table:       already applied
-* p.194 Beam Weapons:                 applied
-* p.195 Concentrated Fire:            applied
-* p.196 Collisions:                   already applied
-* p.196 Attacking vehicle passengers: already applied
-* p.198 Burst Fire:                   applied
-* p.198 Full auto:                    applied
-* p.201 Vacuum:                       applied
-* p.203 Range:                        applied
+* p.89 Venus:                          applied
+* p.90 Octavia:                        already applied
+* p.90 Aphrodite Prime:                already applied
+* p.118 Margin of Success/Failure:     applied
+* p.121 Initiative:                    applied
+* p.122 Moxie:                         applied
+* p.124 Aptitude Maximums:             applied
+* p.130 Step-by-step Guide:            applied
+* p.131 Lost:                          applied
+* p.136 Learned Skills:                applied
+* p.136 Purchasing Traits:             applied
+* p.137 Purchase gear:                 applied
+* p.137 CharacterCreation 2nd column:  applied
+* p.137 Purchase Gear:                 already applied
+* p.140 Mentons:                       applied
+* p.141 Neo-Hominids                   applied
+* p.144 Reaper Enhancements:           applied
+* p.144 Arachnoid Mobility System:     applied
+* p.144 Flexbot Enhancements:          applied
+* p.146 Exceptional Aptitude:          applied
+* p.148 Addiction, Moderate effects:   applied
+* p.148 Addiction, Severe effects:     applied
+* p.150 Morphing disorder:             applied
+* p.152 Uncanny Valley trait:          already applied
+* p.153 Specializations:               already applied
+* p.154-169 Sample Char:               no sample in this version
+* p.157 Brinker Genehacker:            no sample in this version
+* p.162 Lunar Ego Hunter:              no sample in this version
+* p.166 Socialite Escort:              no sample in this version
+* p.177 Climbing:                      applied
+* p.178 Control:                       applied
+* p.178 Exotic Ranged Weapon:          applied
+* p.181 Languages in Eclipse Phase:    applied
+* p.184 Psi assault and sense skills:  applied
+* p.189 Initiative Order:              applied
+* p.192 Step 5: Determine Outcome:     already applied
+* p.193 Combat modifiers table:        already applied
+* p.194 Beam Weapons:                  applied
+* p.195 Concentrated Fire:             applied
+* p.196 Collisions:                    already applied
+* p.196 Attacking vehicle passengers:  already applied
+* p.198 Burst Fire:                    applied
+* p.198 Full auto:                     applied
+* p.201 Vacuum:                        applied
+* p.203 Range:                         applied
+* p.204 Subdual:                       applied
