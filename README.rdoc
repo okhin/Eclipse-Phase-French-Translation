@@ -12,11 +12,18 @@ Le répertoire glossary contiens des fichiers au format CSV formatté comme suit
 origin;traduction;commentaire
 Il est à utiliser et maintenir pour tous les mots nouveaux/techniques d'Eclipse Phase.
 
-== Description des branches
+== Description des tag
 
-* master : actuelle branche "french" du dépôt original d'Okhin
-* mayeu : mes modifications cosmétique du dépôt
-* errata1.2.1 : application du errata major 1.2.1
+* orkhin_original : actuelle branche "french" du dépôt original d'Okhin
+* mayeu_reorganization : mes modifications cosmétique du dépôt
+* errata1.2.1_done : application du errata major 1.2.1
+
+== Changelog
+
+=== 02/06/2011
+
+* L'errata major 1.2.1 est maintenant ajouté au dépot
+* Le dépot est maintenant "clean"
 
 == Régles de traduction
 
