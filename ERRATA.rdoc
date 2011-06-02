@@ -56,3 +56,19 @@ This is the list of errata applied on top of the "mayeu" branch
 * p.207 Death:                         already applied
 * p.209 Trauma effects:                applied
 * p.221 Active Psi:                    applied
+* p.223 Psi example:                   already applied
+* p.231 Deep Learning:                 already applied
+* p.258 Joint Hacking/Securing:        already applied
+* p.260 Hacking VPNs:                  already applied
+* p.261 Puppeteering:                  already applied
+* p.269 Uploading-Resleeving:          already applied
+* p.273 Alpha Forks:                   already applied
+* p.273 Beta Forks:                    already applied
+* p.274 Neural Prunning:               already applied
+* p.281 Hamilton Cylinders:            already applied
+* p.284 Programming blueprints:        already applied
+* p.285 The programming test:          already applied
+* p.300 Cyberbrain:                    already applied
+* p.304 Chameleon Skin:                already applied
+* p.305 Drug Glands cost:              already applied
+* p.305 Neurachem:                     applied
