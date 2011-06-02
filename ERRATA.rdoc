@@ -28,6 +28,7 @@ This is the list of errata applied on top of the "mayeu" branch
 * p.152 Uncanny Valley trait:         already applied
 * p.153 Specializations:              already applied
 * p.154-169 Sample Char:              no sample in this version
-* p.157 Brinker Genehacker            no sample in this version
-* p.162 Lunar Ego Hunter              no sample in this version
-* p.166 Socialite Escort              no sample in this version
+* p.157 Brinker Genehacker:           no sample in this version
+* p.162 Lunar Ego Hunter:             no sample in this version
+* p.166 Socialite Escort:             no sample in this version
+* p.177 Climbing:                     applied
