@@ -94,4 +94,5 @@ This is the list of errata applied on top of the "mayeu" branch
 * p.338 Beam Weapons:                  applied
 * p.338 Reactive ammo:                 already applied
 * p.338 Beam weapons:                  already applied
-* p.339 Microwave Agonizer:            already applied
+* p.339 Microwave Agonizer:            applied
+* p.339 Particle Beam Bolters:         applied
