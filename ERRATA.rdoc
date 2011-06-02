@@ -99,3 +99,4 @@ This is the list of errata applied on top of the "mayeu" branch
 * p.339 Plasma Rifle:                  applied
 * p.339 Seekers:                       applied
 * p.340 Spray Weapons:                 applied
+* p.341 Thermobaric weapons:           applied
