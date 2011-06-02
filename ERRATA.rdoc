@@ -55,3 +55,4 @@ This is the list of errata applied on top of the "mayeu" branch
 * p.207 unconsciousness:               already applied
 * p.207 Death:                         already applied
 * p.209 Trauma effects:                applied
+* p.221 Active Psi:                    applied
