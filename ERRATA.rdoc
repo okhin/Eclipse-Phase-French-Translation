@@ -38,3 +38,4 @@ This is the list of errata applied on top of the "mayeu" branch
 * p.184 Psi assault and sense skills: applied
 * p.189 Initiative Order:             applied
 * p.192 Step 5: Determine Outcome:    already applied
+* p.193 Combat modifiers table:       already applied
