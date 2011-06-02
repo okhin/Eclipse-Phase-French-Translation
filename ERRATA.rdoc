@@ -45,3 +45,5 @@ This is the list of errata applied on top of the "mayeu" branch
 * p.196 Attacking vehicle passengers: already applied
 * p.198 Burst Fire:                   applied
 * p.198 Full auto:                    applied
+* p.201 Vacuum:                       applied
+* p.203 Range:                        applied
