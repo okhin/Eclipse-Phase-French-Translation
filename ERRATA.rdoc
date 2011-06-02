@@ -73,4 +73,7 @@ This is the list of errata applied on top of the "mayeu" branch
 * p.305 Drug Glands cost:              already applied
 * p.305 Neurachem:                     applied
 * p.305 Poison Gland:                  applied
-* p.308 Implanted Nanotoxins:          applied
+* p.305 (308) Implanted Nanotoxins:    applied
+* p.307 Cybebrains: not found O_o
+* p.308 Hand Laser:                    already applied
+* p.309 Mental Speed:                  applied
