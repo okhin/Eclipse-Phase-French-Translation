@@ -25,4 +25,5 @@ This is the list of errata applied on top of the "mayeu" branch
 * p.148 Addiction, Moderate effects:  applied
 * p.148 Addiction, Severe effects:    applied
 * p.150 Morphing disorder:            applied
-* p.152, Uncanny Valley trait:        already applied
+* p.152 Uncanny Valley trait:         already applied
+* p.153 Specializations:              already applied
