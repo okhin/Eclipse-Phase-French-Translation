@@ -82,3 +82,9 @@ This is the list of errata applied on top of the "mayeu" branch
 * p.318 Addiction and substance abuse: applied
 * p.323 Narcoalgorithm:                applied
 * p.323 Liquid Thermite:               applied
+* p.325 Smart Clothing:                already applied
+* p.328 Blueprints:                    already applied
+* p.328 Specialized Hive:              already applied
+* p.329 Nanoswarms and Microswarms:    already applied
+* p.336 Kinetic Weapons tables:        already applied
+* p.331 Software:                      applied
