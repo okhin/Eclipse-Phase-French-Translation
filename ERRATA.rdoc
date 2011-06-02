@@ -32,3 +32,5 @@ This is the list of errata applied on top of the "mayeu" branch
 * p.162 Lunar Ego Hunter:             no sample in this version
 * p.166 Socialite Escort:             no sample in this version
 * p.177 Climbing:                     applied
+* p.178 Control:                      applied
+* p.178 Exotic Ranged Weapon:         applied
