@@ -13,4 +13,5 @@ This is the list of errata applied on top of the "mayeu" branch
 * p.131 Lost:                         applied
 * p.136 Learned Skills:               applied
 * p.136 Purchasing Traits:            applied
-* p.137 Purchase gear:
+* p.137 Purchase gear:                applied
+* p.137 CharacterCreation 2nd column: applied
