@@ -92,3 +92,6 @@ This is the list of errata applied on top of the "mayeu" branch
 * p.334 Hardsuits:                     applied
 * p.336 Kinetic weapons tables:        applied
 * p.338 Beam Weapons:                  applied
+* p.338 Reactive ammo:                 already applied
+* p.338 Beam weapons:                  already applied
+* p.339 Microwave Agonizer:            already applied
