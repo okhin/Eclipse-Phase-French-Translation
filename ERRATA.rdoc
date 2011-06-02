@@ -41,4 +41,6 @@ This is the list of errata applied on top of the "mayeu" branch
 * p.193 Combat modifiers table:       already applied
 * p.194 Beam Weapons:                 applied
 * p.195 Concentrated Fire:            applied
-* p.196 Collisions:                   applied
+* p.196 Collisions:                   already applied
+* p.196 Attacking vehicle passengers: already applied
+* p.198 Burst Fire:                   applied
