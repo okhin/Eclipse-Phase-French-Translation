@@ -48,3 +48,9 @@ This is the list of errata applied on top of the "mayeu" branch
 * p.201 Vacuum:                        applied
 * p.203 Range:                         applied
 * p.204 Subdual:                       applied
+* p.205 Surprise:                      applied
+* p.206 Two-handed weapons:            already applied
+* p.206 Extra melee weapons:           already applied
+* p.207 Wound effects:                 applied
+* p.207 unconsciousness:               already applied
+* p.207 Death
